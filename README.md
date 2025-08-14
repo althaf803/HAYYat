@@ -5,10 +5,10 @@
     <em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/hemanth8705/HAYYat?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/hemanth8705/HAYYat?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/hemanth8705/HAYYat?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/hemanth8705/HAYYat?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/althaf803/HAYYat?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/althaf803/HAYYat?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/althaf803/HAYYat?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/althaf803/HAYYat?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center">
 		<em>Built with the tools and technologies:</em>
@@ -101,25 +101,25 @@
 
 | File | Summary |
 | --- | --- |
-| [news_data2.json](https://github.com/hemanth8705/HAYYat/blob/main/news_data2.json) | <code>❯ REPLACE-ME</code> |
-| [news_data.json](https://github.com/hemanth8705/HAYYat/blob/main/news_data.json) | <code>❯ REPLACE-ME</code> |
-| [styles.css](https://github.com/hemanth8705/HAYYat/blob/main/styles.css) | <code>❯ REPLACE-ME</code> |
-| [index.html](https://github.com/hemanth8705/HAYYat/blob/main/index.html) | <code>❯ REPLACE-ME</code> |
-| [business.css](https://github.com/hemanth8705/HAYYat/blob/main/business.css) | <code>❯ REPLACE-ME</code> |
-| [business.html](https://github.com/hemanth8705/HAYYat/blob/main/business.html) | <code>❯ REPLACE-ME</code> |
-| [business.js](https://github.com/hemanth8705/HAYYat/blob/main/business.js) | <code>❯ REPLACE-ME</code> |
-| [script.js](https://github.com/hemanth8705/HAYYat/blob/main/script.js) | <code>❯ REPLACE-ME</code> |
-| [entertainment.js](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.js) | <code>❯ REPLACE-ME</code> |
-| [sports.html](https://github.com/hemanth8705/HAYYat/blob/main/sports.html) | <code>❯ REPLACE-ME</code> |
-| [sports.js](https://github.com/hemanth8705/HAYYat/blob/main/sports.js) | <code>❯ REPLACE-ME</code> |
-| [entertainment.css](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.css) | <code>❯ REPLACE-ME</code> |
-| [entertainment.html](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.html) | <code>❯ REPLACE-ME</code> |
-| [education.css](https://github.com/hemanth8705/HAYYat/blob/main/education.css) | <code>❯ REPLACE-ME</code> |
-| [sports.css](https://github.com/hemanth8705/HAYYat/blob/main/sports.css) | <code>❯ REPLACE-ME</code> |
-| [education.html](https://github.com/hemanth8705/HAYYat/blob/main/education.html) | <code>❯ REPLACE-ME</code> |
-| [requirements.txt](https://github.com/hemanth8705/HAYYat/blob/main/requirements.txt) | <code>❯ REPLACE-ME</code> |
-| [app.py](https://github.com/hemanth8705/HAYYat/blob/main/app.py) | <code>❯ REPLACE-ME</code> |
-| [education.js](https://github.com/hemanth8705/HAYYat/blob/main/education.js) | <code>❯ REPLACE-ME</code> |
+| [news_data2.json](https://github.com/althaf803/HAYYat/blob/main/news_data2.json) | <code>❯ REPLACE-ME</code> |
+| [news_data.json](https://github.com/althaf803/HAYYat/blob/main/news_data.json) | <code>❯ REPLACE-ME</code> |
+| [styles.css](https://github.com/althaf803/HAYYat/blob/main/styles.css) | <code>❯ REPLACE-ME</code> |
+| [index.html](https://github.com/althaf803/HAYYat/blob/main/index.html) | <code>❯ REPLACE-ME</code> |
+| [business.css](https://github.com/althaf803/HAYYat/blob/main/business.css) | <code>❯ REPLACE-ME</code> |
+| [business.html](https://github.com/althaf803/HAYYat/blob/main/business.html) | <code>❯ REPLACE-ME</code> |
+| [business.js](https://github.com/althaf803/HAYYat/blob/main/business.js) | <code>❯ REPLACE-ME</code> |
+| [script.js](https://github.com/althaf803/HAYYat/blob/main/script.js) | <code>❯ REPLACE-ME</code> |
+| [entertainment.js](https://github.com/althaf803/HAYYat/blob/main/entertainment.js) | <code>❯ REPLACE-ME</code> |
+| [sports.html](https://github.com/althaf803/HAYYat/blob/main/sports.html) | <code>❯ REPLACE-ME</code> |
+| [sports.js](https://github.com/althaf803/HAYYat/blob/main/sports.js) | <code>❯ REPLACE-ME</code> |
+| [entertainment.css](https://github.com/althaf803/HAYYat/blob/main/entertainment.css) | <code>❯ REPLACE-ME</code> |
+| [entertainment.html](https://github.com/althaf803/HAYYat/blob/main/entertainment.html) | <code>❯ REPLACE-ME</code> |
+| [education.css](https://github.com/althaf803/HAYYat/blob/main/education.css) | <code>❯ REPLACE-ME</code> |
+| [sports.css](https://github.com/althaf803/HAYYat/blob/main/sports.css) | <code>❯ REPLACE-ME</code> |
+| [education.html](https://github.com/althaf803/HAYYat/blob/main/education.html) | <code>❯ REPLACE-ME</code> |
+| [requirements.txt](https://github.com/althaf803/HAYYat/blob/main/requirements.txt) | <code>❯ REPLACE-ME</code> |
+| [app.py](https://github.com/althaf803/HAYYat/blob/main/app.py) | <code>❯ REPLACE-ME</code> |
+| [education.js](https://github.com/althaf803/HAYYat/blob/main/education.js) | <code>❯ REPLACE-ME</code> |
 
 </details>
 
@@ -127,7 +127,7 @@
 
 | File | Summary |
 | --- | --- |
-| [main.yml](https://github.com/hemanth8705/HAYYat/blob/main/.github/workflows/main.yml) | <code>❯ REPLACE-ME</code> |
+| [main.yml](https://github.com/althaf803/HAYYat/blob/main/.github/workflows/main.yml) | <code>❯ REPLACE-ME</code> |
 
 </details>
 
@@ -145,7 +145,7 @@ Build the project from source:
 
 1. Clone the HAYYat repository:
 ```sh
-❯ git clone https://github.com/hemanth8705/HAYYat
+❯ git clone https://github.com/althaf803/HAYYat
 ```
 
 2. Navigate to the project directory:
@@ -188,9 +188,9 @@ Execute the test suite using the following command:
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Report Issues](https://github.com/hemanth8705/HAYYat/issues)**: Submit bugs found or log feature requests for the `HAYYat` project.
-- **[Submit Pull Requests](https://github.com/hemanth8705/HAYYat/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/hemanth8705/HAYYat/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/althaf803/HAYYat/issues)**: Submit bugs found or log feature requests for the `HAYYat` project.
+- **[Submit Pull Requests](https://github.com/althaf803/HAYYat/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/althaf803/HAYYat/discussions)**: Share your insights, provide feedback, or ask questions.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -198,7 +198,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/hemanth8705/HAYYat
+   git clone https://github.com/althaf803/HAYYat
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -221,8 +221,8 @@ Contributions are welcome! Here are several ways you can contribute:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/hemanth8705/HAYYat/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=hemanth8705/HAYYat">
+   <a href="https://github.com{/althaf803/HAYYat/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=althaf803/HAYYat">
    </a>
 </p>
 </details>
