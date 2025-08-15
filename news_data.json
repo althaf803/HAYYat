@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadhas-tricolour-themed-independence-day-feast-at-home-2771865-2025-08-15",
+      "headline": "Parineeti Chopra, Raghav Chadha's tricolour-themed Independence Day feast at homeParineeti Chopra and Raghav Chadha shared a glimpse of their Independence Day with a tricolour-themed lunch at home. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/uorfi-javed-backs-mrunal-thakur-bipasha-basu-remark-backlash-2771823-2025-08-15",
       "headline": "Uorfi Javed backs Mrunal Thakur over Bipasha Basu remark: We all said things in pastInfluencer Uorfi Javed defended actor Mrunal Thakur amid controversy over her past remarks on actor Bipasha Basu. She shared Mrunal's controversial clip on her Instagram story. Javed said that we have all said things in the past that we don't agree with any more."
     },
@@ -151,23 +156,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-thinks-male-actors-in-bollywood-are-unprofessional-ill-mannered-2771698-2025-08-15",
       "headline": "Kangana Ranaut thinks male actors in Bollywood are unprofessional,\u00a0ill-manneredKangana Ranaut said most male actors in Bollywood are \"badtameez\". In a recent interview, she shared that she faced trouble for not accepting disrespectful behaviour on film sets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/top-jiohotstar-films-shows-independence-day-weekend-2771708-2025-08-15",
-      "headline": "Top films and shows to watch on JioHotstar this Independence Day weekendReady for a long weekend binge? From reality shows, thrillers, and sci-fi dramas, here is a list of all the new films and shows that are available on JioHotstar. "
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/7-people-feared-trapped-after-portion-of-the-wall-inside-humayun-tomb-collapses-in-delhi-2771791-2025-08-15",
-      "headline": "6 dead, several trapped as wall collapses inside Delhi's Humayun's Tomb complexThe officials informed that 11 people have been rescued from the site and have been admitted to a nearby hospital for medical treatment."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
       "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/7-people-feared-trapped-after-portion-of-the-wall-inside-humayun-tomb-collapses-in-delhi-2771791-2025-08-15",
+      "headline": "6 dead, several trapped as wall collapses inside Delhi's Humayun's Tomb complexThe officials informed that 11 people have been rescued from the site and have been admitted to a nearby hospital for medical treatment."
     },
     {
       "sentiment": "positive",
@@ -177,7 +177,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/nagaland-governor-la-ganesan-dies-at-80-pm-modi-pays-tribute-calls-him-devout-nationalist-bjp-pillar-2771850-2025-08-15",
-      "headline": "Nagaland Governor La Ganesan dies at 80; PM Modi calls him devout nationalistNagaland Governor La. Ganesan dies at 80; PM Modi pays tribute, calls him devout nationalist, BJP pillar"
+      "headline": "Nagaland Governor La Ganesan dies at 80; PM Modi calls him devout nationalistPrime Minister Narendra Modi has offered his condolences on the passing of La Ganesan. In a post on X, PM Modi called him a devout nationalist and a pillar of the party who helped in the expansion of BJP across Tamil Nadu. He also remembered Ganesan as someone who was deeply passionate about Tamil culture."
     },
     {
       "sentiment": "positive",
@@ -211,18 +211,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
+      "headline": "Live: Russian envoy describes mood ahead of Putin-Trump talks as 'combative', RIA reportsUS President Donald Trump on Friday departed Washington aboard Air Force One for a crucial meeting with Russian President Vladimir Putin in Alaska, where talks are expected to focus on a possible ceasefire deal for Ukraine."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/us-secretary-marco-rubio-highlights-india-us-partnership-peaceful-indopacific-independence-day-2771733-2025-08-15",
       "headline": "US, India united by shared vision: Marco Rubio's I-Day wishes amid tariff riftThe historic relationship between the world's largest democracy and the world's oldest democracy is consequential and far-reaching, Marco Rubio said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-farmers-trump-tariffs-us-trade-deal-2771520-2025-08-15",
-      "headline": "Modi stands like a wall, won't compromise on farmers: PM's message to TrumpPM Modi's shout-out to farmers in his 12th consecutive Independence Day speech is a subtle message directed at US President Donald Trump amid a stalemate over the trade deal."
+      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
+      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
-      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
+      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-farmers-trump-tariffs-us-trade-deal-2771520-2025-08-15",
+      "headline": "Modi stands like a wall, won't compromise on farmers: PM's message to TrumpPM Modi's shout-out to farmers in his 12th consecutive Independence Day speech is a subtle message directed at US President Donald Trump amid a stalemate over the trade deal."
     },
     {
       "sentiment": "positive",
@@ -236,23 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
-      "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/standpoint/story/i-travelled-200-kilometres-to-chase-rajinikanths-magic-in-coolie-first-show-2771738-2025-08-15",
       "headline": "I travelled 200 kilometres to chase Rajinikanth's magic in Coolie first showSuperstar Rajinikanth's 'Coolie', directed by Lokesh Kanagaraj, released in theatres on August 14. All it took was days of planning, figuring out logistics, and a 200+ kilometre trip that was memorable for so many reasons. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/prime-minister-narendra-modi-calls-for-10-percent-less-oil-use-to-fight-obesity-crisis-independence-day-address-india-2771743-2025-08-15",
-      "headline": "Prime Minister Modi calls for 10% less oil use to fight obesity crisis in IndiaPrime Minister Modi highlighted the growing obesity problem in his Independence Day speech, urging Indians to reduce cooking oil use by 10% as a small but effective step towards better health."
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
+      "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aimim-leader-imtiaz-jaleel-biryani-party-protest-meat-ban-independence-day-gokul-ashtami-maharashtra-chhatrapati-sambhajinagar-2771814-2025-08-15",
-      "headline": "AIMIM leader hosts 'biryani party' to protest meat ban in Maharashtra districtAIMIM leader Imtiaz Jaleel hosted a \"biryani party\" to protest the Chhatrapati Sambhajinagar civic body's meat ban on Independence Day and Gokul Ashtami, criticising Cheif Minsiter Devendra Fadnavis for not revoking the order. "
+      "url": "https://www.indiatoday.in/health/story/prime-minister-narendra-modi-calls-for-10-percent-less-oil-use-to-fight-obesity-crisis-independence-day-address-india-2771743-2025-08-15",
+      "headline": "Prime Minister Modi calls for 10% less oil use to fight obesity crisis in IndiaPrime Minister Modi highlighted the growing obesity problem in his Independence Day speech, urging Indians to reduce cooking oil use by 10% as a small but effective step towards better health."
     },
     {
       "sentiment": "positive",
@@ -266,6 +266,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/aimim-leader-imtiaz-jaleel-biryani-party-protest-meat-ban-independence-day-gokul-ashtami-maharashtra-chhatrapati-sambhajinagar-2771814-2025-08-15",
+      "headline": "AIMIM leader hosts 'biryani party' to protest meat ban in Maharashtra districtAIMIM leader Imtiaz Jaleel hosted a \"biryani party\" to protest the Chhatrapati Sambhajinagar civic body's meat ban on Independence Day and Gokul Ashtami, criticising Cheif Minsiter Devendra Fadnavis for not revoking the order. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jairam-ramesh-calls-pm-modi-pathological-liar-over-semiconductor-claims-alleges-bias-in-project-approvals-2771612-2025-08-15",
       "headline": "PM's semiconductor chip announcement gets Jairam Ramesh's pathological liar replyJairam Ramesh dismissed PM Modi's claim that India lost 50-60 years in semiconductor development, citing the operational status of Semiconductors Complex Ltd since 1983."
     },
@@ -276,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/independence-day-2025-british-chief-justice-unfurled-saluted-tricolour-bombay-high-court-jawaharlal-nehru-red-fort-2771318-2025-08-15",
-      "headline": "When a British chief justice unfurled, saluted Tricolour, that too before NehruOn August 14, 1947, midnight, an unlikely hand unfurled the Indian flag. Leonard Stone, the last British Chief Justice of the Bombay high court, unfurled the Tricolour, while interim PM Jawaharlal Nehru was delivering the 'Tryst with Destiny' speech in Delhi. Stone saluted the Tricolour hours before Nehru's ceremonial flag-hoisting at Delhi's Red Fort."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadhas-tricolour-themed-independence-day-feast-at-home-2771865-2025-08-15",
+      "headline": "Parineeti Chopra, Raghav Chadha's tricolour-themed Independence Day feast at homeParineeti Chopra and Raghav Chadha shared a glimpse of their Independence Day with a tricolour-themed lunch at home. "
     },
     {
       "sentiment": "positive",
@@ -293,11 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-allegations-going-after-married-men-ambitious-women-are-blamed-2771811-2025-08-15",
       "headline": "Kangana Ranaut on allegations of going after married men: Ambitious women are blamedActor Kangana Ranaut addressed the allegations of pursuing married men with kids. She emphasised society's tendency to blame ambitious women while excusing men's behaviour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-govinda-wife-sunita-youtube-debut-most-entertaining-biwi-2771799-2025-08-15",
-      "headline": "Farah cheers for Govinda's wife Sunita on her YouTube debut: Most entertaining biwiFilmmaker Farah Khan backed actor Govinda's wife Sunita as she started her new YouTube channel. This came after social media users compared Sunita to Farah Khan. Sunita's debut vlog has already garnered over 5 lakh views."
     }
   ],
   "sports": [
@@ -442,6 +442,21 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
