@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kabir-khan-marks-13-years-of-ek-tha-tiger-remembers-debut-with-salman-khan-and-katrina-kaif-2771762-2025-08-15",
+      "headline": "Kabir Khan marks 13 years of Ek Tha Tiger, remembers debut with Salman and KatrinaKabir Khan celebrated 13 years of 'Ek Tha Tiger', recalling its record-breaking debut and how it became the foundation of the YRF Spyverse. He credited Aditya Chopra for the vision, praised the film's real action with minimal VFX."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/special-ops-2-muzammil-ibrahim-says-debut-was-better-than-ranbir-kapoor-industry-bias-2771784-2025-08-15",
+      "headline": "Special Ops 2 actor says his debut was better than Ranbir's: They favour star-kidsActor Muzammil Ibrahim has said that he deserved the Best Debut award over actor Ranbir Kapoor in 2007. He alleges industry bias and feels A-listers see him as a threat to their stardom."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-make-sleek-statement-in-luxury-bmw-m2-at-hyderabad-airport-2771785-2025-08-15",
       "headline": "Naga Chaitanya-Sobhita make sleek statement in luxury BMW M2 at Hyderabad airportTollywood stars Naga Chaitanya and Sobhita Dhulipala were seen at Rajiv Gandhi International Airport in a recently acquired BMW M2, catching attention with their stylish departure."
     },
@@ -146,23 +156,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/kim-kardashian-kanye-west-clash-in-documentary-rapper-shares-his-bipolar-struggle-2771672-2025-08-15",
       "headline": "Kim Kardashian, Kanye West clash in documentary, rapper shares his bipolar struggle\"I would rather be dead than be on medication,\" Kanye West says in the upcoming documentary 'In Whose Name?', where he clashes with ex-wife Kim Kardashian over his personality changes and opens up about living with bipolar disorder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/denzel-washington-says-he-does-not-care-about-oscars-2771678-2025-08-15",
-      "headline": "Denzel Washington says he doesn't care about Oscars. Here's whyActor Denzel Washington recently mentioned that he does not care about Oscars or awards. He reflected on his craft and stated that God's reward is what truly matters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-kajol-vikrant-massey-bollywood-celebrities-independence-day-wishes-2771644-2025-08-15",
-      "headline": "Independence Day 2025: Salman Khan, Akshay Kumar to Kajol, celebs extend wishesOn Independence Day 2025, several Bollywood celebrities including Salman Khan, Akshay Kumar, Kajol, Vikrant Massey, Rajkummar Rao and Sonu Sood among others extended their wishes."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/7-people-feared-trapped-after-portion-of-the-wall-inside-humayun-tomb-collapses-in-delhi-2771791-2025-08-15",
-      "headline": "7 feared trapped after portion of wall inside Delhi's Humayun tomb collapsesThe officials informed that 11 people have been rescued from the site and have been admitted to a nearby hospital for medical treatment."
+      "headline": "5 dead, several trapped as wall collapses inside Delhi's Humayun's Tomb complexThe officials informed that 11 people have been rescued from the site and have been admitted to a nearby hospital for medical treatment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
+      "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
     },
     {
       "sentiment": "positive",
@@ -171,18 +176,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/independence-day-speech-narendra-modi-praise-rss-biggest-ngo-volunteers-service-100-years-explained-2771748-2025-08-15",
+      "headline": "What Modi's praise for RSS as world's biggest NGO signifiesIn his Independence Day address, Prime Minister Narendra Modi hailed the RSS on its centenary, calling it the world's biggest NGO. The Congress took potshots at him, accusing him of trying to please the organisation. However, his praise for RSS in a national speech indicates that whatever perceived strains with the RSS leadership might have eased, reaffirming the group's deep ideological influence over the BJP."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-meet-ukraine-ceasefire-russia-sanctions-tariffs-2771790-2025-08-15",
       "headline": "Trump-Putin meet today: Will Alaska bring ceasefire, new sanctions, or surprises?The stage is set in Alaska for a crucial encounter between Donald Trump and Vladimir Putin. Their summit, kicking off at 11 am Alaska time, carries significant implications for peace efforts and international relations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-farmers-trump-tariffs-us-trade-deal-2771520-2025-08-15",
-      "headline": "Modi stands like a wall, won't compromise on farmers: PM's message to TrumpPM Modi's shout-out to farmers in his 12th consecutive Independence Day speech is a subtle message directed at US President Donald Trump amid a stalemate over the trade deal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
-      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
     },
     {
       "sentiment": "positive",
@@ -191,13 +191,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-secretary-marco-rubio-highlights-india-us-partnership-peaceful-indopacific-independence-day-2771733-2025-08-15",
-      "headline": "US, India united by shared vision: Marco Rubio's I-Day wishes amid tariff riftThe historic relationship between the world's largest democracy and the world's oldest democracy is consequential and far-reaching, Marco Rubio said."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-farmers-trump-tariffs-us-trade-deal-2771520-2025-08-15",
+      "headline": "Modi stands like a wall, won't compromise on farmers: PM's message to TrumpPM Modi's shout-out to farmers in his 12th consecutive Independence Day speech is a subtle message directed at US President Donald Trump amid a stalemate over the trade deal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmirs-kishtwar-massive-cloudburst-killed-recue-operation-death-2771501-2025-08-15",
-      "headline": "J&K cloudburst deaths cross 60, hundreds still missing as rescue ops intensifyIntense rescue operations are underway in Jammu and Kashmir's Kishtwar, where a massive cloudburst has killed at least 65 people and buried several others. "
+      "url": "https://www.indiatoday.in/india/story/us-secretary-marco-rubio-highlights-india-us-partnership-peaceful-indopacific-independence-day-2771733-2025-08-15",
+      "headline": "US, India united by shared vision: Marco Rubio's I-Day wishes amid tariff riftThe historic relationship between the world's largest democracy and the world's oldest democracy is consequential and far-reaching, Marco Rubio said."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmirs-kishtwar-massive-cloudburst-killed-recue-operation-death-2771501-2025-08-15",
+      "headline": "J&K cloudburst deaths cross 60, hundreds still missing as rescue ops intensifyIntense rescue operations are underway in Jammu and Kashmir's Kishtwar, where a massive cloudburst has killed at least 65 people and buried several others. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/yrf-spy-universe-has-a-woman-problem-and-it-is-beyond-bikinis-from-kiara-advani-in-war-2-deepika-padukone-in-pathaan-to-katrina-kaif-in-tiger-2771755-2025-08-15",
       "headline": "YRF's spy universe has a woman problem, and it's beyond bikinisFrom medal ceremonies to midriff shots, YRF's spy universe has reduced its women from agents to accessories. And no, a \"women-led\" 'Alpha' won't fix a universe that can't imagine its heroines doing anything more than waiting for the hero to save the day."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/independence-day-2025-british-chief-justice-unfurled-saluted-tricolour-bombay-high-court-jawaharlal-nehru-red-fort-2771318-2025-08-15",
-      "headline": "When a British chief justice unfurled, saluted Tricolour, that too before NehruOn August 14, 1947, midnight, an unlikely hand unfurled the Indian flag. Leonard Stone, the last British Chief Justice of the Bombay high court, unfurled the Tricolour, while interim PM Jawaharlal Nehru was delivering the 'Tryst with Destiny' speech in Delhi. Stone saluted the Tricolour hours before Nehru's ceremonial flag-hoisting at Delhi's Red Fort."
+      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
+      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
     },
     {
       "sentiment": "positive",
@@ -226,8 +231,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/independence-day-2025-british-chief-justice-unfurled-saluted-tricolour-bombay-high-court-jawaharlal-nehru-red-fort-2771318-2025-08-15",
+      "headline": "When a British chief justice unfurled, saluted Tricolour, that too before NehruOn August 14, 1947, midnight, an unlikely hand unfurled the Indian flag. Leonard Stone, the last British Chief Justice of the Bombay high court, unfurled the Tricolour, while interim PM Jawaharlal Nehru was delivering the 'Tryst with Destiny' speech in Delhi. Stone saluted the Tricolour hours before Nehru's ceremonial flag-hoisting at Delhi's Red Fort."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/books/story/sam-dalrymple-forgotten-stories-of-british-raj-south-asias-five-partitions-2771772-2025-08-15",
       "headline": "Sam Dalrymple on lost borders, hidden letters and South Asia's five partitionsIn his latest book 'Shattered Lands', Sam Dalrymple uncovers the Raj's forgotten frontiers and five partitions that birthed 12 nations, from Burma's breakaway to the Cold War dramas of 1971."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/i-travelled-200-kilometres-to-chase-rajinikanths-magic-in-coolie-first-show-2771738-2025-08-15",
+      "headline": "I travelled 200 kilometres to chase Rajinikanth's magic in Coolie first showSuperstar Rajinikanth's 'Coolie', directed by Lokesh Kanagaraj, released in theatres on August 14. All it took was days of planning, figuring out logistics, and a 200+ kilometre trip that was memorable for so many reasons. "
     },
     {
       "sentiment": "positive",
@@ -241,8 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/i-travelled-200-kilometres-to-chase-rajinikanths-magic-in-coolie-first-show-2771738-2025-08-15",
-      "headline": "I travelled 200 kilometres to chase Rajinikanth's magic in Coolie first showSuperstar Rajinikanth's 'Coolie', directed by Lokesh Kanagaraj, released in theatres on August 14. All it took was days of planning, figuring out logistics, and a 200+ kilometre trip that was memorable for so many reasons. "
+      "url": "https://www.indiatoday.in/opinion/story/nuns-arrest-after-muslims-target-christians-kerala-chhattisgarh-2771323-2025-08-15",
+      "headline": "Nuns Arrest: After Muslims, Target Christians?On July 26, two Christian nuns, originally from Kerala, were detained at the Durg police station in BJP-ruled Chhattisgarh, accused of human trafficking and forced conversion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/india-women-leadership-economy-climate-change-workplace-policies-2771343-2025-08-15",
+      "headline": "She works, she leads, she adapts. But India's policies still shut women outIndian women are growing our food, running factories, holding families together \u2014 and braving climate disasters. Yet their work is underpaid, overlooked, and shut out of policy. Here's how leadership, fair pay, and real support could change their lives \u2014 and ours \u2014 for good."
     },
     {
       "sentiment": "negative",
@@ -256,51 +276,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/nuns-arrest-after-muslims-target-christians-kerala-chhattisgarh-2771323-2025-08-15",
-      "headline": "Nuns Arrest: After Muslims, Target Christians?On July 26, two Christian nuns, originally from Kerala, were detained at the Durg police station in BJP-ruled Chhattisgarh, accused of human trafficking and forced conversion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/india-women-leadership-economy-climate-change-workplace-policies-2771343-2025-08-15",
-      "headline": "She works, she leads, she adapts. But India's policies still shut women outIndian women are growing our food, running factories, holding families together \u2014 and braving climate disasters. Yet their work is underpaid, overlooked, and shut out of policy. Here's how leadership, fair pay, and real support could change their lives \u2014 and ours \u2014 for good."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/doctors-senior-positions-resign-aiims-delhi-private-route-positions-vacant-2771734-2025-08-15",
       "headline": "All is not well? 400 doctors leave AIIMS in 2 years to take private routeMore than 400 doctors left India's premier medical institution for private hospitals. There is a story behind these numbers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pms-double-diwali-promise-says-next-generation-gst-with-lower-taxes-coming-soon-2771537-2025-08-15",
-      "headline": "PM's Double Diwali promise, says next-generation GST with much lower taxes soonPrime Minister Narendra Modi promised the roll-out a next-generation GST regime with substantially lower taxes before this Diwali, calling it a major festive gift to benefit individuals, MSMEs, and the economy."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/two-men-die-stunt-accident-delhi-dehradun-expressway-ghaziabad-2771684-2025-08-15",
-      "headline": "Caught on camera: Bikers killed in head-on collision while performing stunts in UPTwo men died and another was injured after a head-on collision during motorcycle stunts on the under-construction Delhi\u2013Dehradun Expressway in Ghaziabad, police said."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-team-brings-bheegi-saree-magic-in-bts-video-on-adnan-samis-birthday-2771803-2025-08-15",
+      "headline": "Param Sundari team brings Bheegi Saree magic in BTS video on Adnan\u00a0Sami's\u00a0birthdayOn Adnan Sami's 54th birthday, the makers shared a viral BTS video of the singer performing the soulful track 'Bheegi Saree' from 'Param Sundari'. The film features actors Sidharth Malhotra and Janhvi Kapoor in lead roles."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-make-sleek-statement-in-luxury-bmw-m2-at-hyderabad-airport-2771785-2025-08-15",
-      "headline": "Naga Chaitanya-Sobhita make sleek statement in luxury BMW M2 at Hyderabad airportTollywood stars Naga Chaitanya and Sobhita Dhulipala were seen at Rajiv Gandhi International Airport in a recently acquired BMW M2, catching attention with their stylish departure."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-daughter-klin-kaaras-independence-day-2025-moment-delights-fans-2771801-2025-08-15",
+      "headline": "Ram Charan, daughter Klin Kaara's Independence Day moment delights fansTollywood star Ram Charan celebrated India's 79th Independence Day by sharing a heartfelt video saluting the national flag with his daughter Klin Kaara. The clip captured the hearts of fans across social media. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-says-only-losers-use-dating-apps-calls-them-gutter-of-society-2771757-2025-08-15",
-      "headline": "Kangana Ranaut says only losers use dating apps, calls them gutter of societyKangana Ranaut criticised dating apps and their users in a recent interview. She called dating apps the 'true gutter' of our society and referred to these apps as a lowly practice. The actor expressed that only people who desire validation and lack confidence go to such places. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kabir-khan-marks-13-years-of-ek-tha-tiger-remembers-debut-with-salman-khan-and-katrina-kaif-2771762-2025-08-15",
+      "headline": "Kabir Khan marks 13 years of Ek Tha Tiger, remembers debut with Salman and KatrinaKabir Khan celebrated 13 years of 'Ek Tha Tiger', recalling its record-breaking debut and how it became the foundation of the YRF Spyverse. He credited Aditya Chopra for the vision, praised the film's real action with minimal VFX."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yrf-spy-universe-has-a-woman-problem-and-it-is-beyond-bikinis-from-kiara-advani-in-war-2-deepika-padukone-in-pathaan-to-katrina-kaif-in-tiger-2771755-2025-08-15",
-      "headline": "YRF's spy universe has a woman problem, and it's beyond bikinisFrom medal ceremonies to midriff shots, YRF's spy universe has reduced its women from agents to accessories. And no, a \"women-led\" 'Alpha' won't fix a universe that can't imagine its heroines doing anything more than waiting for the hero to save the day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-celebrates-his-50th-birthday-with-priyanka-chopra-on-ssmb29-set-2771753-2025-08-15",
-      "headline": "Mahesh Babu celebrates his 50th birthday with Priyanka Chopra on SSMB29 setPriyanka Chopra and Mahesh Babu's recent picture from the Hyderabad schedule of SSMB29 has created a buzz on social media. The Telugu actor marked his birthday with Chopra on August 9. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/special-ops-2-muzammil-ibrahim-says-debut-was-better-than-ranbir-kapoor-industry-bias-2771784-2025-08-15",
+      "headline": "Special Ops 2 actor says his debut was better than Ranbir's: They favour star-kidsActor Muzammil Ibrahim has said that he deserved the Best Debut award over actor Ranbir Kapoor in 2007. He alleges industry bias and feels A-listers see him as a threat to their stardom."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/bula-chowdhury-padma-shri-house-robbed-swimming-2771798-2025-08-15",
+      "headline": "Bula Chowdhury's house robbed, Padma Shri and medals missingThieves looted Indian swimming icon Bula Chowdhury's ancestral home in Hooghly for the fourth time, stealing her Padma Shri, President's award, medals, and household items.\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-joke-champions-trophy-throwback-video-rishabh-pant-2771788-2025-08-15",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-dewald-brevis-rule-loophole-aakash-chopra-2771713-2025-08-15",
-      "headline": "Did CSK exploit IPL rule loophole to sign Dewald Brevis? Aakash ChopraAakash Chopra has questioned whether the Chennai Super Kings exploited a loophole in the IPL's player replacement rules when they signed South Africa's Dewald Brevis for the 2025 season. Brevis joined CSK for Rs 2.2 crore. "
+      "url": "https://www.indiatoday.in/sports/football/story/alexander-isak-newcastle-united-miss-premier-league-opener-aston-villa-2771758-2025-08-15",
+      "headline": "Isak to miss Newcastle's Premier League opener amid Liverpool interestEddie Howe has confirmed that Alexander Isak will not be available for selection ahead of their Premier League opening fixture against Aston Villa. The club will look to regroup after a diastrous pre-season. "
     },
     {
       "sentiment": "positive",
@@ -375,11 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-masters-terence-atmane-dream-run-no-sponsor-2771731-2025-08-15",
       "headline": "No sponsor? No problem: French player, World No. 136, reaches Cincinnati semi-finalFrench qualifier Terence Atmane has stormed into the Cincinnati Masters semi-finals, toppling top-10 players, Holger Rune and Taylor Fritz, in a dream run. The 22-year-old has achieved the feat despite having no clothing or shoe sponsor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-dewald-brevis-rule-loophole-aakash-chopra-2771713-2025-08-15",
-      "headline": "Did CSK exploit IPL rule loophole to sign Dewald Brevis? Aakash ChopraAakash Chopra has questioned whether the Chennai Super Kings exploited a loophole in the IPL's player replacement rules when they signed South Africa's Dewald Brevis for the 2025 season. Brevis joined CSK for Rs 2.2 crore. "
     }
   ],
   "education": [
