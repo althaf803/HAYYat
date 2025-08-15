@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/top-films-and-shows-to-watch-on-prime-video-this-weekend-2771635-2025-08-16",
+      "headline": "Top films and shows to watch on Prime Video this weekendTop picks to stream on Prime Video this weekend, from horror to espionage thrillers to animation and documentaries. Here is a glimpse at the new releases to add to your binge-list."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadhas-tricolour-themed-independence-day-feast-at-home-2771865-2025-08-15",
       "headline": "Parineeti Chopra, Raghav Chadha's tricolour-themed Independence Day feast at homeParineeti Chopra and Raghav Chadha shared a glimpse of their Independence Day with a tricolour-themed lunch at home. "
     },
@@ -151,18 +156,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/kylie-jenner-enjoys-night-hailey-bieber-timothee-chalamet-split-rumours-2771730-2025-08-15",
       "headline": "Kylie Jenner enjoys night out with BFFs amid Timothee Chalamet split rumoursTelevision personality Kylie Jenner enjoyed a dinner night with her friends Hailey Bieber and Bella Hadid amid sparking breakup rumours with Timothee Chalamet. Read the details below."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-thinks-male-actors-in-bollywood-are-unprofessional-ill-mannered-2771698-2025-08-15",
-      "headline": "Kangana Ranaut thinks male actors in Bollywood are unprofessional,\u00a0ill-manneredKangana Ranaut said most male actors in Bollywood are \"badtameez\". In a recent interview, she shared that she faced trouble for not accepting disrespectful behaviour on film sets."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
+      "headline": "Live: Trump, Putin land in Alaska for high-stakes meetUS President Donald Trump's Air Force One has landed in Alaska ahead of the high-profile meeting between Trump and Vladimir Putin. The Russian President has already reached Alaska. Both leaders are scheduled to meet in a short while. Meanwhile, Trump has also made it clear that he wants to negotiate a ceasefire at today's meeting and will be very 'unhappy' if there is no ceasefire today.  "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/wont-be-happy-if-russia-ukraine-ceasefire-doesnt-happen-today-trump-ahead-of-alaska-meet-with-putin-2771883-2025-08-15",
       "headline": "Won't be happy if Russia-Ukraine ceasefire talks fail today: Trump before key meetDonald Trump urged an immediate Russia-Ukraine ceasefire ahead of his Alaska summit with Vladimir Putin, aiming to end the war and strengthen his peacemaker credentials. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/russia-killing-people-on-the-day-of-negotiations-no-sign-to-end-war-zelenskyy-ahead-of-trump-putin-meet-2771905-2025-08-16",
+      "headline": "Russia killing people, showing no intent to end war: Zelenskyy on Trump-Putin meetZelenskyy says Russia's attacks during peace talks show no intent to end the war, urging strong US stance and Western unity to push Moscow toward a just settlement.\r\n"
     },
     {
       "sentiment": "negative",
@@ -171,8 +181,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
-      "headline": "Live: Russian government plane lands in Alaska ahead of Trump-Putin meet, shows Flight Radar dataUS President Donald Trump on Friday departed Washington aboard Air Force One for a crucial meeting with Russian President Vladimir Putin in Alaska, where talks are expected to focus on a possible ceasefire deal for Ukraine."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-meet-ukraine-ceasefire-russia-sanctions-tariffs-2771790-2025-08-15",
+      "headline": "Trump-Putin meet today: Will Alaska bring ceasefire, new sanctions, or surprises?The stage is set in Alaska for a crucial encounter between Donald Trump and Vladimir Putin. Their summit, kicking off at 11 am Alaska time, carries significant implications for peace efforts and international relations."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/tariffing-india-wont-end-ukraine-war-us-democrats-panel-says-punish-putin-2771900-2025-08-15",
+      "headline": "Tariffing India won't end Ukraine war: US Democrats Panel says punish PutinThe panel said that if President Trump really wanted to stop the Ukraine war, he should punish Putin and provide direct military aid to Kyiv."
     },
     {
       "sentiment": "positive",
@@ -181,23 +196,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-meet-ukraine-ceasefire-russia-sanctions-tariffs-2771790-2025-08-15",
-      "headline": "Trump-Putin meet today: Will Alaska bring ceasefire, new sanctions, or surprises?The stage is set in Alaska for a crucial encounter between Donald Trump and Vladimir Putin. Their summit, kicking off at 11 am Alaska time, carries significant implications for peace efforts and international relations."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
       "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-terror-nexus-exposed-again-army-official-minister-honours-terrorist-killed-in-operation-sindoor-2771872-2025-08-15",
-      "headline": "Pak's terror nexus exposed again: Top brass honour terrorist killed in Op SindoorTop Pakistan Army official and ministers were seen paying tribute at grave of Lashkar terrorist killed in Indian strike in May."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/independence-day-speech-narendra-modi-praise-rss-biggest-ngo-volunteers-service-100-years-explained-2771748-2025-08-15",
-      "headline": "What Modi's praise for RSS as world's biggest NGO signifiesIn his Independence Day address, Prime Minister Narendra Modi hailed the RSS on its centenary, calling it the world's biggest NGO. The Congress took potshots at him, accusing him of trying to please the organisation. However, his praise for RSS in a national speech indicates that whatever perceived strains with the RSS leadership might have eased, reaffirming the group's deep ideological influence over the BJP."
     },
     {
       "sentiment": "positive",
@@ -211,6 +211,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-terror-nexus-exposed-again-army-official-minister-honours-terrorist-killed-in-operation-sindoor-2771872-2025-08-15",
+      "headline": "Pak's terror nexus exposed again: Top brass honour terrorist killed in Op SindoorTop Pakistan Army official and ministers were seen paying tribute at grave of Lashkar terrorist killed in Indian strike in May."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/independence-day-speech-narendra-modi-praise-rss-biggest-ngo-volunteers-service-100-years-explained-2771748-2025-08-15",
+      "headline": "What Modi's praise for RSS as world's biggest NGO signifiesIn his Independence Day address, Prime Minister Narendra Modi hailed the RSS on its centenary, calling it the world's biggest NGO. The Congress took potshots at him, accusing him of trying to please the organisation. However, his praise for RSS in a national speech indicates that whatever perceived strains with the RSS leadership might have eased, reaffirming the group's deep ideological influence over the BJP."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
+      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/hillary-clinton-nominate-donald-trump-nobel-peace-prize-ends-ukraine-war-russia-2771835-2025-08-15",
       "headline": "Hillary Clinton says she'd nominate Trump for Nobel Peace Prize on one conditionHillary Clinton has said she would nominate Donald Trump for a Nobel Peace Prize if he succeeds in ending the war in Ukraine without conceding territory to Russia."
     },
@@ -221,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
-      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
+      "url": "https://www.indiatoday.in/india/story/bjp-parliamentary-board-meet-finalise-vice-presidential-candidate-nda-2771871-2025-08-15",
+      "headline": "BJP Parliamentary Board to meet on Sunday to finalise Veep pickThe BJP Parliamentary Board will meet on Sunday to finalise its Vice Presidential candidate, with the nomination set for August 21 following Jagdeep Dhankhar's sudden resignation citing health reasons. T"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-parliamentary-board-meet-finalise-vice-presidential-candidate-nda-2771871-2025-08-15",
-      "headline": "BJP Parliamentary Board to meet on Sunday to finalise Veep pickThe BJP Parliamentary Board will meet on Sunday to finalise its Vice Presidential candidate, with the nomination set for August 21 following Jagdeep Dhankhar's sudden resignation citing health reasons. T"
+      "url": "https://www.indiatoday.in/movies/standpoint/story/i-travelled-200-kilometres-to-chase-rajinikanths-magic-in-coolie-first-show-2771738-2025-08-15",
+      "headline": "I travelled 200 kilometres to chase Rajinikanth's magic in Coolie first showSuperstar Rajinikanth's 'Coolie', directed by Lokesh Kanagaraj, released in theatres on August 14. All it took was days of planning, figuring out logistics, and a 200+ kilometre trip that was memorable for so many reasons. "
     },
     {
       "sentiment": "positive",
@@ -241,8 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/i-travelled-200-kilometres-to-chase-rajinikanths-magic-in-coolie-first-show-2771738-2025-08-15",
-      "headline": "I travelled 200 kilometres to chase Rajinikanth's magic in Coolie first showSuperstar Rajinikanth's 'Coolie', directed by Lokesh Kanagaraj, released in theatres on August 14. All it took was days of planning, figuring out logistics, and a 200+ kilometre trip that was memorable for so many reasons. "
+      "url": "https://www.indiatoday.in/opinion/story/nuns-arrest-after-muslims-target-christians-kerala-chhattisgarh-2771323-2025-08-15",
+      "headline": "Nuns Arrest: After Muslims, Target Christians?On July 26, two Christian nuns, originally from Kerala, were detained at the Durg police station in BJP-ruled Chhattisgarh, accused of human trafficking and forced conversion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-backed-first-2771866-2025-08-15",
+      "headline": "Virat Kohli deserved support at first, not if slump lasts for 5 years: Irfan PathanIrfan Pathan believes that Virat Kohli should have been backed during his initial slump in form but backing him during a later dip came at the cost of the team"
     },
     {
       "sentiment": "positive",
@@ -256,28 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/nuns-arrest-after-muslims-target-christians-kerala-chhattisgarh-2771323-2025-08-15",
-      "headline": "Nuns Arrest: After Muslims, Target Christians?On July 26, two Christian nuns, originally from Kerala, were detained at the Durg police station in BJP-ruled Chhattisgarh, accused of human trafficking and forced conversion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-backed-first-2771866-2025-08-15",
-      "headline": "Virat Kohli deserved support at first, not if slump lasts for 5 years: Irfan PathanIrfan Pathan believes that Virat Kohli should have been backed during his initial slump in form but backing him during a later dip came at the cost of the team"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jammu-and-kashmirs-kishtwar-massive-cloudburst-killed-recue-operation-death-2771501-2025-08-15",
       "headline": "J&K cloudburst deaths cross 60, hundreds still missing as rescue ops intensifyIntense rescue operations are underway in Jammu and Kashmir's Kishtwar, where a massive cloudburst has killed at least 65 people and buried several others. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
-      "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/prime-minister-narendra-modi-calls-for-10-percent-less-oil-use-to-fight-obesity-crisis-independence-day-address-india-2771743-2025-08-15",
-      "headline": "Prime Minister Modi calls for 10% less oil use to fight obesity crisis in IndiaPrime Minister Modi highlighted the growing obesity problem in his Independence Day speech, urging Indians to reduce cooking oil use by 10% as a small but effective step towards better health."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/top-films-and-shows-to-watch-on-prime-video-this-weekend-2771635-2025-08-16",
+      "headline": "Top films and shows to watch on Prime Video this weekendTop picks to stream on Prime Video this weekend, from horror to espionage thrillers to animation and documentaries. Here is a glimpse at the new releases to add to your binge-list."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/raj-kundra-responds-to-trolls-after-offering-kidney-to-premanand-maharaj-2771836-2025-08-15",
       "headline": "Raj Kundra responds to trolls after offering kidney to Premanand MaharajRaj Kundra has responded strongly to online trolls who labelled his kidney donation offer to spiritual leader Premanand Maharaj as a PR stunt. In his Instagram post on Friday, he emphasised compassion and humanity. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-allegations-going-after-married-men-ambitious-women-are-blamed-2771811-2025-08-15",
-      "headline": "Kangana Ranaut on allegations of going after married men: Ambitious women are blamedActor Kangana Ranaut addressed the allegations of pursuing married men with kids. She emphasised society's tendency to blame ambitious women while excusing men's behaviour."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arteta-backs-odegaard-captaincy-tony-adams-declan-rice-comments-2771899-2025-08-15",
+      "headline": "Martin Odegaard to stay Arsenal captain after team vote, confirms Mikel ArtetaMikel Arteta has defended Martin Odegaard's captaincy after Tony Adams called for Declan Rice to take the armband. Arteta says a squad vote saw Odegaard win \"by 100 miles\" and insists his team will keep pushing for their first title since 2004."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-irfan-pathan-sydney-test-pr-stunt-2771873-2025-08-15",
@@ -348,8 +353,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-joke-champions-trophy-throwback-video-rishabh-pant-2771788-2025-08-15",
-      "headline": "Should I retire? Rohit Sharma at hilarious best in Champions Trophy throwback videoOn India's 79th Independence Day, Rishabh Pant shared a rare video of the 2025 Champions Trophy celebrations, featuring a hilarious exchange in which Rohit Sharma jokes with Pant about calls for his retirement."
+      "url": "https://www.indiatoday.in/sports/cricket/story/venkatesh-prasad-india-pacer-karnataka-cricket-ksca-elections-2771832-2025-08-15",
+      "headline": "Venkatesh Prasad set to contest Karnataka Cricket electionsVenkatesh Prasad will contest the upcoming Karnataka State Cricket Association elections, likely in October-November. The polls come amid leadership vacancies and legal proceedings following the June stampede tragedy at the M Chinnaswamy Stadium.\r\n"
     },
     {
       "sentiment": "negative",
@@ -370,11 +375,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/bula-chowdhury-padma-shri-house-robbed-swimming-2771798-2025-08-15",
       "headline": "Bula Chowdhury's house robbed, Padma Shri and medals missingThieves looted Indian swimming icon Bula Chowdhury's ancestral home in Hooghly for the fourth time, stealing her Padma Shri, President's award, medals, and household items.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-joke-champions-trophy-throwback-video-rishabh-pant-2771788-2025-08-15",
-      "headline": "Should I retire? Rohit Sharma at hilarious best in Champions Trophy throwback videoOn India's 79th Independence Day, Rishabh Pant shared a rare video of the 2025 Champions Trophy celebrations, featuring a hilarious exchange in which Rohit Sharma jokes with Pant about calls for his retirement."
     }
   ],
   "education": [
