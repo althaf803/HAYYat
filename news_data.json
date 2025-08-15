@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/government-proposes-two-gst-rates-of-5-and-18-tobacco-at-40-tax-cuts-for-farm-and-health-sectors-sources-2771789-2025-08-15",
+      "headline": "Government proposes 5%, 18% GST slabs; tobacco at 40%, relief for farmers: SourcesThe government has proposed reducing GST to two slabs: 5% and 18% with sin goods at 40%, aiming to cut taxes on essentials like farm products, health items, handicrafts, and insurance. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/credit-rating-importance-what-do-they-mean-india-upgrade-pakistan-sp-global-2771729-2025-08-15",
       "headline": "Credit ratings decoded: How a simple upgrade can change a country's fortuneGlobal credit rating agency S&P Global has upgraded India's long-term unsolicited sovereign credit rating to 'BBB' from 'BBB-'. "
     },
@@ -54,14 +59,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/why-your-45-day-credit-card-grace-period-might-be-a-debt-trap-explains-ca-2771271-2025-08-14",
       "headline": "Why your 45-day credit card grace period might be a debt trap, explains CAMany believe a credit card's 45-day grace period means free borrowing time. But as an expert explains, even a small unpaid balance can turn it into a costly debt trap."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-it-stocks-gain-offset-broad-decline-infosys-rise-2-percent-2771269-2025-08-14",
-      "headline": "Sensex, Nifty end marginally higher as investors await Trump-Putin meet outcomeThe S&P BSE Sensex gained 57.75 points to end at\u00a080,597.66, while the NSE Nifty50 added just 11.95 points to close at\u00a024,631.30.\u00a0"
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-make-sleek-statement-in-luxury-bmw-m2-at-hyderabad-airport-2771785-2025-08-15",
+      "headline": "Naga Chaitanya-Sobhita make sleek statement in luxury BMW M2 at Hyderabad airportTollywood stars Naga Chaitanya and Sobhita Dhulipala were seen at Rajiv Gandhi International Airport in a recently acquired BMW M2, catching attention with their stylish departure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-says-only-losers-use-dating-apps-calls-them-gutter-of-society-2771757-2025-08-15",
+      "headline": "Kangana Ranaut says only losers use dating apps, calls them gutter of societyKangana Ranaut criticised dating apps and their users in a recent interview. She called dating apps the 'true gutter' of our society and referred to these apps as a lowly practice. The actor expressed that only people who desire validation and lack confidence go to such places. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/yrf-spy-universe-has-a-woman-problem-and-it-is-beyond-bikinis-from-kiara-advani-in-war-2-deepika-padukone-in-pathaan-to-katrina-kaif-in-tiger-2771755-2025-08-15",
+      "headline": "YRF's spy universe has a woman problem, and it's beyond bikinisFrom medal ceremonies to midriff shots, YRF's spy universe has reduced its women from agents to accessories. And no, a \"women-led\" 'Alpha' won't fix a universe that can't imagine its heroines doing anything more than waiting for the hero to save the day."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-celebrates-his-50th-birthday-with-priyanka-chopra-on-ssmb29-set-2771753-2025-08-15",
@@ -70,7 +85,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/shweta-menon-first-woman-president-amma-artistes-of-malayalam-movie-association-2771764-2025-08-15",
-      "headline": "Shweta Menon becomes first woman president of Malayalam film bodyActor Shweta Menon has been elected as the first woman president of the Association of Malayalam Movie Artistes (AMMA). In August 2024, the Mohanlal-led committee resigned after the damning Hema Committee report."
+      "headline": "Shwetha Menon becomes first woman president of Malayalam film bodyActor Shwetha Menon has been elected as the first woman president of the Association of Malayalam Movie Artistes (AMMA). In August 2024, the Mohanlal-led committee resigned after the damning Hema Committee report."
     },
     {
       "sentiment": "positive",
@@ -141,24 +156,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-kajol-vikrant-massey-bollywood-celebrities-independence-day-wishes-2771644-2025-08-15",
       "headline": "Independence Day 2025: Salman Khan, Akshay Kumar to Kajol, celebs extend wishesOn Independence Day 2025, several Bollywood celebrities including Salman Khan, Akshay Kumar, Kajol, Vikrant Massey, Rajkummar Rao and Sonu Sood among others extended their wishes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-funny-reaction-security-stops-her-chennai-theatre-coolie-show-2771679-2025-08-15",
-      "headline": "I'm in Coolie: Shruti Haasan's funny reaction as security stops her at theatreActor Shruti Haasan was stopped at the Chennai theatre when she went with her friends to watch the first show of 'Coolie' on August 14. Her hilarious reaction to the situation is now going viral on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/top-films-shows-to-watch-on-netflix-this-weekend-saare-jahan-se-accha-young-millionaires-2771633-2025-08-15",
-      "headline": "Top films and shows to watch on Netflix this weekendNetflix's new weekend lineup features a mix of thrillers, documentaries, reality TV and more. A glimpse at the new shows and films to add to your binge-watch list."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-addresses-buzz-over-his-appearance-on-kaun-banega-crorepati-17-2771618-2025-08-15",
-      "headline": "Big B addresses buzz over his appearance on KBC 17, says he's trying to rectifyAmitabh Bachchan reacted to talks about his changing look on 'Kaun Banega Crorepati 17', saying it's because of age, and that he's \"trying to fix it.\" He also shared how hard it is to see contestants leave the show without winning anything after coming with big dreams."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/7-people-feared-trapped-after-portion-of-the-wall-inside-humayun-tomb-collapses-in-delhi-2771791-2025-08-15",
+      "headline": "7 feared trapped after portion of wall inside Delhi's Humayun tomb collapsesThe officials informed that 11 people have been rescued from the site and have been admitted to a nearby hospital for medical treatment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/government-proposes-two-gst-rates-of-5-and-18-tobacco-at-40-tax-cuts-for-farm-and-health-sectors-sources-2771789-2025-08-15",
+      "headline": "Government proposes 5%, 18% GST slabs; tobacco at 40%, relief for farmers: SourcesThe government has proposed reducing GST to two slabs: 5% and 18% with sin goods at 40%, aiming to cut taxes on essentials like farm products, health items, handicrafts, and insurance. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-meet-ukraine-ceasefire-russia-sanctions-tariffs-2771790-2025-08-15",
+      "headline": "Trump-Putin meet today: Will Alaska bring ceasefire, new sanctions, or surprises?The stage is set in Alaska for a crucial encounter between Donald Trump and Vladimir Putin. Their summit, kicking off at 11 am Alaska time, carries significant implications for peace efforts and international relations."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-farmers-trump-tariffs-us-trade-deal-2771520-2025-08-15",
@@ -166,8 +181,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/removal-of-12-tax-slab-among-key-reforms-to-be-discussed-in-gst-council-meetings-in-september-sources-2771661-2025-08-15",
-      "headline": "GST Council may drop 12% slab, more tax reforms in September meeting: SourcesThe meeting comes after Prime Minister Narendra Modi, in his Independence Day speech, announced plans for a major overhaul of the Goods and Services Tax (GST) system."
+      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
+      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
     },
     {
       "sentiment": "positive",
@@ -176,13 +191,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/independence-day-2025-british-chief-justice-unfurled-saluted-tricolour-bombay-high-court-jawaharlal-nehru-red-fort-2771318-2025-08-15",
-      "headline": "When a British chief justice unfurled, saluted Tricolour, that too before NehruOn August 14, 1947, midnight, an unlikely hand unfurled the Indian flag. Leonard Stone, the last British Chief Justice of the Bombay high court, unfurled the Tricolour, while interim PM Jawaharlal Nehru was delivering the 'Tryst with Destiny' speech in Delhi. Stone saluted the Tricolour hours before Nehru's ceremonial flag-hoisting at Delhi's Red Fort."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
-      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
+      "url": "https://www.indiatoday.in/india/story/us-secretary-marco-rubio-highlights-india-us-partnership-peaceful-indopacific-independence-day-2771733-2025-08-15",
+      "headline": "US, India united by shared vision: Marco Rubio's I-Day wishes amid tariff riftThe historic relationship between the world's largest democracy and the world's oldest democracy is consequential and far-reaching, Marco Rubio said."
     },
     {
       "sentiment": "positive",
@@ -195,29 +205,19 @@
       "headline": "Partition's Mystery: Role of Nehru and Mountbatten in securing road to KashmirDid Nehru and Mountbatten influence the Radcliffe Boundary Commission's award of Gurdaspur to India, securing a vital road link to Kashmir? Pakistan and historians allege strategic motives shaped this pivotal 1947 decision."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/indians-confront-khalistani-group-protest-independence-day-australia-consulate-2771674-2025-08-15",
-      "headline": "Video: Indians confront Khalistanis trying to disrupt I-Day event in MelbourneAs the Indian community in Melbourne gathered at the consulate to hoist the tricolour on Friday, a group of Khalistani sympathisers attempted to interrupt the celebrations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/sunny-deol-roars-border-2-independence-day-poster-release-date-out-2771585-2025-08-15",
-      "headline": "Sunny Deol roars in Border 2 Independence Day poster, release date outThe makers of 'Border 2' have announced the release date of the film on the occasion of Independence Day. The film is set to release early next year.\r\n"
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india-today-insight/story/why-cji-br-gavai-shifted-delhi-stray-dogs-case-to-a-new-supreme-court-bench-2771346-2025-08-15",
       "headline": "Why CJI BR Gavai shifted Delhi stray dogs case to a new Supreme Court benchSenior lawyers INDIA TODAY spoke to opined that with the previous bench,\u00a0of Justices J.B. Pardiwala and R. Mahadevan, not hearing the other side, the principle of natural justice had not been served"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-secretary-marco-rubio-highlights-india-us-partnership-peaceful-indopacific-independence-day-2771733-2025-08-15",
-      "headline": "US, India united by shared vision: Marco Rubio's I-Day wishes amid tariff riftThe historic relationship between the world's largest democracy and the world's oldest democracy is consequential and far-reaching, Marco Rubio said."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/yrf-spy-universe-has-a-woman-problem-and-it-is-beyond-bikinis-from-kiara-advani-in-war-2-deepika-padukone-in-pathaan-to-katrina-kaif-in-tiger-2771755-2025-08-15",
+      "headline": "YRF's spy universe has a woman problem, and it's beyond bikinisFrom medal ceremonies to midriff shots, YRF's spy universe has reduced its women from agents to accessories. And no, a \"women-led\" 'Alpha' won't fix a universe that can't imagine its heroines doing anything more than waiting for the hero to save the day."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
-      "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
+      "url": "https://www.indiatoday.in/history-of-it/story/independence-day-2025-british-chief-justice-unfurled-saluted-tricolour-bombay-high-court-jawaharlal-nehru-red-fort-2771318-2025-08-15",
+      "headline": "When a British chief justice unfurled, saluted Tricolour, that too before NehruOn August 14, 1947, midnight, an unlikely hand unfurled the Indian flag. Leonard Stone, the last British Chief Justice of the Bombay high court, unfurled the Tricolour, while interim PM Jawaharlal Nehru was delivering the 'Tryst with Destiny' speech in Delhi. Stone saluted the Tricolour hours before Nehru's ceremonial flag-hoisting at Delhi's Red Fort."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/mahindra-unveils-vision-s-vision-t-vision-sxt-vision-x-concepts-on-a-new-platform-production-in-2027-2771703-2025-08-15",
-      "headline": "Mahindra unveils four bold SUV concepts on a new platform, production in 2027Mahindra has revealed its NU_IQ modular platform and four striking SUV concepts: Vision.S, Vision.T, Vision.SXT, and Vision.X at the Freedom NU event, signalling its bold global SUV strategy for 2027."
+      "url": "https://www.indiatoday.in/books/story/sam-dalrymple-forgotten-stories-of-british-raj-south-asias-five-partitions-2771772-2025-08-15",
+      "headline": "Sam Dalrymple on lost borders, hidden letters and South Asia's five partitionsIn his latest book 'Shattered Lands', Sam Dalrymple uncovers the Raj's forgotten frontiers and five partitions that birthed 12 nations, from Burma's breakaway to the Cold War dramas of 1971."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-zelenskyy-usa-russia-ukraine-meet-alaska-what-each-side-wants-2771590-2025-08-15",
-      "headline": "Trump-Putin Alaska meet: What each player wants in Ukraine endgameExpectations are high for the first summit between sitting US and Russian presidents in more than four years."
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
+      "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pms-double-diwali-promise-says-next-generation-gst-with-lower-taxes-coming-soon-2771537-2025-08-15",
-      "headline": "PM's Double Diwali promise, says next-generation GST with much lower taxes soonPrime Minister Narendra Modi promised the roll-out a next-generation GST regime with substantially lower taxes before this Diwali, calling it a major festive gift to benefit individuals, MSMEs, and the economy."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shweta-menon-first-woman-president-amma-artistes-of-malayalam-movie-association-2771764-2025-08-15",
+      "headline": "Shwetha Menon becomes first woman president of Malayalam film bodyActor Shwetha Menon has been elected as the first woman president of the Association of Malayalam Movie Artistes (AMMA). In August 2024, the Mohanlal-led committee resigned after the damning Hema Committee report."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/two-men-die-stunt-accident-delhi-dehradun-expressway-ghaziabad-2771684-2025-08-15",
-      "headline": "Caught on camera: Bikers killed in head-on collision while performing stunts in UPTwo men died and another was injured after a head-on collision during motorcycle stunts on the under-construction Delhi\u2013Dehradun Expressway in Ghaziabad, police said."
+      "url": "https://www.indiatoday.in/world/story/indians-confront-khalistani-group-protest-independence-day-australia-consulate-2771674-2025-08-15",
+      "headline": "Video: Indians confront Khalistanis trying to disrupt I-Day event in MelbourneAs the Indian community in Melbourne gathered at the consulate to hoist the tricolour on Friday, a group of Khalistani sympathisers attempted to interrupt the celebrations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jairam-ramesh-calls-pm-modi-pathological-liar-over-semiconductor-claims-alleges-bias-in-project-approvals-2771612-2025-08-15",
-      "headline": "PM's semiconductor chip announcement gets Jairam Ramesh's pathological liar replyJairam Ramesh dismissed PM Modi's claim that India lost 50-60 years in semiconductor development, citing the operational status of Semiconductors Complex Ltd since 1983."
+      "url": "https://www.indiatoday.in/auto/cars/story/mahindra-unveils-vision-s-vision-t-vision-sxt-vision-x-concepts-on-a-new-platform-production-in-2027-2771703-2025-08-15",
+      "headline": "Mahindra unveils four bold SUV concepts on a new platform, production in 2027Mahindra has revealed its NU_IQ modular platform and four striking SUV concepts: Vision.S, Vision.T, Vision.SXT, and Vision.X at the Freedom NU event, signalling its bold global SUV strategy for 2027."
     },
     {
       "sentiment": "positive",
@@ -261,8 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/photo-essay/isro-hope-habitat-mars-moon-base-gaganyaan-mission-launch-300-15-08-2025",
-      "headline": "Hope in the desert: Inside India's first Mars baseAs Isro prepares to launch Indians to space and then on to the Moon by 2040, the first steps are being taken in a remote location in Ladakh's Tso Kar where a new habitat simulated how astronauts would live and work on the Moon in the coming years. We bring you exclusive behind the scene details from India's first Mars base. "
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/india-women-leadership-economy-climate-change-workplace-policies-2771343-2025-08-15",
+      "headline": "She works, she leads, she adapts. But India's policies still shut women outIndian women are growing our food, running factories, holding families together \u2014 and braving climate disasters. Yet their work is underpaid, overlooked, and shut out of policy. Here's how leadership, fair pay, and real support could change their lives \u2014 and ours \u2014 for good."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/environment/story/himalayan-glaciers-melting-twice-as-fast-doubling-river-volumes-2771321-2025-08-15",
-      "headline": "Himalayan glaciers melting twice as fast, doubling river volumesGlobal warming is increasing the rate of glacier melt in the Himalayan region. More than benefiting the communities, this can risk their lives and livelihoods."
+      "url": "https://www.indiatoday.in/business/story/pms-double-diwali-promise-says-next-generation-gst-with-lower-taxes-coming-soon-2771537-2025-08-15",
+      "headline": "PM's Double Diwali promise, says next-generation GST with much lower taxes soonPrime Minister Narendra Modi promised the roll-out a next-generation GST regime with substantially lower taxes before this Diwali, calling it a major festive gift to benefit individuals, MSMEs, and the economy."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-fc-goa-afc-champions-league-two-2025-26-draw-2771705-2025-08-15",
-      "headline": "Ronaldo to visit India? Al Nassr, FC Goa grouped in AFC Champions League TwoCristiano Ronaldo's Al Nassr are grouped with FC Goa as the AFC Champions League 2025-26 draw took place on Friday, August 15. Will the Portuguese star make the trip to Goa for the clash against FC Goa?"
+      "url": "https://www.indiatoday.in/india/story/two-men-die-stunt-accident-delhi-dehradun-expressway-ghaziabad-2771684-2025-08-15",
+      "headline": "Caught on camera: Bikers killed in head-on collision while performing stunts in UPTwo men died and another was injured after a head-on collision during motorcycle stunts on the under-construction Delhi\u2013Dehradun Expressway in Ghaziabad, police said."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-make-sleek-statement-in-luxury-bmw-m2-at-hyderabad-airport-2771785-2025-08-15",
+      "headline": "Naga Chaitanya-Sobhita make sleek statement in luxury BMW M2 at Hyderabad airportTollywood stars Naga Chaitanya and Sobhita Dhulipala were seen at Rajiv Gandhi International Airport in a recently acquired BMW M2, catching attention with their stylish departure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-says-only-losers-use-dating-apps-calls-them-gutter-of-society-2771757-2025-08-15",
+      "headline": "Kangana Ranaut says only losers use dating apps, calls them gutter of societyKangana Ranaut criticised dating apps and their users in a recent interview. She called dating apps the 'true gutter' of our society and referred to these apps as a lowly practice. The actor expressed that only people who desire validation and lack confidence go to such places. "
     },
     {
       "sentiment": "positive",
@@ -288,19 +298,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-celebrates-his-50th-birthday-with-priyanka-chopra-on-ssmb29-set-2771753-2025-08-15",
       "headline": "Mahesh Babu celebrates his 50th birthday with Priyanka Chopra on SSMB29 setPriyanka Chopra and Mahesh Babu's recent picture from the Hyderabad schedule of SSMB29 has created a buzz on social media. The Telugu actor marked his birthday with Chopra on August 9. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shweta-menon-first-woman-president-amma-artistes-of-malayalam-movie-association-2771764-2025-08-15",
-      "headline": "Shwetha Menon becomes first woman president of Malayalam film bodyActor Shwetha Menon has been elected as the first woman president of the Association of Malayalam Movie Artistes (AMMA). In August 2024, the Mohanlal-led committee resigned after the damning Hema Committee report."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-first-look-mahatma-gandhi-vivek-agnihotri-the-bengal-files-2771742-2025-08-15",
-      "headline": "Anupam Kher says playing Mahatma Gandhi in The Bengal Files changed his inner selfActor Anupam Kher shared his first look as Mahatma Gandhi from director Vivek Agnihotri's 'The Bengal Files'. The actor emphasised the role's deep impact and authenticity without prosthetics."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-joke-champions-trophy-throwback-video-rishabh-pant-2771788-2025-08-15",
+      "headline": "Should I retire? Rohit Sharma at hilarious best in Champions Trophy throwback videoOn India's 79th Independence Day, Rishabh Pant shared a rare video of the 2025 Champions Trophy celebrations, featuring a hilarious exchange in which Rohit Sharma jokes with Pant about calls for his retirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/saliya-saman-sri-lanka-corruption-abu-dhabi-t10-league-2771783-2025-08-15",
+      "headline": "ICC bans former Sri Lanka first-class cricketer for corruption attempt in T10 LeagueFormer Sri Lankan domestic cricketer Saliya Saman has been banned for five years for attempting to fix matches in the 2021 Abu Dhabi T10 League, in breach of the ECB Anti-Corruption Code.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-carlos-baleba-manchester-united-brighton-stay-2771787-2025-08-15",
+      "headline": "Brighton boss confident Carlos Baleba will stay amidst Man United transfer linksBrighton boss Fabian Huerzler says he's confident Carlos Baleba will stay despite \u00a3100m Manchester United interest. The manager also confirmed that he is in contention to start in their opening fixture against Fulham."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-reduce-aggression-same-player-sreesanth-2771782-2025-08-15",
+      "headline": "If Virat Kohli reduces his aggression, won't be the same player: SreesanthFormer India pacer Sreesanth has hailed Virat Kohli's aggression as passion and not arrogance. He has praised Kohli's obsession for the country and believes he won't be the same player if he reduces his aggression"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/charlotte-edwards-womens-world-cup-india-england-2771768-2025-08-15",
@@ -337,49 +357,29 @@
       "headline": "Did CSK exploit IPL rule loophole to sign Dewald Brevis? Aakash ChopraAakash Chopra has questioned whether the Chennai Super Kings exploited a loophole in the IPL's player replacement rules when they signed South Africa's Dewald Brevis for the 2025 season. Brevis joined CSK for Rs 2.2 crore. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-fc-goa-afc-champions-league-two-2025-26-draw-2771705-2025-08-15",
-      "headline": "Ronaldo to visit India? Al Nassr, FC Goa grouped in AFC Champions League TwoCristiano Ronaldo's Al Nassr are grouped with FC Goa as the AFC Champions League 2025-26 draw took place on Friday, August 15. Will the Portuguese star make the trip to Goa for the clash against FC Goa?"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-women-australia-a-women-radha-yadav-alyssa-healy-2771752-2025-08-15",
+      "headline": "India A Women beat Australia A Women in thriller to clinch One-Day seriesIndia A beat Australia A Women by two wickets in a last-over thriller to seal the One-Day series 2-0 in Brisbane. Yastika Bhatia, Radha Yadav, Tanuja Kanwer and Minnu Mani starred in a spirited all-round performance. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/national-sports-policy-modi-launches-new-sports-governance-and-fitness-drive-2771687-2025-08-15",
-      "headline": "PM Modi lauds sports policy in Independence Day speech, pledges holistic developmentPrime Minister Narendra Modi underscored the pivotal role of sports in India's development journey, highlighting the new National Sports Policy (NSP) as a cornerstone for fostering sporting excellence across all levels. "
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-india-tour-2025-kolkata-statue-unveiling-goat-cup-events-2771750-2025-08-15",
+      "headline": "Messi likely to meet PM Modi and Virat Kohli during India visit: ReportLionel Messi will kick off his GOAT Tour of India 2025 in Kolkata with multiple events including a statue unveiling. The tour features unique football and cultural events, culminating in a meeting with PM Narendra Modi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-season-preview-arne-slot-transfer-window-2771680-2025-08-15",
-      "headline": "Can Liverpool convert Arne Slot's break the bank move to glory?Arne Slot stunned England by winning the Premier League in his debut season. Now, after a summer of bold, expensive signings, Liverpool's challenge is turning star power into seamless chemistry \u2014 and domestic glory into European dominance."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-independence-day-2025-wishes-2771745-2025-08-15",
+      "headline": "Rohit shares iconic T20 World Cup final image to celebrate Independence DayRohit Sharma decided to post an iconic image from India's T20 World Cup win to celebrate the 79th Independence Day on Friday, August 15. Virat Kohli also sent a special message to the fans via social media. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/dabang-delhi-kc-pkl-season-12-squad-analysis-strengths-weaknesses-2771657-2025-08-15",
-      "headline": "Dabang Delhi K.C. aim to recapture PKL title as post-Naveen Kumar era beginsDabang Delhi are aiming to regain the PKL title this year but will have to do without the services of their former captain Naveen Kumar. Ashu Malik will be the star raider of the team, who have added some experienced campaigners to the mix. "
+      "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-masters-terence-atmane-dream-run-no-sponsor-2771731-2025-08-15",
+      "headline": "No sponsor? No problem: French player, World No. 136, reaches Cincinnati semi-finalFrench qualifier Terence Atmane has stormed into the Cincinnati Masters semi-finals, toppling top-10 players, Holger Rune and Taylor Fritz, in a dream run. The 22-year-old has achieved the feat despite having no clothing or shoe sponsor."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-dewald-brevis-rule-loophole-aakash-chopra-2771713-2025-08-15",
       "headline": "Did CSK exploit IPL rule loophole to sign Dewald Brevis? Aakash ChopraAakash Chopra has questioned whether the Chennai Super Kings exploited a loophole in the IPL's player replacement rules when they signed South Africa's Dewald Brevis for the 2025 season. Brevis joined CSK for Rs 2.2 crore. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-fc-goa-afc-champions-league-two-2025-26-draw-2771705-2025-08-15",
-      "headline": "Ronaldo to visit India? Al Nassr, FC Goa grouped in AFC Champions League TwoCristiano Ronaldo's Al Nassr are grouped with FC Goa as the AFC Champions League 2025-26 draw took place on Friday, August 15. Will the Portuguese star make the trip to Goa for the clash against FC Goa?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/national-sports-policy-modi-launches-new-sports-governance-and-fitness-drive-2771687-2025-08-15",
-      "headline": "PM Modi lauds sports policy in Independence Day speech, pledges holistic developmentPrime Minister Narendra Modi underscored the pivotal role of sports in India's development journey, highlighting the new National Sports Policy (NSP) as a cornerstone for fostering sporting excellence across all levels. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-season-preview-arne-slot-transfer-window-2771680-2025-08-15",
-      "headline": "Can Liverpool convert Arne Slot's break the bank move to glory?Arne Slot stunned England by winning the Premier League in his debut season. Now, after a summer of bold, expensive signings, Liverpool's challenge is turning star power into seamless chemistry \u2014 and domestic glory into European dominance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/dabang-delhi-kc-pkl-season-12-squad-analysis-strengths-weaknesses-2771657-2025-08-15",
-      "headline": "Dabang Delhi K.C. aim to recapture PKL title as post-Naveen Kumar era beginsDabang Delhi are aiming to regain the PKL title this year but will have to do without the services of their former captain Naveen Kumar. Ashu Malik will be the star raider of the team, who have added some experienced campaigners to the mix. "
     }
   ],
   "education": [
