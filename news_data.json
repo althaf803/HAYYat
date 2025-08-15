@@ -162,7 +162,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/wont-be-happy-if-russia-ukraine-ceasefire-doesnt-happen-today-trump-ahead-of-alaska-meet-with-putin-2771883-2025-08-15",
-      "headline": "Won't be happy if Russia-Ukraine ceasefire fails today: Trump before Alaska meetWon't be happy if Russia-Ukraine ceasefire doesn't happen today: Trump ahead of Alaska meet with Putin"
+      "headline": "Won't be happy if Russia-Ukraine ceasefire talks fail today: Trump before key meetDonald Trump urged an immediate Russia-Ukraine ceasefire ahead of his Alaska summit with Vladimir Putin, aiming to end the war and strengthen his peacemaker credentials. "
     },
     {
       "sentiment": "negative",
@@ -171,8 +171,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
-      "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
+      "headline": "Live: Russian government plane lands in Alaska ahead of Trump-Putin meet, shows Flight Radar dataUS President Donald Trump on Friday departed Washington aboard Air Force One for a crucial meeting with Russian President Vladimir Putin in Alaska, where talks are expected to focus on a possible ceasefire deal for Ukraine."
     },
     {
       "sentiment": "positive",
@@ -186,6 +186,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
+      "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-terror-nexus-exposed-again-army-official-minister-honours-terrorist-killed-in-operation-sindoor-2771872-2025-08-15",
       "headline": "Pak's terror nexus exposed again: Top brass honour terrorist killed in Op SindoorTop Pakistan Army official and ministers were seen paying tribute at grave of Lashkar terrorist killed in Indian strike in May."
     },
@@ -196,28 +201,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/hillary-clinton-nominate-donald-trump-nobel-peace-prize-ends-ukraine-war-russia-2771835-2025-08-15",
-      "headline": "Hillary Clinton says she'd nominate Trump for Nobel Peace Prize on one conditionHillary Clinton has said she would nominate Donald Trump for a Nobel Peace Prize if he succeeds in ending the war in Ukraine without conceding territory to Russia."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/partition-mystery-role-of-nehru-and-mountbatten-in-securing-india-road-link-to-kashmir-2771706-2025-08-15",
       "headline": "Partition's Mystery: Role of Nehru and Mountbatten in securing road to KashmirDid Nehru and Mountbatten influence the Radcliffe Boundary Commission's award of Gurdaspur to India, securing a vital road link to Kashmir? Pakistan and historians allege strategic motives shaped this pivotal 1947 decision."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/why-cji-br-gavai-shifted-delhi-stray-dogs-case-to-a-new-supreme-court-bench-2771346-2025-08-15",
-      "headline": "Why CJI BR Gavai shifted Delhi stray dogs case to a new Supreme Court benchSenior lawyers INDIA TODAY spoke to opined that with the previous bench,\u00a0of Justices J.B. Pardiwala and R. Mahadevan, not hearing the other side, the principle of natural justice had not been served"
+      "url": "https://www.indiatoday.in/india-today-insight/story/a-year-into-ousting-naveen-patnaik-how-bjp-battles-credibility-crisis-in-odisha-2770655-2025-08-13",
+      "headline": "A year into ousting Naveen Patnaik, how BJP battles credibility crisis in OdishaThe Mohan Charan Majhi administration's handling of rising crimes, governance challenges and political perception battles has sparked unease among both BJP leaders and grassroots workers"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/hillary-clinton-nominate-donald-trump-nobel-peace-prize-ends-ukraine-war-russia-2771835-2025-08-15",
+      "headline": "Hillary Clinton says she'd nominate Trump for Nobel Peace Prize on one conditionHillary Clinton has said she would nominate Donald Trump for a Nobel Peace Prize if he succeeds in ending the war in Ukraine without conceding territory to Russia."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/nagaland-governor-la-ganesan-dies-at-80-pm-modi-pays-tribute-calls-him-devout-nationalist-bjp-pillar-2771850-2025-08-15",
       "headline": "Nagaland Governor La Ganesan dies at 80; PM Modi calls him devout nationalistPrime Minister Narendra Modi has offered his condolences on the passing of La Ganesan. In a post on X, PM Modi called him a devout nationalist and a pillar of the party who helped in the expansion of BJP across Tamil Nadu. He also remembered Ganesan as someone who was deeply passionate about Tamil culture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
-      "headline": "Live: Russian envoy describes mood ahead of Putin-Trump talks as 'combative', RIA reportsUS President Donald Trump on Friday departed Washington aboard Air Force One for a crucial meeting with Russian President Vladimir Putin in Alaska, where talks are expected to focus on a possible ceasefire deal for Ukraine."
     },
     {
       "sentiment": "positive",
@@ -270,14 +270,14 @@
       "headline": "J&K cloudburst deaths cross 60, hundreds still missing as rescue ops intensifyIntense rescue operations are underway in Jammu and Kashmir's Kishtwar, where a massive cloudburst has killed at least 65 people and buried several others. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/dk-shivakumar-counters-pms-praise-for-rss-says-outfit-has-no-history-2771863-2025-08-15",
-      "headline": "DK Shivakumar counters PM's praise for RSS, says outfit has no historyKarnataka Deputy Chief Minister and Congress DK Shivakumar called RSS a \"newly born institution\", adding that the organisation \"doesn't have any history.\""
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/shashi-tharoor-replies-us-trade-criticism-meme-hindi-comeback-2771662-2025-08-15",
       "headline": "'Kya kehna chahte ho?' X user's word salad stumps Shashi TharoorShashi Tharoor, renowned for his prolific vocabulary and linguistic prowess, met his match on X. Their exchange left social media users amused."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/prime-minister-narendra-modi-calls-for-10-percent-less-oil-use-to-fight-obesity-crisis-independence-day-address-india-2771743-2025-08-15",
+      "headline": "Prime Minister Modi calls for 10% less oil use to fight obesity crisis in IndiaPrime Minister Modi highlighted the growing obesity problem in his Independence Day speech, urging Indians to reduce cooking oil use by 10% as a small but effective step towards better health."
     },
     {
       "sentiment": "positive",
