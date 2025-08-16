@@ -161,13 +161,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
-      "headline": "Live: Putin says he and Trump have reached an 'understanding' on UkraineUS President Donald Trump greeted Russian President Vladimir Putin at Joint Base Elmendorf-Richardson in Anchorage, Alaska. The leaders shook hands, walked the red carpet, and posed for photos before starting their high-stakes summit on the Ukraine war."
+      "url": "https://www.indiatoday.in/world/story/made-great-progress-during-meeting-with-vladimir-putin-in-alaska-trump-on-ukraine-peace-talks-2771944-2025-08-16",
+      "headline": "'No deal until there's a deal': Trump-Putin meet ends with no Ukraine ceasefire Live UpdatesUS President Donald Trump and Russian President Vladimir Putin concluded a nearly three-hour summit in Alaska on the Ukraine war. No final deal was reached, but both leaders reported progress."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-killing-people-on-the-day-of-negotiations-no-sign-to-end-war-zelenskyy-ahead-of-trump-putin-meet-2771905-2025-08-16",
-      "headline": "Russia killing people, showing no intent to end war: Zelenskyy on Trump-Putin meetZelenskyy says Russia's attacks during peace talks show no intent to end the war, urging strong US stance and Western unity to push Moscow toward a just settlement.\r\n"
+      "url": "https://www.indiatoday.in/world/story/there-would-have-been-ukraine-war-trump-president-2022-putin-after-alaska-talks-glbs-2771943-2025-08-16",
+      "headline": "Ukraine war would not have happened if Trump was president in 2022: PutinRussian President Vladimir Putin, after his first meeting with Donald Trump in five years, said the Ukraine war would not have happened if Trump was in office in 2022."
     },
     {
       "sentiment": "negative",
@@ -176,13 +176,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/wont-be-happy-if-russia-ukraine-ceasefire-doesnt-happen-today-trump-ahead-of-alaska-meet-with-putin-2771883-2025-08-15",
-      "headline": "Won't be happy if Russia-Ukraine ceasefire talks fail today: Trump before key meetDonald Trump urged an immediate Russia-Ukraine ceasefire ahead of his Alaska summit with Vladimir Putin, aiming to end the war and strengthen his peacemaker credentials. "
+      "url": "https://www.indiatoday.in/world/story/trump-putin-alaska-talks-on-ukraine-war-top-developments-glbs-2771942-2025-08-16",
+      "headline": "Trump-Putin Alaska talks on Ukraine war: Top developmentsTrump and Putin met in Alaska for high-stakes talks on Ukraine's war, discussing ceasefire terms, territorial issues and European security, while excluding Ukraine from the discussions."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/in-alaska-trump-greets-putin-with-red-carpet-cold-war-jets-overhead-glbs-2771920-2025-08-16",
       "headline": "In Alaska, Trump greets Putin with red carpet, Cold War jets overheadTrump and Putin began their Alaska summit with a warm handshake and Cold War-era jets overhead, opening high-stakes talks on Ukraine amid symbolic displays of US military power.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-vladimir-putin-alaska-summit-live-united-states-of-america-russia-ukraine-war-2771857-2025-08-15",
+      "headline": "Live: Putin invites Trump to Moscow as high-stakes talks concludeUS President Donald Trump greeted Russian President Vladimir Putin at Joint Base Elmendorf-Richardson in Anchorage, Alaska. The leaders shook hands, walked the red carpet, and posed for photos before starting their high-stakes summit on the Ukraine war."
     },
     {
       "sentiment": "negative",
@@ -191,13 +196,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ukraine-president-volodymyr-zelenskyy-wishes-india-on-79th-independence-day-2771921-2025-08-16",
-      "headline": "Standing up for freedom, dignity: Zelenskyy as he wishes India on Independence DayThe Ukrainian president said that both nations share the experience of standing up for freedom and dignity, as well as the pursuit of peace and development."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-education-minister-ramdas-soren-dies-at-62-2771910-2025-08-16",
-      "headline": "Jharkhand Education Minister Ramdas Soren dies at 62Jharkhand Mukti Morcha national spokesperson Kunal Sarangi confirmed the news, saying Soren's condition had been critical and he was on life support."
+      "url": "https://www.indiatoday.in/world/story/russia-killing-people-on-the-day-of-negotiations-no-sign-to-end-war-zelenskyy-ahead-of-trump-putin-meet-2771905-2025-08-16",
+      "headline": "Russia killing people, showing no intent to end war: Zelenskyy on Trump-Putin meetZelenskyy says Russia's attacks during peace talks show no intent to end the war, urging strong US stance and Western unity to push Moscow toward a just settlement.\r\n"
     },
     {
       "sentiment": "positive",
@@ -211,6 +211,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/ukraine-president-volodymyr-zelenskyy-wishes-india-on-79th-independence-day-2771921-2025-08-16",
+      "headline": "Standing up for freedom, dignity: Zelenskyy as he wishes India on Independence DayThe Ukrainian president said that both nations share the experience of standing up for freedom and dignity, as well as the pursuit of peace and development."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jharkhand-education-minister-ramdas-soren-dies-at-62-2771910-2025-08-16",
+      "headline": "Jharkhand Education Minister Ramdas Soren dies at 62Jharkhand Mukti Morcha national spokesperson Kunal Sarangi confirmed the news, saying Soren's condition had been critical and he was on life support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
+      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/video/putin-avoids-answering-ceasefire-question-at-alaska-summit-arrival-glbs-2771933-2025-08-16",
       "headline": "Putin avoids answering ceasefire question at Alaska summit arrivalRussian President Vladimir Putin avoided answering if he'd agree to a ceasefire, brushing off reporters' questions alongside US President Donald Trump.\r\n"
     },
@@ -221,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/sholay-at-50-most-iconic-dialogues-from-the-film#part-6",
-      "headline": "Sholay@50: Copied From West, Re-imagined At HomeIn the concluding part of our series celebrating 50 years of Sholay (1975), we dive into the heart of a simmering debate: is Sholay a masterpiece of pure genius or a cinematic dacoit, weaving borrowed threads from Hollywood's Spaghetti Westerns, Japanese classics, and Bollywood's own gems?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/putin-interested-in-trump-economy-us-president-as-he-departs-for-alaska-for-crucial-meet-2771797-2025-08-15",
-      "headline": "Putin interested in Trump economy: US President as he heads to key Alaska meetUS President Donald Trump departed for Alaska to meet Russian President Vladimir Putin, aiming to discuss a Ukraine ceasefire and possible business ties if the war ends. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-terror-nexus-exposed-again-army-official-minister-honours-terrorist-killed-in-operation-sindoor-2771872-2025-08-15",
       "headline": "Pak's terror nexus exposed again: Top brass honour terrorist killed in Op SindoorTop Pakistan Army official and ministers were seen paying tribute at grave of Lashkar terrorist killed in Indian strike in May."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/video/putin-rides-in-the-beast-with-trump-ahead-of-high-stakes-alaska-talks-glbs-2771926-2025-08-16",
-      "headline": "Putin rides in 'The Beast' with Trump ahead of high-stakes Alaska talksRussian President Putin and US President Trump shared a rare ride in \"The Beast\" in Anchorage, Alaska, before high-stakes talks on Ukraine."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/independence-day-speech-narendra-modi-praise-rss-biggest-ngo-volunteers-service-100-years-explained-2771748-2025-08-15",
-      "headline": "What Modi's praise for RSS as world's biggest NGO signifiesIn his Independence Day address, Prime Minister Narendra Modi hailed the RSS on its centenary, calling it the world's biggest NGO. The Congress took potshots at him, accusing him of trying to please the organisation. However, his praise for RSS in a national speech indicates that whatever perceived strains with the RSS leadership might have eased, reaffirming the group's deep ideological influence over the BJP."
+      "url": "https://www.indiatoday.in/world/video/putin-rides-in-the-beast-with-trump-ahead-of-high-stakes-alaska-talks-glbs-2771926-2025-08-16",
+      "headline": "Putin rides in 'The Beast' with Trump ahead of high-stakes Alaska talksRussian President Putin and US President Trump shared a rare ride in \"The Beast\" in Anchorage, Alaska, before high-stakes talks on Ukraine."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/hillary-clinton-nominate-donald-trump-nobel-peace-prize-ends-ukraine-war-russia-2771835-2025-08-15",
-      "headline": "Hillary Clinton says she'd nominate Trump for Nobel Peace Prize on one conditionHillary Clinton has said she would nominate Donald Trump for a Nobel Peace Prize if he succeeds in ending the war in Ukraine without conceding territory to Russia."
+      "url": "https://www.indiatoday.in/india/story/independence-day-speech-narendra-modi-praise-rss-biggest-ngo-volunteers-service-100-years-explained-2771748-2025-08-15",
+      "headline": "What Modi's praise for RSS as world's biggest NGO signifiesIn his Independence Day address, Prime Minister Narendra Modi hailed the RSS on its centenary, calling it the world's biggest NGO. The Congress took potshots at him, accusing him of trying to please the organisation. However, his praise for RSS in a national speech indicates that whatever perceived strains with the RSS leadership might have eased, reaffirming the group's deep ideological influence over the BJP."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/video/putin-points-to-sky-as-b-2-bomber-flies-over-alaska-summit-with-trump-glbs-2771930-2025-08-16",
-      "headline": "Putin points to sky as B-2 bomber flies over Alaska summit with TrumpUS President Trump and Russian President Putin opened their Alaska summit with smiles, a handshake, and a dramatic B-2 bomber flyover during Putin's arrival."
+      "url": "https://www.indiatoday.in/world/us-news/story/hillary-clinton-nominate-donald-trump-nobel-peace-prize-ends-ukraine-war-russia-2771835-2025-08-15",
+      "headline": "Hillary Clinton says she'd nominate Trump for Nobel Peace Prize on one conditionHillary Clinton has said she would nominate Donald Trump for a Nobel Peace Prize if he succeeds in ending the war in Ukraine without conceding territory to Russia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmirs-kishtwar-massive-cloudburst-killed-recue-operation-death-2771501-2025-08-15",
-      "headline": "J&K cloudburst deaths cross 60, hundreds still missing as rescue ops intensifyIntense rescue operations are underway in Jammu and Kashmir's Kishtwar, where a massive cloudburst has killed at least 65 people and buried several others. "
+      "url": "https://www.indiatoday.in/world/video/putin-points-to-sky-as-b-2-bomber-flies-over-alaska-summit-with-trump-glbs-2771930-2025-08-16",
+      "headline": "Putin points to sky as B-2 bomber flies over Alaska summit with TrumpUS President Trump and Russian President Putin opened their Alaska summit with smiles, a handshake, and a dramatic B-2 bomber flyover during Putin's arrival."
     },
     {
       "sentiment": "positive",
@@ -375,126 +375,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/bula-chowdhury-padma-shri-house-robbed-swimming-2771798-2025-08-15",
       "headline": "Bula Chowdhury's house robbed, Padma Shri and medals missingThieves looted Indian swimming icon Bula Chowdhury's ancestral home in Hooghly for the fourth time, stealing her Padma Shri, President's award, medals, and household items.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-joke-champions-trophy-throwback-video-rishabh-pant-2771788-2025-08-15",
-      "headline": "Should I retire? Rohit Sharma at hilarious best in Champions Trophy throwback videoOn India's 79th Independence Day, Rishabh Pant shared a rare video of the 2025 Champions Trophy celebrations, featuring a hilarious exchange in which Rohit Sharma jokes with Pant about calls for his retirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/saliya-saman-sri-lanka-corruption-abu-dhabi-t10-league-2771783-2025-08-15",
-      "headline": "ICC bans former Sri Lanka first-class cricketer for corruption attempt in T10 LeagueFormer Sri Lankan domestic cricketer Saliya Saman has been banned for five years for attempting to fix matches in the 2021 Abu Dhabi T10 League, in breach of the ECB Anti-Corruption Code.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-carlos-baleba-manchester-united-brighton-stay-2771787-2025-08-15",
-      "headline": "Brighton boss confident Carlos Baleba will stay amidst Man United transfer linksBrighton boss Fabian Huerzler says he's confident Carlos Baleba will stay despite \u00a3100m Manchester United interest. The manager also confirmed that he is in contention to start in their opening fixture against Fulham."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-reduce-aggression-same-player-sreesanth-2771782-2025-08-15",
-      "headline": "If Virat Kohli reduces his aggression, won't be the same player: SreesanthFormer India pacer Sreesanth has hailed Virat Kohli's aggression as passion and not arrogance. He has praised Kohli's obsession for the country and believes he won't be the same player if he reduces his aggression"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/charlotte-edwards-womens-world-cup-india-england-2771768-2025-08-15",
-      "headline": "England can beat them in Women's World Cup: Charlotte EdwardsCharlotte Edwards says England's 2-1 home ODI loss to India hasn't hurt their T20 World Cup 2025 hopes, expressing confidence they can beat any team. She called the series a good challenge and said the team is focused on improving its fielding before the tournament begins on September 30."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/alexander-isak-newcastle-united-miss-premier-league-opener-aston-villa-2771758-2025-08-15",
-      "headline": "Isak to miss Newcastle's Premier League opener amid Liverpool interestEddie Howe has confirmed that Alexander Isak will not be available for selection ahead of their Premier League opening fixture against Aston Villa. The club will look to regroup after a diastrous pre-season. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-women-australia-a-women-radha-yadav-alyssa-healy-2771752-2025-08-15",
-      "headline": "India A Women beat Australia A Women in thriller to clinch One-Day seriesIndia A beat Australia A Women by two wickets in a last-over thriller to seal the One-Day series 2-0 in Brisbane. Yastika Bhatia, Radha Yadav, Tanuja Kanwer and Minnu Mani starred in a spirited all-round performance. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-india-tour-2025-kolkata-statue-unveiling-goat-cup-events-2771750-2025-08-15",
-      "headline": "Messi likely to meet PM Modi and Virat Kohli during India visit: ReportLionel Messi will kick off his GOAT Tour of India 2025 in Kolkata with multiple events including a statue unveiling. The tour features unique football and cultural events, culminating in a meeting with PM Narendra Modi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/charlotte-edwards-womens-world-cup-india-england-2771768-2025-08-15",
-      "headline": "England can beat them in Women's World Cup: Charlotte EdwardsCharlotte Edwards says England's 2-1 home ODI loss to India hasn't hurt their T20 World Cup 2025 hopes, expressing confidence they can beat any team. She called the series a good challenge and said the team is focused on improving its fielding before the tournament begins on September 30."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/alexander-isak-newcastle-united-miss-premier-league-opener-aston-villa-2771758-2025-08-15",
-      "headline": "Isak to miss Newcastle's Premier League opener amid Liverpool interestEddie Howe has confirmed that Alexander Isak will not be available for selection ahead of their Premier League opening fixture against Aston Villa. The club will look to regroup after a diastrous pre-season. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-women-australia-a-women-radha-yadav-alyssa-healy-2771752-2025-08-15",
-      "headline": "India A Women beat Australia A Women in thriller to clinch One-Day seriesIndia A beat Australia A Women by two wickets in a last-over thriller to seal the One-Day series 2-0 in Brisbane. Yastika Bhatia, Radha Yadav, Tanuja Kanwer and Minnu Mani starred in a spirited all-round performance. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-india-tour-2025-kolkata-statue-unveiling-goat-cup-events-2771750-2025-08-15",
-      "headline": "Messi likely to meet PM Modi and Virat Kohli during India visit: ReportLionel Messi will kick off his GOAT Tour of India 2025 in Kolkata with multiple events including a statue unveiling. The tour features unique football and cultural events, culminating in a meeting with PM Narendra Modi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-independence-day-2025-wishes-2771745-2025-08-15",
-      "headline": "Rohit shares iconic T20 World Cup final image to celebrate Independence DayRohit Sharma decided to post an iconic image from India's T20 World Cup win to celebrate the 79th Independence Day on Friday, August 15. Virat Kohli also sent a special message to the fans via social media. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-masters-terence-atmane-dream-run-no-sponsor-2771731-2025-08-15",
-      "headline": "No sponsor? No problem: French player, World No. 136, reaches Cincinnati semi-finalFrench qualifier Terence Atmane has stormed into the Cincinnati Masters semi-finals, toppling top-10 players, Holger Rune and Taylor Fritz, in a dream run. The 22-year-old has achieved the feat despite having no clothing or shoe sponsor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-dewald-brevis-rule-loophole-aakash-chopra-2771713-2025-08-15",
-      "headline": "Did CSK exploit IPL rule loophole to sign Dewald Brevis? Aakash ChopraAakash Chopra has questioned whether the Chennai Super Kings exploited a loophole in the IPL's player replacement rules when they signed South Africa's Dewald Brevis for the 2025 season. Brevis joined CSK for Rs 2.2 crore. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-fc-goa-afc-champions-league-two-2025-26-draw-2771705-2025-08-15",
-      "headline": "Ronaldo to visit India? Al Nassr, FC Goa grouped in AFC Champions League TwoCristiano Ronaldo's Al Nassr are grouped with FC Goa as the AFC Champions League 2025-26 draw took place on Friday, August 15. Will the Portuguese star make the trip to Goa for the clash against FC Goa?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/national-sports-policy-modi-launches-new-sports-governance-and-fitness-drive-2771687-2025-08-15",
-      "headline": "PM Modi lauds sports policy in Independence Day speech, pledges holistic developmentPrime Minister Narendra Modi underscored the pivotal role of sports in India's development journey, highlighting the new National Sports Policy (NSP) as a cornerstone for fostering sporting excellence across all levels. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-season-preview-arne-slot-transfer-window-2771680-2025-08-15",
-      "headline": "Can Liverpool convert Arne Slot's break the bank move to glory?Arne Slot stunned England by winning the Premier League in his debut season. Now, after a summer of bold, expensive signings, Liverpool's challenge is turning star power into seamless chemistry \u2014 and domestic glory into European dominance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/dabang-delhi-kc-pkl-season-12-squad-analysis-strengths-weaknesses-2771657-2025-08-15",
-      "headline": "Dabang Delhi K.C. aim to recapture PKL title as post-Naveen Kumar era beginsDabang Delhi are aiming to regain the PKL title this year but will have to do without the services of their former captain Naveen Kumar. Ashu Malik will be the star raider of the team, who have added some experienced campaigners to the mix. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-workload-management-defended-by-bhuvneshwar-kumar-2771652-2025-08-15",
-      "headline": "Jasprit Bumrah's workload management debate: Bhuvneshwar says people don't get itBhuvneshwar Kumar has defended Jasprit Bumrah's selective Test workload during the England series. Bumrah played only three of the five Tests in the fiercely-fought series in England. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virender-sehwag-almost-retired-odis-ms-dhoni-sachin-tendulkar-advice-2771610-2025-08-15",
-      "headline": "When Dhoni dropped me in Australia, I thought about ODI retirement: SehwagVirender Sehwag revealed he nearly retired from ODIs after being dropped by MS Dhoni in the 2008 tri-series in Australia. Sehwag revealed how Sachin Tendulkar talked him out of the decision, providing some key advice. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cab-suspends-joint-secretary-debabrata-das-financial-misconduct-bengal-cricket-2771606-2025-08-15",
-      "headline": "Bengal cricket board top official suspended over allegations of financial misconductThe Cricket Association of Bengal has suspended its joint secretary, Debabrata Das, over allegations of financial misconduct. The senior official is accused of accepting money in exchange for promising aspiring cricketers a place in the Bengal team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-t20s-hardik-pandya-india-captaincy-snub-shubman-gill-2771517-2025-08-15",
-      "headline": "Asia Cup T20s: Is Hardik Pandya's leadership dream slipping away?Asia Cup T20s: Once hailed as Rohit Sharma's successor in white-ball cricket, Hardik Pandya now watches others take vice-captaincy roles, leaving his long-held leadership ambitions hanging in the balance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-england-tour-india-captaincy-ravi-shastri-praise-2771567-2025-08-15",
-      "headline": "Gill will be around for a long time: Ravi Shastri in awe of India captainRavi Shastri hailed the India Test skipper Shubman Gill as 'regal' and backed him to be among the world's best for years to come. Gill had a record-breaking run with the bat during the recently concluded England series. "
     }
   ],
   "education": [
@@ -557,21 +437,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
