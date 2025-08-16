@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kiara-advani-expresses-gratitude-to-fans-after-war-2-success-2772161-2025-08-16",
+      "headline": "Love speaks the loudest: Kiara Advani expresses gratitude to fans after War 2 successAyan Mukerji's 'War 2', starring Hrithik Roshan, Kiara Advani and Jr NTR, crossed Rs 100 crore at the box office within two days of release. The cast, including Kiara, Hrithik and Jr NTR, shared heartfelt messages thanking fans for their love and support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-says-playing-hanuman-in-nitesh-tiwari-ramayana-is-a-big-challenge-2772149-2025-08-16",
+      "headline": "Sunny Deol says playing Hanuman in Nitesh Tiwari's Ramayana is a big challengeSunny Deol, set to play Lord Hanuman in Nitesh Tiwari's 'Ramayana', shared that the role is both exciting and challenging. He also expressed hope that the film's scale and effects will match Hollywood standards and satisfy audiences."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-dubs-husband-saif-ali-khan-her-lion-in-goofy-55th-birthday-post-2772131-2025-08-16",
       "headline": "To our lion: Kareena's roar of love for husband Saif Ali Khan on his 55th birthdaySaif Ali Khan celebrated his 55th birthday on August 16. Heartfelt wishes from family, especially his wife Kareena Kapoor Khan and sisters Soha and Saba, poured in via Instagram. "
     },
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadhas-tricolour-themed-independence-day-feast-at-home-2771865-2025-08-15",
       "headline": "Parineeti Chopra, Raghav Chadha's tricolour-themed Independence Day feast at homeParineeti Chopra and Raghav Chadha shared a glimpse of their Independence Day with a tricolour-themed lunch at home. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/uorfi-javed-backs-mrunal-thakur-bipasha-basu-remark-backlash-2771823-2025-08-15",
-      "headline": "Uorfi Javed backs Mrunal Thakur over Bipasha Basu remark: We all said things in pastInfluencer Uorfi Javed defended actor Mrunal Thakur amid controversy over her past remarks on actor Bipasha Basu. She shared Mrunal's controversial clip on her Instagram story. Javed said that we have all said things in the past that we don't agree with any more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/raj-kundra-responds-to-trolls-after-offering-kidney-to-premanand-maharaj-2771836-2025-08-15",
-      "headline": "Raj Kundra responds to trolls after offering kidney to Premanand MaharajRaj Kundra has responded strongly to online trolls who labelled his kidney donation offer to spiritual leader Premanand Maharaj as a PR stunt. In his Instagram post on Friday, he emphasised compassion and humanity. "
     }
   ],
   "general news": [
@@ -171,8 +171,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
-      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
+      "url": "https://www.indiatoday.in/india/story/congress-pawan-khera-slams-ncert-partition-module-2772144-2025-08-16",
+      "headline": "Set fire to book if facts missing: Congress slams NCERT's Partition moduleAn NCERT module to mark Partition Horrors Remembrance Day holds Muhammad Ali Jinnah, the Congress, and then Viceroy Lord Mountbatten responsible for the partition. The module has evoked a sharp reaction from the Congress."
     },
     {
       "sentiment": "negative",
@@ -181,8 +181,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/vladimir-putin-donald-trump-alaska-summit-russian-president-csar-of-geopolitics-2772021-2025-08-16",
-      "headline": "In Alaska, Putin emerges as Csar of geopoliticsHyped as a clash of titans, the Trump-Putin Alaska summit fizzled into a charade, with both leaders strutting, posturing, and delivering nothing except photo-ops. "
+      "url": "https://www.indiatoday.in/world/story/how-vladimir-putin-is-winner-alaska-summit-anchorage-donald-trump-ukraine-war-ceasefire-talks-five-points-explained-2772101-2025-08-16",
+      "headline": "How Putin is the winner of Alaska meet | Explained in 5 pointsAt the Alaska Summit, US President Donald Trump threatened \"severe consequences\" but left without pressing Russian President Vladimir Putin on the Ukraine ceasefire. Instead, Putin dominated the talks, won symbolic optics with a red-carpet welcome, hinted at new business ventures, and projected himself as a confident world leader. Here is how he won the meet."
     },
     {
       "sentiment": "positive",
@@ -196,33 +196,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/body-expert-dissects-trump-putin-alaska-handshake-glbs-2771935-2025-08-16",
+      "headline": "From dominant to deflated: How Trump's body language swung during Putin meetTwo experts have now decoded how the body language of Donald Trump, who appeared upbeat, underwent a drastic change in the course of the summit with Putin on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/bill-gates-shares-best-answers-to-toughest-job-interview-questions-2772156-2025-08-16",
+      "headline": "Why should we hire you? Bill Gates shares perfect answers for job interviewsBill Gates once role-played as a college dropout applying for his first job. His witty, practical answers with Stephen Curry reveal timeless lessons for job-seekers facing tough interview questions."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/donald-trump-putin-meeting-alaska-ukraine-war-optics-the-beast-chat-red-carpet-welcome-handshake-2771967-2025-08-16",
       "headline": "Red carpet, secret chat in The Beast: Trump came in roaring, Putin left laughingTrump-Putin Alaska summit: Trump arrived for the summit roaring. He threatened Putin with 'severe consequences' over the Ukraine war. However, when the two leaders met, Trump's compulsive bluster was gone."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/how-vladimir-putin-is-winner-alaska-summit-anchorage-donald-trump-ukraine-war-ceasefire-talks-five-points-explained-2772101-2025-08-16",
-      "headline": "How Putin is the winner of Alaska meet | 5 pointsAt the Alaska Summit, US President Donald Trump threatened \"severe consequences\" but left without pressing Russian President Vladimir Putin on the Ukraine ceasefire. Instead, Putin dominated the talks, won symbolic optics with a red-carpet welcome, hinted at new business ventures, and projected himself as a confident world leader. Here is how he won the meet."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/body-expert-dissects-trump-putin-alaska-handshake-glbs-2771935-2025-08-16",
-      "headline": "From dominant to deflated: How Trump's body language swung during Putin meetTwo experts have now decoded how the body language of Donald Trump, who appeared upbeat, underwent a drastic change in the course of the summit with Putin on Friday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/motorcyclist-killed-hit-and-run-suv-delhi-moti-nagar-2772047-2025-08-16",
-      "headline": "Thar runs over biker in Delhi, multiple liquor bottles found inside carThe victim's younger brother said the incident occurred while Bechu Lal was on his way to the hospital. He had parked his bike behind a truck near a signal when a Thar came from behind and hit him, killing him on the spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
-      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vivek-agnihotri-cries-dictatorship-as-kolkata-blocks-the-bengal-files-trailer-launch-2772109-2025-08-16",
-      "headline": "Vivek Agnihotri cries dictatorship as Kolkata blocks The Bengal Files trailer launchFilmmaker Vivek Agnihotri faced significant hurdles during the trailer launch of his film 'The Bengal Files' in Kolkata. Despite the challenges and cancellations, the trailer was eventually unveiled, highlighting the film's exploration of West Bengal's turbulent political history and communal violence."
+      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
+      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
     },
     {
       "sentiment": "positive",
@@ -231,8 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/stray-dogs-attacks-debate-delhi-supreme-court-speciesism-peter-singer-philosophers-say-pigs-animals-2770783-2025-08-16",
-      "headline": "No, dog lovers are not hypocritesOur preference for dogs over other animals reflects speciesism. We favour those we live with and love, not those whose suffering is equal. Protecting dogs is valid, but not at the predictable cost of vulnerable humans. Here's a philosophical take on the stray dog debate that takes into account ethics and morality."
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
+      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kunal-ghosh-criticises-vivek-agnihotri-bengal-files-trailer-launch-cancelled-political-agenda-2772160-2025-08-16",
+      "headline": "Doing drama, dividing people: Kunal Ghosh vs Vivek Agnihotri over The Bengal FilesKunal Ghosh accused Agnihotri of using cinema to push a political agenda, stating that his work is designed to divide people and create controversy."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/motorcyclist-killed-hit-and-run-suv-delhi-moti-nagar-2772047-2025-08-16",
+      "headline": "Thar runs over biker in Delhi, multiple liquor bottles found inside carThe victim's younger brother said the incident occurred while Bechu Lal was on his way to the hospital. He had parked his bike behind a truck near a signal when a Thar came from behind and hit him, killing him on the spot."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bhopal-student-to-harvard-reaction-video-delights-internet-viral-instagram-video-2771997-2025-08-16",
-      "headline": "Bhopal woman gets into Harvard, her family's reaction in video will leave you in tearsA now-viral video showing a Bhopal student and her family's reaction to her acceptance into Harvard has struck a chord with the internet."
+      "url": "https://www.indiatoday.in/opinion/story/stray-dogs-attacks-debate-delhi-supreme-court-speciesism-peter-singer-philosophers-say-pigs-animals-2770783-2025-08-16",
+      "headline": "No, dog lovers are not hypocritesOur preference for dogs over other animals reflects speciesism. We favour those we live with and love, not those whose suffering is equal. Protecting dogs is valid, but not at the predictable cost of vulnerable humans. Here's a philosophical take on the stray dog debate that takes into account ethics and morality."
     },
     {
       "sentiment": "positive",
@@ -261,6 +261,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bhopal-student-to-harvard-reaction-video-delights-internet-viral-instagram-video-2771997-2025-08-16",
+      "headline": "Bhopal woman gets into Harvard, her family's reaction in video will leave you in tearsA now-viral video showing a Bhopal student and her family's reaction to her acceptance into Harvard has struck a chord with the internet."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-new-rocket-force-command-arfc-chinese-people-liberation-army-india-operation-sindoor-5-big-points-explained-2771310-2025-08-16",
       "headline": "Pak's anti-India rocket force to be built on Chinese template | 5 big pointsPakistan has announced a new Army Rocket Force Command (ARFC), which will be modelled on China's PLA Rocket Force. Islamabad aims to boost its conventional missile capabilities following its drubbing in the four-day military conflict with India. Here are five key points explaining the development, the rocket force command, and what it signifies. "
     },
@@ -270,9 +275,9 @@
       "headline": "Karnataka to roll out state-specific education policy with two-language modelKarnataka Chief Minister Siddaramaiah has announced steps for a state-specific education policy, including a two-language model, more schools, new colleges, and skill-based training for students."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-rain-death-glooding-waterlogging-flight-ops-imd-red-alert-2771963-2025-08-16",
-      "headline": "2 dead as heavy rain batters Mumbai; roads waterlogged, flights hitMumbai has been battered by heavy rain since Friday, causing severe flooding and a deadly landslide. The situation has disrupted daily life."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kiara-advani-expresses-gratitude-to-fans-after-war-2-success-2772161-2025-08-16",
+      "headline": "Love speaks the loudest: Kiara Advani expresses gratitude to fans after War 2 successAyan Mukerji's 'War 2', starring Hrithik Roshan, Kiara Advani and Jr NTR, crossed Rs 100 crore at the box office within two days of release. The cast, including Kiara, Hrithik and Jr NTR, shared heartfelt messages thanking fans for their love and support."
     },
     {
       "sentiment": "positive",
@@ -288,14 +293,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/malaika-arora-on-co-parenting-son-arhaan-with-ex-arbaaz-khan-2772124-2025-08-16",
       "headline": "Malaika Arora on co-parenting son Arhaan with ex Arbaaz: We have our boundariesMalaika Arora opened up about her divorce with Arbaaz Khan, saying co-parenting has its challenges but they have managed to maintain balance for their son Arhaan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vivek-agnihotri-cries-dictatorship-as-kolkata-blocks-the-bengal-files-trailer-launch-2772109-2025-08-16",
-      "headline": "Vivek Agnihotri cries dictatorship as Kolkata blocks The Bengal Files trailer launchFilmmaker Vivek Agnihotri faced significant hurdles during the trailer launch of his film 'The Bengal Files' in Kolkata. Despite the challenges and cancellations, the trailer was eventually unveiled, highlighting the film's exploration of West Bengal's turbulent political history and communal violence."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-3rd-t20i-glenn-maxwell-seals-t20i-series-dewald-brevis-nathan-ellis-2772159-2025-08-16",
+      "headline": "AUS vs SA: Maxwell masterclass seals T20I series with thrilling chase in 3rd T20IGlenn Maxwell's match-winning 62* (36) in the third T20I against South Africa helped Australia seal the three-match series by 2-1 in Cairns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jacob-bethell-set-to-lead-like-ben-stokes-in-captaincy-debut-2772145-2025-08-16",
+      "headline": "Inspired by Ben Stokes, Jacob Bethell set to lead by example on captaincy debutEngland all-rounder Jacob Bethell is ready to lead from the front like Ben Stokes ahead of his captaincy debut in the upcoming three-match T20I series against Ireland."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/sunil-chhetri-cafa-nations-cup-snubbed-khalid-jamil-india-probables-2772143-2025-08-16",
@@ -338,13 +348,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-fitness-workload-management-debate-sanjay-manjrekar-2772038-2025-08-16",
-      "headline": "Jasprit Bumrah must adjust, not Indian cricket: Sanjay Manjrekar on workload debateSanjay Manjrekar has claimed that Jasprit Bumrah shouldn't be considered as the first-choice pick for the Indian Test team if he cannot play more than two matches in a row. Bumrah played just three Tests during the England tour. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/silesia-diamond-league-live-stream-noah-lyles-kenny-bednarek-100m-final-2772100-2025-08-16",
+      "headline": "Lyles-Bednarek rivalry: Beef explained as sprinters resume heated rivalryNoah Lyles and Kenny Bednarek renew their sprint rivalry at the Silesia Diamond League. Their tense history and recent showdown add spice ahead of the Tokyo World Championships."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-open-2025-rybakina-sabalenka-alcaraz-sinner-semis-2772022-2025-08-16",
-      "headline": "Cincinnati Open: Rybakina dumps out Sabalenka, Alcaraz into semisElena Rybakina pulled off a major upset to dump defending champion Aryna Sabalenka out of the Cincinnati Open on Friday, August 15. Carlos Alcaraz had to survive a second set wobble against Andrey Rublev to progress to the final four of the competition. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-guatam-gambhir-utkarsh-wedding-photos-rohit-sharma-2772097-2025-08-16",
+      "headline": "MS Dhoni, Gambhir reunite at star-studded wedding, Rohit joins the celebrationMS Dhoni and Gautam Gambhir were seen sharing a light moment at a high-profile wedding. Rohit Sharma, Tilak Varma, Irfan Pathan and Parthiv Patel were also in attendance. "
     },
     {
       "sentiment": "positive",
@@ -355,16 +365,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-aiden-markram-opening-stubbs-brevis-2772046-2025-08-16",
       "headline": "Markram moves up to accommodate destructive Brevis and Stubbs in batting orderSouth Africa captain Aiden Markram has moved to the openers' slot in the T20Is. The move is aimed at supporting more destructive options in the middle order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-fitness-workload-management-debate-sanjay-manjrekar-2772038-2025-08-16",
-      "headline": "Jasprit Bumrah must adjust, not Indian cricket: Sanjay Manjrekar on workload debateSanjay Manjrekar has claimed that Jasprit Bumrah shouldn't be considered as the first-choice pick for the Indian Test team if he cannot play more than two matches in a row. Bumrah played just three Tests during the England tour. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-open-2025-rybakina-sabalenka-alcaraz-sinner-semis-2772022-2025-08-16",
-      "headline": "Cincinnati Open: Rybakina dumps out Sabalenka, Alcaraz into semisElena Rybakina pulled off a major upset to dump defending champion Aryna Sabalenka out of the Cincinnati Open on Friday, August 15. Carlos Alcaraz had to survive a second set wobble against Andrey Rublev to progress to the final four of the competition. "
     }
   ],
   "education": [
