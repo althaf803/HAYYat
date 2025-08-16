@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/gst-rate-cuts-rationalisation-simpler-tax-structure-good-simple-tax-cheaper-goods-2772146-2025-08-16",
+      "headline": "Real wallet-friendly shake-up: GST 2.0 to feel like 'Good and Simple Tax'The government is set to launch GST 2.0 with major rate cuts, making essentials cheaper and simplifying tax slabs. The overhaul promises lower prices, fewer complications, and a true 'Good and Simple Tax'."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/motor-car-insurance-best-tips-policy-comparison-add-ons-first-time-mistake-personal-finance-2771761-2025-08-16",
       "headline": "What nobody tells you about buying motor insuranceWhile car sales are climbing, many buyers remain unaware about the finer points of motor insurance, a gap that can cost them money and create problems when making a claim."
     },
@@ -54,14 +59,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pms-double-diwali-promise-says-next-generation-gst-with-lower-taxes-coming-soon-2771537-2025-08-15",
       "headline": "PM's Double Diwali promise, says next-generation GST with much lower taxes soonPrime Minister Narendra Modi promised the roll-out a next-generation GST regime with substantially lower taxes before this Diwali, calling it a major festive gift to benefit individuals, MSMEs, and the economy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/ipo/story/upcoming-ipos-5-best-review-gmp-vikram-solar-patel-retail-mangal-gem-aromatics-shreeji-2771335-2025-08-14",
-      "headline": "5 IPOs to open for bidding next week: Which is best based on GMP?Next week will see the IPOs of Patel Retail, Vikram Solar, Gem Aromatics, Shreeji Shipping Global and Mangal Electrical. Together, they are looking to raise Rs 3,584.09 crore from the market. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-dubs-husband-saif-ali-khan-her-lion-in-goofy-55th-birthday-post-2772131-2025-08-16",
+      "headline": "To our lion: Kareena's roar of love for husband Saif Ali Khan on his 55th birthdaySaif Ali Khan celebrated his 55th birthday on August 16. Heartfelt wishes from family, especially his wife Kareena Kapoor Khan and sisters Soha and Saba, poured in via Instagram. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/malaika-arora-on-co-parenting-son-arhaan-with-ex-arbaaz-khan-2772124-2025-08-16",
+      "headline": "Malaika Arora on co-parenting son Arhaan with ex Arbaaz: We have our boundariesMalaika Arora opened up about her divorce with Arbaaz Khan, saying co-parenting has its challenges but they have managed to maintain balance for their son Arhaan."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/vivek-agnihotri-cries-dictatorship-as-kolkata-blocks-the-bengal-files-trailer-launch-2772109-2025-08-16",
@@ -146,19 +156,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/raj-kundra-responds-to-trolls-after-offering-kidney-to-premanand-maharaj-2771836-2025-08-15",
       "headline": "Raj Kundra responds to trolls after offering kidney to Premanand MaharajRaj Kundra has responded strongly to online trolls who labelled his kidney donation offer to spiritual leader Premanand Maharaj as a PR stunt. In his Instagram post on Friday, he emphasised compassion and humanity. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-allegations-going-after-married-men-ambitious-women-are-blamed-2771811-2025-08-15",
-      "headline": "Kangana Ranaut on allegations of going after married men: Ambitious women are blamedActor Kangana Ranaut addressed the allegations of pursuing married men with kids. She emphasised society's tendency to blame ambitious women while excusing men's behaviour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-govinda-wife-sunita-youtube-debut-most-entertaining-biwi-2771799-2025-08-15",
-      "headline": "Farah cheers for Govinda's wife Sunita on her YouTube debut: Most entertaining biwiFilmmaker Farah Khan backed actor Govinda's wife Sunita as she started her new YouTube channel. This came after social media users compared Sunita to Farah Khan. Sunita's debut vlog has already garnered over 5 lakh views."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-on-ukraine-war-after-putin-meet-seeks-direct-peace-not-ceasefire-2772116-2025-08-16",
+      "headline": "Trump pivots on Ukraine war after Putin meet, seeks direct peace not ceasefireTrump said he and Putin had agreed the best way forward was \"to go directly to a peace agreement, which would end the war, and not a mere ceasefire agreement\"."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-welcomes-trump-putin-alaska-meet-calls-leadership-commendable-and-backs-dialogue-on-ukraine-conflict-2772111-2025-08-16",
@@ -166,8 +171,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ready-for-constructive-cooperation-says-zelenskyy-after-trump-putin-summit-to-travel-to-washington-on-monday-2772054-2025-08-16",
-      "headline": "Ready to work for peace: Zelenskyy to head to US after Trump-Putin summitAfter his summit with Putin yielded no agreement on the Ukraine war, Trump told Zelenskyy, in a call lasting over an hour, that Putin preferred a comprehensive deal to end the war to a ceasefire.  "
+      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
+      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
     },
     {
       "sentiment": "negative",
@@ -176,13 +181,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
-      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
+      "url": "https://www.indiatoday.in/world/story/vladimir-putin-donald-trump-alaska-summit-russian-president-csar-of-geopolitics-2772021-2025-08-16",
+      "headline": "In Alaska, Putin emerges as Csar of geopoliticsHyped as a clash of titans, the Trump-Putin Alaska summit fizzled into a charade, with both leaders strutting, posturing, and delivering nothing except photo-ops. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/vladimir-putin-donald-trump-alaska-summit-russian-president-csar-of-geopolitics-2772021-2025-08-16",
-      "headline": "In Alaska, Putin emerges as Csar of geopoliticsHyped as a clash of titans, the Trump-Putin Alaska summit fizzled into a charade, with both leaders strutting, posturing, and delivering nothing except photo-ops. "
+      "url": "https://www.indiatoday.in/world/story/ready-for-constructive-cooperation-says-zelenskyy-after-trump-putin-summit-to-travel-to-washington-on-monday-2772054-2025-08-16",
+      "headline": "Ready to work for peace: Zelenskyy to head to US after Trump-Putin summitAfter his summit with Putin yielded no agreement on the Ukraine war, Trump told Zelenskyy, in a call lasting over an hour, that Putin preferred a comprehensive deal to end the war to a ceasefire.  "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/election-commission-press-conference-rahul-gandhi-vote-theft-allegations-bihar-voter-list-revision-2025-2772128-2025-08-16",
+      "headline": "Poll body press meet tomorrow, likely to address Rahul Gandhi's vote theft claimThe briefing is expected to address recent political developments, including Congress leader Rahul Gandhi's allegations of vote theft. "
     },
     {
       "sentiment": "positive",
@@ -191,18 +201,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/body-expert-dissects-trump-putin-alaska-handshake-glbs-2771935-2025-08-16",
-      "headline": "From dominant to deflated: How Trump's body language swung during Putin meetTwo experts have now decoded how the body language of Donald Trump, who appeared upbeat, underwent a drastic change in the course of the summit with Putin on Friday."
+      "url": "https://www.indiatoday.in/world/story/how-vladimir-putin-is-winner-alaska-summit-anchorage-donald-trump-ukraine-war-ceasefire-talks-five-points-explained-2772101-2025-08-16",
+      "headline": "How Putin is the winner of Alaska meet | 5 pointsAt the Alaska Summit, US President Donald Trump threatened \"severe consequences\" but left without pressing Russian President Vladimir Putin on the Ukraine ceasefire. Instead, Putin dominated the talks, won symbolic optics with a red-carpet welcome, hinted at new business ventures, and projected himself as a confident world leader. Here is how he won the meet."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-shuttlecocks-crisis-bai-secretary-2771982-2025-08-16",
-      "headline": "How China's changing food habits has forced a shuttlecock crisisThe world of badminton is going through a shuttlecock crisis. With China shifting its food habits, the badminton community stares at an unprecedented crisis in its hands."
+      "url": "https://www.indiatoday.in/world/story/body-expert-dissects-trump-putin-alaska-handshake-glbs-2771935-2025-08-16",
+      "headline": "From dominant to deflated: How Trump's body language swung during Putin meetTwo experts have now decoded how the body language of Donald Trump, who appeared upbeat, underwent a drastic change in the course of the summit with Putin on Friday."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/motorcyclist-killed-hit-and-run-suv-delhi-moti-nagar-2772047-2025-08-16",
       "headline": "Thar runs over biker in Delhi, multiple liquor bottles found inside carThe victim's younger brother said the incident occurred while Bechu Lal was on his way to the hospital. He had parked his bike behind a truck near a signal when a Thar came from behind and hit him, killing him on the spot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
+      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
     },
     {
       "sentiment": "positive",
@@ -216,28 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
-      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/stray-dogs-attacks-debate-delhi-supreme-court-speciesism-peter-singer-philosophers-say-pigs-animals-2770783-2025-08-16",
       "headline": "No, dog lovers are not hypocritesOur preference for dogs over other animals reflects speciesism. We favour those we live with and love, not those whose suffering is equal. Protecting dogs is valid, but not at the predictable cost of vulnerable humans. Here's a philosophical take on the stray dog debate that takes into account ethics and morality."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-new-rocket-force-command-arfc-chinese-people-liberation-army-india-operation-sindoor-5-big-points-explained-2771310-2025-08-16",
-      "headline": "Pak's anti-India rocket force to be built on Chinese template | 5 big pointsPakistan has announced a new Army Rocket Force Command (ARFC), which will be modelled on China's PLA Rocket Force. Islamabad aims to boost its conventional missile capabilities following its drubbing in the four-day military conflict with India. Here are five key points explaining the development, the rocket force command, and what it signifies. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/karnataka-education-policy-youth-development-bilingual-schooling-2772016-2025-08-16",
-      "headline": "Karnataka to roll out state-specific education policy with two-language modelKarnataka Chief Minister Siddaramaiah has announced steps for a state-specific education policy, including a two-language model, more schools, new colleges, and skill-based training for students."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/when-did-rajinikanth-become-god-chasing-the-man-the-myth-the-legend-2772000-2025-08-16",
-      "headline": "When did Rajinikanth become God? Chasing the man, the myth, the legendFrom bus conductor to cinema deity, Rajinikanth is beyond a superstar; he is a phenomenon. For millions, his films are festivals, his words are scripture, and his very presence radiates the energy of a living legend. Fifty years on, the question isn't how he became a star, but how he became God."
+      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-shuttlecocks-crisis-bai-secretary-2771982-2025-08-16",
+      "headline": "How China's changing food habits has forced a shuttlecock crisisThe world of badminton is going through a shuttlecock crisis. With China shifting its food habits, the badminton community stares at an unprecedented crisis in its hands."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/explosions-from-the-sun-geomagnetic-storm-could-be-secretly-spiking-your-blood-pressure-2772005-2025-08-16",
-      "headline": "Solar storms could be raising your blood pressure, women affected moreThe research, carried out over six years in the cities of Qingdao and Weihai, examined more than half a million blood pressure readings. "
+      "url": "https://www.indiatoday.in/trending-news/story/bhopal-student-to-harvard-reaction-video-delights-internet-viral-instagram-video-2771997-2025-08-16",
+      "headline": "Bhopal woman gets into Harvard, her family's reaction in video will leave you in tearsA now-viral video showing a Bhopal student and her family's reaction to her acceptance into Harvard has struck a chord with the internet."
     },
     {
       "sentiment": "positive",
@@ -260,42 +260,52 @@
       "headline": "Javed Akhtar claps back after troll suggests he celebrate Pak Independence DayOn Independence Day, Javed Akhtar shared a message remembering freedom fighters but was trolled online. He gave a sharp reply, reminding that his ancestors went to Kaala Pani for India's freedom while some others supported the British."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-new-rocket-force-command-arfc-chinese-people-liberation-army-india-operation-sindoor-5-big-points-explained-2771310-2025-08-16",
+      "headline": "Pak's anti-India rocket force to be built on Chinese template | 5 big pointsPakistan has announced a new Army Rocket Force Command (ARFC), which will be modelled on China's PLA Rocket Force. Islamabad aims to boost its conventional missile capabilities following its drubbing in the four-day military conflict with India. Here are five key points explaining the development, the rocket force command, and what it signifies. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/karnataka-education-policy-youth-development-bilingual-schooling-2772016-2025-08-16",
+      "headline": "Karnataka to roll out state-specific education policy with two-language modelKarnataka Chief Minister Siddaramaiah has announced steps for a state-specific education policy, including a two-language model, more schools, new colleges, and skill-based training for students."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-rain-death-glooding-waterlogging-flight-ops-imd-red-alert-2771963-2025-08-16",
       "headline": "2 dead as heavy rain batters Mumbai; roads waterlogged, flights hitMumbai has been battered by heavy rain since Friday, causing severe flooding and a deadly landslide. The situation has disrupted daily life."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bhopal-student-to-harvard-reaction-video-delights-internet-viral-instagram-video-2771997-2025-08-16",
-      "headline": "Bhopal woman gets into Harvard, her family's reaction in video will leave you in tearsA now-viral video showing a Bhopal student and her family's reaction to her acceptance into Harvard has struck a chord with the internet."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-says-playing-hanuman-in-nitesh-tiwari-ramayana-is-a-big-challenge-2772149-2025-08-16",
+      "headline": "Sunny Deol says playing Hanuman in Nitesh Tiwari's Ramayana is a big challengeSunny Deol, set to play Lord Hanuman in Nitesh Tiwari's 'Ramayana', shared that the role is both exciting and challenging. He also expressed hope that the film's scale and effects will match Hollywood standards and satisfy audiences."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/shubhanshu-shukla-returning-to-india-likely-to-meet-pm-modi-resume-gaganyaan-training-2771996-2025-08-16",
-      "headline": "Shux returning to India: Spend time with family, resume trainingShubhanshu Shukla, who spent nearly a year collaborating with an international crew for the Ax-4 mission, shared an emotional message as he boarded his flight home."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-dubs-husband-saif-ali-khan-her-lion-in-goofy-55th-birthday-post-2772131-2025-08-16",
+      "headline": "To our lion: Kareena's roar of love for husband Saif Ali Khan on his 55th birthdaySaif Ali Khan celebrated his 55th birthday on August 16. Heartfelt wishes from family, especially his wife Kareena Kapoor Khan and sisters Soha and Saba, poured in via Instagram. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/malaika-arora-on-co-parenting-son-arhaan-with-ex-arbaaz-khan-2772124-2025-08-16",
+      "headline": "Malaika Arora on co-parenting son Arhaan with ex Arbaaz: We have our boundariesMalaika Arora opened up about her divorce with Arbaaz Khan, saying co-parenting has its challenges but they have managed to maintain balance for their son Arhaan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/vivek-agnihotri-cries-dictatorship-as-kolkata-blocks-the-bengal-files-trailer-launch-2772109-2025-08-16",
       "headline": "Vivek Agnihotri cries dictatorship as Kolkata blocks The Bengal Files trailer launchFilmmaker Vivek Agnihotri faced significant hurdles during the trailer launch of his film 'The Bengal Files' in Kolkata. Despite the challenges and cancellations, the trailer was eventually unveiled, highlighting the film's exploration of West Bengal's turbulent political history and communal violence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-honoured-as-he-attends-independence-day-ceremony-at-rashtrapati-bhavan-2772075-2025-08-16",
-      "headline": "Anupam Kher attends Independence Day ceremony at Rashtrapati\u00a0BhavanAnupam Kher attended the Independence Day At Home ceremony at Rashtrapati Bhavan, hosted by President Droupadi Murmu. The actor said he felt honoured and blessed to be part of the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-slams-troll-asking-him-to-celebrate-pakistan-independence-day-2772073-2025-08-16",
-      "headline": "Javed Akhtar claps back after troll suggests he celebrate Pak Independence DayOn Independence Day, Javed Akhtar shared a message remembering freedom fighters but was trolled online. He gave a sharp reply, reminding that his ancestors went to Kaala Pani for India's freedom while some others supported the British."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/geetha-govindam-turns-7-vijay-deverakonda-rashmika-mandanna-share-bts-pics-2772056-2025-08-16",
-      "headline": "Geetha Govindam turns 7: Vijay Deverakonda, Rashmika share BTS pics, special postsVijay Deverakonda and Rashmika Mandanna celebrated seven years of their hit film 'Geetha Govindam' by sharing heartfelt notes on social media. While Vijay called the film \"special\" and said he is \"missing\" the team, Rashmika posted throwback pictures and said the film will \"always be the most special.\""
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/sunil-chhetri-cafa-nations-cup-snubbed-khalid-jamil-india-probables-2772143-2025-08-16",
+      "headline": "No Sunil Chhetri in Khalid Jamil's India probables for CAFA Nations CupSunil Chhetri has been left out of India's 35-man probables for the CAFA Nations Cup. The AIFF offered no explanation, leaving uncertainty around the legend's international future as the Blue Tigers prepare for their campaign later this month."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-3rd-t20i-dewald-brevis-100-m-six-video-cairns-2772133-2025-08-16",
+      "headline": "Watch: Dewald Brevis launches 100m six out of stadium in T20I vs AustraliaAUS vs SA, 3rd T20I: Dewald Brevis continued his impressive run in the T20I series against Australia with a quick 53 in the final match. He hit 6 sixes, including a 100m biggie, on Saturday."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/chennai-super-kings-rubbish-dewald-brevis-rumours-after-ashwins-claim-2772104-2025-08-16",
@@ -338,13 +348,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/youngest-cricket-captains-world-jacob-bethell-2772011-2025-08-16",
-      "headline": "Jacob Bethell named England's youngest ever captain for T20I series vs IrelandJacob Bethell will captain England in the upcoming T20I series against Ireland. He becomes  England men's team's youngest captain in their cricketing history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-arsenal-2025-26-season-preview-mikel-arteta-title-challenge-2771994-2025-08-16",
-      "headline": "Premier League: Can Mikel Arteta crack the code and lead Arsenal to glory?After years of near-misses, Mikel Arteta's Arsenal enter 2025-26 with new signings, depth, and belief. Is this the year they win it all? The Gunners are under pressure to deliver silverware, but their squad will once again be put to the test."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-st-louis-rapid-blitz-2025-levon-aronian-title-2772077-2025-08-16",
+      "headline": "D Gukesh finishes tied sixth at St. Louis Rapid and Blitz, Levon Aronian wins titleD Gukesh faltered in the second half of the final day of the St. Louis Rapid and Blitz tournament to finish tied sixth in the standings. The USA's Levon Aronian won the title in comprehensive fashion. "
     },
     {
       "sentiment": "positive",
@@ -360,16 +365,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-open-2025-rybakina-sabalenka-alcaraz-sinner-semis-2772022-2025-08-16",
       "headline": "Cincinnati Open: Rybakina dumps out Sabalenka, Alcaraz into semisElena Rybakina pulled off a major upset to dump defending champion Aryna Sabalenka out of the Cincinnati Open on Friday, August 15. Carlos Alcaraz had to survive a second set wobble against Andrey Rublev to progress to the final four of the competition. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/youngest-cricket-captains-world-jacob-bethell-2772011-2025-08-16",
-      "headline": "Jacob Bethell named England's youngest ever captain for T20I series vs IrelandJacob Bethell will captain England in the upcoming T20I series against Ireland. He becomes  England men's team's youngest captain in their cricketing history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-arsenal-2025-26-season-preview-mikel-arteta-title-challenge-2771994-2025-08-16",
-      "headline": "Premier League: Can Mikel Arteta crack the code and lead Arsenal to glory?After years of near-misses, Mikel Arteta's Arsenal enter 2025-26 with new signings, depth, and belief. Is this the year they win it all? The Gunners are under pressure to deliver silverware, but their squad will once again be put to the test."
     }
   ],
   "education": [
