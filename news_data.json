@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-bads-of-bollywood-first-look-is-all-sass-and-swag-watch-2772328-2025-08-17",
+      "headline": "Aryan Khan's Bads of Bollywood first look is all sass and swag. WatchThe first look of Aryan Khan's Bads of Bollywood is out. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
+      "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/anita-advani-secret-marriage-claim-rajesh-khanna-funeral-exclusion-2772311-2025-08-17",
       "headline": "Anita Advani says she secretly married Rajesh Khanna: He made me wear mangal sutraAnita Advani has revealed that she was privately married to the late Bollywood superstar Rajesh Khanna, adding a new dimension to his personal life story."
     },
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/war-2-box-office-day-2-hrithik-roshan-jr-ntr-film-soars-past-rajinikanth-coolie-on-independence-day-2772012-2025-08-16",
       "headline": "War 2 box office Day 2: Hrithik, Jr NTR film soars past Coolie on Independence Day'War 2' has made a powerful impact at the box office, crossing Rs 100 crore in just two days despite mixed reviews. The Hindi version thrived on the Independence Day holiday, setting the stage for a fierce competition with Coolie as audiences across India flock to theatres."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/when-did-rajinikanth-become-god-chasing-the-man-the-myth-the-legend-2772000-2025-08-16",
-      "headline": "When did Rajinikanth become God? Chasing the man, the myth, the legendFrom bus conductor to cinema deity, Rajinikanth is beyond a superstar; he is a phenomenon. For millions, his films are festivals, his words are scripture, and his very presence radiates the energy of a living legend. Fifty years on, the question isn't how he became a star, but how he became God."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-day-2-rajinikanth-reigns-supreme-with-rs-119-crore-in-india-2771984-2025-08-16",
-      "headline": "Coolie box office Day 2: Rajinikanth reigns supreme with Rs 119 crore in IndiaRajinikanth's latest film 'Coolie' sets new records, becoming the first Tamil film to earn Rs 100 crore in two days, and breaking records overseas. "
     }
   ],
   "general news": [
@@ -190,14 +190,14 @@
       "headline": "Delhi gets Rs 11,000 crore road push as PM to inaugurate 2 highway projects todayThe 10.1-km Delhi section of the Dwarka Expressway and a key stretch of UER-II, built at a combined cost of nearly Rs 11,000 crore, aim to ease traffic congestion and improve the capital's connectivity."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/angry-locals-in-cloudburst-hit-chasoti-confront-omar-abdullah-demand-faster-rescue-2772258-2025-08-17",
-      "headline": "Angry locals in cloudburst-hit Chasoti confront Omar Abdullah, demand faster rescueThe chief minister, who travelled by road to the disaster-hit area, the last motorable point en route to the Machail Mata shrine, was confronted by angry locals demanding faster rescue operations and answers about their missing family members."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
+      "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-leader-kills-wife-girlfriends-behest-rajasthan-ajmer-both-arrested-rohit-saini-2772221-2025-08-16",
-      "headline": "BJP leader kills wife at girlfriend's behest in Rajasthan's Ajmer, both arrestedBJP leader Rohit Saini murdered his wife Sanju in Ajmer on August 10, staging it as a robbery at the insistence of his girlfriend Ritu Saini. Police arrested both within 24 hours after exposing the conspiracy."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-man-rapes-mother-accused-her-having-affair-haus-qazi-police-2772326-2025-08-17",
+      "headline": "Delhi man rapes mother twice after accusing her of having 'bad character'The complainant, accompanied by her 25-year-old daughter, approached cops and alleged that her son, Md Firoz, had assaulted and sexually abused her on multiple occasions this month."
     },
     {
       "sentiment": "positive",
@@ -211,8 +211,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-shuts-down-troll-asking-him-to-retire-with-witty-reply-2772283-2025-08-17",
-      "headline": "Shah Rukh Khan shuts down troll asking him to retire with witty replyShah Rukh Khan engaged fans on X with a lively #AskSRK session, where he schooled a troll suggesting retirement. During the session on Saturday, he also updated fans about his recovery, 'King', and son Aryan's directorial debut. "
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-bannerghatta-national-park-leopard-attacks-safari-bus-viral-video-2772319-2025-08-17",
+      "headline": "Leopard attacks safari bus in Bengaluru, claws 12-year-old boy's hand. Video viralA safari ride at Bengaluru's Bannerghatta National Park turned tense after a leopard jumped onto a non-AC bus carrying tourists and clawed a 12-year-old boy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bjp-leader-kills-wife-girlfriends-behest-rajasthan-ajmer-both-arrested-rohit-saini-2772221-2025-08-16",
+      "headline": "BJP leader kills wife at girlfriend's behest in Rajasthan's Ajmer, both arrestedBJP leader Rohit Saini murdered his wife Sanju in Ajmer on August 10, staging it as a robbery at the insistence of his girlfriend Ritu Saini. Police arrested both within 24 hours after exposing the conspiracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-bads-of-bollywood-first-look-is-all-sass-and-swag-watch-2772328-2025-08-17",
+      "headline": "Aryan Khan flips the script with his bold Bads of Bollywood first lookAryan Khan's 'The Ba***ds of Bollywood' teaser has generated excitement by blending love and critique of Bollywood, with the show slated for release in 2025."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/rahul-gandhi-voter-adhikar-yatra-bihar-sir-election-commission-vote-chori-tejashwi-rjd-bjp-2772314-2025-08-17",
+      "headline": "Live: Rahul Gandhi, Tejashwi Yadav to lead Opposition's push against 'vote chori'Voter Adhikar Yatra Live Updates: Congress leader Rahul Gandhi will begin a 16-day, 1,300-km \"Voter Adhikar Yatra\" from Sasaram today, with the Opposition-led INDIA bloc pitching it as a fight to protect the principle of \"one person, one vote\" ahead of the Bihar Assembly elections due later this year. The march, which will conclude with a mega rally in Patna on September 1, will be joined by Rashtriya Janata Dal (RJD) leader Tejashwi Yadav and other Mahagathbandhan politicians. It will cover 20 districts, including Gaya, Bhagalpur, Purnea, Darbhanga and West Champaran. The campaign will combine foot marches and road travel, similar to Rahul Gandhi's Bharat Jodo Nyay Yatra held earlier this year ahead of the Lok Sabha polls. Stay tuned to IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/angry-locals-in-cloudburst-hit-chasoti-confront-omar-abdullah-demand-faster-rescue-2772258-2025-08-17",
+      "headline": "Angry locals in cloudburst-hit Chasoti confront Omar Abdullah, demand faster rescueThe chief minister, who travelled by road to the disaster-hit area, the last motorable point en route to the Machail Mata shrine, was confronted by angry locals demanding faster rescue operations and answers about their missing family members."
     },
     {
       "sentiment": "negative",
@@ -226,13 +246,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-514-15-08-2025",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/putin-says-talks-with-trump-in-alaska-were-sincere-substantive-calling-visit-useful-and-timely-2772210-2025-08-16",
       "headline": "Talks with Trump in Alaska sincere, bring us closer to necessary decisions: PutinPutin told senior Kremlin officials that his visit to Alaska was \"timely and extremely useful,\" noting that Russia \"have not had direct negotiations of this kind at this level for a long time.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/tiruppur-knitwear-crisis-trump-tariffs-threaten-jobs-tamil-nadu-mk-stalin-2772190-2025-08-16",
-      "headline": "Trump's tariffs put Tamil Nadu's 20,000 factories, 30 lakh jobs at riskIndia's knitwear hub Tiruppur faces a major crisis after Trump's steep US tariffs threaten 20,000 factories and 30 lakh jobs, prompting CM Stalin to seek PM Modi's urgent intervention."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/legal-education-in-schools-time-to-make-it-mandatory-2771360-2025-08-17",
+      "headline": "Legal education in schools: Time to make it mandatory?With the Central Board of Secondary Education introducing a legal studies framework for Classes 11 and 12, the conversation has shifted towards preparing students for the legal and civic complexities of modern life. While the subject is often viewed as optional or specialised, its inclusion at the senior secondary level signals a broader recognition that understanding laws, rights, and responsibilities is essential to responsible citizenship in a changing society."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/2025-a-year-that-documented-the-fall-of-greats-in-tamil-cinema-shankar-rajinikanth-kamal-haasan-suriya-coolie-thug-life-2771807-2025-08-17",
+      "headline": "2025: A year that documented the fall of greats in Tamil cinemaMani Ratnam, Shankar, Kamal Haasan, Suriya, and AR Murugadoss's films were criticised for their creations in 2025. This raises a pertinent question about the audience's changing tastes. \r\n"
     },
     {
       "sentiment": "positive",
@@ -246,38 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-514-15-08-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-mumbai-thane-deaths-injuries-dahi-handi-janmasthami-celebrations-2772282-2025-08-17",
-      "headline": "Teen among 2 dead in Dahi Handi celebrations in Maharashtra, over 200 injuredOver 200 people were injured in Mumbai and Thane during 'Dahi Handi' celebrations on Saturday, which is being observed across Maharashtra on Janmasthami to mark the birth of Lord Krishna."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/mahindra-vision-s-concept-is-this-a-new-scorpio-2772009-2025-08-16",
-      "headline": "Mahindra Vision S concept: Is this a new Scorpio?The Vision S SUV will be underpinned by the new NU_IQ platform, production slated for 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/2025-a-year-that-documented-the-fall-of-greats-in-tamil-cinema-shankar-rajinikanth-kamal-haasan-suriya-coolie-thug-life-2771807-2025-08-17",
-      "headline": "2025: A year that documented the fall of greats in Tamil cinemaMani Ratnam, Shankar, Kamal Haasan, Suriya, and AR Murugadoss's films were criticised for their creations in 2025. This raises a pertinent question about the audience's changing tastes. \r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/sacked-samajwadi-party-mla-pooja-pal-meets-chief-minister-yogi-adityanath-2772245-2025-08-17",
       "headline": "Samajwadi MLA, sacked for Yogi Adityanath praise, meets UP Chief MinisterPooja Pal, who was expelled from the Samajwadi Party, met Chief Minister Yogi Adityanath. Her expulsion has stirred political controversy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-admin-tightens-scrutiny-good-moral-character-us-citizenship-glbs-2772255-2025-08-17",
-      "headline": "Trump admin tightens scrutiny of 'good moral character' for US citizenshipThe new policy requires officers to conduct a \"holistic assessment\" that goes beyond checking criminal records. According to the memo, the determination \"must involve more than a cursory mechanical review focused on the absence of wrongdoing.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-voter-adhikar-yatra-bihar-begin-election-congress-sasaram-patna-2772253-2025-08-17",
-      "headline": "Rahul Gandhi's 'Voter Adhikar Yatra' in Bihar to begin todayLeader of the Opposition Rahul Gandhi is set to begin his 'Voter Adhikar Yatra' in Bihar today. The Yatra will begin from Sasaram and culminate in Patna within 16 days."
+      "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
+      "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-shuts-down-troll-asking-him-to-retire-with-witty-reply-2772283-2025-08-17",
       "headline": "Shah Rukh Khan shuts down troll asking him to retire with witty replyShah Rukh Khan engaged fans on X with a lively #AskSRK session, where he schooled a troll suggesting retirement. During the session on Saturday, he also updated fans about his recovery, 'King', and son Aryan's directorial debut. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-talks-about-aryan-khan-directorial-debut-bads-of-bollywood-confirms-cameo-2772165-2025-08-16",
-      "headline": "SRK talks about son Aryan's directorial debut Bads of Bollywood, confirms cameoShah Rukh Khan praised his son Aryan Khan's directorial debut 'B**ds of Bollywood' during his #AskSRK session, calling it very entertaining, wacky and emotional. The first look of the series will be unveiled on August 17."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yash-dhul-delhi-premier-league-comeback-india-debut-aspiration-2772337-2025-08-17",
+      "headline": "India dream intact, Yash Dhull says staying in the present is his top priorityYash Dhull says staying in the present is his mantra as the former India U-19 World Cup-winning captain looks to seise every opportunity, highlighted by a match-winning hundred in the Delhi Premier League."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shukri-conrad-south-africa-dewald-brevis-australia-series-2772341-2025-08-17",
+      "headline": "Play like Dewald Brevis: South Africa coach wants players to show off a bit moreSouth Africa coach Shukri Conrad says his players must \"show off more\" like Dewald Brevis, despite the T20I series loss to Australia. Brevis starred for the Proteas with the bat during the three-match series. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-confirms-availability-india-asia-cup-squad-report-2772320-2025-08-17",
+      "headline": "Jasprit Bumrah confirms availability for India's Asia Cup squad: ReportIndia's premier fast bowler Jasprit Bumrah has reportedly declared himself available for the forthcoming Asia Cup in Dubai. The tournament, scheduled to be held in the UAE from 9 to 28 September, will be contested in the T20 format."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/divya-deshmukh-fide-grand-swiss-2025-open-section-womens-world-cup-2772313-2025-08-17",
@@ -343,18 +358,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-dewald-brevis-breaks-virat-kohlis-record-2772228-2025-08-16",
-      "headline": "Dewald Brevis breaks Virat Kohli's major record after breathtaking 50 vs AustraliaSouth Africa batter Dewald Brevis broke Virat Kohli's five-year-old record in Australia after his phenomenal show in the three-matchT20I series against Australia."
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-city-beat-wolves-pep-guardiola-reaction-2772290-2025-08-17",
+      "headline": "Manchester City's squad size has to reduce: Guardiola downplays win at WolvesManchester City opened their Premier League campaign with a resounding 4-0 win over Wolverhampton Wanderers at Molineux, but manager Pep Guardiola warned against reading too much into the result and highlighted concerns over the size of his squad."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/eddie-howe-alexander-isak-future-newcastle-united-aston-villa-premier-league-2772225-2025-08-16",
-      "headline": "Eddie Howe eyes swift resolution on Alexander Isak after Villa stalemateEddie Howe has urged Newcastle to resolve Alexander Isak's future quickly after the striker missed their 0-0 draw with Aston Villa. The manager insists the door is open for Isak, but stressed the club needs clarity to avoid distractions this season."
+      "url": "https://www.indiatoday.in/sports/football/story/chelsea-2025-26-premier-league-season-preview-enzo-maresca-2772289-2025-08-17",
+      "headline": "Premier League: Chelsea's young core faces the ultimate test in the 2025-26 campaignChelsea head into the 2025-26 Premier League season chasing stability and ambition. After lifting two trophies last year, Enzo Maresca's side will rely on a young core, fresh signings, and squad continuity to mount a serious challenge at the top."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-introduces-injury-replacement-rule-in-domestic-cricket-2772222-2025-08-16",
-      "headline": "BCCI introduces injury replacement rule in domestic cricket, will ICC follow suit?The BCCI has introduced a revolutionary injury replacement rule for multi-day tournaments in the upcoming domestic season. The law is set to make its debut in the Duleep Trophy from August 28 and the Under-19 CK Nayudu Trophy."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-arsenal-live-streaming-premier-league-predicted-xis-2772280-2025-08-17",
+      "headline": "Manchester United vs Arsenal, Premier League: Predicted XIs, live-streamingOld Trafford will stage the Premier League's first blockbuster of the season on August 17, as Manchester United take on Arsenal. With new strikers Benjamin Sesko and Viktor Gyokeres in the spotlight, both sides will be eager to make a statement in what promises to be an early-season epic."
     },
     {
       "sentiment": "positive",
@@ -365,21 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-clarifies-csk-dewald-brevis-signing-ipl-2025-2772265-2025-08-17",
       "headline": "After CSK issue Brevis signing clarification, Ashwin clears air on remarkR Ashwin has clarified the remark he made about Dewald Brevis signing with CSK, saying that his comments were taken out of context. CSK issued a statement about the Brevis signing on August 16 to put rumours about the authenticity of the move to bed. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-dewald-brevis-breaks-virat-kohlis-record-2772228-2025-08-16",
-      "headline": "Dewald Brevis breaks Virat Kohli's major record after breathtaking 50 vs AustraliaSouth Africa batter Dewald Brevis broke Virat Kohli's five-year-old record in Australia after his phenomenal show in the three-matchT20I series against Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/eddie-howe-alexander-isak-future-newcastle-united-aston-villa-premier-league-2772225-2025-08-16",
-      "headline": "Eddie Howe eyes swift resolution on Alexander Isak after Villa stalemateEddie Howe has urged Newcastle to resolve Alexander Isak's future quickly after the striker missed their 0-0 draw with Aston Villa. The manager insists the door is open for Isak, but stressed the club needs clarity to avoid distractions this season."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-introduces-injury-replacement-rule-in-domestic-cricket-2772222-2025-08-16",
-      "headline": "BCCI introduces injury replacement rule in domestic cricket, will ICC follow suit?The BCCI has introduced a revolutionary injury replacement rule for multi-day tournaments in the upcoming domestic season. The law is set to make its debut in the Duleep Trophy from August 28 and the Under-19 CK Nayudu Trophy."
     }
   ],
   "education": [
