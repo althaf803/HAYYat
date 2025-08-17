@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kollam-thulasi-faces-heat-for-sexist-outburst-after-amma-malayalam-film-body-elects-woman-president-shwetha-mennon-2772470-2025-08-17",
+      "headline": "Men should rule: Kerala actor's sexist rant after film body elects woman headThe Malayalam film body elected Shwetha Menon as its first female president, marking a landmark moment in Malayalam cinema. However, veteran Kollam Thulasi's sexist remarks have overshadowed the celebration, reigniting debates on industry sexism."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/boney-kapoor-shows-off-his-age-old-outfits-janhvi-kapoor-has-the-sweetest-reaction-2772472-2025-08-17",
+      "headline": "Boney Kapoor shows off his age-old outfits, Janhvi has the sweetest reactionBoney Kapoor impressed fans on Instagram by posing in a stylish look featuring his 22-year-old jeans and 18-year-old shirt, paired with a fresh haircut. His daughter Janhvi Kapoor added a sweet \"Wow papa\" comment, while fans showered him with love and nostalgic messages."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/the-bads-of-bollywood-x-twitter-reactions-aryan-khans-glimpse-gives-fans-full-srk-deja-vu-2772422-2025-08-17",
       "headline": "Bads of Bollywood X reactions: Aryan Khan's glimpse gives fans full SRK deja vuAryan Khan's upcoming web series 'The Ba***ds of Bollywood' first teaser sparked widespread attention. The series, written and directed by Aryan Khan, features a star-studded cast and is backed by Gauri Khan, promising a stylised entertainment world."
     },
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-talks-about-aryan-khan-directorial-debut-bads-of-bollywood-confirms-cameo-2772165-2025-08-16",
       "headline": "SRK talks about son Aryan's directorial debut Bads of Bollywood, confirms cameoShah Rukh Khan praised his son Aryan Khan's directorial debut 'B**ds of Bollywood' during his #AskSRK session, calling it very entertaining, wacky and emotional. The first look of the series will be unveiled on August 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kiara-advani-expresses-gratitude-to-fans-after-war-2-success-2772161-2025-08-16",
-      "headline": "Love speaks the loudest: Kiara Advani expresses gratitude to fans after War 2 successAyan Mukerji's 'War 2', starring Hrithik Roshan, Kiara Advani and Jr NTR, crossed Rs 100 crore at the box office within two days of release. The cast, including Kiara, Hrithik and Jr NTR, shared heartfelt messages thanking fans for their love and support."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-says-playing-hanuman-in-nitesh-tiwari-ramayana-is-a-big-challenge-2772149-2025-08-16",
-      "headline": "Sunny Deol says playing Hanuman in Nitesh Tiwari's Ramayana is a big challengeSunny Deol, set to play Lord Hanuman in Nitesh Tiwari's 'Ramayana', shared that the role is both exciting and challenging. He also expressed hope that the film's scale and effects will match Hollywood standards and satisfy audiences."
     }
   ],
   "general news": [
@@ -171,13 +171,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/new-york-restaurant-shooting-in-brooklyn-killed-injured-2772461-2025-08-17",
-      "headline": "3 killed, 8 injured in early morning mass shooting at restaurant in BrooklynThe incident occurred just before 3.30 am inside Taste of the City Lounge, located at 903 Franklin Avenue, NYPD Commissioner Jessica Tisch said."
+      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-slams-opposition-crushed-constitution-delhi-vision-gst-reform-2772446-2025-08-17",
+      "headline": "Once crushed Constitution, now dancing with it: PM Modi slams OppositionPM Modi attacked the Opposition, saying they once crushed the Constitution but now pretend to safeguard it. He also shared his vision to transform Delhi into the capital of a developed India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/election-commission-eci-counters-rahul-gandhi-charges-voter-fraud-house-number-address-vote-chori-sir-bihar-supreme-court-2772457-2025-08-17",
-      "headline": "House No. 0 to name duplications: EC's big counter to Rahul Gandhi's chargesThe Election Commission of India (ECI) on Sunday countered Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house number and how duplication in voter list doesn't mean fraud, and batting for the sanctity of the electoral list and the Special Intensive Revision (SIR) exercise."
+      "headline": "House No. 0 to name duplications: Poll body's big counter to Rahul GandhiThe Election Commission of India (ECI) on Sunday countered Congress leader Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house numbers and that duplication in voter list didn't mean fraud. It vouched for the sanctity of the electoral rolls and said the Special Intensive Revision (SIR) exercise in Bihar wasn't being done in a rush."
     },
     {
       "sentiment": "positive",
@@ -186,8 +186,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-slams-opposition-crushed-constitution-delhi-vision-gst-reform-2772446-2025-08-17",
-      "headline": "Once crushed Constitution, now dancing with it: PM Modi slams OppositionPM Modi attacked the Opposition, saying they once crushed the Constitution but now pretend to safeguard it. He also shared his vision to transform Delhi into the capital of a developed India."
+      "url": "https://www.indiatoday.in/world/story/new-york-restaurant-shooting-in-brooklyn-killed-injured-2772461-2025-08-17",
+      "headline": "3 killed, 8 injured in early morning mass shooting at restaurant in BrooklynThe incident occurred just before 3.30 am inside Taste of the City Lounge, located at 903 Franklin Avenue, NYPD Commissioner Jessica Tisch said."
     },
     {
       "sentiment": "positive",
@@ -210,9 +210,14 @@
       "headline": "When Kolkata stops, it's only for East Bengal vs Mohun Bagan DerbyWhen East Bengal and Mohun Bagan face off, Kolkata doesn't just watch \u2014 it holds its breath. Ninety minutes of chaos, colour, and history where football isn't sport, but identity played loud."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cloudburst-kills-4-injures-6-in-jammu-kashmirs-kathua-houses-buried-roads-cut-off-rescue-ops-on-2772286-2025-08-17",
-      "headline": "7 dead after cloudburst, landslide in J&K's Kathua, Army choppers join rescue opsSeveral houses were buried under rubble and floodwaters in the Ghati area, officials said. Damage was also reported on the Jammu\u2013Pathankot National Highway. Rescue teams are at the spot."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/keir-starmer-european-leaders-join-zelenskyy-washington-talks-donald-trump-ukraine-war-peace-deal-2772469-2025-08-17",
+      "headline": "Keir Starmer, European leaders to join Zelenskyy in Washington talks with TrumpEuropean leaders including Macron, Merz, Starmer, Meloni and von der Leyen will accompany Zelenskyy to Washington for talks with Trump, as the US president pushes Ukraine towards a quick peace deal with Russia. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kollam-thulasi-faces-heat-for-sexist-outburst-after-amma-malayalam-film-body-elects-woman-president-shwetha-mennon-2772470-2025-08-17",
+      "headline": "Men should rule: Kerala actor's sexist rant after film body elects woman headThe Malayalam film body elected Shwetha Menon as its first female president, marking a landmark moment in Malayalam cinema. However, veteran Kollam Thulasi's sexist remarks have overshadowed the celebration, reigniting debates on industry sexism."
     },
     {
       "sentiment": "positive",
@@ -220,19 +225,14 @@
       "headline": "Delhi gets Rs 11,000 crore road push as PM opens 2 highways to decongest capitalThe 10.1-km Delhi section of the Dwarka Expressway and a key stretch of UER-II, built at a combined cost of nearly Rs 11,000 crore, aim to ease traffic congestion and improve the capital's connectivity."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/youtuber-elvish-yadavs-gurugram-house-sprayed-with-over-2-dozen-bullets-by-bike-borne-men-cops-at-scene-2772291-2025-08-17",
-      "headline": "Over 2 dozen bullets fired at Elvish Yadav's Gurugram home, attackers on the runElvish Yadav was not present at his residence when the firing took place. Bullets riddled the lower floors of the multi-storey house while the controversial YouTuber's family and caretaker remained inside."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cloudburst-kills-4-injures-6-in-jammu-kashmirs-kathua-houses-buried-roads-cut-off-rescue-ops-on-2772286-2025-08-17",
+      "headline": "7 dead after cloudburst, landslide in J&K's Kathua, Army choppers join rescue opsSeveral houses were buried under rubble and floodwaters in the Ghati area, officials said. Damage was also reported on the Jammu\u2013Pathankot National Highway. Rescue teams are at the spot."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/voter-adhikar-yatra-rahul-gandhi-vote-chori-bihar-tejashwi-yadav-ec-affidavit-congress-2772404-2025-08-17",
       "headline": "Why just me, not BJP? Rahul Gandhi questions poll panel's affidavit demandRahul Gandhi accused the Election Commission of bias, questioning why only he was asked for an affidavit after alleging vote theft. He claimed the BJP manipulated voter rolls and vowed to monitor Bihar's elections closely."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/2025-a-year-that-documented-the-fall-of-greats-in-tamil-cinema-shankar-rajinikanth-kamal-haasan-suriya-coolie-thug-life-2771807-2025-08-17",
-      "headline": "2025: A year that documented the fall of greats in Tamil cinemaMani Ratnam, Shankar, Kamal Haasan, Suriya, and AR Murugadoss's films were criticised for their creations in 2025. This raises a pertinent question about the audience's changing tastes. \r\n"
     },
     {
       "sentiment": "negative",
@@ -241,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-bannerghatta-national-park-leopard-attacks-safari-bus-viral-video-2772319-2025-08-17",
-      "headline": "Leopard attacks safari bus in Bengaluru, claws 12-year-old boy's hand. Video viralA safari ride at Bengaluru's Bannerghatta National Park turned tense after a leopard jumped onto a non-AC bus carrying tourists and clawed a 12-year-old boy."
+      "url": "https://www.indiatoday.in/india/story/youtuber-elvish-yadavs-gurugram-house-sprayed-with-over-2-dozen-bullets-by-bike-borne-men-cops-at-scene-2772291-2025-08-17",
+      "headline": "Over 2 dozen bullets fired at Elvish Yadav's Gurugram home, attackers on the runElvish Yadav was not present at his residence when the firing took place. Bullets riddled the lower floors of the multi-storey house while the controversial YouTuber's family and caretaker remained inside."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/elvish-yadav-house-firing-bhau-gang-youtuber-gurugram-police-betting-apps-2772348-2025-08-17",
-      "headline": "'He promoted betting app': Bhau Gang takes credit for Elvish Yadav house firingBhau Gang claimed responsibility for the early Sunday firing outside Elvish Yadav's Gurugram home, linking the attack to YouTuber's promotion of illegal betting apps."
+      "url": "https://www.indiatoday.in/information/story/form-7-in-voter-id-meaning-uses-and-how-to-apply-2772416-2025-08-17",
+      "headline": "Form 7 in voter ID: Meaning, uses and how to applyForm 7 is the official application used by voters to either object to someone's inclusion in the electoral roll or request deletion of a name already listed. You use it when you find entries that don't belong or need removal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/form-7-in-voter-id-meaning-uses-and-how-to-apply-2772416-2025-08-17",
-      "headline": "Form 7 in voter ID: Meaning, uses and how to applyForm 7 is the official application used by voters to either object to someone's inclusion in the electoral roll or request deletion of a name already listed. You use it when you find entries that don't belong or need removal."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/2025-a-year-that-documented-the-fall-of-greats-in-tamil-cinema-shankar-rajinikanth-kamal-haasan-suriya-coolie-thug-life-2771807-2025-08-17",
+      "headline": "2025: A year that documented the fall of greats in Tamil cinemaMani Ratnam, Shankar, Kamal Haasan, Suriya, and AR Murugadoss's films were criticised for their creations in 2025. This raises a pertinent question about the audience's changing tastes. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-bannerghatta-national-park-leopard-attacks-safari-bus-viral-video-2772319-2025-08-17",
+      "headline": "Leopard attacks safari bus in Bengaluru, claws 12-year-old boy's hand. Video viralA safari ride at Bengaluru's Bannerghatta National Park turned tense after a leopard jumped onto a non-AC bus carrying tourists and clawed a 12-year-old boy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/odisha-sports-model-olympics-2036-vision-2772279-2025-08-17",
+      "headline": "Inside Odisha's ambitious dream of turning into a sporting powerhouseIf India indeed hosts the 2036 Olympics, Odisha will form the backbone of that dream. Here's why other states should take note of the state's ambitious sporting model."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/elvish-yadav-house-firing-bhau-gang-youtuber-gurugram-police-betting-apps-2772348-2025-08-17",
+      "headline": "'He promoted betting app': Bhau Gang takes credit for Elvish Yadav house firingBhau Gang claimed responsibility for the early Sunday firing outside Elvish Yadav's Gurugram home, linking the attack to YouTuber's promotion of illegal betting apps."
     },
     {
       "sentiment": "positive",
@@ -266,18 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
-      "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/targeting-voters-keeping-gun-on-poll-bodys-shoulder-election-commission-responds-to-vote-chori-charges-2772414-2025-08-17",
-      "headline": "Targeting voters keeping gun on Election Commission: Poll body on 'vote chori'The Election Commission accused political parties of targeting voters while using the poll body as a scapegoat, asserting that it stands firmly with all voters, across communities, without bias."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-bads-of-bollywood-first-look-is-all-sass-and-swag-watch-2772328-2025-08-17",
-      "headline": "Aryan Khan flips the script with his bold Bads of Bollywood first lookAryan Khan's 'The Ba***ds of Bollywood' teaser has generated excitement by blending love and critique of Bollywood, with the show slated for release in 2025."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kollam-thulasi-faces-heat-for-sexist-outburst-after-amma-malayalam-film-body-elects-woman-president-shwetha-mennon-2772470-2025-08-17",
+      "headline": "Men should rule: Kerala actor's sexist rant after film body elects woman headThe Malayalam film body elected Shwetha Menon as its first female president, marking a landmark moment in Malayalam cinema. However, veteran Kollam Thulasi's sexist remarks have overshadowed the celebration, reigniting debates on industry sexism."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/why-salman-khans-sikandar-failed-ar-murugadoss-admits-missteps-in-execution-2772402-2025-08-17",
       "headline": "Why Salman Khan's Sikandar failed? AR Murugadoss admits missteps in executionSalman Khan's 'Sikandar', directed by AR Murugadoss, has underperformed at the box office despite high expectations. Murugadoss admitted the emotional story did not connect with audiences and expressed hope to return to Bollywood when he finds his comfort zone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-day-3-rajinikanth-film-storms-past-rs-250-crore-worldwide-2772363-2025-08-17",
-      "headline": "Coolie box office Day 3: Rajinikanth film storms past Rs 250 crore worldwideRajinikanth's 'Coolie' continues its unstoppable run at the box office, raking in Rs 158.25 crore domestically in just three days. The film has become the highest-grossing Tamil release of 2025. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-r-ashwin-on-shubman-gill-vs-jaiswal-debate-2772481-2025-08-17",
+      "headline": "Asia Cup 2025: R. Ashwin gives his verdict on Shubman Gill vs Jaiswal debateFormer India spinner Ravichandran Ashwin has shared his views on the Shubman Gill vs Yashasvi Jaiswal debate for the upcoming Asia Cup 2025. The two players are in contention to be the backup opener for the continental tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shathira-jakir-jessy-womens-world-cup-umpire-bangladesh-2772474-2025-08-17",
+      "headline": "Bangladesh umpire Shathira Jakir Jessy set for historic World Cup stintFormer cricketer Shathira Jakir Jessy will become the first Bangladeshi woman umpire to officiate in a senior World Cup at the Women's ODI World Cup in India. Jessy, who has officiated in various international tournaments, is excited for the opportunity after years of hard work.\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shoaib-bashir-responds-nathan-lyon-jibe-ashes-2025-2772468-2025-08-17",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pro-kabaddi-2025-tamil-thalaivas-season-12-squad-strengths-weaknesses-2772412-2025-08-17",
-      "headline": "Tamil Thalaivas aim for a change in fortunes with revamped squad and new coachTamil Thalaivas aim for their maiden PKL title in Season 12 with Arjun Deshwal, Pawan Sehrawat, and coach Sanjeev Baliyan leading the charge."
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-mike-hesson-asia-cup-strike-rate-2772432-2025-08-17",
+      "headline": "Babar Azam has been asked to improve his strike-rate: Mike HessonPakistan head coach Mike Hesson explained that Babar Azam was left out of the Asia Cup squad due to concerns over his strike rate and performance against spin in T20s, areas where he has been asked to improve."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fluminense-goalkeeper-fabio-equals-peter-shilton-record-1390-appearances-2772403-2025-08-17",
-      "headline": "Fabio equals Shilton's record for most appearances in football historyGoalkeeper Fabio has reached 1,390 career matches, equalling former England goalkeeper Peter Shilton as the record holder for the most games in football history."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-backs-ravichandran-ashwin-as-future-india-coach-2772429-2025-08-17",
+      "headline": "Pujara backs Ashwin as future India coach after stellar careerCheteshwar Pujara, one of India's most dependable Test batters, believes Ravichandran Ashwin has all the qualities to become the national team's coach in the years ahead."
     },
     {
       "sentiment": "positive",
@@ -370,16 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-odi-series-squads-live-streaming-2772415-2025-08-17",
       "headline": "Australia vs South Africa ODI series: Squads, all you need to knowAUS vs SA: Australia and South Africa will face off in a three-match ODI series from August 19\u201324, marking their first bilateral ODI series in Australia since 2018. With World Cup preparations underway, both squads feature strong lineups in what promises to be a tightly contested clash.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pro-kabaddi-2025-tamil-thalaivas-season-12-squad-strengths-weaknesses-2772412-2025-08-17",
-      "headline": "Tamil Thalaivas aim for a change in fortunes with revamped squad and new coachTamil Thalaivas aim for their maiden PKL title in Season 12 with Arjun Deshwal, Pawan Sehrawat, and coach Sanjeev Baliyan leading the charge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fluminense-goalkeeper-fabio-equals-peter-shilton-record-1390-appearances-2772403-2025-08-17",
-      "headline": "Fabio equals Shilton's record for most appearances in football historyGoalkeeper Fabio has reached 1,390 career matches, equalling former England goalkeeper Peter Shilton as the record holder for the most games in football history."
     }
   ],
   "education": [
