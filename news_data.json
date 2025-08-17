@@ -167,7 +167,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/subhanshu-shukla-lamds-in-delhi-receives-grand-welcome-by-chief-minister-isro-officialsaxiom-4-2772241-2025-08-17",
-      "headline": "Video: Shux receives grand welcome in Delhi; Chief Minister, ISRO officials presentAstronaut Shubhanshu Shukla landed in Delhi in the early hours of Sunday and was received by Union Minister Jitendra Singh, Delhi Chief Minister Rekha Gupta, and senior officials from ISRO."
+      "headline": "Video: Shux receives grand welcome in Delhi; Chief Minister, Isro officials presentAstronaut Shubhanshu Shukla landed in Delhi in the early hours of Sunday and was received by Union Minister Jitendra Singh, Delhi Chief Minister Rekha Gupta, and senior officials from ISRO."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/us-negotiators-visit-to-new-delhi-for-bilateral-trade-talks-deferred-to-be-rescheduled-report-2772226-2025-08-16",
+      "headline": "US trade team's India visit called off, likely to be rescheduled:\u00a0ReportSo far, five rounds of talks have been completed for the proposed bilateral trade agreement (BTA) and a US team is scheduled to visit India for the sixth round of talks."
     },
     {
       "sentiment": "positive",
@@ -176,18 +181,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-conveyed-putins-donetsk-demand-to-zelenskyy-after-alaska-meet-he-refused-reports-reuters-2772214-2025-08-16",
-      "headline": "Trump conveyed Putin's Donetsk demand to Zelenskyy after meet, he refused: ReportTrump told Zelenskyy that Putin's offer included halting advances if Ukraine withdrew from Donetsk, a region largely under Russian control since 2014. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/how-vladimir-putin-is-winner-alaska-summit-anchorage-donald-trump-ukraine-war-ceasefire-talks-five-points-explained-2772101-2025-08-16",
       "headline": "How Putin is the winner of Alaska meet | Explained in 5 pointsAt the Alaska Summit, US President Donald Trump threatened \"severe consequences\" but left without pressing Russian President Vladimir Putin on the Ukraine ceasefire. Instead, Putin dominated the talks, won symbolic optics with a red-carpet welcome, hinted at new business ventures, and projected himself as a confident world leader. Here is how he won the meet."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-conveyed-putins-donetsk-demand-to-zelenskyy-after-alaska-meet-he-refused-reports-reuters-2772214-2025-08-16",
+      "headline": "Trump conveyed Putin's Donetsk demand to Zelenskyy after meet, he refused: ReportTrump told Zelenskyy that Putin's offer included halting advances if Ukraine withdrew from Donetsk, a region largely under Russian control since 2014. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/congress-pawan-khera-slams-ncert-partition-module-2772144-2025-08-16",
       "headline": "Set fire to book if facts missing: Congress slams NCERT's Partition moduleAn NCERT module to mark Partition Horrors Remembrance Day holds Muhammad Ali Jinnah, the Congress, and then Viceroy Lord Mountbatten responsible for the partition. The module has evoked a sharp reaction from the Congress."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-voter-adhikar-yatra-bihar-begin-election-congress-sasaram-patna-2772253-2025-08-17",
+      "headline": "Rahul Gandhi's 'Voter Adhikar Yatra' in Bihar to begin todayLeader of the Opposition Rahul Gandhi is set to begin his 'Voter Adhikar Yatra' in Bihar today. The Yatra will begin from Sasaram and culminate in Patna within 16 days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/bill-gates-shares-best-answers-to-toughest-job-interview-questions-2772156-2025-08-16",
+      "headline": "Why should we hire you? Bill Gates shares perfect answers for job interviewsBill Gates once role-played as a college dropout applying for his first job. His witty, practical answers with Stephen Curry reveal timeless lessons for job-seekers facing tough interview questions."
     },
     {
       "sentiment": "positive",
@@ -201,18 +216,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/bill-gates-shares-best-answers-to-toughest-job-interview-questions-2772156-2025-08-16",
-      "headline": "Why should we hire you? Bill Gates shares perfect answers for job interviewsBill Gates once role-played as a college dropout applying for his first job. His witty, practical answers with Stephen Curry reveal timeless lessons for job-seekers facing tough interview questions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-negotiators-visit-to-new-delhi-for-bilateral-trade-talks-deferred-to-be-rescheduled-report-2772226-2025-08-16",
-      "headline": "US trade team's India visit called off, likely to be rescheduled:\u00a0ReportSo far, five rounds of talks have been completed for the proposed bilateral trade agreement (BTA) and a US team is scheduled to visit India for the sixth round of talks."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indigo-airbus-a321-plane-tail-strike-mumbai-airport-bad-weather-2772157-2025-08-16",
       "headline": "IndiGo plane tail touches runway at Mumbai amid bad weather, airline respondsAn IndiGo Airbus A321's tail touched the runway at Mumbai airport during a go-around amid bad weather on August 16, 2025. The aircraft landed safely on a second attempt, with IndiGo confirming standard checks and safety measures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
+      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/national-guard-soldiers-prepare-to-carry-weapons-in-washington-report-2772233-2025-08-17",
+      "headline": "National Guard in DC to carry weapons amid Trump's crackdown on capital: ReportNational Guard troops in Washington may soon be ordered to carry weapons, marking a shift in Trump's security surge, as local officials raise concerns and federal data shows crime rates declining."
     },
     {
       "sentiment": "positive",
@@ -221,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-14-year-old-parineeti-who-left-school-to-become-a-chatgpt-expert-2772113-2025-08-16",
-      "headline": "Meet 14-year-old Parineeti, who left school to become a ChatGPT expertAt just 14, Parineeti left school to focus on ChatGPT and AI automation. She now runs her own business, sparking debate online over education, ambition, and the future of work."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/b-tech-student-suicide-greater-noida-calls-for-education-system-reform-in-note-2772207-2025-08-16",
       "headline": "BTech student, 24, dies by suicide, calls for education system reform in noteThe student left behind a suicide note that raised questions about the country's education system and urged the university to refund his fees to his family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-leader-kills-wife-girlfriends-behest-rajasthan-ajmer-both-arrested-rohit-saini-2772221-2025-08-16",
-      "headline": "BJP leader kills wife at girlfriend's behest in Rajasthan's Ajmer, both arrestedBJP leader Rohit Saini murdered his wife Sanju in Ajmer on August 10, staging it as a robbery at the insistence of his girlfriend Ritu Saini. Police arrested both within 24 hours after exposing the conspiracy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-welcomes-trump-putin-alaska-meet-calls-leadership-commendable-and-backs-dialogue-on-ukraine-conflict-2772111-2025-08-16",
-      "headline": "India praises Trump-Putin Alaska meet, backs dialogue to end Ukraine warIndia welcomed the Alaska Summit between US President Donald Trump and Russian President Vladimir Putin, praising their leadership in pursuing peace. New Delhi emphasised dialogue and diplomacy as the only path to end the Ukraine conflict."
     },
     {
       "sentiment": "negative",
@@ -251,8 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
-      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
+      "url": "https://www.indiatoday.in/india/story/bjp-leader-kills-wife-girlfriends-behest-rajasthan-ajmer-both-arrested-rohit-saini-2772221-2025-08-16",
+      "headline": "BJP leader kills wife at girlfriend's behest in Rajasthan's Ajmer, both arrestedBJP leader Rohit Saini murdered his wife Sanju in Ajmer on August 10, staging it as a robbery at the insistence of his girlfriend Ritu Saini. Police arrested both within 24 hours after exposing the conspiracy."
     },
     {
       "sentiment": "positive",
@@ -265,19 +265,19 @@
       "headline": "No, dog lovers are not hypocritesOur preference for dogs over other animals reflects speciesism. We favour those we live with and love, not those whose suffering is equal. Protecting dogs is valid, but not at the predictable cost of vulnerable humans. Here's a philosophical take on the stray dog debate that takes into account ethics and morality."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-welcomes-trump-putin-alaska-meet-calls-leadership-commendable-and-backs-dialogue-on-ukraine-conflict-2772111-2025-08-16",
+      "headline": "India praises Trump-Putin Alaska meet, backs dialogue to end Ukraine warIndia welcomed the Alaska Summit between US President Donald Trump and Russian President Vladimir Putin, praising their leadership in pursuing peace. New Delhi emphasised dialogue and diplomacy as the only path to end the Ukraine conflict."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/new-ncert-module-on-partition-horrors-triggers-row-over-who-was-responsible-2772037-2025-08-16",
+      "headline": "New NCERT module on Partition horrors partly blames Congress, sparks rowNCERT has released a special module on Partition Horrors Day for Classes 6\u201312, sparking political debate over its interpretation of history and responsibility for India's division. Congress spokesperson Pawan Khera said the module should be burnt as it \"didn't tell the truth.\""
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/donald-trump-fox-interview-putin-meet-alaska-russia-sanctions-ukraine-war-2771978-2025-08-16",
       "headline": "Relief for India? Trump softens stance on Russia oil buyers after Putin meetIn an interview with Fox News, Donald Trump said the meeting with Russian President Putin in Alaska went well, rating it a '10/10'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-slams-troll-asking-him-to-celebrate-pakistan-independence-day-2772073-2025-08-16",
-      "headline": "Javed Akhtar claps back after troll suggests he celebrate Pak Independence DayOn Independence Day, Javed Akhtar shared a message remembering freedom fighters but was trolled online. He gave a sharp reply, reminding that his ancestors went to Kaala Pani for India's freedom while some others supported the British."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jaipur-retired-army-captain-dies-car-accident-hit-and-run-cctv-footage-2772024-2025-08-16",
-      "headline": "Retired Army captain dragged for 10 feet after getting stuck under car, diesThe incident happened on the morning of August 15 when Narsaram Jajra, a retired Army captain, was going to Jaipur's Chitrakoot Stadium on his bicycle."
     },
     {
       "sentiment": "positive",
