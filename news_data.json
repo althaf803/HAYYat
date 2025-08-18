@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
+      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/terence-stamp-actor-general-zod-superman-dies-aged-87-2772519-2025-08-17",
       "headline": "Actor Terence Stamp, who played Superman villain General Zod, dies at 87Actor Terence Stamp, known for his role as General Zod, has died aged 87. He also played a key role in actor Tom Cruise's World War 2 period-drama 'Valkyrie' (2008)."
     },
@@ -151,18 +156,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
       "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anita-advani-secret-marriage-claim-rajesh-khanna-funeral-exclusion-2772311-2025-08-17",
-      "headline": "Anita Advani says she secretly married Rajesh Khanna: He made me wear mangal sutraAnita Advani has revealed that she was privately married to the late Bollywood superstar Rajesh Khanna, adding a new dimension to his personal life story."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
-      "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
+      "url": "https://www.indiatoday.in/world/story/no-nato-zelenskyy-can-end-war-with-russia-immediately-trump-ahead-of-meeting-with-ukrainian-president-2772576-2025-08-18",
+      "headline": "'Forget Nato, Crimea': Is Trump throwing Zelenskyy under the bus for Russia deal?Surprisingly, Trump's remarks ahead of his meeting with Zelenskyy came even after his special envoy, Steve Witkoff, said that Moscow was willing to let the US and its European allies provide Nato-style security guarantees to Kyiv as part of a potential peace deal, describing the development as \"game-changing.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-tariff-india-russian-oil-china-putin-alska-meet-marco-rubio-2772578-2025-08-18",
+      "headline": "Why US spares China, but hits India: Marco Rubio defends Russian oil hypocrisySpeaking to Fox News on August 17, Marco Rubio cautioned that targeting Chinese refiners would have disruptive consequences for the global oil market."
     },
     {
       "sentiment": "positive",
@@ -171,28 +176,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-eci-counters-rahul-gandhi-charges-voter-fraud-house-number-address-vote-chori-sir-bihar-supreme-court-2772457-2025-08-17",
-      "headline": "House No. 0 to name duplications: Poll body's big counter to Rahul GandhiThe Election Commission of India (ECI) on Sunday countered Congress leader Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house numbers and that duplication in voter list didn't mean fraud. It vouched for the sanctity of the electoral rolls and said the Special Intensive Revision (SIR) exercise in Bihar wasn't being done in a rush."
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
+      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/putin-backs-us-europe-plan-for-nato-style-protection-for-ukraine-trump-envoy-glbs-2772554-2025-08-18",
-      "headline": "Putin agrees to explore NATO-style security guarantees for Ukraine: Trump envoyPutin agreed in principle with Trump on possible NATO-style security guarantees for Ukraine, envoy Witkoff said, though Rubio cautioned details remain unresolved as European leaders prepare for White House talks."
+      "url": "https://www.indiatoday.in/health/story/are-weightloss-drugs-for-me-5-things-to-consider-anti-obesity-india-2772571-2025-08-18",
+      "headline": "Are weightloss drugs for me? 5 things to considerAnti-obesity drugs like GLP-1 are quite popular now. But, do you really need it?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/street-dogs-can-be-trained-stray-canine-behaviourists-reveal-how-supreme-court-shelter-home-protest-delhi-ncr-2771898-2025-08-17",
-      "headline": "Stray dogs can be trained to reduce aggression. Trainers reveal howThe debate over Delhi's stray dogs has split the nation. While pet dogs are trained and groomed, street dogs have an entirely different image. Unlike what is popularly believed, strays can be trained, and their aggression largely reduced. Behaviourists and trainers who have trained stray dogs tell us how."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-trying-to-snatch-voting-rights-we-will-show-you-peoples-strength-rahul-gandhi-2772499-2025-08-17",
-      "headline": "Neither I, Tejashwi, nor Bihar...: Rahul Gandhi slams BJP over poll panel presserRahul Gandhi accused the Election Commission and the BJP of conducting a major electoral fraud and claimed that the constitutional rights of citizens were being snatched away. Gandhi was addressing the people as part of the ongoing Vote Adhikar Yatra in Bihar."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-bomb-threat-dps-dwarka-college-police-squad-reach-site-hoax-email-2772589-2025-08-18",
+      "headline": "2 schools, one college in Delhi's Dwarka get bomb threat, police on spotTwo schools, including the Delhi Public School, and another college in Dwarka received bomb threat via email on Monday morning."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/give-affidavit-in-7-days-or-apologise-to-nation-election-commission-on-rahul-gandhis-vote-chori-charges-2772434-2025-08-17",
-      "headline": "Give affidavit in 7 days or apologise: Poll body to Rahul Gandhi on 'vote chori'The Election Commission has asked Rahul Gandhi to either submit an affidavit within seven days backing his 'vote chori' claims or apologise to the nation."
+      "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
+      "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
     },
     {
       "sentiment": "positive",
@@ -201,13 +201,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/who-messed-up-lionel-messis-kerala-visit-2771358-2025-08-15",
-      "headline": "Who messed up Lionel Messi's Kerala visit?Whether it's the Pinarayi Vijayan government to blame or the Argentinian Football Association, the ordinary football fan in Kerala lies crestfallen"
+      "url": "https://www.indiatoday.in/india-today-insight/story/vice-president-poll-how-modis-playbook-defies-pundits-past-precedence-2771333-2025-08-15",
+      "headline": "Vice-president poll: How Modi's playbook defies pundits, past precedenceModi values messaging\u2014not just to Parliament or BJP cadre but to the electorate at large. But this time, his choice will also take the RSS view into account"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/big-progress-on-russia-stay-tuned-donald-trump-posts-day-after-meeting-with-putin-2772488-2025-08-17",
-      "headline": "Big progress on Russia, stay tuned, Trump teases day after meeting with PutinDonald Trump posted a cryptic message on his Truth Social account on Sunday, hinting at some big development that has been made regarding Russia."
+      "url": "https://www.indiatoday.in/world/us-news/story/putin-backs-us-europe-plan-for-nato-style-protection-for-ukraine-trump-envoy-glbs-2772554-2025-08-18",
+      "headline": "Putin agrees to explore NATO-style security guarantees for Ukraine: Trump envoyPutin agreed in principle with Trump on possible NATO-style security guarantees for Ukraine, envoy Witkoff said, though Rubio cautioned details remain unresolved as European leaders prepare for White House talks."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
+      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/two-lashkar-terror-associates-caught-in-jammu-and-kashmir-bandipora-chinese-grenades-ammunition-seized-2772547-2025-08-17",
+      "headline": "Two terror associates caught in J&K's Bandipora, Chinese grenades, ammo seizedSecurity forces in Bandipora, J&K, arrested two Lashkar-e-Taiba associates, seizing Chinese grenades, UBGL grenades, and AK rounds. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/election-commission-eci-counters-rahul-gandhi-charges-voter-fraud-house-number-address-vote-chori-sir-bihar-supreme-court-2772457-2025-08-17",
+      "headline": "House No. 0 to name duplications: Poll body's big counter to Rahul GandhiThe Election Commission of India (ECI) on Sunday countered Congress leader Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house numbers and that duplication in voter list didn't mean fraud. It vouched for the sanctity of the electoral rolls and said the Special Intensive Revision (SIR) exercise in Bihar wasn't being done in a rush."
     },
     {
       "sentiment": "positive",
@@ -215,24 +230,29 @@
       "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0PresidentMaharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modis-office-to-shift-from-south-block-to-central-vista-executive-enclave-first-time-after-independence-2772471-2025-08-17",
-      "headline": "New address for PM's office after 78 years, to shift from South BlockThe government has announced that the old North Block and South Block buildings will be converted into the 'Yuga Yugin Bharat Sangrahalaya'. The transition is scheduled to take place next month, with the new PMO located closer to the Prime Minister's residence."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/seven-people-charred-to-death-after-car-hits-suv-on-gujarat-highway-bursts-into-flames-2772518-2025-08-17",
+      "headline": "7 killed after car bursts into flames after colliding with SUV in GujaratAccording the police, the people inside the car didn't get the chance to come out of the vehicle and were burnt alive following the accident. Three people inside the SUV were also hurt."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/is-love-stronger-when-its-off-social-media-2771279-2025-08-17",
-      "headline": "Why the happiest couples don't post everythingIf you're worried that you and your partner don't post enough about your relationship on social media, it might actually be a good thing and a healthy approach to love."
+      "url": "https://www.indiatoday.in/india/story/election-commission-releases-list-of-65-lakh-voters-deleted-from-draft-rolls-in-bihar-after-top-court-order-2772542-2025-08-17",
+      "headline": "Election Commission releases list of 65 lakh voters deleted from Bihar draft rollsElection Commission releases list of 65 lakh voters deleted from draft rolls in Bihar after top court order"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
+      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-engineer-varun-gupta-an-iit-grad-gets-probation-and-34000-fine-for-leaking-intel-secrets-to-microsoft-2772395-2025-08-17",
+      "headline": "AI engineer Varun Gupta fined $34,000 for leaking Intel secrets\u00a0to\u00a0MicrosoftAccording to the reports, Varun Gupta leaked thousands of files from Intel to Microsoft. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/aap-election-commission-bjp-vote-chori-bihar-elections-india-bloc-congress-2772536-2025-08-17",
       "headline": "Poll panel's theft caught: Non-INDIA bloc AAP backs Congress on 'vote chori' claimAAP has accused the Election Commission of colluding with the BJP and indulging in \"vote chori\" ahead of the Bihar Assembly elections, even as it distances itself from the INDIA bloc. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
-      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
     },
     {
       "sentiment": "positive",
@@ -245,62 +265,57 @@
       "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fir-against-the-bengal-files-director-vivek-agnihotri-by-gopal-mukherjees-grandson-for-portraying-him-in-poor-light-2772548-2025-08-18",
-      "headline": "Case against Vivek Agnihotri over Gopal Mukherjee's portrayal in 'Bengal Files'The film's trailer introduces Gopal Patha as \"Ek Tha Kashai Gopal Patha\", which Shantanu claims is a misrepresentation of his grandfather's character. Shantanu asserts that his grandfather was not a butcher by profession, but rather a wrestler and a key figure in the Anushilan Samiti, who played a crucial role in preventing Muslim League riots in 1946."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/why-the-bihar-museum-biennale-matters-for-cultural-diplomacy-south-south-solidarity-2771328-2025-08-15",
-      "headline": "Why the Bihar Museum Biennale matters for cultural diplomacy, South-South solidarityThe museum\u2014CM Nitish Kumar's vision\u2014and by extension the Biennale symbolise a Bihar not content with preserving its past but determined to shape cultural conversations of the present"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-releases-list-of-65-lakh-voters-deleted-from-draft-rolls-in-bihar-after-top-court-order-2772542-2025-08-17",
-      "headline": "Election Commission releases list of 65 lakh voters deleted from Bihar draft rollsElection Commission releases list of 65 lakh voters deleted from draft rolls in Bihar after top court order"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nawazuddin-siddiqui-opens-up-on-his-bond-with-daughter-shora-2772500-2025-08-17",
-      "headline": "Nawazuddin Siddiqui opens up on his bond with daughter Shora: My biggest criticActor Nawazuddin Siddiqui said his daughter Shora keeps him grounded and often scolds him without caring about his stardom."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-beat-mohun-bagan-sg-kolkata-derby-durand-cup-2025-quarterfinal-2772526-2025-08-17",
-      "headline": "East Bengal take 2-1 win vs Mohun Bagan, Diamantakos' brace seals derby winEast Bengal beat Mohun Bagan 2-1 in a fiery Kolkata Derby to reach the Durand Cup quarterfinals. Dimitrios Diamantakos scored twice, while Anirudh Thapa netted for the Mariners, but East Bengal's resilience sealed a morale-boosting early-season win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-engineer-varun-gupta-an-iit-grad-gets-probation-and-34000-fine-for-leaking-intel-secrets-to-microsoft-2772395-2025-08-17",
-      "headline": "AI engineer Varun Gupta fined $34,000 for leaking Intel secrets\u00a0to\u00a0MicrosoftAccording to the reports, Varun Gupta leaked thousands of files from Intel to Microsoft. "
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/delhi/story/yamuna-river-water-level-to-cross-danger-mark-delhi-flood-advisory-issued-2772486-2025-08-17",
       "headline": "Yamuna may cross danger mark in two days, government issues flood advisoryAccording to the advisory, the river is expected to cross the 206-metre danger level by 2 am on August 19."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/fir-against-the-bengal-files-director-vivek-agnihotri-by-gopal-mukherjees-grandson-for-portraying-him-in-poor-light-2772548-2025-08-18",
+      "headline": "Case against Vivek Agnihotri over Gopal Mukherjee's portrayal in 'Bengal Files'The film's trailer introduces Gopal Patha as \"Ek Tha Kashai Gopal Patha\", which Shantanu claims is a misrepresentation of his grandfather's character. Shantanu asserts that his grandfather was not a butcher by profession, but rather a wrestler and a key figure in the Anushilan Samiti, who played a crucial role in preventing Muslim League riots in 1946."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cochin-delhi-air-india-flight-aborts-take-off-congress-mp-shares-unusual-glitch-2772561-2025-08-18",
+      "headline": "Cochin-Delhi Air India flight aborts take-off, Congress MP shares unusual glitchFlight AI 504, which was originally set to take off at 10:34 pm, experienced an unexpected incident during taxiing. The flight was cancelled later."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
+      "headline": "Saswata Chatterjee on Bengal Files row: Not my job to check history, I'm an actorActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/triptii-dimri-boyfriend-sam-merchant-sees-her-off-at-mumbai-airport-blue-porsche-2772594-2025-08-18",
+      "headline": "Triptii Dimri's rumoured boyfriend Sam Merchant sees her off at Mumbai airportActor Triptii Dimri was seen at Mumbai airport, where her alleged boyfriend, businessman Sam Merchant, dropped her off in his blue Porsche. The two have long been speculated to be dating for a while now. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
+      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/terence-stamp-actor-general-zod-superman-dies-aged-87-2772519-2025-08-17",
       "headline": "Actor Terence Stamp, who played Superman villain General Zod, dies at 87Actor Terence Stamp, known for his role as General Zod, has died aged 87. He also played a key role in actor Tom Cruise's World War 2 period-drama 'Valkyrie' (2008)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nawazuddin-siddiqui-opens-up-on-his-bond-with-daughter-shora-2772500-2025-08-17",
-      "headline": "Nawazuddin Siddiqui opens up on his bond with daughter Shora: My biggest criticActor Nawazuddin Siddiqui said his daughter Shora keeps him grounded and often scolds him without caring about his stardom."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-sidharth-malhotra-relish-lucknow-chaat-ahead-of-param-sundari-release-2772490-2025-08-17",
-      "headline": "Janhvi-Sidharth relish Lucknow chaat ahead of Param Sundari release. VideoJanhvi Kapoor and Sidharth Malhotra enjoyed chaat in Lucknow while promoting their upcoming film 'Param Sundari'. The romantic drama, releasing on August 29, has already created buzz with its trailer and the duo's on-screen chemistry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kollam-thulasi-faces-heat-for-sexist-outburst-after-amma-malayalam-film-body-elects-woman-president-shwetha-mennon-2772470-2025-08-17",
-      "headline": "Men should rule: Kerala actor's sexist rant after film body elects woman headThe Malayalam film body elected Shwetha Menon as its first female president, marking a landmark moment in Malayalam cinema. However, veteran Kollam Thulasi's sexist remarks have overshadowed the celebration, reigniting debates on industry sexism."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
+      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-ruben-amorim-manchester-united-vs-arsenal-2772580-2025-08-18",
+      "headline": "Amorim's United show grit and glimpses of change in PL opener vs ArsenalManchester United lost 0-1 to Arsenal in Ruben Amorim's Premier League debut, but the display showed grit and signs of progress. While issues remain in defence and attack, new faces like Cunha and Mbeumo offered hope for the season ahead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
+      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
@@ -343,18 +358,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-womens-world-cup-spin-challenge-australia-2772492-2025-08-17",
-      "headline": "Alyssa Healy, Australia brace for tough spin challenge in Women's World CupAlyssa Healy acknowledged the tough spin-friendly conditions Australia will face at the Women's ODI World Cup. Having returned from injury, Healy is in excellent form, finishing as the top run-scorer in both the T20 and One-Day series against India A. "
+      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-beat-mohun-bagan-sg-kolkata-derby-durand-cup-2025-quarterfinal-2772526-2025-08-17",
+      "headline": "East Bengal take 2-1 win vs Mohun Bagan, Diamantakos' brace seals derby winEast Bengal beat Mohun Bagan 2-1 in a fiery Kolkata Derby to reach the Durand Cup quarterfinals. Dimitrios Diamantakos scored twice, while Anirudh Thapa netted for the Mariners, but East Bengal's resilience sealed a morale-boosting early-season win."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-sunil-chhetri-snub-cafa-nations-cup-india-football-team-2772487-2025-08-17",
-      "headline": "Khalid Jamil lifts lid on Chhetri snub: Wanted different faces in CAFA CupKhalid Jamil's first India squad raised eyebrows with the omission of Sunil Chhetri, as the new coach prioritises fresh faces for the CAFA Nations Cup, sparking questions about the legendary striker's long-term international future."
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
+      "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-r-ashwin-on-shubman-gill-vs-jaiswal-debate-2772481-2025-08-17",
-      "headline": "Asia Cup 2025: R. Ashwin gives his verdict on Shubman Gill vs Jaiswal debateFormer India spinner Ravichandran Ashwin has shared his views on the Shubman Gill vs Yashasvi Jaiswal debate for the upcoming Asia Cup 2025. The two players are in contention to be the backup opener for the continental tournament."
+      "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-wicketkeeping-josh-inglis-2772514-2025-08-17",
+      "headline": "Carey enjoying gloveless role for Australia in ODIs with Inglis' riseAlex Carey has seamlessly transitioned from a specialist wicketkeeper to a specialist batter in ODIs, embracing whatever role the team requires. After being Australia's first-choice keeper for nearly five years, Josh Inglis has replaced him. \r\n"
     },
     {
       "sentiment": "positive",
@@ -365,21 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/dont-push-jasprit-bumrah-towards-early-retirement-says-aakash-chopra-2772502-2025-08-17",
       "headline": "Don't push Bumrah towards early retirement, he's Kohinoor Diamond: Former openerFormer India opener Aakash Chopra has warned against pushing Jasprit Bumrah towards early retirement amid constant criticism of the India fast bowler."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-womens-world-cup-spin-challenge-australia-2772492-2025-08-17",
-      "headline": "Alyssa Healy, Australia brace for tough spin challenge in Women's World CupAlyssa Healy acknowledged the tough spin-friendly conditions Australia will face at the Women's ODI World Cup. Having returned from injury, Healy is in excellent form, finishing as the top run-scorer in both the T20 and One-Day series against India A. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-sunil-chhetri-snub-cafa-nations-cup-india-football-team-2772487-2025-08-17",
-      "headline": "Khalid Jamil lifts lid on Chhetri snub: Wanted different faces in CAFA CupKhalid Jamil's first India squad raised eyebrows with the omission of Sunil Chhetri, as the new coach prioritises fresh faces for the CAFA Nations Cup, sparking questions about the legendary striker's long-term international future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-r-ashwin-on-shubman-gill-vs-jaiswal-debate-2772481-2025-08-17",
-      "headline": "Asia Cup 2025: R. Ashwin gives his verdict on Shubman Gill vs Jaiswal debateFormer India spinner Ravichandran Ashwin has shared his views on the Shubman Gill vs Yashasvi Jaiswal debate for the upcoming Asia Cup 2025. The two players are in contention to be the backup opener for the continental tournament."
     }
   ],
   "education": [
