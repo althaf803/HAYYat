@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-cut-tax-slabs-low-reforms-rationalisation-insurance-everyday-item-cars-appliance-tv-money-2772777-2025-08-18",
+      "headline": "GST cut before Diwali? These items likely to cost you less this festive seasonPrime Minister Narendra Modi gave the first indication of GST reforms in his Independence Day address from the Red Fort, calling it a \"Diwali Bonanza.\""
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/video/sunjay-kapurs-sister-raises-concern-over-treatment-of-family-claims-being-sidelined-2772711-2025-08-18",
       "headline": "Exclusive: Sunjay Kapur's sister raises concern over treatment of familyMandhira Kapur Smith, sister of late Sona Comstar Chairperson Sunjay Kapur, has raised concerns over her family's treatment by the automotive firm founded by their late father. She said her 80-year-old mother Rani Kapur has been sidelined, claiming the family has been treated \"like strangers\" and excluded from obituaries and public acknowledgments."
@@ -59,9 +64,159 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/gst-rate-cuts-rationalisation-simpler-tax-structure-good-simple-tax-cheaper-goods-2772146-2025-08-16",
       "headline": "Real wallet-friendly shake-up: GST 2.0 to feel like 'Good and Simple Tax'The government is set to launch GST 2.0 with major rate cuts, making essentials cheaper and simplifying tax slabs. The overhaul promises lower prices, fewer complications, and a true 'Good and Simple Tax'."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/motor-car-insurance-best-tips-policy-comparison-add-ons-first-time-mistake-personal-finance-2771761-2025-08-16",
+      "headline": "What nobody tells you about buying motor insuranceWhile car sales are climbing, many buyers remain unaware about the finer points of motor insurance, a gap that can cost them money and create problems when making a claim."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/government-proposes-two-gst-rates-of-5-and-18-tobacco-at-40-tax-cuts-for-farm-and-health-sectors-sources-2771789-2025-08-15",
+      "headline": "Government proposes 5%, 18% GST slabs; tobacco at 40%, relief for farmers: SourcesThe government has proposed reducing GST to two slabs: 5% and 18% with sin goods at 40%, aiming to cut taxes on essentials like farm products, health items, handicrafts, and insurance. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/credit-rating-importance-what-do-they-mean-india-upgrade-pakistan-sp-global-2771729-2025-08-15",
+      "headline": "Credit ratings decoded: How a simple upgrade can change a country's fortuneGlobal credit rating agency S&P Global has upgraded India's long-term unsolicited sovereign credit rating to 'BBB' from 'BBB-'. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/video/gst-council-meeting-in-september-12-slam-may-be-dropped-sources-2771695-2025-08-15",
+      "headline": "GST council meeting in September, 12% slam may be dropped: SourcesTwo-day GST Council meetings are expected in September to pave the way for reforms. The announcement was made by the Prime Minister from the ramparts of the Red Fort. These reforms are seen as a Diwali gift for the middle class. Key changes include the removal of the 12% GST slab and rate rationalisation for health and life insurance policies. The government aims to reduce the GST on most items currently in the 12% slab to 5%. This move is expected to make essential items such as footwear, bags, clothes, and toothpastes more affordable. The government is addressing concerns about inflation and the rising cost of living. Feedback regarding health insurance, which impacts the common person, has also been considered. The meetings in September are crucial for approving these changes, with implementation anticipated before Diwali. The Finance Ministry and state finance ministers have been involved in the process."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/removal-of-12-tax-slab-among-key-reforms-to-be-discussed-in-gst-council-meetings-in-september-sources-2771661-2025-08-15",
+      "headline": "GST Council may drop 12% slab, more tax reforms in September meeting: SourcesThe meeting comes after Prime Minister Narendra Modi, in his Independence Day speech, announced plans for a major overhaul of the Goods and Services Tax (GST) system."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/same-sex-couple-tax-law-biased-uneven-challenge-gits-received-partners-bombay-hc-report-2771623-2025-08-15",
+      "headline": "Claiming bias, same-sex couple approaches court over uneven tax: ReportThe petition was admitted by a bench of Justice BP Colabawalla and Justice Firdoush Pooniwalla, which has also issued a notice to the Attorney General as the case raises a constitutional question."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/video/independence-day-pm-modi-announces-next-generation-gst-reform-with-significantly-lower-rates-2771561-2025-08-15",
+      "headline": "PM Modi announces next-generation GST reform with significantly lower ratesDuring his Independence Day address, Prime Minister Narendra Modi announced a sweeping overhaul of the GST system, promising to unveil a \"next-generation\" tax regime with substantially lower rates this Diwali, which he hailed as a festive gift from the Centre."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pm-modi-speech-announces-rs-1-lakh-crore-pradhan-mantri-viksit-bharat-rojgar-yojana-scheme-2771555-2025-08-15",
+      "headline": "Rs 15,000 from government on 1st private-sector job: PM's big youth schemePM Modi in his Independence Day speech said that the Pradhan Mantri Viksit Bharat Rojgar Yojana will create nearly 3.5 crore new employment opportunities for the youth. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/gst-cut-coming-soon-what-to-expect-after-pm-modi-big-diwali-promise-2771554-2025-08-15",
+      "headline": "GST cut coming soon? What to expect after PM Modi's big Diwali promisePrime Minister Narendra Modi's announcement has set expectations for a substantial overhaul of the current multi-slab GST structure, which has been in place since 2017."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-semiconductor-chips-2025-end-pm-modi-independence-day-speech-red-fort-gst-diwali-energy-nuclear-2771547-2025-08-15",
+      "headline": "India to roll out its own semiconductor chips by end of 2025: PM ModiSpeaking on the country's 79th Independence Day, PM Modi hoisted the national flag for the 12th consecutive time before outlining the government's plans for technology, energy, and economic reforms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pms-double-diwali-promise-says-next-generation-gst-with-lower-taxes-coming-soon-2771537-2025-08-15",
+      "headline": "PM's Double Diwali promise, says next-generation GST with much lower taxes soonPrime Minister Narendra Modi promised the roll-out a next-generation GST regime with substantially lower taxes before this Diwali, calling it a major festive gift to benefit individuals, MSMEs, and the economy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/upcoming-ipos-5-best-review-gmp-vikram-solar-patel-retail-mangal-gem-aromatics-shreeji-2771335-2025-08-14",
+      "headline": "5 IPOs to open for bidding next week: Which is best based on GMP?Next week will see the IPOs of Patel Retail, Vikram Solar, Gem Aromatics, Shreeji Shipping Global and Mangal Electrical. Together, they are looking to raise Rs 3,584.09 crore from the market. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/why-your-45-day-credit-card-grace-period-might-be-a-debt-trap-explains-ca-2771271-2025-08-14",
+      "headline": "Why your 45-day credit card grace period might be a debt trap, explains CAMany believe a credit card's 45-day grace period means free borrowing time. But as an expert explains, even a small unpaid balance can turn it into a costly debt trap."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-it-stocks-gain-offset-broad-decline-infosys-rise-2-percent-2771269-2025-08-14",
+      "headline": "Sensex, Nifty end marginally higher as investors await Trump-Putin meet outcomeThe S&P BSE Sensex gained 57.75 points to end at\u00a080,597.66, while the NSE Nifty50 added just 11.95 points to close at\u00a024,631.30.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-upgraded-to-bbb-on-economic-resilience-and-sustained-fiscal-consolidation-outlook-stable-sp-global-2771259-2025-08-14",
+      "headline": "S&P upgrades India's sovereign rating to 'BBB' on growth, fiscal disciplineThe move comes more than a year after S&P revised India's outlook to positive from stable in May 2024, on the back of robust growth and improved expenditure quality. The rating agency also revised India's transfer and convertibility assessment to 'A-' from 'BBB+'."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/fedex-ups-dhl-courier-service-top-executives-india-antitrust-probe-cci-report-2771243-2025-08-14",
+      "headline": "Fresh scrutiny on FedEx, UPS, DHL top brass in antitrust case: ReportExecutives set to be questioned include Subhasish Chakraborty, Managing Director of DTDC Express; R.S. Subramanian, Managing Director of DHL Express India, and more. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/7-major-income-tax-changes-in-2025-that-will-impact-your-money-2771231-2025-08-14",
+      "headline": "7 major income tax changes in 2025 that will impact your money2025 has brought a wave of changes to India's income tax rules, from bigger exemptions to extended filing deadlines. Here's a simple breakdown of the seven key updates that could directly affect your finances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/cognizant-salary-hike-eligible-employees-november-1-2771152-2025-08-14",
+      "headline": "Cognizant to roll out wage hikes for 80% of eligible employees. Details hereIT giant Cognizant is set to give salary hikes to 80% of eligible employees from November 1, with top performers in India receiving high single-digit increases."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/jsw-cement-share-price-market-debut-stock-fall-2-percent-buy-sell-book-profit-review-2771158-2025-08-14",
+      "headline": "JSW Cement shares fall after listing at 4% premium: Should you hold or sell?JSW Cement's share price listed at 4% above its issue price of Rs 147. On the BSE, the stock opened at Rs 153, up 4.1%, while on the NSE it debuted at Rs 153.50, a gain of 4.4%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/man-invested-rs-18000month-for-4-years-earned-less-than-fds-ca-explains-why-2771104-2025-08-14",
+      "headline": "Man invested Rs 18,000/month for 4 years, earned less than FDs. CA explains whyThe investor believed he was on the right track. His funds showed a compound annual growth rate (CAGR) of 11%. But when he calculated his portfolio XIRR\u2014the actual return on his money\u2014it was just 6%. That's less than the 7% a fixed deposit would have paid over the same period."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pakistan-economy-credit-rating-improve-moodys-fitch-reason-inflation-forex-reserve-2771031-2025-08-14",
+      "headline": "Pakistan's credit rating gets a lift from Moody's. Here's whyS&P Global Ratings raised Pakistan's rating to B- from CCC+ on July 24, while Fitch Ratings did the same in April. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-cheque-clear-rule-faster-october-4-few-hours-personal-finance-trending-news-money-tips-2771065-2025-08-14",
+      "headline": "RBI's new rule: Cheques to clear in just hours starting this dateUnder the new rule, cheques will be scanned, presented, and cleared continuously during business hours, reducing the clearing cycle from the current T+1 days to just a few hours."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/icici-bank-cuts-minimum-balance-after-backlash-check-new-rules-and-penalties-2771058-2025-08-14",
+      "headline": "ICICI Bank cuts minimum balance after backlash. Check new rules and penaltiesThe bank's decision comes after strong public criticism, particularly over the earlier increase in urban and metro monthly average balance levels. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jsw-cement-share-price-market-debut-rs-153-nse-bse-opening-price-4-percent-listing-gain-2771045-2025-08-14",
+      "headline": "JSW Cement shares list at 4% premium on stock market debut On the BSE, the shares opened at Rs 153, up 4.1%, while on the NSE they began trading at Rs 153.50, a gain of 4.4%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/muthoot-finance-shares-jump-10-percnt-to-hit-record-high-after-q1-results-should-you-buy-2771035-2025-08-14",
+      "headline": "Muthoot Finance shares jump 10% to hit record high after Q1 results. Should you buy?The gold loan financing company has seen its stock lifted by strong quarterly performance, rising investor confidence, and positive brokerage recommendations. Shares of the company were trading 10.43% higher at Rs 2,772.55 on the BSE at 10:04 am.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/bitcoin-all-time-high-record-key-reasons-explained-2771025-2025-08-14",
+      "headline": "Bitcoin surges past $124,000 to hit all-time high. What's fueling the rally?Bitcoin hit an all-time high of $124,000. Here's why Bitcoin surged past $124K and will it keep climbing?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-gains-over-100-points-nifty-above-24650-infosys-leads-gains-2771019-2025-08-14",
+      "headline": "Sensex, Nifty open higher as IT stocks rally; Infosys, Wipro among top gainersThe S&P BSE Sensex opened more than 100 points higher and was trading 51.75 points up at 80,591.66 around 9:25 am. The NSE Nifty50 rose 13.80 points to 24,633.15."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/amitabh-bachchan-praises-s-jaishankar-on-kbc-independence-day-special-episode-2772732-2025-08-18",
+      "headline": "Amitabh Bachchan praises S Jaishankar on KBC Independence Day special episodeOn the 'Kaun Banega Crorepati' Independence Day special, Amitabh Bachchan praised External Affairs Minister S Jaishankar, comparing his strong diplomatic style to that of an Army officer. The episode also featured three women officers from the armed forces who played key roles in Operation Sindoor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-bengal-files-controversy-explained-vivek-agnihotri-kolkata-1946-riots-2772718-2025-08-18",
+      "headline": "The Bengal Files row explained: Why Vivek Agnihotri's film is facing backlashVivek Agnihotri's film 'The Bengal Files' has stirred controversy over its portrayal of 1946 riots. The movie faces backlash over historical accuracy and portrayal of key figures, with legal notices and public debates intensifying ahead of its September release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ali-fazal-new-crime-thriller-raakh-announced-first-look-out-2772727-2025-08-18",
+      "headline": "Ali Fazal dons the khaki in Prime Video's new series Raakh. See first-look posterPrime Video is set to premiere 'Raakh', a gripping Indian investigative crime thriller starring Ali Fazal, Sonali Bendre, and Aamir Bashir, in 2026. The series is directed by Anusha Nandakumar and Sandeep Saket. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-2026-return-classic-hindi-cinema-vacation-photo-2772672-2025-08-18",
@@ -141,24 +296,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
       "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/terence-stamp-actor-general-zod-superman-dies-aged-87-2772519-2025-08-17",
-      "headline": "Actor Terence Stamp, who played Superman villain General Zod, dies at 87Actor Terence Stamp, known for his role as General Zod, has died aged 87. He also played a key role in actor Tom Cruise's World War 2 period-drama 'Valkyrie' (2008)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/veteran-marathi-actor-jyoti-chandekar-dies-at-68-after-prolonged-illness-2772503-2025-08-17",
-      "headline": "Veteran Marathi actor Jyoti Chandekar dies at 68 after prolonged illnessVeteran Marathi actor Jyoti Chandekar, known for her role as Poorna Aji in 'Tharala Tar Mag', died in Pune at the age of 68 after a long illness. Her daughter Tejaswini Pandit and the Marathi film industry remembered her for her long and memorable career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nawazuddin-siddiqui-opens-up-on-his-bond-with-daughter-shora-2772500-2025-08-17",
-      "headline": "Nawazuddin Siddiqui opens up on his bond with daughter Shora: My biggest criticActor Nawazuddin Siddiqui said his daughter Shora keeps him grounded and often scolds him without caring about his stardom."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/operation-sindoor-never-seen-before-images-show-how-pak-retreated-during-2772726-2025-08-18",
+      "headline": "Exclusive: As Op Sindoor peaked, Pak Navy took a backseat, satellite imagery showsNew commercial satellite imagery analysed by India Today's OSINT team shows Pak Navy warships dispersed to commercial docks while others took refuge at its western port of Gwadar, close to the Iranian border."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/opposition-may-move-impeachment-motion-against-chief-election-commissioner-amid-vote-chori-row-sources-2772656-2025-08-18",
@@ -167,7 +312,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/mumbai/story/imd-weather-mumbai-rain-red-alert-maharashtra-red-alert-heavy-downpour-2772648-2025-08-18",
-      "headline": "Avoid going outdoors: Mumbai schools, colleges shut amid rain red alert  Live UpdatesAmid the alert, the Greater Mumbai Police Chief advised caution, saying, \"As heavy rainfall continues under the Orange Alert, incidents of waterlogging and reduced visibility are being reported from multiple areas.\" He further warned people against unnecessary travel."
+      "headline": "Avoid outdoors: Mumbai hit with heavy rain, schools, colleges shut  Live UpdatesAmid the alert, the Greater Mumbai Police Chief advised caution, saying, \"As heavy rainfall continues under the Orange Alert, incidents of waterlogging and reduced visibility are being reported from multiple areas.\" He further warned people against unnecessary travel."
     },
     {
       "sentiment": "positive",
@@ -186,6 +331,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/get-affiliated-with-state-education-board-before-july-1-or-face-closure-uttarakhands-order-for-all-madrasas-2772733-2025-08-18",
+      "headline": "Get state board affiliation by July 1 or face closure: Uttarakhand to madrassasThe Uttarakhand government stated that only after madrassas apply to the Uttarakhand State Minority Education Authority will they be able to seek recognition as minority educational institutions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-asia-cup-t20-squad-selection-key-player-debates-sky-gill-bumrah-2772667-2025-08-18",
+      "headline": "Asia Cup squad selection buzz: Big calls, bold omissions awaitAsia Cup 2025 squad selection: The selectors and team management face a tough task of picking 15 from India's vast pool of T20 talent. Will Test captain Shubman Gill make the cut? Will Jasprit Bumrah play? What about Rinku Singh? All will be revealed on Tuesday, August 19."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/first-order-thinking-pitfalls-of-jugaad-and-why-india-fails-to-fix-roads-2772693-2025-08-18",
+      "headline": "First-order thinking, pitfalls of jugaad, and why India fails to fix roadsEvery day it seems that problems in India are endless with no solutions in sight. Are we doomed to live with these problems, even the recurring problems like waterlogged roads, forever? Maybe not but definitely until we keep relying on jugaad."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/om-birla-lok-sabha-public-destroy-government-property-sloganeering-opposition-bihar-sir-vote-theft-election-commission-2772690-2025-08-18",
       "headline": "Public didn't elect you to wreck property: Om Birla to sloganeering Opposition MPsLok Sabha Speaker Om Birla rebuked Opposition MPs as they fiercely sloganeered in the well of the House soon after the proceedings resumed on Monday, warning them with strict action."
     },
@@ -196,23 +356,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/first-order-thinking-pitfalls-of-jugaad-and-why-india-fails-to-fix-roads-2772693-2025-08-18",
-      "headline": "First-order thinking, pitfalls of jugaad, and why India fails to fix roadsEvery day it seems that problems in India are endless with no solutions in sight. Are we doomed to live with these problems, even the recurring problems like waterlogged roads, forever? Maybe not but definitely until we keep relying on jugaad."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
       "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowDisassociating himself with the 'The Bengali Files' controversy, Bengali actor Saswata Chatterjee said the Vivek Agnihotri film was initially titled 'The Delhi Files'. He said he wasn't aware of the film's story or the reason behind its title change at the last minute. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/no-nato-zelenskyy-can-end-war-with-russia-immediately-trump-ahead-of-meeting-with-ukrainian-president-2772576-2025-08-18",
-      "headline": "'Forget Nato, Crimea': Is Trump throwing Zelenskyy under the bus for Russia deal?Surprisingly, Trump's remarks ahead of his meeting with Zelenskyy came even after his special envoy, Steve Witkoff, said that Moscow was willing to let the US and its European allies provide Nato-style security guarantees to Kyiv as part of a potential peace deal, describing the development as \"game-changing.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-asia-cup-t20-squad-selection-key-player-debates-sky-gill-bumrah-2772667-2025-08-18",
-      "headline": "Asia Cup squad selection buzz: Big calls, bold omissions awaitAsia Cup 2025 squad selection: The selectors and team management face a tough task of picking 15 from India's vast pool of T20 talent. Will Test captain Shubman Gill make the cut? Will Jasprit Bumrah play? What about Rinku Singh? All will be revealed on Tuesday, August 19."
     },
     {
       "sentiment": "positive",
@@ -220,14 +365,34 @@
       "headline": "Will Trump use this Pakistani tool as leverage against India?Pakistan has already started using the US State Department's 'foreign terror organisation' tag on the Balochistan Liberation Army and the Majeed Brigade against India. Will the Trump White House try to use the tag and Pakistan's claims as leverage against India?"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/no-nato-zelenskyy-can-end-war-with-russia-immediately-trump-ahead-of-meeting-with-ukrainian-president-2772576-2025-08-18",
+      "headline": "'Forget Nato, Crimea': Is Trump throwing Zelenskyy under the bus for Russia deal?Surprisingly, Trump's remarks ahead of his meeting with Zelenskyy came even after his special envoy, Steve Witkoff, said that Moscow was willing to let the US and its European allies provide Nato-style security guarantees to Kyiv as part of a potential peace deal, describing the development as \"game-changing.\""
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/vladimir-putin-donald-trump-bodyguards-poop-suitcases-health-secrets-hide-alaska-meeting-2772773-2025-08-18",
+      "headline": "Putin's bodyguards carried 'poop suitcase' to Alaska meet with Trump: ReportMembers of the\u00a0Russian President's Federal Protection Service (FPS) collect Russian President Vladimir Putin's waste, including his poop, store it in special bags and bring it back to Moscow in dedicated suitcases, a report by The Express US, which cited investigative journalists\u00a0Mikhail Rubin and\u00a0Regis Gente in French publication Paris Match, said."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/watchmaker-swatch-under-fire-asian-model-slanted-eye-pose-omega-tissot-campaign-revenue-2772666-2025-08-18",
       "headline": "Why model's slanted-eye ad sparked backlash, made Swatch apologiseWatchmaker Swatch was forced to pull an ad and apologise after an Asian model's \"slanted eye\" gesture sparked outrage in China. The ad was condemned as racist and triggered boycott calls. The backlash follows a pattern of consumer-led boycotts in China against global brands over cultural insensitivity."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/story/volvo-ex30-review-small-car-big-statement-2772601-2025-08-18",
+      "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/army-personnel-assaulted-meerut-toll-plaza-viral-video-arrests-2772608-2025-08-18",
       "headline": "Army jawan restrained, beaten by toll plaza workers in Meerut; 4 arrestedKapil, a soldier stationed in Jammu and Kashmir, was returning to duty from his village and traveling to Delhi with a friend. As they neared the toll plaza on the Karnal Highway, a dispute over the traffic jam and toll fee reportedly escalated into a physical assault."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/ap-tdp-mla-d-venkateswara-prasad-faces-protests-over-jr-ntr-audio-denies-insulting-him-after-audio-clip-goes-viral-2772651-2025-08-18",
+      "headline": "TDP legislator denies insulting actor Jr NTR after viral audio clip sparks protestsAn alleged audio clip of TDP MLA D Venkateswara Prasad insulting Jr NTR went viral in Andhra Pradesh's Anantapur, prompting fans to protest, though the legislator denied the remarks and offered regret."
     },
     {
       "sentiment": "positive",
@@ -236,8 +401,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/story/volvo-ex30-review-small-car-big-statement-2772601-2025-08-18",
-      "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-bengal-files-controversy-explained-vivek-agnihotri-kolkata-1946-riots-2772718-2025-08-18",
+      "headline": "The Bengal Files row explained: Why Vivek Agnihotri's film is facing backlashVivek Agnihotri's film 'The Bengal Files' has stirred controversy over its portrayal of 1946 riots. The movie faces backlash over historical accuracy and portrayal of key figures, with legal notices and public debates intensifying ahead of its September release."
     },
     {
       "sentiment": "negative",
@@ -256,23 +421,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
-      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/mandhira-kapur-family-excluded-sona-comstar-after-sunjay-kapur-death-2772541-2025-08-17",
-      "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers and everyone's forgotten the legacy, forgotten that her mother's still alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-is-cp-radhakrishnan-ndas-pick-for-vice-president-bjp-2772531-2025-08-17",
-      "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0President?Maharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jawan-killed-2-others-injured-in-ied-blast-planted-by-maoists-in-chhattisgarhs-bijapur-district-2772606-2025-08-18",
-      "headline": "Jawan killed, 2 injured in IED planted by Maoists in Chhattisgarh's BijapurA jawan of the Chhattisgarh Police's District Reserve Guard and at least two other personnel were killed after an IED planted by Maoists in Bijapur district went off on Monday morning."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-bengal-files-controversy-explained-vivek-agnihotri-kolkata-1946-riots-2772718-2025-08-18",
+      "headline": "The Bengal Files row explained: Why Vivek Agnihotri's film is facing backlashVivek Agnihotri's film 'The Bengal Files' has stirred controversy over its portrayal of 1946 riots. The movie faces backlash over historical accuracy and portrayal of key figures, with legal notices and public debates intensifying ahead of its September release."
     },
     {
       "sentiment": "positive",
@@ -288,14 +438,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rao-bahadur-teaser-satyadev-avatar-impresses-in-venkatesh-mahas-mystical-drama-2772703-2025-08-18",
       "headline": "Rao Bahadur teaser: Satyadev's avatar impresses in Venkatesh Maha's mystical dramaThe teaser of 'Rao Bahadur', directed by Venkatesh Maha and presented by Mahesh Babu, has been released. Set for release in summer 2026, the film aims to redefine Pan-India cinema with Satya Dev's bold performance. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rapper-vedan-sexual-assault-complaint-two-more-women-2772719-2025-08-18",
-      "headline": "Two more women file sexual assault complaints against rapper VedanTwo additional women have come forward accusing rapper Vedan of sexual assault, with complaints sent to Kerala Chief Minister Pinarayi Vijayan. Vedan remains absconding as police continue investigations following earlier allegations."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/washington-sundar-praises-young-indian-cricket-team-unity-england-tour-2772752-2025-08-18",
+      "headline": "Individuals stepped up to win matches: Sundar reflects on India's fight in EnglandAll-rounder Washington Sundar praised the young Indian squad that toured England during the recently concluded Anderson-Tendulkar Trophy, saying it was full of energy and a strong sense of togetherness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pkl-2025-haryana-steelers-squad-jaideep-dahiya-captain-rahul-sethpal-2772740-2025-08-18",
+      "headline": "PKL: Haryana Steelers announce Jaideep Dahiya as captain ahead of season 12Haryana Steelers have named Jaideep Dahiya as captain and Rahul Sethpal as vice-captain for PKL 2025 Season 12. The Steelers are aiming to retain their PKL crown. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sonny-baker-hat-trick-hundred-manchester-originals-england-call-up-2772723-2025-08-18",
@@ -343,13 +498,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ruben-amorim-reporter-altay-bayindir-error-arsenal-goal-manchester-united-2772623-2025-08-18",
-      "headline": "Ruben Amorim snaps back at reporter in Bayindir's defence after Arsenal lossRuben Amorim snapped back at a reporter, coming out swinging in defence of goalkeeper Altay Bayindir following Manchester United's 1-0 defeat to Arsenal, firmly rejecting questions over the Turkish international's place in the starting line-up."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-asia-cup-t20-squad-selection-key-player-debates-sky-gill-bumrah-2772667-2025-08-18",
+      "headline": "Asia Cup squad selection buzz: Big calls, bold omissions awaitAsia Cup 2025 squad selection: The selectors and team management face a tough task of picking 15 from India's vast pool of T20 talent. Will Test captain Shubman Gill make the cut? Will Jasprit Bumrah play? What about Rinku Singh? All will be revealed on Tuesday, August 19."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/brett-lee-ravindra-jadeja-fitness-sword-celebration-warning-2772624-2025-08-18",
-      "headline": "Only way Ravindra Jadeja gets injured is through his sword celebration: Brett LeeBrett Lee lauds Ravindra Jadeja's fitness after his stellar England tour, joking that his sword celebration could risk a rotator cuff injury. Lee had also claimed that Jadeja still has two years left in his Test career. "
+      "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-cincinnati-open-wta-finals-2772655-2025-08-18",
+      "headline": "Swiatek qualifies for WTA Finals with final berth in Cincinnati OpenIga Swiatek has secured her spot in the 2025 WTA Finals, marking her fifth consecutive appearance at the season-ending event. She reached the final of the Cincinnati Masters, where she'll face Italy's Jasmine Paolini, after defeating Elena Rybakina in the semifinals."
     },
     {
       "sentiment": "positive",
@@ -375,6 +530,116 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brett-lee-ravindra-jadeja-fitness-sword-celebration-warning-2772624-2025-08-18",
       "headline": "Only way Ravindra Jadeja gets injured is through his sword celebration: Brett LeeBrett Lee lauds Ravindra Jadeja's fitness after his stellar England tour, joking that his sword celebration could risk a rotator cuff injury. Lee had also claimed that Jadeja still has two years left in his Test career. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
+      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-ruben-amorim-manchester-united-vs-arsenal-2772580-2025-08-18",
+      "headline": "Amorim's United show grit and glimpses of change in PL opener vs ArsenalManchester United lost 0-1 to Arsenal in Ruben Amorim's Premier League debut, but the display showed grit and signs of progress. While issues remain in defence and attack, new faces like Cunha and Mbeumo offered hope for the season ahead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
+      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
+      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-arsenal-defeat-old-trafford-ruben-amorim-2772544-2025-08-17",
+      "headline": "Amorim's new-look United fall 0-1 to Arsenal at Old TraffordManchester United's Premier League opener ended in disappointment as Ruben Amorim's men lost 1-0 to Arsenal at Old Trafford. Ricardo Calafiori's header proved decisive, leaving United frustrated despite dominating large spells of the game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-and-mohammad-rizwan-arent-pakistans-key-players-mohamamad-hafeez-2772540-2025-08-17",
+      "headline": "Babar and Rizwan aren't Pakistan's key players; they don't win matches: HafeezFormer Pakistan all-rounder Mohammad Hafeez has criticised Mohammad Rizwan and Babar Azam for not being the key players for their team due to their inability to help them win big matches in recent times."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
+      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
+      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-arsenal-defeat-old-trafford-ruben-amorim-2772544-2025-08-17",
+      "headline": "Amorim's new-look United fall 0-1 to Arsenal at Old TraffordManchester United's Premier League opener ended in disappointment as Ruben Amorim's men lost 1-0 to Arsenal at Old Trafford. Ricardo Calafiori's header proved decisive, leaving United frustrated despite dominating large spells of the game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-and-mohammad-rizwan-arent-pakistans-key-players-mohamamad-hafeez-2772540-2025-08-17",
+      "headline": "Babar and Rizwan aren't Pakistan's key players; they don't win matches: HafeezFormer Pakistan all-rounder Mohammad Hafeez has criticised Mohammad Rizwan and Babar Azam for not being the key players for their team due to their inability to help them win big matches in recent times."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-beat-mohun-bagan-sg-kolkata-derby-durand-cup-2025-quarterfinal-2772526-2025-08-17",
+      "headline": "East Bengal take 2-1 win vs Mohun Bagan, Diamantakos' brace seals derby winEast Bengal beat Mohun Bagan 2-1 in a fiery Kolkata Derby to reach the Durand Cup quarterfinals. Dimitrios Diamantakos scored twice, while Anirudh Thapa netted for the Mariners, but East Bengal's resilience sealed a morale-boosting early-season win."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
+      "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-wicketkeeping-josh-inglis-2772514-2025-08-17",
+      "headline": "Carey enjoying gloveless role for Australia in ODIs with Inglis' riseAlex Carey has seamlessly transitioned from a specialist wicketkeeper to a specialist batter in ODIs, embracing whatever role the team requires. After being Australia's first-choice keeper for nearly five years, Josh Inglis has replaced him. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-criticism-shardul-thakur-defend-india-head-coach-2772511-2025-08-17",
+      "headline": "Criticism will come and go, winning matters: Shardul defends Gautam GambhirIndia coach Gautam Gambhir has faced sharp criticism after recent Test setbacks, but Shardul Thakur has defended him, praising his fighting spirit and influence on the team. With the Asia Cup ahead, Gambhir's leadership remains under the spotlight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/dont-push-jasprit-bumrah-towards-early-retirement-says-aakash-chopra-2772502-2025-08-17",
+      "headline": "Don't push Bumrah towards early retirement, he's Kohinoor Diamond: Former openerFormer India opener Aakash Chopra has warned against pushing Jasprit Bumrah towards early retirement amid constant criticism of the India fast bowler."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-womens-world-cup-spin-challenge-australia-2772492-2025-08-17",
+      "headline": "Alyssa Healy, Australia brace for tough spin challenge in Women's World CupAlyssa Healy acknowledged the tough spin-friendly conditions Australia will face at the Women's ODI World Cup. Having returned from injury, Healy is in excellent form, finishing as the top run-scorer in both the T20 and One-Day series against India A. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-sunil-chhetri-snub-cafa-nations-cup-india-football-team-2772487-2025-08-17",
+      "headline": "Khalid Jamil lifts lid on Chhetri snub: Wanted different faces in CAFA CupKhalid Jamil's first India squad raised eyebrows with the omission of Sunil Chhetri, as the new coach prioritises fresh faces for the CAFA Nations Cup, sparking questions about the legendary striker's long-term international future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-r-ashwin-on-shubman-gill-vs-jaiswal-debate-2772481-2025-08-17",
+      "headline": "Asia Cup 2025: R. Ashwin gives his verdict on Shubman Gill vs Jaiswal debateFormer India spinner Ravichandran Ashwin has shared his views on the Shubman Gill vs Yashasvi Jaiswal debate for the upcoming Asia Cup 2025. The two players are in contention to be the backup opener for the continental tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shathira-jakir-jessy-womens-world-cup-umpire-bangladesh-2772474-2025-08-17",
+      "headline": "Bangladesh umpire Shathira Jakir Jessy set for historic World Cup stintFormer cricketer Shathira Jakir Jessy will become the first Bangladeshi woman umpire to officiate in a senior World Cup at the Women's ODI World Cup in India. Jessy, who has officiated in various international tournaments, is excited for the opportunity after years of hard work.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shoaib-bashir-responds-nathan-lyon-jibe-ashes-2025-2772468-2025-08-17",
+      "headline": "I stick to what I believe in: Shoaib Bashir responds to Nathan Lyon's jibeEngland spinner Shoaib Bashir has dismissed Nathan Lyon's critique, insisting he will focus on his own growth ahead of the Ashes. Inspired by Lyon's craft, the 21-year-old aims to recover fully and play a key role in England's bid to reclaim the urn."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aqib-javed-india-vs-pakistan-asia-cup-2772463-2025-08-17",
+      "headline": "Pakistan's T20 team can beat India: Aqib Javed's bold claim for Asia CupSelector Aqib Javed expressed confidence in Pakistan's ability to beat India in the Asia Cup 2025, praising the strength of the current squad. Despite India's dominant T20I record, Pakistan aims to repeat their 2022 Asia Cup success in the upcoming clash on September 14.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-johnson-test-cricket-privilege-todd-greenberg-cricket-australia-2772458-2025-08-17",
+      "headline": "Mitchell Johnson slams Cricket Australia CEO's take on lesser Test matchesMitchell Johnson has slammed calls to restrict Test cricket to elite nations, urging the ICC and boards to \"stop hoarding the privilege and start sharing the responsibility.\" He says the format's future lies in support, not exclusion."
     }
   ],
   "education": [
@@ -437,21 +702,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
