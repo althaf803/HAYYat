@@ -2,8 +2,18 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-6-excel-utility-now-live-who-is-eligible-to-file-2772650-2025-08-18",
+      "headline": "ITR-6 excel utility now live: Who is eligible to file?The Income Tax Department has rolled out the excel utility for ITR-6 for AY 2025-26. But this form isn't meant for everyone \u2014 here's who is required to use it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/regaal-resources-ipo-allotment-out-today-status-online-guide-gmp-listing-gains-stock-market-debut-date-2772642-2025-08-18",
+      "headline": "Regaal Resources IPO allotment today: Check status, GMP & listing dateInvestors who applied for the IPO can check their allotment status either through the BSE website or the registrar's platform, MUFG Intime India Private Limited (previously known as Link Intime India Pvt Ltd)."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-up-1000-points-nifty-jump-stock-market-rally-auto-maruti-suzuki-mahindra-tata-motors-bajaj-gst-reform-diwali-2772619-2025-08-18",
-      "headline": "Maruti Suzuki shares jumps 7%: Why are auto stocks rallying today?The S&P BSE Sensex was up 1,062.91 points to 81,659.75, while the NSE Nifty50 jumped 356 points to 24,987.30 as of 9:32 am."
+      "headline": "Maruti Suzuki rallies 8%: Why GST relief is driving auto stocks higherEarly trade clearly showed strong buying in auto and financial stocks, while IT and pharma names dragged at the bottom."
     },
     {
       "sentiment": "positive",
@@ -13,7 +23,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-rallies-893-points-nifty-above-24900-maruti-suzuki-share-price-jumps-6-percent-2772611-2025-08-18",
-      "headline": "Sensex rallies 1,000 points, Nifty above 24,900; Maruti Suzuki share price jumps 6%The S&P BSE Sensex was up 1,062.91 points to 81,659.75, while the NSE Nifty50 jumped 356 points to 24,987.30 as of 9:32 am."
+      "headline": "Sensex, Nifty surge as PM hints at GST reforms by Diwali; Maruti jumps 7%The S&P BSE Sensex was up 1,062.91 points to 81,659.75, while the NSE Nifty50 jumped 356 points to 24,987.30 as of 9:32 am."
     },
     {
       "sentiment": "positive",
@@ -49,19 +59,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/government-proposes-two-gst-rates-of-5-and-18-tobacco-at-40-tax-cuts-for-farm-and-health-sectors-sources-2771789-2025-08-15",
       "headline": "Government proposes 5%, 18% GST slabs; tobacco at 40%, relief for farmers: SourcesThe government has proposed reducing GST to two slabs: 5% and 18% with sin goods at 40%, aiming to cut taxes on essentials like farm products, health items, handicrafts, and insurance. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/credit-rating-importance-what-do-they-mean-india-upgrade-pakistan-sp-global-2771729-2025-08-15",
-      "headline": "Credit ratings decoded: How a simple upgrade can change a country's fortuneGlobal credit rating agency S&P Global has upgraded India's long-term unsolicited sovereign credit rating to 'BBB' from 'BBB-'. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/video/gst-council-meeting-in-september-12-slam-may-be-dropped-sources-2771695-2025-08-15",
-      "headline": "GST council meeting in September, 12% slam may be dropped: SourcesTwo-day GST Council meetings are expected in September to pave the way for reforms. The announcement was made by the Prime Minister from the ramparts of the Red Fort. These reforms are seen as a Diwali gift for the middle class. Key changes include the removal of the 12% GST slab and rate rationalisation for health and life insurance policies. The government aims to reduce the GST on most items currently in the 12% slab to 5%. This move is expected to make essential items such as footwear, bags, clothes, and toothpastes more affordable. The government is addressing concerns about inflation and the rising cost of living. Feedback regarding health insurance, which impacts the common person, has also been considered. The meetings in September are crucial for approving these changes, with implementation anticipated before Diwali. The Finance Ministry and state finance ministers have been involved in the process."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/got7jackson-wang-rushed-hospital-fan-signing-event-cancelled-2772635-2025-08-18",
+      "headline": "GOT7's Jackson Wang hospitalised due to illness, cancels scheduled fan meetingK-pop group GOT7 member Jackson Wang was admitted to the hospital due to food poisoning and has been advised to rest. It led to the cancellation of his planned fan signing event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-marks-robert-de-niro-birthday-with-emotional-instagram-post-2772629-2025-08-18",
+      "headline": "Anupam Kher shares nostalgic pics, moving note on friend Robert De Niro's birthdayAnupam Kher shared a heartfelt birthday tribute to Hollywood legend Robert De Niro, highlighting their friendship and De Niro's global influence on actors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/leonardo-dicaprio-vittoria-ceretti-yacht-trip-formentera-balearic-islands-2772607-2025-08-18",
+      "headline": "Leonardo DiCaprio-Vittoria Ceretti soak up the sun on yacht during Spain getawayLeonardo DiCaprio and Vittoria Ceretti enjoyed a public display of affection during a yacht trip, marking a rare public appearance of their relationship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/kanika-kapoor-says-singers-earn-rs-101-for-songs-india-2772614-2025-08-18",
+      "headline": "Singer Kanika Kapoor says singers earn just Rs 101 for songs in IndiaPopular singer Kanika Kapoor has opened up about the financial hardships faced by vocalists in the Indian music industry. She revealed that many singers receive minimal payments and rely mainly on live shows for income."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/janhvi-kapoor-reacts-trolling-bharat-mata-ki-jai-chant-dahi-handi-event-2772605-2025-08-18",
@@ -70,7 +90,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Saswata Chatterjee on Bengal Files row: Not my job to check history, I'm an actorActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
     },
     {
       "sentiment": "positive",
@@ -136,26 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-day-3-rajinikanth-film-storms-past-rs-250-crore-worldwide-2772363-2025-08-17",
       "headline": "Coolie box office Day 3: Rajinikanth film storms past Rs 250 crore worldwideRajinikanth's 'Coolie' continues its unstoppable run at the box office, raking in Rs 158.25 crore domestically in just three days. The film has become the highest-grossing Tamil release of 2025. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/war-2-box-office-day-3-hrithik-roshan-jr-ntr-film-witnesses-a-sharp-drop-2772386-2025-08-17",
-      "headline": "War 2 box office Day 3: Hrithik Roshan, Jr NTR film witnesses a sharp dropOn Day 3, 'War 2' collected around Rs 33 crore in India, bringing its three-day total to nearly Rs 143\u2013144 crore. Despite the dip, Hrithik Roshan and Jr NTR's film has crossed Rs 200 crore worldwide and emerged as the seventh highest-grossing Bollywood release of 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/parag-tyagi-gets-wife-shefali-jariwalas-face-tattooed-on-his-chest-2772366-2025-08-17",
-      "headline": "Parag Tyagi gets wife Shefali Jariwala's face tattooed on his chest. VideoParag Tyagi paid a heartfelt tribute to his late wife Shefali Jariwala by getting her portrait tattooed on his chest, keeping her memory close to his heart."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-represents-india-at-new-yorks-india-day-parade-independence-day-2772356-2025-08-17",
-      "headline": "Vijay Deverakonda represents India at New York's India Day parade. WatchActor Vijay Deverakonda celebrated Independence Day by proudly representing India at the India Day parade in New York City. He participated in flag-hoisting ceremonies and greeted fans at Times Square. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/nakuul-mehta-jankee-welcome-baby-girl-shares-adorable-pics-from-hospital-2772352-2025-08-17",
-      "headline": "Nakuul Mehta, wife Jankee welcome baby girl share adorable pics from hospitalActor Nakuul Mehta and his wife Jankee have welcomed their second child, a baby girl, sharing the joyous news with fans through a heartfelt Instagram post. The couple's son Sufi was lovingly included in the announcement, holding his newborn sister in the first picture."
     }
   ],
   "general news": [
@@ -185,6 +185,11 @@
       "headline": "Will Trump use this Pakistani tool as leverage against India?Pakistan has already started using the US State Department's 'foreign terror organisation' tag on the Balochistan Liberation Army and the Majeed Brigade against India. Will the Trump White House try to use the tag and Pakistan's claims as leverage against India?"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/imd-weather-mumbai-rain-red-alert-maharashtra-red-alert-heavy-downpour-2772648-2025-08-18",
+      "headline": "Weather department issues alert for Mumbai, warns of heavy rain in next 3-4 hoursWeather department issues alert for Mumbai, warns of heavy rain in next 3-4 hours"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjp-names-maharashtra-governor-cp-radhakrishnan-as-ndas-vice-president-candidate-2772504-2025-08-17",
       "headline": "BJP picks Maharashtra Governor CP Radhakrishnan as NDA Veep candidateThe BJP has announced Maharashtra Governor CP Radhakrishnan as NDA's Vice Presidential candidate after Jagdeep Dhankhar resigned last month citing health reasons."
@@ -196,13 +201,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-bomb-threat-dps-dwarka-college-police-squad-reach-site-hoax-email-2772589-2025-08-18",
-      "headline": "2 schools, one college in Delhi's Dwarka get bomb threat, police on spotTwo schools, including the Delhi Public School, and another college in Dwarka received bomb threat via email on Monday morning."
+      "url": "https://www.indiatoday.in/health/story/are-weightloss-drugs-for-me-5-things-to-consider-anti-obesity-india-2772571-2025-08-18",
+      "headline": "Are weightloss drugs for me? 5 things to considerAnti-obesity drugs like GLP-1 are quite popular now. But, do you really need it?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/are-weightloss-drugs-for-me-5-things-to-consider-anti-obesity-india-2772571-2025-08-18",
-      "headline": "Are weightloss drugs for me? 5 things to considerAnti-obesity drugs like GLP-1 are quite popular now. But, do you really need it?"
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-bomb-threat-dps-dwarka-college-police-squad-reach-site-hoax-email-2772589-2025-08-18",
+      "headline": "3 schools, including DPS, and one college in Delhi's Dwarka get bomb threatAt least three schools, including the Delhi Public School, and another college in Dwarka received bomb threats via email on Monday morning."
     },
     {
       "sentiment": "negative",
@@ -211,8 +216,23 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/flood-scare-in-delhi-as-yamuna-breaches-danger-mark-advisory-issued-2772633-2025-08-18",
+      "headline": "Flood scare in Delhi as Yamuna breaches danger mark, advisory issuedThe warning mark for the city is 204.50 metres, while the danger mark is 205.33 metres. Evacuation of people starts at 206 metres. The Central Water Commission said all concerned agencies have been asked to take precautionary measures to handle a flood-like situation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
+      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
       "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/shubhanshu-shukla-parliament-discussion-indian-astronaut-iss-space-mission-2772639-2025-08-18",
+      "headline": "Parliament to honour astronaut Shubhanshu Shukla with special discussionsUnion Parliamentary Affairs Minister Kiren Rijiju confirmed the decision, calling Group Captain Subhanshu Shukla's accomplishment \"a historic milestone for the nation\"."
     },
     {
       "sentiment": "negative",
@@ -221,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Saswata Chatterjee distances himself from Bengal Files row: Not a historianActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
+      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
     },
     {
       "sentiment": "positive",
@@ -241,13 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
-      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
+      "url": "https://www.indiatoday.in/auto/story/volvo-ex30-review-small-car-big-statement-2772601-2025-08-18",
+      "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india-today-insight/story/vice-president-poll-how-modis-playbook-defies-pundits-past-precedence-2771333-2025-08-15",
       "headline": "Vice-president poll: How Modi's playbook defies pundits, past precedenceModi values messaging\u2014not just to Parliament or BJP cadre but to the electorate at large. But this time, his choice will also take the RSS view into account"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/spanish-woman-breaks-down-blames-chatgpt-for-ruining-holiday-viral-tiktok-video-2772640-2025-08-18",
+      "headline": "Woman breaks down, blames ChatGPT for ruining her holiday in viral TikTok videoIn a TikTok video that has now gone viral on social media, Mery Caldass broke down while explaining that she had relied on the AI chatbot to confirm if a visa was needed."
     },
     {
       "sentiment": "positive",
@@ -256,28 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-eci-counters-rahul-gandhi-charges-voter-fraud-house-number-address-vote-chori-sir-bihar-supreme-court-2772457-2025-08-17",
-      "headline": "House No. 0 to name duplications: Poll body's big counter to Rahul GandhiThe Election Commission of India (ECI) on Sunday countered Congress leader Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house numbers and that duplication in voter list didn't mean fraud. It vouched for the sanctity of the electoral rolls and said the Special Intensive Revision (SIR) exercise in Bihar wasn't being done in a rush."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-marks-robert-de-niro-birthday-with-emotional-instagram-post-2772629-2025-08-18",
+      "headline": "Anupam Kher shares nostalgic pics, moving note on friend Robert De Niro's birthdayAnupam Kher shared a heartfelt birthday tribute to Hollywood legend Robert De Niro, highlighting their friendship and De Niro's global influence on actors."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/story/volvo-ex30-review-small-car-big-statement-2772601-2025-08-18",
-      "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/two-lashkar-terror-associates-caught-in-jammu-and-kashmir-bandipora-chinese-grenades-ammunition-seized-2772547-2025-08-17",
-      "headline": "Two terror associates caught in J&K's Bandipora, Chinese grenades, ammo seizedSecurity forces in Bandipora, J&K, arrested two Lashkar-e-Taiba associates, seizing Chinese grenades, UBGL grenades, and AK rounds. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/seven-people-charred-to-death-after-car-hits-suv-on-gujarat-highway-bursts-into-flames-2772518-2025-08-17",
-      "headline": "7 killed after car bursts into flames after colliding with SUV in GujaratAccording the police, the people inside the car didn't get the chance to come out of the vehicle and were burnt alive following the accident. Three people inside the SUV were also hurt."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-releases-list-of-65-lakh-voters-deleted-from-draft-rolls-in-bihar-after-top-court-order-2772542-2025-08-17",
-      "headline": "Election Commission releases list of 65 lakh voters deleted from Bihar draft rollsElection Commission releases list of 65 lakh voters deleted from draft rolls in Bihar after top court order"
+      "url": "https://www.indiatoday.in/movies/hollywood/story/leonardo-dicaprio-vittoria-ceretti-yacht-trip-formentera-balearic-islands-2772607-2025-08-18",
+      "headline": "Leonardo DiCaprio-Vittoria Ceretti soak up the sun on yacht during Spain getawayLeonardo DiCaprio and Vittoria Ceretti enjoyed a public display of affection during a yacht trip, marking a rare public appearance of their relationship."
     },
     {
       "sentiment": "positive",
@@ -287,20 +297,15 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Saswata Chatterjee distances himself from Bengal Files row: Not a historianActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/triptii-dimri-boyfriend-sam-merchant-sees-her-off-at-mumbai-airport-blue-porsche-2772594-2025-08-18",
-      "headline": "Triptii Dimri's rumoured boyfriend Sam Merchant sees her off at Mumbai airportActor Triptii Dimri was seen at Mumbai airport, where her alleged boyfriend, businessman Sam Merchant, dropped her off in his blue Porsche. The two have long been speculated to be dating for a while now. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
-      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
+      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-open-iga-swiatek-beat-elena-rybakina-faces-jasmine-paolini-in-final-2772638-2025-08-18",
+      "headline": "Iga Swiatek downs Elena Rybakina, faces Jasmine Paolini in finalIga Swiatek delivered a relentless performance on Sunday, winning 10 of the last 13 games to defeat Elena Rybakina 7-5, 6-3, setting up a final showdown with Jasmine Paolini."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/ruben-amorim-reporter-altay-bayindir-error-arsenal-goal-manchester-united-2772623-2025-08-18",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-wicketkeeping-josh-inglis-2772514-2025-08-17",
-      "headline": "Carey enjoying gloveless role for Australia in ODIs with Inglis' riseAlex Carey has seamlessly transitioned from a specialist wicketkeeper to a specialist batter in ODIs, embracing whatever role the team requires. After being Australia's first-choice keeper for nearly five years, Josh Inglis has replaced him. \r\n"
+      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
+      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
     },
     {
       "sentiment": "positive",
@@ -375,11 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
       "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-wicketkeeping-josh-inglis-2772514-2025-08-17",
-      "headline": "Carey enjoying gloveless role for Australia in ODIs with Inglis' riseAlex Carey has seamlessly transitioned from a specialist wicketkeeper to a specialist batter in ODIs, embracing whatever role the team requires. After being Australia's first-choice keeper for nearly five years, Josh Inglis has replaced him. \r\n"
     }
   ],
   "education": [
