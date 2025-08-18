@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/big-gst-cuts-ahead-will-small-cars-insurance-get-cheaper-2772687-2025-08-18",
+      "headline": "Big GST cuts ahead: Will small cars, insurance get cheaper?The proposal to reduce GST on insurance premiums could make health and life cover more affordable. Industry experts say this would be a welcome change and could help improve insurance penetration across the country."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/itr-6-excel-utility-now-live-who-is-eligible-to-file-2772650-2025-08-18",
       "headline": "ITR-6 excel utility now live: Who is eligible to file?The Income Tax Department has rolled out the excel utility for ITR-6 for AY 2025-26. But this form isn't meant for everyone \u2014 here's who is required to use it."
     },
@@ -28,7 +33,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mandhira-kapur-family-excluded-sona-comstar-after-sunjay-kapur-death-2772541-2025-08-17",
-      "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers, adding that the names of family\r\nmembers were not included in obituaries and public acknowledgments."
+      "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers and everyone's forgotten the legacy, forgotten that her mother's still alive."
     },
     {
       "sentiment": "positive",
@@ -54,14 +59,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/motor-car-insurance-best-tips-policy-comparison-add-ons-first-time-mistake-personal-finance-2771761-2025-08-16",
       "headline": "What nobody tells you about buying motor insuranceWhile car sales are climbing, many buyers remain unaware about the finer points of motor insurance, a gap that can cost them money and create problems when making a claim."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/government-proposes-two-gst-rates-of-5-and-18-tobacco-at-40-tax-cuts-for-farm-and-health-sectors-sources-2771789-2025-08-15",
-      "headline": "Government proposes 5%, 18% GST slabs; tobacco at 40%, relief for farmers: SourcesThe government has proposed reducing GST to two slabs: 5% and 18% with sin goods at 40%, aiming to cut taxes on essentials like farm products, health items, handicrafts, and insurance. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-collection-day-4-rajinikanth-2772686-2025-08-18",
+      "headline": "Coolie box office Day 4: Rajinikanth's film eyes Rs 200 crore, crucial Monday aheadSuperstar Rajinikanth's 'Coolie' has been witnessing a dip in collection ever since it hit theatres. However, the film is just days away from hitting the Rs 200 crore-mark nett in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/kbc-17-uttarakhands-aditya-kumar-becomes-season-1st-crorepati-eyes-rs-7-crore-2772657-2025-08-18",
+      "headline": "KBC 17: Uttarakhand's Aditya Kumar becomes season's 1st crorepati, eyes Rs 7 croreUttarakhand's Aditya Kumar becomes the first contestant this season to win Rs 1 crore on Kaun Banega Crorepati and attempts the Rs 7 crore question."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/got7jackson-wang-rushed-hospital-fan-signing-event-cancelled-2772635-2025-08-18",
@@ -90,7 +100,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowDisassociating himself with the 'The Bengali Files' controversy, Bengali actor Saswata Chatterjee said the Vivek Agnihotri film was initially titled 'The Delhi Files'. He said he wasn't aware of the film's story or the reason behind its title change at the last minute. "
     },
     {
       "sentiment": "positive",
@@ -146,23 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/why-salman-khans-sikandar-failed-ar-murugadoss-admits-missteps-in-execution-2772402-2025-08-17",
       "headline": "Why Salman Khan's Sikandar failed? AR Murugadoss admits missteps in executionSalman Khan's 'Sikandar', directed by AR Murugadoss, has underperformed at the box office despite high expectations. Murugadoss admitted the emotional story did not connect with audiences and expressed hope to return to Bollywood when he finds his comfort zone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/dipika-kakar-shares-health-update-says-cancer-treatment-hits-hard-and-heavy-2772413-2025-08-17",
-      "headline": "Dipika Kakar shares health update, says cancer treatment hits hard and heavyDipika Kakar, who underwent a major surgery for stage 2 liver cancer in June, recently shared a heartfelt health update with fans, admitting that treatment days often feel heavy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-day-3-rajinikanth-film-storms-past-rs-250-crore-worldwide-2772363-2025-08-17",
-      "headline": "Coolie box office Day 3: Rajinikanth film storms past Rs 250 crore worldwideRajinikanth's 'Coolie' continues its unstoppable run at the box office, raking in Rs 158.25 crore domestically in just three days. The film has become the highest-grossing Tamil release of 2025. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/no-nato-zelenskyy-can-end-war-with-russia-immediately-trump-ahead-of-meeting-with-ukrainian-president-2772576-2025-08-18",
-      "headline": "'Forget Nato, Crimea': Is Trump throwing Zelenskyy under the bus for Russia deal?Surprisingly, Trump's remarks ahead of his meeting with Zelenskyy came even after his special envoy, Steve Witkoff, said that Moscow was willing to let the US and its European allies provide Nato-style security guarantees to Kyiv as part of a potential peace deal, describing the development as \"game-changing.\""
+      "url": "https://www.indiatoday.in/india/story/opposition-may-move-impeachment-motion-against-chief-election-commissioner-amid-vote-chori-row-sources-2772656-2025-08-18",
+      "headline": "Opposition may seek impeachment of poll body chief over 'vote chori': SourcesMeanwhile, CEC Gyanesh Kumar on Sunday strongly countered allegations of electoral fraud levelled by the Congress and its leader Rahul Gandhi, defending the integrity of India's voting process."
     },
     {
       "sentiment": "positive",
@@ -170,34 +170,44 @@
       "headline": "Why US spares China, but hits India: Marco Rubio defends Russian oil hypocrisySpeaking to Fox News on August 17, Marco Rubio cautioned that targeting Chinese refiners would have disruptive consequences for the global oil market."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jawan-killed-2-others-injured-in-ied-blast-planted-by-maoists-in-chhattisgarhs-bijapur-district-2772606-2025-08-18",
-      "headline": "Jawan killed, 2 injured in IED planted by Maoists in Chhattisgarh's BijapurA jawan of the Chhattisgarh Police's District Reserve Guard and at least two other personnel were killed after an IED planted by Maoists in Bijapur district went off on Monday morning."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/imd-weather-mumbai-rain-red-alert-maharashtra-red-alert-heavy-downpour-2772648-2025-08-18",
+      "headline": "Avoid non-essential travel: Mumbai on alert as heavy rain batters cityAmid the alert, the Greater Mumbai Police Chief advised caution, saying, \"As heavy rainfall continues under the Orange Alert, incidents of waterlogging and reduced visibility are being reported from multiple areas.\" He further warned people against unnecessary travel."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
-      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
+      "url": "https://www.indiatoday.in/world/story/no-nato-zelenskyy-can-end-war-with-russia-immediately-trump-ahead-of-meeting-with-ukrainian-president-2772576-2025-08-18",
+      "headline": "'Forget Nato, Crimea': Is Trump throwing Zelenskyy under the bus for Russia deal?Surprisingly, Trump's remarks ahead of his meeting with Zelenskyy came even after his special envoy, Steve Witkoff, said that Moscow was willing to let the US and its European allies provide Nato-style security guarantees to Kyiv as part of a potential peace deal, describing the development as \"game-changing.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/cp-radhakrishnan-nda-vice-president-nominee-bjp-south-politics-tamil-nadu-2772689-2025-08-18",
+      "headline": "The subtle wooing of Tamil Nadu and what Radhakrishnan brings to the VP's tableFrom Coimbatore to Delhi's power corridors, CP Radhakrishnan's rise as NDA's Vice-President nominee blends strategy, symbolism, and subtle wooing of Tamil Nadu, all aimed at shaping the BJP's political narrative in the south."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-asia-cup-t20-squad-selection-key-player-debates-sky-gill-bumrah-2772667-2025-08-18",
+      "headline": "Asia Cup squad selection buzz: Big calls, bold omissions awaitAsia Cup 2025 squad selection: The selectors and team management face a tough task of picking 15 from India's vast pool of T20 talent. Will Test captain Shubman Gill make the cut? Will Jasprit Bumrah play? What about Rinku Singh? All will be revealed on Tuesday, August 19."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/big-gst-cuts-ahead-will-small-cars-insurance-get-cheaper-2772687-2025-08-18",
+      "headline": "Big GST cuts ahead: Will small cars, insurance get cheaper?The proposal to reduce GST on insurance premiums could make health and life cover more affordable. Industry experts say this would be a welcome change and could help improve insurance penetration across the country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/om-birla-lok-sabha-public-destroy-government-property-sloganeering-opposition-bihar-sir-vote-theft-election-commission-2772690-2025-08-18",
+      "headline": "Public didn't elect you to wreck property: Om Birla to sloganeering Opposition MPsLok Sabha Speaker Om Birla rebuked Opposition MPs as they fiercely sloganeered in the well of the House soon after the proceedings resumed on Monday, warning them with strict action."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/first-order-thinking-pitfalls-of-jugaad-and-why-india-fails-to-fix-roads-2772693-2025-08-18",
+      "headline": "First-order thinking, pitfalls of jugaad, and why India fails to fix roadsEvery day it seems that problems in India are endless with no solutions in sight. Are we doomed to live with these problems, even the recurring problems like waterlogged roads, forever? Maybe not but definitely until we keep relying on jugaad."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/us-donald-trump-balochistan-bla-terror-tag-leverage-against-india-asim-munir-pakistan-india-relations-explained-2772516-2025-08-18",
       "headline": "Will Trump use this Pakistani tool as leverage against India?Pakistan has already started using the US State Department's 'foreign terror organisation' tag on the Balochistan Liberation Army and the Majeed Brigade against India. Will the Trump White House try to use the tag and Pakistan's claims as leverage against India?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/imd-weather-mumbai-rain-red-alert-maharashtra-red-alert-heavy-downpour-2772648-2025-08-18",
-      "headline": "Weather department issues alert for Mumbai, warns of heavy rain in next 3-4 hoursWeather department issues alert for Mumbai, warns of heavy rain in next 3-4 hours"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-names-maharashtra-governor-cp-radhakrishnan-as-ndas-vice-president-candidate-2772504-2025-08-17",
-      "headline": "BJP picks Maharashtra Governor CP Radhakrishnan as NDA Veep candidateThe BJP has announced Maharashtra Governor CP Radhakrishnan as NDA's Vice Presidential candidate after Jagdeep Dhankhar resigned last month citing health reasons."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-jumps-1000-points-simpler-gst-regime-credit-rating-boost-2772615-2025-08-18",
-      "headline": "Sensex jumps 1,000 points: Why is stock market rising today?At 9:24 am, the S&P BSE Sensex was up 950.18 points at 81,547.84, while the NSE Nifty50 jumped 310 points to 24,941.90. Broader market indices also gained as investors cheered the prospects of a simplified GST regime and an upgrade in India's sovereign credit rating by S&P."
     },
     {
       "sentiment": "positive",
@@ -206,33 +216,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-bomb-threat-dps-dwarka-college-police-squad-reach-site-hoax-email-2772589-2025-08-18",
-      "headline": "3 schools, including DPS, and one college in Delhi's Dwarka get bomb threatAt least three schools, including the Delhi Public School, and another college in Dwarka received bomb threats via email on Monday morning."
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-jumps-1000-points-simpler-gst-regime-credit-rating-boost-2772615-2025-08-18",
+      "headline": "Sensex jumps 1,000 points: Why is stock market rising today?At 9:24 am, the S&P BSE Sensex was up 950.18 points at 81,547.84, while the NSE Nifty50 jumped 310 points to 24,941.90. Broader market indices also gained as investors cheered the prospects of a simplified GST regime and an upgrade in India's sovereign credit rating by S&P."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/watchmaker-swatch-under-fire-asian-model-slanted-eye-pose-omega-tissot-campaign-revenue-2772666-2025-08-18",
+      "headline": "Why model's slanted-eye ad sparked backlash, made Swatch apologiseWatchmaker Swatch was forced to pull an ad and apologise after an Asian model's \"slanted eye\" gesture sparked outrage in China. The ad was condemned as racist and triggered boycott calls. The backlash follows a pattern of consumer-led boycotts in China against global brands over cultural insensitivity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
+      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowDisassociating himself with the 'The Bengali Files' controversy, Bengali actor Saswata Chatterjee said the Vivek Agnihotri film was initially titled 'The Delhi Files'. He said he wasn't aware of the film's story or the reason behind its title change at the last minute. "
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/army-personnel-assaulted-meerut-toll-plaza-viral-video-arrests-2772608-2025-08-18",
       "headline": "Army jawan restrained, beaten by toll plaza workers in Meerut; 4 arrestedKapil, a soldier stationed in Jammu and Kashmir, was returning to duty from his village and traveling to Delhi with a friend. As they neared the toll plaza on the Karnal Highway, a dispute over the traffic jam and toll fee reportedly escalated into a physical assault."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/flood-scare-in-delhi-as-yamuna-breaches-danger-mark-advisory-issued-2772633-2025-08-18",
-      "headline": "Flood scare in Delhi as Yamuna breaches danger mark, advisory issuedThe warning mark for the city is 204.50 metres, while the danger mark is 205.33 metres. Evacuation of people starts at 206 metres. The Central Water Commission said all concerned agencies have been asked to take precautionary measures to handle a flood-like situation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
-      "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/shubhanshu-shukla-parliament-discussion-indian-astronaut-iss-space-mission-2772639-2025-08-18",
-      "headline": "Parliament to honour astronaut Shubhanshu Shukla with special discussionsUnion Parliamentary Affairs Minister Kiren Rijiju confirmed the decision, calling Group Captain Subhanshu Shukla's accomplishment \"a historic milestone for the nation\"."
     },
     {
       "sentiment": "negative",
@@ -245,19 +245,19 @@
       "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-is-cp-radhakrishnan-ndas-pick-for-vice-president-bjp-2772531-2025-08-17",
-      "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0President?Maharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
+      "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mandhira-kapur-family-excluded-sona-comstar-after-sunjay-kapur-death-2772541-2025-08-17",
-      "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers, adding that the names of family\r\nmembers were not included in obituaries and public acknowledgments."
+      "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers and everyone's forgotten the legacy, forgotten that her mother's still alive."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-claims-grok-imagine-will-unlock-superhuman-imagination-powers-for-users-2772622-2025-08-18",
-      "headline": "Elon Musk claims Grok Imagine will unlock superhuman imagination powers for usersElon Musk says Grok Imagine aims to give people \"superhuman imagination powers\", as his AI tool for creating images and videos expands free access to Android users, drawing praise and controversy alike."
+      "url": "https://www.indiatoday.in/india/story/who-is-cp-radhakrishnan-ndas-pick-for-vice-president-bjp-2772531-2025-08-17",
+      "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0President?Maharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
     },
     {
       "sentiment": "positive",
@@ -265,19 +265,24 @@
       "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/vice-president-poll-how-modis-playbook-defies-pundits-past-precedence-2771333-2025-08-15",
-      "headline": "Vice-president poll: How Modi's playbook defies pundits, past precedenceModi values messaging\u2014not just to Parliament or BJP cadre but to the electorate at large. But this time, his choice will also take the RSS view into account"
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/spanish-woman-breaks-down-blames-chatgpt-for-ruining-holiday-viral-tiktok-video-2772640-2025-08-18",
-      "headline": "Woman breaks down, blames ChatGPT for ruining her holiday in viral TikTok videoIn a TikTok video that has now gone viral on social media, Mery Caldass broke down while explaining that she had relied on the AI chatbot to confirm if a visa was needed."
+      "url": "https://www.indiatoday.in/india/story/jawan-killed-2-others-injured-in-ied-blast-planted-by-maoists-in-chhattisgarhs-bijapur-district-2772606-2025-08-18",
+      "headline": "Jawan killed, 2 injured in IED planted by Maoists in Chhattisgarh's BijapurA jawan of the Chhattisgarh Police's District Reserve Guard and at least two other personnel were killed after an IED planted by Maoists in Bijapur district went off on Monday morning."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/putin-backs-us-europe-plan-for-nato-style-protection-for-ukraine-trump-envoy-glbs-2772554-2025-08-18",
-      "headline": "Putin agrees to explore NATO-style security guarantees for Ukraine: Trump envoyPutin agreed in principle with Trump on possible NATO-style security guarantees for Ukraine, envoy Witkoff said, though Rubio cautioned details remain unresolved as European leaders prepare for White House talks."
+      "url": "https://www.indiatoday.in/india/story/bjp-names-maharashtra-governor-cp-radhakrishnan-as-ndas-vice-president-candidate-2772504-2025-08-17",
+      "headline": "BJP picks Maharashtra Governor CP Radhakrishnan as NDA Veep candidateThe BJP has announced Maharashtra Governor CP Radhakrishnan as NDA's Vice Presidential candidate after Jagdeep Dhankhar resigned last month citing health reasons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-bomb-threat-dps-dwarka-college-police-squad-reach-site-hoax-email-2772589-2025-08-18",
+      "headline": "3 schools, including DPS, and one college in Delhi's Dwarka get bomb threatAt least three schools, including the Delhi Public School, and another college in Dwarka received bomb threats via email on Monday morning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-box-office-collection-day-4-rajinikanth-2772686-2025-08-18",
+      "headline": "Coolie box office Day 4: Rajinikanth's film eyes Rs 200 crore, crucial Monday aheadSuperstar Rajinikanth's 'Coolie' has been witnessing a dip in collection ever since it hit theatres. However, the film is just days away from hitting the Rs 200 crore-mark nett in India."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/janhvi-kapoor-reacts-trolling-bharat-mata-ki-jai-chant-dahi-handi-event-2772605-2025-08-18",
       "headline": "Janhvi Kapoor reacts to trolling over Bharat Mata Ki Jai chant at Dahi Handi eventActor Janhvi Kapoor responded to trolls over chanting 'Bharat Mata Ki Jai' slogan at the Janmashtami event. She shared the original clip and apoke about becoming a meme material. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Not a historian: Bengal Files actor Saswata Chatterjee distances himself from rowActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/neymar-cries-santos-6-0-loss-vasco-slams-team-attitude-2772685-2025-08-18",
+      "headline": "Watch: Neymar Jr. breaks down in tears after Santos get thrashed 0-6 by VascoNeymar broke down in tears after Santos' 6-0 loss to Vasco da Gama. The star slammed the team's \"terrible attitude\" as Santos sacked coach Cleber Xavier."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-asia-cup-t20-squad-selection-key-player-debates-sky-gill-bumrah-2772667-2025-08-18",
+      "headline": "Asia Cup squad selection buzz: Big calls, bold omissions awaitAsia Cup 2025 squad selection: The selectors and team management face a tough task of picking 15 from India's vast pool of T20 talent. Will Test captain Shubman Gill make the cut? Will Jasprit Bumrah play? What about Rinku Singh? All will be revealed on Tuesday, August 19."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-cincinnati-open-wta-finals-2772655-2025-08-18",
+      "headline": "Swiatek qualifies for WTA Finals with final berth in Cincinnati OpenIga Swiatek has secured her spot in the 2025 WTA Finals, marking her fifth consecutive appearance at the season-ending event. She reached the final of the Cincinnati Masters, where she'll face Italy's Jasmine Paolini, after defeating Elena Rybakina in the semifinals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-ruled-out-duleep-trophy-2025-aashirwad-swain-replacement-2772654-2025-08-18",
+      "headline": "Ishan Kishan ruled out of Duleep Trophy, Odisha cricket announces replacementEast Zone captain Ishan Kishan has been ruled out of the Duleep Trophy 2025, with Aashirwad Swain being named as the replacement. In Kishan's absence, Abhimanyu Easwaran will be leading the team in the tournament. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-miss-out-yashasvi-jaiswal-india-asia-cup-t20-squad-report-2772649-2025-08-18",
+      "headline": "Shubman likely to miss, Yashasvi to get nod in India's Asia Cup squad: ReportShubman Gill is reportedly unlikely to make the cut for India's squad in the upcoming Asia Cup 2025, with Yashasvi Jaiswal set to receive the nod as the third opener for the continental tournament."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/cincinnati-open-iga-swiatek-beat-elena-rybakina-faces-jasmine-paolini-in-final-2772638-2025-08-18",
@@ -333,53 +358,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
-      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
+      "url": "https://www.indiatoday.in/sports/football/story/ruben-amorim-reporter-altay-bayindir-error-arsenal-goal-manchester-united-2772623-2025-08-18",
+      "headline": "Ruben Amorim snaps back at reporter in Bayindir's defence after Arsenal lossRuben Amorim snapped back at a reporter, coming out swinging in defence of goalkeeper Altay Bayindir following Manchester United's 1-0 defeat to Arsenal, firmly rejecting questions over the Turkish international's place in the starting line-up."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-arsenal-defeat-old-trafford-ruben-amorim-2772544-2025-08-17",
-      "headline": "Amorim's new-look United fall 0-1 to Arsenal at Old TraffordManchester United's Premier League opener ended in disappointment as Ruben Amorim's men lost 1-0 to Arsenal at Old Trafford. Ricardo Calafiori's header proved decisive, leaving United frustrated despite dominating large spells of the game."
+      "url": "https://www.indiatoday.in/sports/cricket/story/brett-lee-ravindra-jadeja-fitness-sword-celebration-warning-2772624-2025-08-18",
+      "headline": "Only way Ravindra Jadeja gets injured is through his sword celebration: Brett LeeBrett Lee lauds Ravindra Jadeja's fitness after his stellar England tour, joking that his sword celebration could risk a rotator cuff injury. Lee had also claimed that Jadeja still has two years left in his Test career. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
+      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-and-mohammad-rizwan-arent-pakistans-key-players-mohamamad-hafeez-2772540-2025-08-17",
-      "headline": "Babar and Rizwan aren't Pakistan's key players; they don't win matches: HafeezFormer Pakistan all-rounder Mohammad Hafeez has criticised Mohammad Rizwan and Babar Azam for not being the key players for their team due to their inability to help them win big matches in recent times."
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-ruben-amorim-manchester-united-vs-arsenal-2772580-2025-08-18",
+      "headline": "Amorim's United show grit and glimpses of change in PL opener vs ArsenalManchester United lost 0-1 to Arsenal in Ruben Amorim's Premier League debut, but the display showed grit and signs of progress. While issues remain in defence and attack, new faces like Cunha and Mbeumo offered hope for the season ahead."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-beat-mohun-bagan-sg-kolkata-derby-durand-cup-2025-quarterfinal-2772526-2025-08-17",
-      "headline": "East Bengal take 2-1 win vs Mohun Bagan, Diamantakos' brace seals derby winEast Bengal beat Mohun Bagan 2-1 in a fiery Kolkata Derby to reach the Durand Cup quarterfinals. Dimitrios Diamantakos scored twice, while Anirudh Thapa netted for the Mariners, but East Bengal's resilience sealed a morale-boosting early-season win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
-      "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagans-jason-cummings-shows-middle-finger-after-losing-to-east-bengal-2772546-2025-08-17",
-      "headline": "Mohun Bagan's Jason Cummings shows middle finger after losing to East BengalMohun Bagan's Jason Cummings sparked a controversy with his middle finger gesture after losing 1-2 to East Bengal in the quarterfinal of the Durand Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-arsenal-defeat-old-trafford-ruben-amorim-2772544-2025-08-17",
-      "headline": "Amorim's new-look United fall 0-1 to Arsenal at Old TraffordManchester United's Premier League opener ended in disappointment as Ruben Amorim's men lost 1-0 to Arsenal at Old Trafford. Ricardo Calafiori's header proved decisive, leaving United frustrated despite dominating large spells of the game."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-and-mohammad-rizwan-arent-pakistans-key-players-mohamamad-hafeez-2772540-2025-08-17",
-      "headline": "Babar and Rizwan aren't Pakistan's key players; they don't win matches: HafeezFormer Pakistan all-rounder Mohammad Hafeez has criticised Mohammad Rizwan and Babar Azam for not being the key players for their team due to their inability to help them win big matches in recent times."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-beat-mohun-bagan-sg-kolkata-derby-durand-cup-2025-quarterfinal-2772526-2025-08-17",
-      "headline": "East Bengal take 2-1 win vs Mohun Bagan, Diamantakos' brace seals derby winEast Bengal beat Mohun Bagan 2-1 in a fiery Kolkata Derby to reach the Durand Cup quarterfinals. Dimitrios Diamantakos scored twice, while Anirudh Thapa netted for the Mariners, but East Bengal's resilience sealed a morale-boosting early-season win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
-      "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-jasprit-bumrah-workload-concerns-home-tests-2772549-2025-08-18",
+      "headline": "Asia Cup: Will India make another Jasprit Bumrah mistake?India's Asia Cup title defence can work out well even without Jasprit Bumrah. However, his presence will be needed for the important Tests and the T20 World Cup 2026. Given the fragility of his body, will it be ideal to make him play in the Asia Cup 2025?"
     }
   ],
   "education": [
