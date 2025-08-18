@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-up-1000-points-nifty-jump-stock-market-rally-auto-maruti-suzuki-mahindra-tata-motors-bajaj-gst-reform-diwali-2772619-2025-08-18",
+      "headline": "Maruti Suzuki shares jumps 7%: Why are auto stocks rallying today?The S&P BSE Sensex was up 1,062.91 points to 81,659.75, while the NSE Nifty50 jumped 356 points to 24,987.30 as of 9:32 am."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-jumps-1000-points-simpler-gst-regime-credit-rating-boost-2772615-2025-08-18",
+      "headline": "Sensex jumps 1,000 points: Why is stock market rising today?At 9:24 am, the S&P BSE Sensex was up 950.18 points at 81,547.84, while the NSE Nifty50 jumped 310 points to 24,941.90. Broader market indices also gained as investors cheered the prospects of a simplified GST regime and an upgrade in India's sovereign credit rating by S&P."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-rallies-893-points-nifty-above-24900-maruti-suzuki-share-price-jumps-6-percent-2772611-2025-08-18",
+      "headline": "Sensex rallies 1,000 points, Nifty above 24,900; Maruti Suzuki share price jumps 6%The S&P BSE Sensex was up 1,062.91 points to 81,659.75, while the NSE Nifty50 jumped 356 points to 24,987.30 as of 9:32 am."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mandhira-kapur-family-excluded-sona-comstar-after-sunjay-kapur-death-2772541-2025-08-17",
       "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers, adding that the names of family\r\nmembers were not included in obituaries and public acknowledgments."
     },
@@ -44,24 +59,24 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/video/gst-council-meeting-in-september-12-slam-may-be-dropped-sources-2771695-2025-08-15",
       "headline": "GST council meeting in September, 12% slam may be dropped: SourcesTwo-day GST Council meetings are expected in September to pave the way for reforms. The announcement was made by the Prime Minister from the ramparts of the Red Fort. These reforms are seen as a Diwali gift for the middle class. Key changes include the removal of the 12% GST slab and rate rationalisation for health and life insurance policies. The government aims to reduce the GST on most items currently in the 12% slab to 5%. This move is expected to make essential items such as footwear, bags, clothes, and toothpastes more affordable. The government is addressing concerns about inflation and the rising cost of living. Feedback regarding health insurance, which impacts the common person, has also been considered. The meetings in September are crucial for approving these changes, with implementation anticipated before Diwali. The Finance Ministry and state finance ministers have been involved in the process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/removal-of-12-tax-slab-among-key-reforms-to-be-discussed-in-gst-council-meetings-in-september-sources-2771661-2025-08-15",
-      "headline": "GST Council may drop 12% slab, more tax reforms in September meeting: SourcesThe meeting comes after Prime Minister Narendra Modi, in his Independence Day speech, announced plans for a major overhaul of the Goods and Services Tax (GST) system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/same-sex-couple-tax-law-biased-uneven-challenge-gits-received-partners-bombay-hc-report-2771623-2025-08-15",
-      "headline": "Claiming bias, same-sex couple approaches court over uneven tax: ReportThe petition was admitted by a bench of Justice BP Colabawalla and Justice Firdoush Pooniwalla, which has also issued a notice to the Attorney General as the case raises a constitutional question."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/independence-day-pm-modi-announces-next-generation-gst-reform-with-significantly-lower-rates-2771561-2025-08-15",
-      "headline": "PM Modi announces next-generation GST reform with significantly lower ratesDuring his Independence Day address, Prime Minister Narendra Modi announced a sweeping overhaul of the GST system, promising to unveil a \"next-generation\" tax regime with substantially lower rates this Diwali, which he hailed as a festive gift from the Centre."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/janhvi-kapoor-reacts-trolling-bharat-mata-ki-jai-chant-dahi-handi-event-2772605-2025-08-18",
+      "headline": "Janhvi Kapoor reacts to trolling over Bharat Mata Ki Jai chant at Dahi Handi eventActor Janhvi Kapoor responded to trolls over chanting 'Bharat Mata Ki Jai' slogan at the Janmashtami event. She shared the original clip and apoke about becoming a meme material. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
+      "headline": "Saswata Chatterjee on Bengal Files row: Not my job to check history, I'm an actorActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/triptii-dimri-boyfriend-sam-merchant-sees-her-off-at-mumbai-airport-blue-porsche-2772594-2025-08-18",
+      "headline": "Triptii Dimri's rumoured boyfriend Sam Merchant sees her off at Mumbai airportActor Triptii Dimri was seen at Mumbai airport, where her alleged boyfriend, businessman Sam Merchant, dropped her off in his blue Porsche. The two have long been speculated to be dating for a while now. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
@@ -141,21 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/nakuul-mehta-jankee-welcome-baby-girl-shares-adorable-pics-from-hospital-2772352-2025-08-17",
       "headline": "Nakuul Mehta, wife Jankee welcome baby girl share adorable pics from hospitalActor Nakuul Mehta and his wife Jankee have welcomed their second child, a baby girl, sharing the joyous news with fans through a heartfelt Instagram post. The couple's son Sufi was lovingly included in the announcement, holding his newborn sister in the first picture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/jaideep-ahlawat-bhangra-steals-the-show-at-iffm-2025-fans-want-more-2772347-2025-08-17",
-      "headline": "Jaideep Ahlawat's impromptu bhangra steals the show at IFFM 2025, fans want moreJaideep Ahlawat set the stage on fire with his impromptu bhangra at the Indian Film Festival of Melbourne 2025, leaving the audience and Malaika Arora cheering for more. The actor also bagged the Best Actor - Web Series award for his role in 'Paatal Lok 2'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-bads-of-bollywood-first-look-is-all-sass-and-swag-watch-2772328-2025-08-17",
-      "headline": "Aryan Khan flips the script with his bold Bads of Bollywood first lookAryan Khan's 'The Ba***ds of Bollywood' teaser has generated excitement by blending love and critique of Bollywood, with the show slated for release in 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/coolie-rajinikanth-fiim-collection-1983-amitabh-bachchan-injury-fandom-india-turned-film-hall-movie-ticket-2771317-2025-08-17",
-      "headline": "How Coolie fever gripped India 40 years agoWhile Rajinikanth-starrer Coolie might seem to break all the fandom craze, India saw something similar, if not more, in 1983 when Amitabh Bachchan's Coolie hit the theatres. It was during the shooting of Coolie that Big B sustained a life-threatening injury and the whole country prayed for him. So, when the film was released, anticipation was sky-high and fans turned theatres into temples for Amitabh worship."
     }
   ],
   "general news": [
@@ -170,9 +170,9 @@
       "headline": "Why US spares China, but hits India: Marco Rubio defends Russian oil hypocrisySpeaking to Fox News on August 17, Marco Rubio cautioned that targeting Chinese refiners would have disruptive consequences for the global oil market."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-names-maharashtra-governor-cp-radhakrishnan-as-ndas-vice-president-candidate-2772504-2025-08-17",
-      "headline": "BJP picks Maharashtra Governor CP Radhakrishnan as NDA Veep candidateThe BJP has announced Maharashtra Governor CP Radhakrishnan as NDA's Vice Presidential candidate after Jagdeep Dhankhar resigned last month citing health reasons."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/jawan-killed-2-others-injured-in-ied-blast-planted-by-maoists-in-chhattisgarhs-bijapur-district-2772606-2025-08-18",
+      "headline": "Jawan killed, 2 injured in IED planted by Maoists in Chhattisgarh's BijapurA jawan of the Chhattisgarh Police's District Reserve Guard and at least two other personnel were killed after an IED planted by Maoists in Bijapur district went off on Monday morning."
     },
     {
       "sentiment": "positive",
@@ -181,8 +181,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/are-weightloss-drugs-for-me-5-things-to-consider-anti-obesity-india-2772571-2025-08-18",
-      "headline": "Are weightloss drugs for me? 5 things to considerAnti-obesity drugs like GLP-1 are quite popular now. But, do you really need it?"
+      "url": "https://www.indiatoday.in/india/story/us-donald-trump-balochistan-bla-terror-tag-leverage-against-india-asim-munir-pakistan-india-relations-explained-2772516-2025-08-18",
+      "headline": "Will Trump use this Pakistani tool as leverage against India?Pakistan has already started using the US State Department's 'foreign terror organisation' tag on the Balochistan Liberation Army and the Majeed Brigade against India. Will the Trump White House try to use the tag and Pakistan's claims as leverage against India?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bjp-names-maharashtra-governor-cp-radhakrishnan-as-ndas-vice-president-candidate-2772504-2025-08-17",
+      "headline": "BJP picks Maharashtra Governor CP Radhakrishnan as NDA Veep candidateThe BJP has announced Maharashtra Governor CP Radhakrishnan as NDA's Vice Presidential candidate after Jagdeep Dhankhar resigned last month citing health reasons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-jumps-1000-points-simpler-gst-regime-credit-rating-boost-2772615-2025-08-18",
+      "headline": "Sensex jumps 1,000 points: Why is stock market rising today?At 9:24 am, the S&P BSE Sensex was up 950.18 points at 81,547.84, while the NSE Nifty50 jumped 310 points to 24,941.90. Broader market indices also gained as investors cheered the prospects of a simplified GST regime and an upgrade in India's sovereign credit rating by S&P."
     },
     {
       "sentiment": "positive",
@@ -190,14 +200,49 @@
       "headline": "2 schools, one college in Delhi's Dwarka get bomb threat, police on spotTwo schools, including the Delhi Public School, and another college in Dwarka received bomb threat via email on Monday morning."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/are-weightloss-drugs-for-me-5-things-to-consider-anti-obesity-india-2772571-2025-08-18",
+      "headline": "Are weightloss drugs for me? 5 things to considerAnti-obesity drugs like GLP-1 are quite popular now. But, do you really need it?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/army-personnel-assaulted-meerut-toll-plaza-viral-video-arrests-2772608-2025-08-18",
+      "headline": "Army jawan restrained, beaten by toll plaza workers in Meerut; 4 arrestedKapil, a soldier stationed in Jammu and Kashmir, was returning to duty from his village and traveling to Delhi with a friend. As they neared the toll plaza on the Karnal Highway, a dispute over the traffic jam and toll fee reportedly escalated into a physical assault."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-monitors-india-pakistan-tensions-daily-calls-for-lasting-peace-deal-2772543-2025-08-17",
       "headline": "US keeps an eye on India-Pakistan situation every single day: Marco RubioUS Secretary of State Marco Rubio said the United States monitors the India-Pakistan situation daily and stressed that maintaining a ceasefire is often challenging, especially after long conflicts."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
+      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
+      "headline": "Saswata Chatterjee distances himself from Bengal Files row: Not a historianActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/who-is-cp-radhakrishnan-ndas-pick-for-vice-president-bjp-2772531-2025-08-17",
+      "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0President?Maharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mandhira-kapur-family-excluded-sona-comstar-after-sunjay-kapur-death-2772541-2025-08-17",
       "headline": "Treated like strangers: Sunjay Kapur's sister alleges family sidelined by companyMandhira Kapur Smith alleged that the family has been treated as strangers, adding that the names of family\r\nmembers were not included in obituaries and public acknowledgments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-claims-grok-imagine-will-unlock-superhuman-imagination-powers-for-users-2772622-2025-08-18",
+      "headline": "Elon Musk claims Grok Imagine will unlock superhuman imagination powers for usersElon Musk says Grok Imagine aims to give people \"superhuman imagination powers\", as his AI tool for creating images and videos expands free access to Android users, drawing praise and controversy alike."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
+      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
     },
     {
       "sentiment": "positive",
@@ -210,24 +255,19 @@
       "headline": "Putin agrees to explore NATO-style security guarantees for Ukraine: Trump envoyPutin agreed in principle with Trump on possible NATO-style security guarantees for Ukraine, envoy Witkoff said, though Rubio cautioned details remain unresolved as European leaders prepare for White House talks."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
-      "headline": "Neeraj Chopra qualifies for Diamond League final ahead of World ChampionshipsStar Indian javelin thrower Neeraj Chopra has qualified for the Diamond League final in Zurich. His qualification comes as a boost before the World Championship final in Tokyo."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/two-lashkar-terror-associates-caught-in-jammu-and-kashmir-bandipora-chinese-grenades-ammunition-seized-2772547-2025-08-17",
-      "headline": "Two terror associates caught in J&K's Bandipora, Chinese grenades, ammo seizedSecurity forces in Bandipora, J&K, arrested two Lashkar-e-Taiba associates, seizing Chinese grenades, UBGL grenades, and AK rounds. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/election-commission-eci-counters-rahul-gandhi-charges-voter-fraud-house-number-address-vote-chori-sir-bihar-supreme-court-2772457-2025-08-17",
       "headline": "House No. 0 to name duplications: Poll body's big counter to Rahul GandhiThe Election Commission of India (ECI) on Sunday countered Congress leader Rahul Gandhi's \"vote chori\" or vote theft allegations, by explaining how thousands of voters had zero as house numbers and that duplication in voter list didn't mean fraud. It vouched for the sanctity of the electoral rolls and said the Special Intensive Revision (SIR) exercise in Bihar wasn't being done in a rush."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-is-cp-radhakrishnan-ndas-pick-for-vice-president-bjp-2772531-2025-08-17",
-      "headline": "Who is CP Radhakrishnan, NDA's pick for Vice\u00a0PresidentMaharashtra Governor CP Radhakrishnan, who began his political career as an RSS swayamsevak, was named as NDA's candidate for the upcoming Vice Presidential election. Here's all you need to know about him."
+      "url": "https://www.indiatoday.in/auto/story/volvo-ex30-review-small-car-big-statement-2772601-2025-08-18",
+      "headline": "Volvo EX30 Review: Small Car, Big StatementThe Volvo EX30 isn't trying to be everything to everyone\u2014it's a small, stylish EV that knows exactly where it stands. The trick will be in delivering just enough of everything you actually need and not charging you for the extra.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/two-lashkar-terror-associates-caught-in-jammu-and-kashmir-bandipora-chinese-grenades-ammunition-seized-2772547-2025-08-17",
+      "headline": "Two terror associates caught in J&K's Bandipora, Chinese grenades, ammo seizedSecurity forces in Bandipora, J&K, arrested two Lashkar-e-Taiba associates, seizing Chinese grenades, UBGL grenades, and AK rounds. "
     },
     {
       "sentiment": "negative",
@@ -241,48 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
-      "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-engineer-varun-gupta-an-iit-grad-gets-probation-and-34000-fine-for-leaking-intel-secrets-to-microsoft-2772395-2025-08-17",
-      "headline": "AI engineer Varun Gupta fined $34,000 for leaking Intel secrets\u00a0to\u00a0MicrosoftAccording to the reports, Varun Gupta leaked thousands of files from Intel to Microsoft. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aap-election-commission-bjp-vote-chori-bihar-elections-india-bloc-congress-2772536-2025-08-17",
-      "headline": "Poll panel's theft caught: Non-INDIA bloc AAP backs Congress on 'vote chori' claimAAP has accused the Election Commission of colluding with the BJP and indulging in \"vote chori\" ahead of the Bihar Assembly elections, even as it distances itself from the INDIA bloc. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-demands-election-commission-authenticate-digital-receipt-samajwadi-party-affidavits-2772545-2025-08-17",
-      "headline": "Akhilesh Yadav says had filed affidavit, shows receipts to counter poll bodySamajwadi Party chief Akhilesh Yadav accused the Election Commission of India of denying receipt of Samajwadi Party's affidavits in Uttar Pradesh. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-interact-with-locals-on-london-streets-2772515-2025-08-17",
-      "headline": "Watch: Virat Kohli, Anushka Sharma share moment of laughter with locals in LondonStar India batter Virat Kohli was seen having a stroll on the London streets along with his Bollywood actor wife Anushka Sharma. The duo also had a light-hearted conversation with the locals."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/yamuna-river-water-level-to-cross-danger-mark-delhi-flood-advisory-issued-2772486-2025-08-17",
-      "headline": "Yamuna may cross danger mark in two days, government issues flood advisoryAccording to the advisory, the river is expected to cross the 206-metre danger level by 2 am on August 19."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fir-against-the-bengal-files-director-vivek-agnihotri-by-gopal-mukherjees-grandson-for-portraying-him-in-poor-light-2772548-2025-08-18",
-      "headline": "Case against Vivek Agnihotri over Gopal Mukherjee's portrayal in 'Bengal Files'The film's trailer introduces Gopal Patha as \"Ek Tha Kashai Gopal Patha\", which Shantanu claims is a misrepresentation of his grandfather's character. Shantanu asserts that his grandfather was not a butcher by profession, but rather a wrestler and a key figure in the Anushilan Samiti, who played a crucial role in preventing Muslim League riots in 1946."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cochin-delhi-air-india-flight-aborts-take-off-congress-mp-shares-unusual-glitch-2772561-2025-08-18",
-      "headline": "Cochin-Delhi Air India flight aborts take-off, Congress MP shares unusual glitchFlight AI 504, which was originally set to take off at 10:34 pm, experienced an unexpected incident during taxiing. The flight was cancelled later."
+      "url": "https://www.indiatoday.in/movies/story/janhvi-kapoor-reacts-trolling-bharat-mata-ki-jai-chant-dahi-handi-event-2772605-2025-08-18",
+      "headline": "Janhvi Kapoor reacts to trolling over Bharat Mata Ki Jai chant at Dahi Handi eventActor Janhvi Kapoor responded to trolls over chanting 'Bharat Mata Ki Jai' slogan at the Janmashtami event. She shared the original clip and apoke about becoming a meme material. \r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saswata-chatterjee-delhi-files-to-bengal-files-not-in-my-hands-2772598-2025-08-18",
-      "headline": "Saswata Chatterjee on Bengal Files row: Not my job to check history, I'm an actorActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
+      "headline": "Saswata Chatterjee distances himself from Bengal Files row: Not a historianActor Saswata Chatterjee, in a recent interview, stated that Vivek Agnihotri's film was initially titled 'The Delhi Files' and was later changed to 'The Bengal Files'. He also pointed out that he was not informed of this decision, nor was he aware of the full story."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-hold-hands-lead-india-day-parade-in-new-york-2772579-2025-08-18",
       "headline": "Vijay Deverakonda, Rashmika Mandanna hold hands, lead India Day Parade in New YorkVijay Deverakonda and Rashmika Mandanna were the Grand Marshals at the India Day Parade in New York. The two were seen holding hands and waving to their fans at the event. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/terence-stamp-actor-general-zod-superman-dies-aged-87-2772519-2025-08-17",
-      "headline": "Actor Terence Stamp, who played Superman villain General Zod, dies at 87Actor Terence Stamp, known for his role as General Zod, has died aged 87. He also played a key role in actor Tom Cruise's World War 2 period-drama 'Valkyrie' (2008)."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ruben-amorim-reporter-altay-bayindir-error-arsenal-goal-manchester-united-2772623-2025-08-18",
+      "headline": "Ruben Amorim snaps back at reporter in Bayindir's defence after Arsenal lossRuben Amorim snapped back at a reporter, coming out swinging in defence of goalkeeper Altay Bayindir following Manchester United's 1-0 defeat to Arsenal, firmly rejecting questions over the Turkish international's place in the starting line-up."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/brett-lee-ravindra-jadeja-fitness-sword-celebration-warning-2772624-2025-08-18",
+      "headline": "Only way Ravindra Jadeja gets injured is through his sword celebration: Brett LeeBrett Lee lauds Ravindra Jadeja's fitness after his stellar England tour, joking that his sword celebration could risk a rotator cuff injury. Lee had also claimed that Jadeja still has two years left in his Test career. "
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-dimaond-league-final-tokyo-world-championships-2772595-2025-08-18",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-criticism-shardul-thakur-defend-india-head-coach-2772511-2025-08-17",
-      "headline": "Criticism will come and go, winning matters: Shardul defends Gautam GambhirIndia coach Gautam Gambhir has faced sharp criticism after recent Test setbacks, but Shardul Thakur has defended him, praising his fighting spirit and influence on the team. With the Asia Cup ahead, Gambhir's leadership remains under the spotlight."
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-arsenal-defeat-old-trafford-ruben-amorim-2772544-2025-08-17",
+      "headline": "Amorim's new-look United fall 0-1 to Arsenal at Old TraffordManchester United's Premier League opener ended in disappointment as Ruben Amorim's men lost 1-0 to Arsenal at Old Trafford. Ricardo Calafiori's header proved decisive, leaving United frustrated despite dominating large spells of the game."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dont-push-jasprit-bumrah-towards-early-retirement-says-aakash-chopra-2772502-2025-08-17",
-      "headline": "Don't push Bumrah towards early retirement, he's Kohinoor Diamond: Former openerFormer India opener Aakash Chopra has warned against pushing Jasprit Bumrah towards early retirement amid constant criticism of the India fast bowler."
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-and-mohammad-rizwan-arent-pakistans-key-players-mohamamad-hafeez-2772540-2025-08-17",
+      "headline": "Babar and Rizwan aren't Pakistan's key players; they don't win matches: HafeezFormer Pakistan all-rounder Mohammad Hafeez has criticised Mohammad Rizwan and Babar Azam for not being the key players for their team due to their inability to help them win big matches in recent times."
     },
     {
       "sentiment": "positive",
@@ -370,16 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-wicketkeeping-josh-inglis-2772514-2025-08-17",
       "headline": "Carey enjoying gloveless role for Australia in ODIs with Inglis' riseAlex Carey has seamlessly transitioned from a specialist wicketkeeper to a specialist batter in ODIs, embracing whatever role the team requires. After being Australia's first-choice keeper for nearly five years, Josh Inglis has replaced him. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-criticism-shardul-thakur-defend-india-head-coach-2772511-2025-08-17",
-      "headline": "Criticism will come and go, winning matters: Shardul defends Gautam GambhirIndia coach Gautam Gambhir has faced sharp criticism after recent Test setbacks, but Shardul Thakur has defended him, praising his fighting spirit and influence on the team. With the Asia Cup ahead, Gambhir's leadership remains under the spotlight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dont-push-jasprit-bumrah-towards-early-retirement-says-aakash-chopra-2772502-2025-08-17",
-      "headline": "Don't push Bumrah towards early retirement, he's Kohinoor Diamond: Former openerFormer India opener Aakash Chopra has warned against pushing Jasprit Bumrah towards early retirement amid constant criticism of the India fast bowler."
     }
   ],
   "education": [
