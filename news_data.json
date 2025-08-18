@@ -167,7 +167,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/donald-trump-volodymyr-zelenskyy-meet-live-updates-us-russia-ukraine-war-european-leaders-washington-2772984-2025-08-18",
-      "headline": "Live: Ceasefire not necessary, says Trump during meeting with European leaders, ZelenskyyTrump, Zelenskyy meeting in Washington Live: Ukrainian President Volodymyr Zelenskyy met with US President Donald Trump at the White House on Monday for one-on-one talks focused on ending the ongoing war in Ukraine. The high-stakes meeting followed Trump's recent summit with Russian President Vladimir Putin in Alaska, as Washington intensifies efforts to broker a peace deal. To support Zelenskyy, several European leaders, including German Chancellor Friedrich Merz, French President Emmanuel Macron, UK Prime Minister Keir Starmer, Italian Prime Minister Giorgia Meloni, Finnish President Alexander Stubb, European Commission President Ursula von der Leyen, and NATO Secretary-General Mark Rutte, also arrived at the White House. Follow indiatoday.in for all Live Updates."
+      "headline": "Live: Trump, Zelenskyy open to trilateral talks with Putin as Europeans press ceasefireTrump, Zelenskyy meeting in Washington Live: Ukrainian President Volodymyr Zelenskyy met with US President Donald Trump at the White House on Monday for one-on-one talks focused on ending the ongoing war in Ukraine. The high-stakes meeting followed Trump's recent summit with Russian President Vladimir Putin in Alaska, as Washington intensifies efforts to broker a peace deal. To support Zelenskyy, several European leaders, including German Chancellor Friedrich Merz, French President Emmanuel Macron, UK Prime Minister Keir Starmer, Italian Prime Minister Giorgia Meloni, Finnish President Alexander Stubb, European Commission President Ursula von der Leyen, and NATO Secretary-General Mark Rutte, also arrived at the White House. Follow indiatoday.in for all Live Updates."
     },
     {
       "sentiment": "positive",
@@ -303,6 +303,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-cincinnati-open-title-jannik-sinner-retires-2773172-2025-08-19",
+      "headline": "Carlos Alcaraz wins maiden title after hapless Jannik Sinner retiresCarlos Alcaraz won his first Cincinnati Open title after Jannik Sinner retired midway through the final with illness. Sinner's withdrawal raises doubts about his readiness for the US Open, while Alcaraz prepares to compete in mixed doubles with Emma Raducanu.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aiff-indian-super-league-supreme-court-u-turn-clarification-fsdl-2773133-2025-08-18",
       "headline": "AIFF clarifies ISL U-turn, cites legal advice for Supreme Court stepThe All India Football Federation defended its sudden U-turn on the ISL case, citing legal advice to prioritise the National Sports Governance Bill, after a weekend of confusion over its Supreme Court approach."
     },
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-jaker-ali-anik-press-conference-2772913-2025-08-18",
-      "headline": "Bangladesh are going to Asia Cup to become champions: Jaker Ali AnikBangladesh batter Jaker Ali Anik said the team will approach the Asia Cup 2025 with the goal of winning their first title, backed by recent T20I series wins over Sri Lanka and Pakistan. He added that the Tigers won't take any opponent lightly and will stick to their own brand of cricket."
+      "url": "https://www.indiatoday.in/sports/cricket/story/harbhajan-singh-on-shubman-gill-in-t20is-asia-cup-2025-2773030-2025-08-18",
+      "headline": "Shubman Gill can adapt to any format, T20 not just about big hitting: HarbhajanFormer India spinner Harbhajan Singh has backed Shubman Gill to adapt his game to T20Is, mentioning his ability to switch gears quickly."
     },
     {
       "sentiment": "negative",
@@ -375,11 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mohun-bagan-denies-player-release-for-india-camp-injury-fifa-rules-controversy-2772922-2025-08-18",
       "headline": "Mohun Bagan refuses to release players for India camp citing injury concernsMohun Bagan firmly refused to release their players for the ongoing national camp, stating that it is \"not mandatory\" outside a FIFA window and accusing the All India Football Federation of neglecting player welfare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-jaker-ali-anik-press-conference-2772913-2025-08-18",
-      "headline": "Bangladesh are going to Asia Cup to become champions: Jaker Ali AnikBangladesh batter Jaker Ali Anik said the team will approach the Asia Cup 2025 with the goal of winning their first title, backed by recent T20I series wins over Sri Lanka and Pakistan. He added that the Tigers won't take any opponent lightly and will stick to their own brand of cricket."
     }
   ],
   "education": [
