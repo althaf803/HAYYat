@@ -160,6 +160,11 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/government-to-introduce-bills-in-lok-sabha-tomorrow-on-removal-of-pm-chief-minister-arrested-for-30-days-2773799-2025-08-19",
+      "headline": "Centre to bring bills on removal of PM, chief ministers arrested on\u00a0serious\u00a0chargesThe government is set to introduce bills regarding the removal of the Prime Minister and chief ministers arrested for 30 days, tomorrow in Lok Sabha."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/mumbai-monorail-breaks-down-amid-heavy-rain-passengers-stuck-inside-train-being-evacuated-2773692-2025-08-19",
       "headline": "Video: Mumbai monorail breaks down amid heavy rain, 582 rescued after 4 hoursThe monorail services in Mumbai was disrupted amid heavy rain between Chembur and Bhakti Park. The passengers dialled the BMC helpline number following which fire brigade officials arrived at the scene. "
@@ -176,23 +181,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/government-approves-rs-62000-crore-deal-for-97-indigenous-light-combat-aircraft-2773785-2025-08-19",
-      "headline": "Government approves Rs 62,000-crore deal to buy 97 Light Combat Aircraft Mark 1AThe new order will help the Indian Air Force phase out its ageing MiG-21 fleet, which is set to be retired in the coming weeks."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/will-pakistan-army-chief-field-marshal-asim-munir-test-a-nuclear-weapon-2773618-2025-08-19",
       "headline": "Will Field Marshal Munir test a nuclear weapon?Army, Allah, America and the circumstances that will lead Field Marshal Asim Munir to invoke the fourth A - Atomic Weapons. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-reorganisation-bill-restoring-statehood-lok-sabha-parliament-2773751-2025-08-19",
-      "headline": "Omar Abdullah's cryptic Harry Potter meme amid J&K statehood bill buzzJammu and Kashmir Chief Minister Omar Abdullah appeared to have reacted cryptically to speculation about a bill to restore the region's statehood, sharing a Professor Snape dialogue: 'I can't take any more of this'."
+      "url": "https://www.indiatoday.in/india/story/government-approves-rs-62000-crore-deal-for-97-indigenous-light-combat-aircraft-2773785-2025-08-19",
+      "headline": "Government approves Rs 62,000-crore deal to buy 97 Light Combat Aircraft Mark 1AThe new order will help the Indian Air Force phase out its ageing MiG-21 fleet, which is set to be retired in the coming weeks."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/government-to-ban-all-money-based-gaming-transactions-under-online-gaming-bill-sources-2773674-2025-08-19",
-      "headline": "Centre to ban all money-based gaming transactions under new bill: SourcesUnder the proposed Regulation & Promotion of Online Gaming Act, banks and financial institutions will not be allowed to process or transfer funds for real-money online games."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-reorganisation-bill-restoring-statehood-lok-sabha-parliament-2773751-2025-08-19",
+      "headline": "Omar Abdullah's cryptic Harry Potter meme amid J&K statehood bill buzzJammu and Kashmir Chief Minister Omar Abdullah appeared to have reacted cryptically to speculation about a bill to restore the region's statehood, sharing a Professor Snape dialogue: 'I can't take any more of this'."
     },
     {
       "sentiment": "positive",
@@ -203,6 +203,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/passengers-stuck-inside-the-mumbai-monorail-recalls-their-ordeal-of-being-stuck-for-over-an-hour-2773754-2025-08-19",
       "headline": "It was terrible, we were all so scared: Passengers recall Mumbai\u00a0monorail\u00a0chaosPassengers claimed that they were stuck for over an hour inside the crowded rake before being rescued. They also claimed that the train was overloaded with passengers as it arrived after a gap of 30 minutes.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/government-to-ban-all-money-based-gaming-transactions-under-online-gaming-bill-sources-2773674-2025-08-19",
+      "headline": "Centre to ban all money-based gaming transactions under new bill: SourcesUnder the proposed Regulation & Promotion of Online Gaming Act, banks and financial institutions will not be allowed to process or transfer funds for real-money online games."
     },
     {
       "sentiment": "positive",
@@ -216,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bloc-vice-president-pick-sudershan-reddy-jurist-salwa-judum-telangana-caste-census-important-cases-explained-2773537-2025-08-19",
-      "headline": "Sudershan Reddy the jurist: From Salwa Judum verdict to Telangana caste censusFrom striking down Chhattisgarh's Salwa Judum militia, aimed at countering Naxalite activities with local tribal recruits, as unconstitutional, to criticising the Union government in 2011 for its laxity in investigating black money cases, the Opposition's VP pick, Sudershan Reddy, has been a jurist known for his firm stands. Most recently, as an expert, Reddy steered the Revanth Reddy-led Telangana caste census."
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-rain-memes-jokes-x-users-reactions-viral-posts-gifs-weather-update-2773684-2025-08-19",
+      "headline": "As Mumbai drowns in rain, X users ride the wave with memesMumbai Rain Memes: As Mumbai reeled under heavy rains and waterlogging, social media users turned the chaos into comedy. From lost chappals floating across the suburbs to jokes about office commutes, memes flooded the timelines."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-rain-memes-jokes-x-users-reactions-viral-posts-gifs-weather-update-2773684-2025-08-19",
-      "headline": "As Mumbai drowns in rain, X users ride the wave with memesMumbai Rain Memes: As Mumbai reeled under heavy rains and waterlogging, social media users turned the chaos into comedy. From lost chappals floating across the suburbs to jokes about office commutes, memes flooded the timelines."
+      "url": "https://www.indiatoday.in/india/story/india-bloc-vice-president-pick-sudershan-reddy-jurist-salwa-judum-telangana-caste-census-important-cases-explained-2773537-2025-08-19",
+      "headline": "Sudershan Reddy the jurist: From Salwa Judum verdict to Telangana caste censusFrom striking down Chhattisgarh's Salwa Judum militia, aimed at countering Naxalite activities with local tribal recruits, as unconstitutional, to criticising the Union government in 2011 for its laxity in investigating black money cases, the Opposition's VP pick, Sudershan Reddy, has been a jurist known for his firm stands. Most recently, as an expert, Reddy steered the Revanth Reddy-led Telangana caste census."
     },
     {
       "sentiment": "positive",
@@ -236,23 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/video/video-two-locals-swim-through-flooded-thane-underpass-to-rescue-people-stuck-in-car-2773748-2025-08-19",
-      "headline": "Video: Two locals swim through flooded Thane underpass to rescue people stuck in carTwo people stuck inside their car in a waterlogged underpass\u00a0near Narivali in Thane district on Monday were rescued by two locals who\u00a0swam into the middle of the underpass to rescue them."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/explained-direct-action-day-noakhali-riots-at-the-heart-of-the-bengal-files-2773665-2025-08-19",
       "headline": "Explained: Direct Action Day, Noakhali riots at the heart of The Bengal FilesAs Vivek Agnihotri's film 'The Bengal Files' sparks debate, a look back at the violence of Direct Action Day and the Noakhali riots that shaped Bengal's partition."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sudershan-reddy-india-bloc-vice-president-pick-andhra-not-tamil-nadu-opposition-throws-a-twist-in-veep-battle-2773441-2025-08-19",
-      "headline": "With Sudershan Reddy, INDIA bloc's googly in vice-presidential contest with NDASources said the decision to field a candidate of \"great credibility outside the political sphere\" was intended to make it harder for regional parties to oppose."
+      "url": "https://www.indiatoday.in/india/maharashtra/video/video-two-locals-swim-through-flooded-thane-underpass-to-rescue-people-stuck-in-car-2773748-2025-08-19",
+      "headline": "Video: Two locals swim through flooded Thane underpass to rescue people stuck in carTwo people stuck inside their car in a waterlogged underpass\u00a0near Narivali in Thane district on Monday were rescued by two locals who\u00a0swam into the middle of the underpass to rescue them."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/h-1b-ban-next-india-us-ties-frosty-due-to-trump-comments-maga-talks-of-ban-on-h-1b-visa-2773614-2025-08-19",
-      "headline": "India-US ties frosty due to Trump comments, MAGA talks of ban on H-1B VisaEven as US President Donald Trump has ratcheted up his tariff talk against India, his MAGA base is drumming up for one more step to hit India \u2014 modify or ban H-1B Visa so that fewer Indians can get jobs in the US."
+      "url": "https://www.indiatoday.in/india/story/sudershan-reddy-india-bloc-vice-president-pick-andhra-not-tamil-nadu-opposition-throws-a-twist-in-veep-battle-2773441-2025-08-19",
+      "headline": "With Sudershan Reddy, INDIA bloc's googly in vice-presidential contest with NDASources said the decision to field a candidate of \"great credibility outside the political sphere\" was intended to make it harder for regional parties to oppose."
     },
     {
       "sentiment": "negative",
@@ -265,6 +265,11 @@
       "headline": "Gen Z is bringing parents to job interviews, letting them talk to managers: StudyA new study shows 77% of Gen Z jobseekers bring parents to interviews, with many letting them negotiate salaries, email managers, and even intervene in workplace conflicts."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/h-1b-ban-next-india-us-ties-frosty-due-to-trump-comments-maga-talks-of-ban-on-h-1b-visa-2773614-2025-08-19",
+      "headline": "India-US ties frosty due to Trump comments, MAGA talks of ban on H-1B VisaEven as US President Donald Trump has ratcheted up his tariff talk against India, his MAGA base is drumming up for one more step to hit India \u2014 modify or ban H-1B Visa so that fewer Indians can get jobs in the US."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-rain-weather-update-helicopter-emergency-landing-lonavala-alert-flooding-fog-2773610-2025-08-19",
       "headline": "Pune-based builder's chopper with 6 aboard makes emergency landing\u00a0amid\u00a0rain,\u00a0fogA private helicopter with six people on board made a safe emergency landing on a narrow road near Lonavala in Pune due to poor visibility from heavy rain and fog. "
@@ -273,11 +278,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/dragons-classroom-why-chinas-takeover-of-uk-schools-should-worry-indian-parents-2773499-2025-08-19",
       "headline": "Dragon's classroom: Why China's takeover of UK schools should worry Indian parentsChinese investors are buying up Britain's venerable but often financially fragile private schools at an unprecedented rate, and it's time we asked the uncomfortable question: Is this just business, or is it a strategic move by the Chinese Communist Party?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/oracle-lays-off-10-percent-of-india-staff-after-trump-meet-and-openai-deal-full-story-in-5-points-2773320-2025-08-19",
-      "headline": "Oracle lays off 10% of India staff after Trump meet and OpenAI dealOracle, one of the world's biggest software companies, has let go of a large number of employees in India, with nearly 10 percent of its local workforce affected."
     },
     {
       "sentiment": "positive",
