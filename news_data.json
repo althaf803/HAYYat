@@ -175,9 +175,9 @@
       "headline": "Back to medieval times: Rahul Gandhi, in black T-shirt, slams new billsAmit Shah introduced three bills in the Lok Sabha under which the Prime Minister and chief ministers of states and union territories could be removed if they have been arrested for 30 consecutive days."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rekha-gupta-attacked-jan-sunwai-programme-accused-arrested-reaction-2774312-2025-08-20",
-      "headline": "Can't break my spirit: Rekha Gupta's first reaction on attack during public meetDelhi Chief Minister Rekha Gupta said the attack on her during a public outreach programme was a \"cowardly attempt\" on her resolve to serve the people. She also said she was in shock, but was feeling better."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-school-student-killed-stabbed-to-death-chat-police-case-2774376-2025-08-20",
+      "headline": "I killed him: Ahmedabad school stabber's chat with friend reveals chilling detailsA Class 10 student of an Ahmedabad school was stabbed to death by his junior after an altercation, with a police probe uncovering a chilling chat. "
     },
     {
       "sentiment": "positive",
@@ -206,6 +206,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rekha-gupta-attacked-jan-sunwai-programme-accused-arrested-reaction-2774312-2025-08-20",
+      "headline": "Can't break my spirit: Rekha Gupta's first reaction on attack during public meetDelhi Chief Minister Rekha Gupta said the attack on her during a public outreach programme was a \"cowardly attempt\" on her resolve to serve the people. She also said she was in shock, but was feeling better."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-jain-community-convince-bmc-for-slaughterhouse-ban-during-paryushan-parva-2774205-2025-08-20",
       "headline": "Convincing Akbar was easier: Jains slam Mumbai civic body over slaughterhouse banThe BMC on August 14 ordered a two-day ban on slaughterhouses during the festival as demanded by the community, which sought that the ban be extended to seven days."
     },
@@ -215,19 +220,14 @@
       "headline": "Rahul Gandhi approaches top court over 'vote chori' in Bengaluru\u00a0Lok\u00a0Sabha\u00a0seatRahul Gandhi has approached the Supreme Court, urging an investigation into alleged irregularities and manipulation in the voter list of the Bengaluru Central constituency during the 2024 Lok Sabha elections, by a Special Investigation Team (SIT) headed by a retired judge."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/sack-arrested-cm-government-exception-law-amit-shah-monsoon-session-article-356-president-rule-ed-cbi-arvind-kejriwal-2774096-2025-08-20",
-      "headline": "Why govt's turning an exception into law has critics alarmedIn 79 years of Independent India's history, only one chief minister went to jail and ran a government from there. Now, the Centre is bringing in a law that seems to address this exception. The law could become Article 356 through the backdoor, and used to force CMs to toe the line or sack elected governments.\u00a0"
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/google-pixel-watch-4-arrives-in-india-more-affordable-pixel-buds-2a-also-launched-2774341-2025-08-20",
       "headline": "Google Pixel Watch 4 and more affordable Pixel Buds 2a launched in IndiaAlong with the Pixel 10 phones, Google on Wednesday night also launched the Pixel Watch 4 and the Pixel Buds 2a in India. The two devices will be available for sale in the coming days."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/russia-diplomat-roman-babushkin-us-trump-sanctions-india-tariffs-oil-trade-2774223-2025-08-20",
-      "headline": "Our markets open for India: Russian diplomat's reality check to Trump on tiesRussian diplomat Roman Babushkin, in a press briefing, laid out the red carpet for India to export its products to Russia amid punitive US tariffs while castigating Trump for humiliating its 'friends'."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/sack-arrested-cm-government-exception-law-amit-shah-monsoon-session-article-356-president-rule-ed-cbi-arvind-kejriwal-2774096-2025-08-20",
+      "headline": "Why govt's turning an exception into law has critics alarmedIn 79 years of Independent India's history, only one chief minister went to jail and ran a government from there. Now, the Centre is bringing in a law that seems to address this exception. The law could become Article 356 through the backdoor, and used to force CMs to toe the line or sack elected governments.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bilateral-trade-jumps-five-times-imbalance-widening-jaishankar-moscow-glbs-2774385-2025-08-21",
-      "headline": "Bilateral trade jumps five times, but imbalance widening, says Jaishankar in MoscowAt the session co-chaired with Russia's First Deputy Prime Minister Denis Manturov, Jaishankar said the India-EAEU FTA, long in discussion, must be finalised without delay."
+      "url": "https://www.indiatoday.in/india/story/russia-diplomat-roman-babushkin-us-trump-sanctions-india-tariffs-oil-trade-2774223-2025-08-20",
+      "headline": "Our markets open for India: Russian diplomat's reality check to Trump on tiesRussian diplomat Roman Babushkin, in a press briefing, laid out the red carpet for India to export its products to Russia amid punitive US tariffs while castigating Trump for humiliating its 'friends'."
     },
     {
       "sentiment": "negative",
@@ -245,14 +245,14 @@
       "headline": "The Bads of Bollywood: Aryan Khan bows down, seeks forgiveness for future mistakesAryan Khan, who has made his directorial debut with 'The Bads of Bollywood', bowed down to the audience and asked for their forgiveness in advance at the launch of the Netflix show. He said he has made the show with love but if anything goes wrong, he is already apologising. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/will-break-table-tear-bill-chaos-likely-in-parliament-over-motion-to-remove-arrested-pm-chief-ministers-2773915-2025-08-20",
-      "headline": "Opposition tears bills to remove arrested ministers, throws it at Amit ShahUnder the proposed legislation, a PM, Chief Minister or minister facing serious charges will lose their chair if they are arrested for 30 consecutive days. The three bills were later sent to a joint panel for scrutiny."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/archana-tiwari-lawyer-civil-judge-aspirant-disappearance-police-case-found-marriage-nepal-2774183-2025-08-20",
       "headline": "Inside Archana Tiwari missing case: Marriage pressure, trip to Nepal and police netArchana Tiwari, a 22-year-old lawyer and civil judge aspirant, staged her own disappearance to escape family pressure to abandon her studies and marry. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/beloved-rhode-island-judge-frank-caprio-dies-at-88-after-cancer-battle-glbs-2774403-2025-08-21",
+      "headline": "Beloved Rhode Island Judge Frank Caprio dies at 88 after cancer battleJudge Frank Caprio won global admiration for his compassion in court, blending humour with empathy on Caught in Providence, inspiring millions worldwide with his humanity, fairness, and belief in goodness.\r\n"
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/durand-cup-east-bengal-vs-diamond-harbour-fc-dream-run-end-defeat-2774334-2025-08-20",
+      "headline": "Durand Cup: Diamond Harbour stun East Bengal, end dream run in semi-finalEast Bengal's fairy-tale Durand Cup campaign ended in heartbreak as debutants Diamond Harbour FC scripted a stunning 2-1 semi-final upset, with former East Bengal men Mirshad Michu and Joby Justin playing pivotal roles in the shocker."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bilateral-trade-jumps-five-times-imbalance-widening-jaishankar-moscow-glbs-2774385-2025-08-21",
+      "headline": "Bilateral trade jumps five times, but imbalance widening, says Jaishankar in MoscowAt the session co-chaired with Russia's First Deputy Prime Minister Denis Manturov, Jaishankar said the India-EAEU FTA, long in discussion, must be finalised without delay."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sara-tendulkar-exclusive-australia-memories-cricket-career-2774348-2025-08-20",
       "headline": "Sara Tendulkar recalls Australia memories, reveals why she never pursued cricketSpeaking exclusively to India Today, Sara Tendulkar opened up about her childhood memories of Australia and her decision not to pursue cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-test-fires-agni-5-intermediate-range-ballistic-missile-in-odishas-chandipur-2774298-2025-08-20",
-      "headline": "India test-fires Agni-5 intermediate-range ballistic missile in major defence boostIndia on Wednesday successfully test-fired its Agni-5 ballistic missile off the Odisha coast, validating all operational parameters in a major boost to its strategic defence capabilities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/icssr-warns-csds-sanjay-kumar-deleted-post-voter-data-maharashtra-controversy-vote-chori-rahul-gandhi-2774120-2025-08-20",
-      "headline": "Funder warns CSDS as ghost of deleted post haunts it amid vote-theft rowThe ICSSR, which funds think-tank CSDS, has sought answers from it after co-director Sanjay Kumar deleted a post claiming irregularities in voter numbers in two seats of Maharashtra. The now-deleted post, flagging abnormal voter spikes between Lok Sabha and Assembly polls in Maharashtra, was used by the Congress to allege vote-theft."
     },
     {
       "sentiment": "positive",
@@ -442,21 +442,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
