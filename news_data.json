@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indian-refiners-resume-russian-oil-purchases-amid-trump-tariff-threats-news-agency-reuters-2774044-2025-08-20",
+      "headline": "Indian refiners resume Russian oil purchases amid Trump tariff threats: ReportIndian refiners resume Russian oil purchases amid Trump tariff threats: News agency Reuters"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/labubu-mania-is-back-as-pop-mart-shares-rise-by-11-percent-ceo-predicts-record-sales-2774005-2025-08-20",
       "headline": "Labubu mania is back as Pop Mart shares rise by 11%, CEO predicts record salesPop Mart reported a 204% rise in revenue to 13.88 billion yuan\u00a0for the first half of 2025, beating the average analyst estimate of 13.76 billion yuan. Net income jumped\u00a0397% to 4.57 billion yuan,\u00a0highlighting the company's rapid growth."
     },
@@ -18,7 +23,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
-      "headline": "Pumping profits or picking a fight? US goes after Indian refinersThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
+      "headline": "US targets Indian refiners, says richest families made excess profitsThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
     },
     {
       "sentiment": "negative",
@@ -54,14 +59,24 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/pm-viksit-bharat-rozgar-yojana-who-can-get-rs-15000-and-other-benefits-2773508-2025-08-19",
       "headline": "PM Viksit Bharat Rozgar Yojana: Who can get Rs 15,000 and other benefitsFirst-time employees under Part A can receive a one-time incentive equal to about one month's basic pay, up to Rs 15,000, paid in two instalments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/two-retirees-rs-2-crore-each-yet-one-runs-out-of-money-early-ca-explains-why-2773436-2025-08-19",
-      "headline": "Two retirees, Rs 2 crore each, yet one runs out of money early. CA explains whyTwo retirees may have the same Rs 2 crore in savings, but their financial journeys can differ drastically. A CA explains how market timing and sequencing risk can decide who runs out of money first."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/f1-the-movie-ott-release-when-where-to-watch-brad-pitt-2774019-2025-08-20",
+      "headline": "F1 The Movie OTT release: When and where to watch Brad Pitt's sports dramaHollywood actor Brad Pitt's 'F1: The Movie', directed by Joseph Kosinski and released in cinemas on June 27, is now set to arrive on streaming platforms. Find out when and where."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vidhu-vinod-chopra-recalls-vidya-balan-giving-him-gaalis-during-parineeta-auditions-2773947-2025-08-20",
+      "headline": "Vidhu Vinod Chopra recalls Vidya Balan giving him gaalis during Parineeta auditionsFilmmaker Vidhu Vinod Chopra shares how actor Vidya Balan secured her role in 'Parineeta'. He recalled that Balan was so tired by the final round of auditions that she must have given him gaalis. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anil-sharma-confirms-apne-2-script-is-ready-quashes-shelf-reports-sunny-deol-bobby-deol-dharmendra-2774013-2025-08-20",
+      "headline": "Director Anil Sharma confirms Apne 2 script is ready, quashes shelf reports'Apne 2' director Anil Sharma confirmed that the scripting of the film is complete. This comes amid several reports about the project being shelved due to multiple delays, "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/sooraj-barjatya-backs-rupali-ganguly-call-on-national-awards-for-television-actors-2773967-2025-08-20",
@@ -141,58 +156,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/dhanashree-verma-yuzvendra-chahal-court-divorce-proceedings-tshirt-controversy-2773694-2025-08-19",
       "headline": "I started howling in court: Dhanashree Verma on divorce with Yuzvendra ChahalChoreographer Dhanashree Verma shared that she had an emotional breakdown during her divorce proceedings with cricketer Yuzvendra Chahal. She also reacted to her ex-husband's controversial T-shirt that said 'Be Your Sugar Daddy.'"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mammootty-comeback-mahesh-narayanan-film-september-release-2773578-2025-08-19",
-      "headline": "Actor Mammootty to resume shoot after taking a break due to health complicationsMalayalam actor Mammootty, who had recently faced some health complications, has recovered completely and will be joining the sets of his upcoming film with Mahesh Narayanan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-south-stars-humble-god-fearing-compared-to-bollywood-rajinikanth-coolie-2773666-2025-08-19",
-      "headline": "Shruti Haasan says South stars are more humble, God-fearing, compared to BollywoodShruti Haasan discusses the cultural and psychological differences between South Indian cinema and Bollywood. She reflects on how humility and spirituality shape her approach to acting and her career choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/bosco-martis-shah-rukh-khan-national-award-win-bollywood-without-him-would-not-be-same-2773696-2025-08-19",
-      "headline": "Bosco Martis on SRK's National Award win: Bollywood without him would not be sameChoreographer Bosco Martis reflected on Shah Rukh Khan's National Award win. In an exclusive interaction with India Today, he stated how the industry will never be the same without him. "
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-student-stabbed-to-death-gujarat-police-school-vandalised-protests-2774012-2025-08-20",
-      "headline": "Class 10 student stabbed to death by junior in Ahmedabad, school vandalisedA 15-year-old student was fatally stabbed by a junior at an Ahmedabad school, triggering protests, vandalism, and police action."
+      "headline": "Ahmedabad Class 10 student stabbed to death by junior; anger, school vandalisedA 15-year-old student was fatally stabbed by a junior at an Ahmedabad school, triggering protests, vandalism, and police action."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-slapped-by-man-during-jan-sunvai-event-alleges-bjp-2773882-2025-08-20",
-      "headline": "Delhi Chief Minister hit by Gujarat man at public event, attacker arrestedPreliminary interrogation has revealed that the accused, identified as Rajesh Bhai Khimji Bhai Sakariya, is a 41-year-old resident of Rajkot. Police said he remains in custody and will face detailed questioning to determine his motives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bills-to-remove-prime-minister-chief-minister-ministers-arrest-parliament-explained-2773918-2025-08-20",
-      "headline": "PM, chief ministers can go if arrested for 30 days. Why the uproar over new bills?With the bills, the government looks to end a rather tepid Parliament session with a bang, even as the opposition has gone on a warpath, terming them 'draconian'. What are the bills, and why have they hit a nerve with the opposition?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
-      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/india-stray-romance-love-lies-rabies-solutions-dogs-cows-2773984-2025-08-20",
-      "headline": "India's Stray Romance: Love, lies, rabies, solutionsIndia's romance with strays is a tragic farce - sacred cows choking, dogs biting - when proven fixes like sterilisation, shelters, and accountability could turn chaos into compassion. But our rage is just bark without bite."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
-      "headline": "Pumping profits or picking a fight? US goes after Indian refinersThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/thaw-india-china-ties-part-of-process-not-sudden-fling-xi-jinping-narendra-modi-wang-yi-dokhlam-galwan-jaishankar-2773501-2025-08-20",
-      "headline": "Thaw in India-China ties is part of a process, not a sudden swingChinese Foreign Minister Wang Yi was in India for talks to shore up ties after a difficult phase in relations marked by border clashes. Wang met PM Narendra Modi ahead of his China visit after seven years. Though the meetings come amid Trump's tariff turbulence, they are part of a process, not a sudden swing. This is how the two sides worked to mend ties, with pragmatism as the pivot."
+      "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-attack-sequence-of-events-what-happened-2774036-2025-08-20",
+      "headline": "Attacker pushed Rekha Gupta, pulled her hair: How 1-minute chaos unfoldedDelhi CM Rekha Gupta attack: India Today has pieced together the sequence of the events that happened at the Delhi Chief Minister's new Civil Lines residence shortly after 8 am."
     },
     {
       "sentiment": "negative",
@@ -201,13 +176,53 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/why-indians-are-taking-their-long-weekends-abroad-2773627-2025-08-20",
-      "headline": "Why Indians are taking their long weekends abroadThis Independence Day long weekend, Indians skipped the usual road trips to the hills and staycations nearby. Instead, the new-age traveller packed their bags for international getaways."
+      "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
+      "headline": "US targets Indian refiners, says richest families made excess profitsThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/india-stray-romance-love-lies-rabies-solutions-dogs-cows-2773984-2025-08-20",
+      "headline": "India's Stray Romance: Love, lies, rabies, solutionsIndia's romance with strays is a tragic farce - sacred cows choking, dogs biting - when proven fixes like sterilisation, shelters, and accountability could turn chaos into compassion. But our rage is just bark without bite."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mumbai-rain-weather-forecast-live-update-news-heavy-rainfall-monsoon-airlines-travel-advisory-2773851-2025-08-20",
-      "headline": "Live: Red alert on, city records 875 mm rainfall in 4 daysMumbai Rain Live Updates: A Red warning has been issued for Mumbai, with the Indian Meteorological Department forecasting moderate to intense spells of rain today. The rains have already left 1 dead and 3 injured in the city. Tune in to intoday.in for the latest updates."
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/telangana-hyderabad-electrocution-deaths-power-department-cuts-dangling-internet-cables-outages-spark-outrage-2774015-2025-08-20",
+      "headline": "Hyderabad hit by internet outage as officials cut cables after electrocution deathsAfter two major electrocution incidents during religious processions within 24 hours, Telangana's power body began cutting dangling internet and cable wires in Hyderabad. The sudden move caused mass outages, disrupting work-from-home, sparking outrage.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bills-to-remove-prime-minister-chief-minister-ministers-arrest-parliament-explained-2773918-2025-08-20",
+      "headline": "PM, chief ministers can go if arrested for 30 days. Why the uproar over new bills?With the bills, the government looks to end a rather tepid Parliament session with a bang, even as the opposition has gone on a warpath, terming them 'draconian'. What are the bills, and why have they hit a nerve with the opposition?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/thaw-india-china-ties-part-of-process-not-sudden-fling-xi-jinping-narendra-modi-wang-yi-dokhlam-galwan-jaishankar-2773501-2025-08-20",
+      "headline": "Thaw in India-China ties is part of a process, not a sudden swingChinese Foreign Minister Wang Yi was in India for talks to shore up ties after a difficult phase in relations marked by border clashes. Wang met PM Narendra Modi ahead of his China visit after seven years. Though the meetings come amid Trump's tariff turbulence, they are part of a process, not a sudden swing. This is how the two sides worked to mend ties, with pragmatism as the pivot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/stress-buster-anxiety-the-rise-of-adult-pacifiers-chewing-gum-2773983-2025-08-20",
+      "headline": "Stress got you sucking? The rise of adult pacifiersOn platforms like Weibo, videos featuring adult pacifier use have amassed billions of views. On Taobao, sellers report shipping thousands every month."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
+      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indian-refiners-resume-russian-oil-purchases-amid-trump-tariff-threats-news-agency-reuters-2774044-2025-08-20",
+      "headline": "Indian-state run refiners resume Russian oil purchase amid tariff threats: ReportThe resumption of Russian oil imports by Indian state refiners could reduce supplies for top buyer China, which had stepped up purchases during their absence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-approves-gaza-city-conquer-plan-authorises-call-up-reservists-2774017-2025-08-20",
+      "headline": "Israel approves Gaza City conquer plan, authorises calls up of 60,000 reservistsIsrael's defence minister approved a plan to conquer Gaza City and call up 60,000 reservists, increasing pressure on Hamas amid ceasefire talks. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/why-indians-are-taking-their-long-weekends-abroad-2773627-2025-08-20",
+      "headline": "Why Indians are taking their long weekends abroadThis Independence Day long weekend, Indians skipped the usual road trips to the hills and staycations nearby. Instead, the new-age traveller packed their bags for international getaways."
     },
     {
       "sentiment": "positive",
@@ -216,33 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-rejects-rahul-gandhi-voter-deletion-claim-bihar-2773917-2025-08-20",
-      "headline": "Poll body fact-checks Rahul Gandhi after viral 'Subodh Kumar vote chori' videoThe Election Commission rebutted Rahul Gandhi's allegations of large-scale voter deletion in Bihar. The poll body stated that Subodh Kumar, who featured in a now viral video shared by Gandhi, did not submit required forms or follow due procedure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-unknown-moon-orbiting-uranus-2773936-2025-08-20",
-      "headline": "James Webb Telescope discovers unknown moon orbiting UranusEstimated to be about 10 kilometres wide, the moon has remained invisible for decades after the Voyager-2 spacecraft conducted the lunar survey around Uranus. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-live-update-lok-sabha-opposition-bihar-sir-protest-bills-vice-president-2773889-2025-08-20",
-      "headline": "Live: Online cash game ban bill tabled in Lok Sabha, Houses adjourned till 2 pmParliament Session Live: Union Home Minister Amit Shah will introduce three important bills in the Lok Sabha today, including a provision that could unseat a Union Minister, Chief Minister, or even the Prime Minister if they remain under arrest or detention for 30 consecutive days in cases carrying a minimum sentence of five years. Electronics and IT Minister Ashwini Vaishnaw tabled the Promotion and Regulation of Online Gaming Bill. The Opposition, meanwhile, is expected to intensify protests demanding a debate on the Special Intensive Revision exercise in Bihar and other pending issues. With the exception of brief discussions on Operation Sindoor in both Houses, parliamentary business has largely stalled since the Monsoon session opened on July 21, repeatedly disrupted by adjournments amid opposition protests. Stay tuned to IndiaToday.in for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-imposed-sanctions-india-pressure-russia-end-ukraine-war-white-house-glbs-2773836-2025-08-20",
-      "headline": "Trump imposed sanctions on India to pressure Russia over Ukraine war: White HouseWhite House Press Secretary Karoline Leavitt said Trump increased India's tariffs to 50% as part of sanctions designed to pressure Russia to end the Ukraine war."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/cp-radhakrishnan-vs-b-sudershan-reddy-how-the-vice-president-poll-plays-out-2773595-2025-08-19",
-      "headline": "CP Radhakrishnan vs B Sudershan Reddy: How the vice-president poll plays outThe INDIA bloc fielding former Supreme Court judge B. Sudershan Reddy against the NDA's C.P. Radhakrishnan has set the stage for a contest along identity and ideological lines"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
-      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
+      "url": "https://www.indiatoday.in/india/law-news/story/why-should-one-pay-rs-150-top-court-says-no-tolls-on-highways-riddled-with-potholes-2773888-2025-08-20",
+      "headline": "Why pay Rs 150 for bad roads? Top court says no tolls on Kerala highway with potholesThe Supreme Court has stopped toll collection on a pothole-ridden highway in Kerala. The court said citizens cannot be charged extra for poorly maintained roads. Appeals by the National Highways Authority of India and others were dismissed."
     },
     {
       "sentiment": "positive",
@@ -251,13 +241,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/why-should-one-pay-rs-150-top-court-says-no-tolls-on-highways-riddled-with-potholes-2773888-2025-08-20",
-      "headline": "Why pay Rs 150 for bad roads? Top court says no tolls on Kerala highway with potholesThe Supreme Court has stopped toll collection on a pothole-ridden highway in Kerala. The court said citizens cannot be charged extra for poorly maintained roads. Appeals by the National Highways Authority of India and others were dismissed."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
+      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-live-update-lok-sabha-opposition-bihar-sir-protest-bills-vice-president-2773889-2025-08-20",
+      "headline": "Live: Bills to remove arrested ministers to be tabled in Lok Sabha at 2 pmParliament Session Live: Union Home Minister Amit Shah will introduce three important bills in the Lok Sabha today, including a provision that could unseat a Union Minister, Chief Minister, or even the Prime Minister if they remain under arrest or detention for 30 consecutive days in cases carrying a minimum sentence of five years. Electronics and IT Minister Ashwini Vaishnaw tabled the Promotion and Regulation of Online Gaming Bill. The Opposition, meanwhile, is expected to intensify protests demanding a debate on the Special Intensive Revision exercise in Bihar and other pending issues. With the exception of brief discussions on Operation Sindoor in both Houses, parliamentary business has largely stalled since the Monsoon session opened on July 21, repeatedly disrupted by adjournments amid opposition protests. Stay tuned to IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-makers-move-madras-high-court-against-a-certificate-for-rajinikanth-film-2773895-2025-08-20",
-      "headline": "Coolie makers approach Madras High Court against A tag for Rajinikanth's filmThe legal tussle over Rajinikanth's film 'Coolie' has reached the Madras High Court as Sun Pictures challenges the CBFC's 'A' certificate, arguing for a U/A rating akin to other big releases. The film is currently running in theatres. "
+      "url": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-unknown-moon-orbiting-uranus-2773936-2025-08-20",
+      "headline": "James Webb Telescope discovers unknown moon orbiting UranusEstimated to be about 10 kilometres wide, the moon has remained invisible for decades after the Voyager-2 spacecraft conducted the lunar survey around Uranus. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/latest-studies/story/1-out-of-4-millennials-say-they-feel-underpaid-worrying-employers-study-2773999-2025-08-20",
+      "headline": "1 out of 4 millennials say they feel underpaid, worrying employers: StudyGreat Place To Work India has revealed that pay fairness to millennials is now a top retention risk. The 2025 study has shown gaps in financial wellbeing, psychological safety and innovation opportunities. Employers that act on pay, safety and communication stand to keep the millennial majority."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/justice-sudershan-reddy-opposition-vice-president-election-interview-constitution-2773957-2025-08-20",
-      "headline": "MPs elect Veep, not parties: Justice Reddy appeals to NDA to back him in pollsIn an exclusive interview, Justice Sudershan Reddy, the opposition's vice-presidential candidate, spoke on his contest with NDA's CP Radhakrishnan and his agenda."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/ktaka-partially-burnt-body-of-chitradurga-student-found-near-gonuru-police-suspect-rape-and-murder-2773875-2025-08-20",
-      "headline": "Partially burnt body of 20-year-old student found in Karnataka, police suspect rapeThe partially burnt body of a 20-year-old BA student was found in Karnataka's Chitradurga, two days after she went missing. Police suspect rape and murder and have launched a manhunt for the accused."
+      "url": "https://www.indiatoday.in/education-today/news/story/kerala-class-4-text-draft-says-netaji-fled-to-germany-in-fear-correction-ordered-2773978-2025-08-20",
+      "headline": "Kerala Class 4 text draft says Netaji fled to Germany in fear, correction orderedA draft Kerala textbook claimed Netaji Subhas Chandra Bose \"fled to Germany in fear of the British\". Minister V Sivankutty ordered corrections, called it a \"historical mistake\", and confirmed revised text is online."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-tvk-vijay-19-year-old-fan-electrocuted-while-hoisting-party-flag-in-virudhunagar-ahead-of-madurai-public-meeting-2773964-2025-08-20",
-      "headline": "19-year-old Vijay fan dies of electrocution hoisting TVK flag ahead of party meetA 19-year-old Vijay fan in Tamil Nadu died of electrocution while hoisting a Tamizhaga Vettri Kazhagam (TVK) flag. The incident happened outside a local resident's house ahead of a public meeting in Madurai. Police have registered a case and begun inquiries."
+      "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-slapped-by-man-during-jan-sunvai-event-alleges-bjp-2773882-2025-08-20",
+      "headline": "Delhi Chief Minister hit by Gujarat man at public event, attacker arrestedPreliminary interrogation has revealed that the accused, identified as Rajesh Bhai Khimji Bhai Sakariya, is a 41-year-old resident of Rajkot. Police said he remains in custody and will face detailed questioning to determine his motives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-makers-move-madras-high-court-against-a-certificate-for-rajinikanth-film-2773895-2025-08-20",
+      "headline": "Coolie makers approach Madras High Court against A tag for Rajinikanth's filmThe legal tussle over Rajinikanth's film 'Coolie' has reached the Madras High Court as Sun Pictures challenges the CBFC's 'A' certificate, arguing for a U/A rating akin to other big releases. The film is currently running in theatres. "
     },
     {
       "sentiment": "positive",
@@ -301,6 +301,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-d-gukesh-abdusattorov-praggnanandhaa-sinquefield-cup-2774008-2025-08-20",
+      "headline": "Sinquefield Cup: D Gukesh bounces back with superb win over AbdusattorovSinquefield Cup: D Gukesh bounced back from his opening-round setback with a fine win over former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the second round. Meanwhile, R Praggnanandhaa drew quietly with Fabiano Caruana of the United States."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/wwe/story/wwe-monday-night-raw-naomi-pregnancy-2773960-2025-08-20",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-buchi-babu-fresh-intent-no-sympathy-maharashrtra-century-2773804-2025-08-20",
-      "headline": "Don't want anyone's sympathy: Prithvi Shaw on fresh start in Buchi BabuPrithvi Shaw has dismissed any need for sympathy as he looks to restart his cricketing journey. Shaw has backed himself to return stronger with consistent domestic performances and a renewed sense of determination after his Buchi Babu century."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
+      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
     },
     {
       "sentiment": "positive",
@@ -375,11 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/alexander-isak-vs-newcastle-united-premier-league-transfer-standoff-explained-2773856-2025-08-20",
       "headline": "Alexander Isak vs Newcastle United: Premier League transfer stand-off explainedAlexander Isak's standoff with Newcastle United escalated dramatically on Tuesday night, as the Sweden striker publicly accused the club of breaking promises and betraying his trust. Newcastle said in a statement that no commitment was made by a club official that Isak could leave this summer.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-buchi-babu-fresh-intent-no-sympathy-maharashrtra-century-2773804-2025-08-20",
-      "headline": "Don't want anyone's sympathy: Prithvi Shaw on fresh start in Buchi BabuPrithvi Shaw has dismissed any need for sympathy as he looks to restart his cricketing journey. Shaw has backed himself to return stronger with consistent domestic performances and a renewed sense of determination after his Buchi Babu century."
     }
   ],
   "education": [
@@ -442,6 +442,21 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
