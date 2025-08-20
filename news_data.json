@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/zepto-allows-you-to-buy-land-as-fast-as-groceries-check-details-house-of-abhinandan-lodha-hoabl-2774247-2025-08-20",
+      "headline": "Now you can buy land via a mobile app in minutes. Here's howThe initiative is intended to make land purchases easier, quicker and more transparent by using a platform that millions already rely on for daily shopping."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/will-next-gen-gst-make-homes-more-affordable-gst-on-affordable-housing-2025-2774178-2025-08-20",
       "headline": "Will next-gen GST make homes more affordable?With the government considering a simpler two-slab GST structure, many are asking a key question: Will the new system finally make home buying more affordable?"
     },
@@ -54,14 +59,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-down-it-stocks-gain-banking-financials-decline-bajaj-finance-airtel-2773891-2025-08-20",
       "headline": "Sensex, Nifty open lower as financial stocks offset IT gains in early tradeThe S&P BSE Sensex was down by 125.67 points to 81,518.72, while the NSE Nifty50 lost 34.50 points to 24,946.15 as of 9:33 am.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
-      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/srk-witty-take-on-injury-bads-of-event-one-hand-enough-for-national-award-2772555-2025-08-20",
+      "headline": "One hand enough for National Award: SRK witty take on injuryActor Shah Rukh Khan spoke about his injury at Bads of Bollywood preview launch event. He praised the Aryan Khan's directorial and the team for their dedication towards the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-bads-of-bollywood-preview-salman-khan-ranveer-singh-and-blurry-showbiz-lines-in-aryan-khan-the-bads-of-bollywood-preview-2774275-2025-08-20",
+      "headline": "Salman, Ranveer and blurry showbiz lines in Aryan's The Bads of Bollywood preview'The Bads of Bollywood' preview features Salman Khan, Ranveer Singh mirroring the Hindi film industry. The show is directed and written by Aryan Khan, son of superstar Shah Rukh Khan. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/mamata-banerjee-fears-skeletons-may-tumble-out-with-the-bengal-files-vivek-agnihotri-2774189-2025-08-20",
@@ -146,38 +156,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/f1-the-movie-ott-release-when-where-to-watch-brad-pitt-2774019-2025-08-20",
       "headline": "F1 The Movie OTT release: When and where to watch Brad Pitt's sports dramaHollywood actor Brad Pitt's 'F1: The Movie', directed by Joseph Kosinski and released in cinemas on June 27, is now set to arrive on streaming platforms. Find out when and where."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vidhu-vinod-chopra-recalls-vidya-balan-giving-him-gaalis-during-parineeta-auditions-2773947-2025-08-20",
-      "headline": "Vidhu Vinod Chopra recalls Vidya Balan giving him gaalis during Parineeta auditionsFilmmaker Vidhu Vinod Chopra shares how actor Vidya Balan secured her role in 'Parineeta'. He recalled that Balan was so tired by the final round of auditions that she must have given him gaalis. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anil-sharma-confirms-apne-2-script-is-ready-quashes-shelf-reports-sunny-deol-bobby-deol-dharmendra-2774013-2025-08-20",
-      "headline": "Director Anil Sharma confirms Apne 2 script is ready, quashes shelf reports'Apne 2' director Anil Sharma confirmed that the scripting of the film is complete. This comes amid several reports about the project being shelved due to multiple delays, "
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/will-break-table-tear-bill-chaos-likely-in-parliament-over-motion-to-remove-arrested-pm-chief-ministers-2773915-2025-08-20",
-      "headline": "Opposition tears bills to remove arrested ministers, throws it at Amit Shah Live UpdatesUnder the proposed legislation, a Prime Minister, Chief Minister or minister facing charges with a minimum five-year jail term will lose their chair if they are arrested or detained for 30 consecutive days."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/going-back-to-medieval-times-when-king-sack-anybody-at-his-will-rahul-gandhi-on-bills-to-remove-ministers-2774255-2025-08-20",
+      "headline": "Back to medieval times: Rahul Gandhi, in black T-shirt, slams new billsAmit Shah introduced three bills in the Lok Sabha under which the Prime Minister and chief ministers of states and union territories could be removed if they have been arrested for 30 consecutive days."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
-      "headline": "US targets Indian refiners, says richest families made excess profitsThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-venugopal-in-fiery-lok-sabha-face-off-pm-cm-removal-bill-lok-sabha-2774175-2025-08-20",
+      "headline": "You'll teach me morality? Amit Shah vs KC Venugopal in fiery Lok Sabha face-offThe Lok Sabha witnessed high drama on Wednesday as Union Home Minister Amit Shah and Congress MP KC Venugopal sparred over \"morality\" during a stormy debate on three controversial bills."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-attack-sequence-of-events-what-happened-2774036-2025-08-20",
       "headline": "Attacker pushed Rekha Gupta, pulled her hair: How 1-minute chaos unfoldedDelhi CM Rekha Gupta attack: India Today has pieced together the sequence of the events that happened at the Delhi Chief Minister's new Civil Lines residence shortly after 8 am."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/russia-diplomat-roman-babushkin-us-trump-sanctions-india-tariffs-oil-trade-2774223-2025-08-20",
-      "headline": "Our markets open for India: Russian diplomat's reality check to Trump on tiesRussian diplomat Roman Babushkin, in a press briefing, laid out the red carpet for India to export its products to Russia amid punitive US tariffs while castigating Trump for humiliating its 'friends'."
     },
     {
       "sentiment": "negative",
@@ -186,13 +181,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/archana-tiwari-lawyer-civil-judge-aspirant-disappearance-police-case-found-marriage-nepal-2774183-2025-08-20",
-      "headline": "Inside Archana Tiwari missing case: Marriage pressure, trip to Nepal and police netArchana Tiwari, a 22-year-old lawyer and civil judge aspirant, staged her own disappearance to escape family pressure to abandon her studies and marry. "
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-bads-of-bollywood-preview-salman-khan-ranveer-singh-and-blurry-showbiz-lines-in-aryan-khan-the-bads-of-bollywood-preview-2774275-2025-08-20",
+      "headline": "Salman, Ranveer and blurry showbiz lines in Aryan's The Bads of Bollywood preview'The Bads of Bollywood' preview features Salman Khan, Ranveer Singh mirroring the Hindi film industry. The show is directed and written by Aryan Khan, son of superstar Shah Rukh Khan. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/russian-diplomat-roman-babushkin-hindi-remark-oil-purchase-moscow-us-tariff-2774107-2025-08-20",
-      "headline": "Shree Ganesh karte hain: Russian diplomat's Hindi greetings and oil assuranceRussian envoy Roman Babushkin said India's oil imports from Russia will remain stable, adding that President Vladimir Putin's New Delhi visit is planned for later this year."
+      "url": "https://www.indiatoday.in/india/story/russia-diplomat-roman-babushkin-us-trump-sanctions-india-tariffs-oil-trade-2774223-2025-08-20",
+      "headline": "Our markets open for India: Russian diplomat's reality check to Trump on tiesRussian diplomat Roman Babushkin, in a press briefing, laid out the red carpet for India to export its products to Russia amid punitive US tariffs while castigating Trump for humiliating its 'friends'."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/will-break-table-tear-bill-chaos-likely-in-parliament-over-motion-to-remove-arrested-pm-chief-ministers-2773915-2025-08-20",
+      "headline": "Opposition tears bills to remove arrested ministers, throws it at Amit ShahUnder the proposed legislation, a PM, Chief Minister or minister facing serious charges will lose their chair if they are arrested for 30 consecutive days. The three bills were later sent to a joint panel for scrutiny."
     },
     {
       "sentiment": "positive",
@@ -206,8 +206,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/icssr-warns-csds-sanjay-kumar-deleted-post-voter-data-maharashtra-controversy-vote-chori-rahul-gandhi-2774120-2025-08-20",
+      "headline": "Funder warns CSDS as ghost of deleted post haunts it amid vote-theft rowThe ICSSR, which funds think-tank CSDS, has sought answers from it after co-director Sanjay Kumar deleted a post claiming irregularities in voter numbers in two seats of Maharashtra. The now-deleted post, flagging abnormal voter spikes between Lok Sabha and Assembly polls in Maharashtra, was used by the Congress to allege vote-theft."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rapido-fine-rs-10-lakh-false-misleading-ads-ccpa-refund-customers-2774174-2025-08-20",
       "headline": "Rapido fined Rs 10 lakh over false ads, regulator orders refunds to consumersThe penalty follows complaints that Rapido's ads such as \"Guaranteed Auto\" and \"Auto in 5 min or get Rs 50\" misled customers by creating the impression of guaranteed services."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/russian-diplomat-roman-babushkin-hindi-remark-oil-purchase-moscow-us-tariff-2774107-2025-08-20",
+      "headline": "Shree Ganesh karte hain: Russian diplomat's Hindi greetings and oil assuranceRussian envoy Roman Babushkin said India's oil imports from Russia will remain stable, adding that President Vladimir Putin's New Delhi visit is planned for later this year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-rain-spider-man-web-mop-wiper-battles-flooded-streets-in-viral-video-2774261-2025-08-20",
+      "headline": "Mumbai's 'Spider-Man' swaps web for mop, battles flooded streets in viral videoIn the clip, Mumbai's 'Spider-Man' can be seen wiping away the excess rainwater left on the roads with the help of a wiper. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/archana-tiwari-lawyer-civil-judge-aspirant-disappearance-police-case-found-marriage-nepal-2774183-2025-08-20",
+      "headline": "Inside Archana Tiwari missing case: Marriage pressure, trip to Nepal and police netArchana Tiwari, a 22-year-old lawyer and civil judge aspirant, staged her own disappearance to escape family pressure to abandon her studies and marry. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-russia-relations-ambassador-roman-babushkin-moscow-new-delhi-trump-tariff-operation-sindoor-2774254-2025-08-20",
+      "headline": "Sanctions won't weaken ties with India: Russian envoy amid Trump's tariff threatRussian Ambassador to India Roman Babushkin called the Western sanctions as an \"unlawful tool of competition,\" asserting that they have only strengthened Moscow's resolve to expand ties. "
     },
     {
       "sentiment": "positive",
@@ -216,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/icssr-warns-csds-sanjay-kumar-deleted-post-voter-data-maharashtra-controversy-vote-chori-rahul-gandhi-2774120-2025-08-20",
-      "headline": "Funder warns CSDS as ghost of deleted post haunts it amid vote-theft rowThe ICSSR, which funds think-tank CSDS, has sought answers from it after co-director Sanjay Kumar deleted a post claiming irregularities in voter numbers in two seats of Maharashtra. The now-deleted post, flagging abnormal voter spikes between Lok Sabha and Assembly polls in Maharashtra, was used by the Congress to allege vote-theft."
+      "url": "https://www.indiatoday.in/technology/features/story/ai-hype-over-just-months-after-spending-millions-of-dollars-meta-is-suddenly-firing-ai-engineers-2774244-2025-08-20",
+      "headline": "AI hype over? Meta may fire AI engineers after big hiring spreeMeta recently spent millions hiring AI engineers, but is now suddenly restructuring its AI division and considering layoffs. The move, as it comes just days after a muted GPT 5 launch, has sparked speculation that AI hype is already slowing down."
     },
     {
       "sentiment": "positive",
@@ -226,48 +251,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/steamed-fried-or-tandoori-are-momo-truly-healthy-kareena-kapoor-nutritionist-rujuta-diwekar-answers-2774052-2025-08-20",
-      "headline": "Steamed, fried or tandoori, are momo truly healthy? Rujuta Diwekar answersFrom the mountains to street corners, momos have travelled across borders to become a soul snack for many. But beyond flavour, are they really healthy? Celebrity nutritionist Rujuta Diwekar has an opinion."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/russia-selling-secret-discounted-crude-oil-india-five-percent-us-tariffs-embassy-new-delhi-moscow-trade-2774117-2025-08-20",
-      "headline": "Is Russia giving India a 5% secret discount on oil amid Trump tariffs?Russia and India seem to have dug in their heels despite punitive tariffs and penalties from the Trump regime over energy trade. Russia might be giving a 5% discount on crude, which a top official termed \"commerce secret\", amid America's punitive 50% taxes on Indian exporters. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/love-for-stray-dogs-vs-public-safety-why-india-needs-a-real-solution-now-2774161-2025-08-20",
       "headline": "Love for stray dogs vs public safety: Why India needs a real solution nowThere are 37 lakh reported dog bites every year, often in the poorest of gullies, with small children being the most frequent victims. That alone shows there is a problem. Throwing dogs into shelters, which are virtually non-existent, is not the optimal solution. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/india-stray-romance-love-lies-rabies-solutions-dogs-cows-2773984-2025-08-20",
-      "headline": "India's Stray Romance: Love, lies, rabies, solutionsIndia's romance with strays is a tragic farce - sacred cows choking, dogs biting - when proven fixes like sterilisation, shelters, and accountability could turn chaos into compassion. But our rage is just bark without bite."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-student-stabbed-to-death-gujarat-police-school-vandalised-protests-2774012-2025-08-20",
-      "headline": "Ahmedabad Class 10 student stabbed to death by junior; anger, school vandalisedA 15-year-old student was fatally stabbed by a junior at an Ahmedabad school, triggering protests, vandalism, and police action."
+      "url": "https://www.indiatoday.in/india-today-insight/story/why-narendra-modi-govt-drew-the-line-with-online-gaming-bill-2774152-2025-08-20",
+      "headline": "Why Modi govt drew the line with online gaming billBehind the swift push to the Promotion and Regulation of Online Gaming Bill is the Sangh Parivar's ideological pressure and the Modi government's view that profits cannot come at the cost of social order"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-school-sexual-harassment-ranchi-teacher-on-the-run-obscene-chats-students-panel-to-probe-2774156-2025-08-20",
-      "headline": "Ranchi teacher on the run after obscene chats with 15 students, probe orderedThe incident has been reported from Shraddhanand Bal Vidyalaya, where several students have spoken up against their teacher, identified as Abhishek Kumar Sinha. "
+      "url": "https://www.indiatoday.in/health/story/stress-buster-anxiety-the-rise-of-adult-pacifiers-chewing-gum-2773983-2025-08-20",
+      "headline": "Stress got you sucking? The rise of adult pacifiersOn platforms like Weibo, videos featuring adult pacifier use have amassed billions of views. On Taobao, sellers report shipping thousands every month."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-backs-india-amid-us-sanctions-for-oil-imports-if-west-criticises-you-youre-doing-something-right-2774097-2025-08-20",
-      "headline": "If West criticises you...: Russia backs India amid US sanctions for oil importsRoman Babushkin, Charge d'Affaires of the Russian Embassy in India, said at a press briefing that India's strategic partnership with Moscow remains strong even amid pressures from the West."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mamata-banerjee-fears-skeletons-may-tumble-out-with-the-bengal-files-vivek-agnihotri-2774189-2025-08-20",
+      "headline": "Mamata Banerjee fears skeletons may tumble out with The Bengal Files: Vivek AgnihotriFrom Direct Action Day to the Noakhali riots, 'The Bengal Files' claims to show Bengal's turbulent past. In an exclusive interview, director Vivek Agnihotri said the Mamata Banerjee-led TMC fears the film's truth, calling the trailer launch cancellation a misuse of state power."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
-      "headline": "The Virat Kohli insurance: Why India picked Shubman Gill in Asia Cup squadSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/seed-cycling-hormone-balance-benefits-flax-pumpkin-sesame-sunflower-seeds-2774125-2025-08-20",
-      "headline": "Seed cycling explained: How flax, pumpkin, sesame seeds affect your periodSeed cycling uses specific seeds to support hormone balance during menstrual phases. While experts caution limited scientific evidence, seeds generally have several nutritional benefits. "
+      "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
+      "headline": "US targets Indian refiners, says richest families made excess profitsThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
     },
     {
       "sentiment": "positive",
@@ -276,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-as-shubman-gill-ascends-as-the-next-big-star-sanju-samsons-t20i-dream-slips-away-2774083-2025-08-20",
-      "headline": "Does Shubman Gill's return come at the cost of Sanju Samson's T20I career?Sanju Samson will likely become the sacrificial lamb as selectors bring back Shubman Gill into the T20I fold. With Gill rising as India's next all-format star, Samson's chances of establishing his legacy in T20 internationals look slimmer despite his explosive recent form."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/srk-witty-take-on-injury-bads-of-event-one-hand-enough-for-national-award-2772555-2025-08-20",
+      "headline": "One hand enough for National Award: SRK witty take on injuryActor Shah Rukh Khan spoke about his injury at Bads of Bollywood preview launch event. He praised the Aryan Khan's directorial and the team for their dedication towards the show."
     },
     {
       "sentiment": "positive",
@@ -293,11 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/after-coolie-nagarjuna-teams-up-with-tamil-director-ra-karthik-for-100th-film-2773996-2025-08-20",
       "headline": "After Coolie, Nagarjuna teams up with Tamil director Ra Karthik for 100th filmNagarjuna, who recently impressed audiences as Simon in Rajinikanth's 'Coolie', has now revealed details of his milestone 100th film, tentatively titled 'King 100'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-mania-rages-mumbai-streets-fans-perform-his-hit-tracks-war-2-2774116-2025-08-20",
-      "headline": "Hrithik Roshan mania rages on Mumbai streets as fans perform his hit tracks. WatchHrithik Roshan flocked to the Mumbai streets and performed on the actor's hit tracks amid the 'War 2' release. The video from the celebration has emerged online. "
     }
   ],
   "sports": [
