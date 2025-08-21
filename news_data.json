@@ -2,8 +2,13 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-cut-zero-percent-insurance-premium-costly-cheap-input-tax-credit-policyholders-personal-finance-2774569-2025-08-21",
+      "headline": "Why zero GST on insurance premiums doesn't mean cheaper policies for youOn the surface, removing GST on insurance premiums seems like a big relief, but experts caution that the outcome may not be what many are expecting."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/pf-claims-how-to-select-right-epfo-form-for-withdrawal-pension-or-transfer-2774560-2025-08-21",
-      "headline": "PF claims: How to select right EPFO form for withdrawal, pension or transferEPFO members often get confused about which form to fill for withdrawals, transfers, or pension claims. Using the right form not only saves time but also avoids delays or rejection of your application."
+      "headline": "EPFO withdrawal, pension or transfer: How to choose the right PF formEPFO members often get confused about which form to fill for withdrawals, transfers, or pension claims. Using the right form not only saves time but also avoids delays or rejection of your application."
     },
     {
       "sentiment": "negative",
@@ -54,14 +59,14 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/personal-finance/story/ca-explains-the-risks-behind-no-emi-till-possession-schemes-2774105-2025-08-20",
       "headline": "CA explains the risks behind 'No EMI till possession' schemesMany homebuyers are lured by \"No EMI Till Possession\" schemes, but a chartered accountant warns that these offers can carry hidden financial risks that may leave buyers paying for a property they never receive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indian-refiners-resume-russian-oil-purchases-amid-trump-tariff-threats-news-agency-reuters-2774044-2025-08-20",
-      "headline": "Indian-state run refiners resume Russian oil purchase amid tariff threats: ReportThe resumption of Russian oil imports by Indian state refiners could reduce supplies for top buyer China, which had stepped up purchases during their absence."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-tirupati-temple-2774597-2025-08-21",
+      "headline": "Naga Chaitanya and Sobhita Dhulipala visit Tirupati temple. WatchNaga Chaitanya and Sobhita Dhulipala visited the Tirumala Tirupati temple on Thursday. Their videos from their temple visit are now doing the rounds on social media."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/producer-naga-vamsi-to-get-rs-22-crore-from-yrf-after-war-2-telugu-losses-report-2774284-2025-08-21",
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ravi-tejas-mass-jathara-postponed-producer-naga-vamsi-addresses-online-rumours-2774187-2025-08-20",
       "headline": "Ravi Teja's Mass Jathara postponed, producer Naga Vamsi addresses online rumours Ravi Teja's upcoming commercial entertainer 'Mass Jathara', initially scheduled for release on August 27, has been postponed. Producer Naga Vamsi confirmed the delay through a cryptic post on social media.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-social-media-bads-of-bollywood-preview-lakshya-sahher-bambba-salman-khan-karan-johar-ranveer-singh-2774262-2025-08-20",
-      "headline": "Aryan Khan just went full throttle: Internet praises The Bads of Bollywood previewAryan Khan's directorial debut, 'The Bads of Bollywood', has garnered positive social media feedback. The series promises a fresh take on Bollywood featuring Lakshya and Sahher Bambba. It also has cameo appearances by Salman Khan, Karan Johar and Ranveer Singh, among others."
     }
   ],
   "general news": [
@@ -166,13 +166,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bilateral-trade-jumps-five-times-imbalance-widening-jaishankar-moscow-glbs-2774385-2025-08-21",
-      "headline": "Doing more should be our mantra: Jaishankar's Russia reachout amid US tariffsS Jaishankar urged Russian firms to step up engagement with India, warning that soaring trade figures mean little unless Moscow opens its market wider to Indian goods."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/how-field-marshal-asim-munir-pakistan-succeeded-wooing-donald-trump-cryptocurrency-oil-rare-earth-minerals-nobel-peace-prize-2773485-2025-08-21",
-      "headline": "How Pakistan's Failed Marshal Munir succeeded in wooing TrumpAfter Pakistan's drubbing by India in Op Sindoor, a failed Asim Munir promoted himself to Field Marshal. But the failed marshal succeeded in wooing US President Trump with oil, cryptocurrencies, rare-earth riches, and a Nobel dream, all of which are non-existent. This is how Munir humoured Trump in uniform."
+      "url": "https://www.indiatoday.in/india/story/donald-trump-unifying-brics-nations-india-russia-china-brazil-south-africa-trade-tariffs-2774596-2025-08-21",
+      "headline": "How Trump is unifying Brics brick-by-brickThe Brics alliance has long been seen as a loosely structured bloc\u00a0beset by a lack of trust in their own ranks. But in the face of Trump's tariff bombs, all of that is passe. While India has ramped up ties with Russia and China, South Africa and Brazil are also following suit."
     },
     {
       "sentiment": "negative",
@@ -181,8 +176,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-files-1940-47-from-killings-to-gandhis-miracle-of-peace-2774303-2025-08-21",
-      "headline": "The Real Bengal Files: From Calcutta Killings to Gandhi's MiracleIn the 1940s, Calcutta was torn by communal strife, political rivalry, and Partition's looming shadow. From the Lahore Resolution to the Great Calcutta Killings, the city symbolised India's turmoil \u2014 until Gandhi's presence turned it into a rare oasis of peace.\r\n"
+      "url": "https://www.indiatoday.in/world/story/how-field-marshal-asim-munir-pakistan-succeeded-wooing-donald-trump-cryptocurrency-oil-rare-earth-minerals-nobel-peace-prize-2773485-2025-08-21",
+      "headline": "How Pakistan's Failed Marshal Munir succeeded in wooing TrumpAfter Pakistan's drubbing by India in Op Sindoor, a failed Asim Munir promoted himself to Field Marshal. But the failed marshal succeeded in wooing US President Trump with oil, cryptocurrencies, rare-earth riches, and a Nobel dream, all of which are non-existent. This is how Munir humoured Trump in uniform."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/environment/story/tourism-troops-global-warming-the-triple-threat-to-ladakhs-disappearing-glaciers-climate-change-2774585-2025-08-21",
+      "headline": "Tourism, troops, warming: The triple threat to Ladakh's glaciersThe Himalayan glaciers are going through a churn as global warming and climate change begin to hit this delicate world, responsible for maintaining the balance of the cryosphere."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kolkata/story/calcutta-university-students-attacked-called-bangladeshi-for-speaking-bengali-sealdah-traders-kolkata-2774486-2025-08-21",
+      "headline": "Students thrashed by traders in Kolkata, called Bangladeshi for speaking BengaliFour Calcutta University students were attacked in Kolkata's Sealdah after a clash with traders who allegedly called them Bangladeshi for speaking Bengali. Police have arrested two accused traders in relation to the case."
     },
     {
       "sentiment": "positive",
@@ -191,13 +196,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-first-image-after-attack-meet-bjp-member-of-parliaments-2774539-2025-08-21",
-      "headline": "First picture of Delhi Chief Minister Rekha Gupta after attack, meets 7 BJP MPsThe first picture of Rekha Gupta emerged a day after she was attacked during a public hearing at her Civil Lines residence. The accused, Rajesh Bhai Khimji, has been sent to a five-day police remand as Delhi Police probe a possible larger conspiracy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/security-tightened-jammu-pigeon-threat-note-ied-blast-warning-jammu-tawi-railway-station-2774549-2025-08-21",
-      "headline": "IED blast, the end: Pigeon carrying threat note caught near India-Pak borderSecurity was increased in Jammu after a pigeon carrying an attack threat note was caught near the border. Officials suspect the note could be a prank, raising concerns over border security."
+      "url": "https://www.indiatoday.in/india/story/bengal-files-1940-47-from-killings-to-gandhis-miracle-of-peace-2774303-2025-08-21",
+      "headline": "The Real Bengal Files: From Calcutta Killings to Gandhi's MiracleIn the 1940s, Calcutta was torn by communal strife, political rivalry, and Partition's looming shadow. From the Lahore Resolution to the Great Calcutta Killings, the city symbolised India's turmoil \u2014 until Gandhi's presence turned it into a rare oasis of peace.\r\n"
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/pixel-10-launched-top-features-key-specs-india-price-and-everything-else-you-need-to-know-2774493-2025-08-21",
-      "headline": "Pixel 10 launched: Top features, key specs, India price, and everything else you need to knowGoogle has taken the wraps off the Pixel 10, the newest member of its flagship smartphone family. Here is a look at the phone's top features, key specs, India price, and everything else."
+      "url": "https://www.indiatoday.in/world/us-news/story/economist-jeffrey-sachs-blasts-us-over-india-tariffs-stupidest-tactical-move-glbs-2774429-2025-08-21",
+      "headline": "Stupidest tactical move: Economist Jeffrey Sachs blasts US over India tariffsRenowned American economist Jeffrey Sachs said the steep tariffs imposed on India were self-defeating and risk damaging one of America's most important relationships in Asia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-sanju-samson-t20i-future-india-shubman-gill-2774482-2025-08-21",
-      "headline": "Can Sanju Samson do a KL Rahul to stay indispensable in T20Is?Asia Cup 2025: Shubman Gill's return to the T20I fold has complicated matters. Sanju Samson, who had forged a promising opening partnership with Abhishek Sharma, now finds his place under threat. Can the Kerala wicketkeeper-batter adapt, reinvent himself, and make his spot indispensable?"
+      "url": "https://www.indiatoday.in/india/story/security-tightened-jammu-pigeon-threat-note-ied-blast-warning-jammu-tawi-railway-station-2774549-2025-08-21",
+      "headline": "IED blast, the end: Pigeon carrying threat note caught near India-Pak borderSecurity was increased in Jammu after a pigeon carrying an attack threat note was caught near the border. Officials suspect the note could be a prank, raising concerns over border security."
     },
     {
       "sentiment": "negative",
@@ -225,24 +225,9 @@
       "headline": "Banning Online Games: Economic Suicide That Fails to Curb AddictionA blanket ban on real-money gaming harms the economy, pushes users offshore, and ignores proven alternatives. Regulation, not prohibition, is the smart path to protect players and preserve innovation."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-defends-pm-chief-minister-removal-bills-cites-own-arrest-in-2010-fake-encounter-case-2774440-2025-08-21",
-      "headline": "Congress trapped me in fabricated case: Amit Shah defends minister removal billsAmit Shah criticised the Congress for allegedly trapping him in a fabricated case, saying his resignation before arrest and subsequent acquittal illustrated the moral accountability the new bills aim to enforce."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/russia-roscosmos-launched-75-mice-into-space-station-nasa-heres-why-2774527-2025-08-21",
-      "headline": "Russia launched 75 mice into space: Here's whyThis experiment is pivotal for deepening our understanding of how spaceflight affects living organisms, and for advancing preparations for human missions to the Moon and Mars.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/economist-jeffrey-sachs-blasts-us-over-india-tariffs-stupidest-tactical-move-glbs-2774429-2025-08-21",
-      "headline": "Stupidest tactical move: Economist Jeffrey Sachs blasts US over India tariffsRenowned American economist Jeffrey Sachs said the steep tariffs imposed on India were self-defeating and risk damaging one of America's most important relationships in Asia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/thama-ayushmann-khurrana-rashmika-mandanna-vampire-tales-romance-indian-folklore-horror-2774054-2025-08-21",
-      "headline": "Can Ayushmann-Rashmika's Thama redefine vampire tales for Indian audiences?'Thama' is Bollywood's fresh take on vampire lore, blending Indian folklore with gothic romance. Can the film's success reshape Indian horror by localising Western myths authentically? Here's a glimpse at whether Indian audiences may fall in love with vampires the way West has."
+      "url": "https://www.indiatoday.in/world/us-news/story/fbi-arrests-cindy-singh-ten-most-wanted-fugitives-list-hiding-india-glbs-2774414-2025-08-21",
+      "headline": "FBI arrests Cindy Singh, one of '10 most wanted fugitives' hiding in IndiaThe FBI, working closely with Indian authorities and Interpol, apprehended Singh, FBI Director Kash Patel confirmed. She has been transported back to the United States and will be handed over to Texas officials to face charges.\r\n"
     },
     {
       "sentiment": "negative",
@@ -251,13 +236,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/apple-to-open-third-india-retail-store-apple-hebbal-bengaluru-on-september-2-details-2774510-2025-08-21",
-      "headline": "Apple to open third India retail store Apple Hebbal Bengaluru on September 2: DetailsApple is set to strengthen its retail presence in India with the launch of a new store in Bengaluru next month. Here are the details."
+      "url": "https://www.indiatoday.in/technology/news/story/pixel-10-launched-top-features-key-specs-india-price-and-everything-else-you-need-to-know-2774493-2025-08-21",
+      "headline": "Pixel 10 launch: Top features, specs, India price, and all else you need to knowGoogle has taken the wraps off the Pixel 10, the newest member of its flagship smartphone family. Here is a look at the phone's top features, key specs, India price, and everything else."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/mahindra-xuv-3xo-revx-a-first-suv-under-rs-12-lakh-with-dolby-atmos-2774553-2025-08-21",
-      "headline": "Mahindra XUV 3XO REVX A: First SUV under Rs 12 lakh with Dolby AtmosMahindra has introduced Dolby Atmos in the XUV 3XO REVX A, making it the world's first SUV under Rs 12 lakh to feature immersive cinema-grade audio."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/thama-ayushmann-khurrana-rashmika-mandanna-vampire-tales-romance-indian-folklore-horror-2774054-2025-08-21",
+      "headline": "Can Ayushmann-Rashmika's Thama redefine vampire tales for Indian audiences?'Thama' is Bollywood's fresh take on vampire lore, blending Indian folklore with gothic romance. Can the film's success reshape Indian horror by localising Western myths authentically? Here's a glimpse at whether Indian audiences may fall in love with vampires the way West has."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-chief-minister-rekha-gupta-first-image-after-attack-meet-bjp-member-of-parliaments-2774539-2025-08-21",
+      "headline": "First picture of Delhi Chief Minister Rekha Gupta after attack, meets 7 BJP MPsThe first picture of Rekha Gupta emerged a day after she was attacked during a public hearing at her Civil Lines residence. The accused, Rajesh Bhai Khimji, has been sent to a five-day police remand as Delhi Police probe a possible larger conspiracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bilateral-trade-jumps-five-times-imbalance-widening-jaishankar-moscow-glbs-2774385-2025-08-21",
+      "headline": "Jaishankar pushes for Russia firms to engage intensively with India amid US tariffsS Jaishankar urged Russian firms to step up engagement with India, warning that soaring trade figures mean little unless Moscow opens its market wider to Indian goods."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/binge-watching-insta-reels-are-rewiring-your-brain-like-alcohol-addiction-2774286-2025-08-21",
+      "headline": "Binge-watching, Insta Reels are rewiring your brain like alcohol addictionSeveral studies suggest that short-form videos trigger reward pathways in ways similar to addictive substances like alcohol, while neurologists in India caution about long-term rewiring of motivation, focus, and even memory."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-sanju-samson-t20i-future-india-shubman-gill-2774482-2025-08-21",
+      "headline": "Can Sanju Samson do a KL Rahul to stay indispensable in T20Is?Asia Cup 2025: Shubman Gill's return to the T20I fold has complicated matters. Sanju Samson, who had forged a promising opening partnership with Abhishek Sharma, now finds his place under threat. Can the Kerala wicketkeeper-batter adapt, reinvent himself, and make his spot indispensable?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/losing-india-would-be-a-strategic-disaster-in-face-of-china-nikki-haley-glbs-2774408-2025-08-21",
       "headline": "Losing India would be a strategic disaster in face of China: Nikki Haley to TrumpTensions escalated after President Donald Trump imposed 25 per cent reciprocal tariffs and an additional 25 per cent levy on New Delhi for continuing to buy Russian oil. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/fbi-arrests-cindy-singh-ten-most-wanted-fugitives-list-hiding-india-glbs-2774414-2025-08-21",
-      "headline": "FBI arrests Cindy Singh, one of '10 most wanted fugitives' hiding in IndiaThe FBI, working closely with Indian authorities and Interpol, apprehended Singh, FBI Director Kash Patel confirmed. She has been transported back to the United States and will be handed over to Texas officials to face charges.\r\n"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-defends-pm-chief-minister-removal-bills-cites-own-arrest-in-2010-fake-encounter-case-2774440-2025-08-21",
+      "headline": "Congress trapped me in fabricated case: Amit Shah defends minister removal billsAmit Shah criticised the Congress for allegedly trapping him in a fabricated case, saying his resignation before arrest and subsequent acquittal illustrated the moral accountability the new bills aim to enforce."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/beloved-rhode-island-judge-frank-caprio-dies-at-88-after-cancer-battle-glbs-2774403-2025-08-21",
-      "headline": "Frank Caprio, 'America's nicest judge' known for viral moments, dies of cancerJudge Frank Caprio won global admiration for his compassion in court, blending humour with empathy on Caught in Providence, inspiring millions worldwide with his humanity, fairness, and belief in goodness.\r\n"
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-sobhita-dhulipala-tirupati-temple-2774597-2025-08-21",
+      "headline": "Naga Chaitanya and Sobhita Dhulipala visit Tirupati temple. WatchNaga Chaitanya and Sobhita Dhulipala visited the Tirumala Tirupati temple on Thursday. Their videos from their temple visit are now doing the rounds on social media."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/thama-ayushmann-khurrana-rashmika-mandanna-vampire-tales-romance-indian-folklore-horror-2774054-2025-08-21",
       "headline": "Can Ayushmann-Rashmika's Thama redefine vampire tales for Indian audiences?'Thama' is Bollywood's fresh take on vampire lore, blending Indian folklore with gothic romance. Can the film's success reshape Indian horror by localising Western myths authentically? Here's a glimpse at whether Indian audiences may fall in love with vampires the way West has."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-strict-bed-use-sleeping-only-online-debate-priyanka-chopra-2774484-2025-08-21",
-      "headline": "Nick Jonas's bizarre bed habit leaves fans calling him crazyNick Jonas has revealed his strict rule of using the bed only for sleeping, avoiding activities like eating or watching TV, which has surprised many fans. This quirky habit has sparked lively discussions on social media. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-steps-down-mumbai-captain-ranji-trophy-2774581-2025-08-21",
+      "headline": "Ajinkya Rahane steps down as Mumbai captain ahead of new domestic seasonAjinkya Rahane announced on Thursday that he will be stepping down as captain of Mumbai ahead of the upcoming domestic season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-snub-asia-cup-2025-harbhajan-singh-reaction-2774583-2025-08-21",
+      "headline": "Mohammed Siraj's X-factor will be missed in Asia Cup 2025: Harbhajan SinghHarbhajan Singh feels that Mohammed Siraj should have been included in the Asia Cup squad. The former cricketer thinks that the pacer could have chipped in as the 'x-factor' for India during the upcoming tournament. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-extends-ajit-agarkars-term-senior-men-chief-selector-till-june-2026-report-2774548-2025-08-21",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-aditya-thackeray-bcci-india-vs-pakistan-letter-sports-minister-2774384-2025-08-21",
-      "headline": "BCCI above national interest? Aaditya Thackeray on India vs Pakistan at Asia CupAaditya Thackeray slammed the BCCI for prioritising revenue over national interest by sending India to play Pakistan in the Asia Cup, questioning whether cricketing ties should continue despite terror attacks and ongoing political tensions between the neighbours."
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-mixed-doubles-final-errani-vavassori-beat-swiatek-ruud-2774467-2025-08-21",
+      "headline": "Errani-Vavassori beat Swiatek-Ruud to win mixed doubles championshipItalians Sara Errani and Andrea Vavassori retained their mixed doubles title at the U.S. Open on Wednesday, overcoming third seeds Iga Swiatek and Casper Ruud 6-3, 5-7, 10-6 in a final that showcased the tournament's ambitious new direction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/venkatesh-prasad-ksca-election-bid-chinnaswamy-promise-manifesto-2774370-2025-08-20",
-      "headline": "Bring glory back to Chinnaswamy: Venkatesh Prasad promises in KSCA election bidVenkatesh Prasad has pledged to restore Chinnaswamy Stadium's lost glory, promising better safety, more international matches, and smart infrastructure as he enters the KSCA election race with a reform-driven vision for Karnataka cricket's future."
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-joins-st-kitts-nevis-patriots-cpl-2025-asia-cup-snub-2774460-2025-08-21",
+      "headline": "After Asia Cup snub, Mohammad Rizwan signs for CPL side St Kitts and Nevis PatriotsMohammad Rizwan is reportedly set to join St Kitts & Nevis Patriots for CPL 2025 after missing Pakistan's Asia Cup squad. Rizwan joins a strong Pakistan contingent at this year's CPL. "
     },
     {
       "sentiment": "negative",
@@ -370,16 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-asia-cup-2025-vice-captain-kaif-backs-2774439-2025-08-21",
       "headline": "Shubman Gill's Asia Cup inclusion backed by Kaif: Has 2000 IPL runs in last 3 yearsMohammed Kaif backed the decision to have Shubman Gill as India's vice-captain at the Asia Cup 2025. Kaif feels that Gill doesn't lack in any area at the moment and praises his leadership qualities. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-aditya-thackeray-bcci-india-vs-pakistan-letter-sports-minister-2774384-2025-08-21",
-      "headline": "BCCI above national interest? Aaditya Thackeray on India vs Pakistan at Asia CupAaditya Thackeray slammed the BCCI for prioritising revenue over national interest by sending India to play Pakistan in the Asia Cup, questioning whether cricketing ties should continue despite terror attacks and ongoing political tensions between the neighbours."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/venkatesh-prasad-ksca-election-bid-chinnaswamy-promise-manifesto-2774370-2025-08-20",
-      "headline": "Bring glory back to Chinnaswamy: Venkatesh Prasad promises in KSCA election bidVenkatesh Prasad has pledged to restore Chinnaswamy Stadium's lost glory, promising better safety, more international matches, and smart infrastructure as he enters the KSCA election race with a reform-driven vision for Karnataka cricket's future."
     }
   ],
   "education": [
@@ -442,21 +442,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
