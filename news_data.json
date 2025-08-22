@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-closes-694-points-lower-nifty-below-25000-asian-paints-down-2-percent-2775268-2025-08-22",
+      "headline": "Sensex closes 694 points lower, Nifty below 25,000; Asian Paints down 2%Sensex closes 694 points lower, Nifty below 25,000; Asian Paints down 2%"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/this-investor-cut-his-rs-10-lakh-tax-bill-to-0-heres-the-trick-2775257-2025-08-22",
+      "headline": "This investor cut his Rs 10 lakh tax bill to 0. Here's howMany taxpayers assume that once the financial year ends, their chance to save tax is gone.and Ramesh was no exception. But instead of rushing, he used a little-known route that brought his tax bill down to nothing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/upcoming-ipos-vikran-engineering-anlon-healthcare-market-listings-gmp-patel-vikram-solar-gem-shreeji-2775259-2025-08-22",
+      "headline": "Dalal Street gears up for busy week with 5 market debuts, 2 IPOs in pipelineMangal Electrical Industries is set to debut on August 28 after finalising its allotment on August 25. Patel Retail, Vikram Solar, Gem Aromatics, and Shreeji Shipping Global will all list on August 26."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/wealthy-asian-families-bet-big-on-crypto-report-2775211-2025-08-22",
       "headline": "Wealthy Asian families bet big on crypto: ReportThe growing interest comes as Bitcoin recently hit an all-time high of over $124,000. New rules, such as Hong Kong's stablecoin legislation and the United States' GENIUS Act, have further boosted confidence in the sector."
@@ -28,7 +43,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-falling-sensex-nifty-down-why-reason-fed-speech-jackson-hole-it-banking-shares-down-2775089-2025-08-22",
-      "headline": "Sensex down 500 points: Why is stock market falling today?At closing bell, indices opened marginally lower but kept sliding as the day went on.\u00a0Sensex and Nifty declined over half a percent. "
+      "headline": "Sensex down 600 points: Why is stock market falling today?At closing bell, indices opened marginally lower but kept sliding as the day went on.\u00a0Sensex and Nifty declined over half a percent. "
     },
     {
       "sentiment": "positive",
@@ -44,24 +59,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mpl-zupee-suspend-paid-games-after-online-gaming-bill-clears-parliament-2775021-2025-08-22",
       "headline": "Dream11, MPL suspend money-based games after Online Gaming Bill clears ParliamentReal-money gaming faces a knockout blow as Dream11, MPL, and Zupee halt money-based online games. Dream11 is also likely to follow suit after sweeping ban."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/less-than-40-percent-itrs-processed-as-government-pushes-deadline-to-september-15-2774766-2025-08-21",
-      "headline": "Less than 40% ITRs processed as government pushes deadline to September 15The Finance Ministry has pushed the ITR deadline to 15 September citing extensive changes in forms and utilities. But three months in, processing is still crawling at under 40%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-143-points-higher-nifty-above-25000-pharma-stocks-gain-2774715-2025-08-21",
-      "headline": "Sensex, Nifty gain for 6th straight session on GST reforms optimismThe S&P BSE Sensex was up 142.87 points to 82,000.71 at the closing bell, while the NSE Nifty50 rose 33.20 points to settle at\u00a025,083.75. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/group-of-ministers-on-gst-approves-scrapping-of-12-28-slabs-2774697-2025-08-21",
-      "headline": "Key panel okays scrapping of 12%, 28% GST slabs; 90% goods may get cheaperIn a key meeting held on Thursday, the panel of state ministers accepted the Centre's plan to reduce the four-rate system to two main slabs of 5% and 18%."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/r-madhavan-sarita-sirji-celebrate-son-vedaant-birthday-dia-mirza-ronit-roy-raj-kundra-share-wishes-2775261-2025-08-22",
+      "headline": "R Madhavan, wife celebrate son's 20th birthday, Rehna Hai co-star Dia sends wishesOn the occasion of their son Vedaant's birthday, actor R Madhavan's wife shared a series of throwback photos on social media. Several actors, including Dia Mirza and Ronit Roy, extended their wishes in the comment section of the post."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/nausheen-ali-sardar-sima-taparia-reject-matchmaking-religion-controversy-2775235-2025-08-22",
+      "headline": "Sima Taparia rejects Nausheen Ali Sardar's matchmaking request over religionNausheen Ali Sardar revealed that matchmaker Sima Taparia refused to help her find a life partner due to her religion. The actor criticised Taparia's conservative views and questioned who defines the right match for her."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jr-ntr-reassess-future-choices-a-mixed-reviews-for-war-2-dragon-prashanth-neel-2775246-2025-08-22",
+      "headline": "Jr NTR to reassess future choices after War 2's poor theatrical run | ExclusiveJr NTR is now rethinking his Bollywood journey following the underperformance of 'War 2'. The actor is now concentrating on Telugu cinema and a major pan-India project with director Prashanth Neel to strengthen his mass appeal."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-contestants-amaal-malik-kunickaa-sadanand-gaurav-khanna-ashnoor-kaur-2775185-2025-08-22",
@@ -70,7 +85,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/krushna-abhishek-kiju-sharma-fight-great-indian-kapil-show-viral-video-suggests-so-2775232-2025-08-22",
-      "headline": "Did Krushna Abhishek and Kiju Sharma fight on Kapil Show? Viral video suggests soA viral video of comedians Krushna Abhishek and Kiku Sharda getting into a heated argument has shocked fans. Neither of the duo has issued any statemnet on the spat. "
+      "headline": "Did Krushna Abhishek and Kiku Sharda fight on Kapil Show? Viral video suggests soA viral video of comedians Krushna Abhishek and Kiku Sharda getting into a heated argument has shocked fans. Neither of the duo has issued any statemnet on the spat. "
     },
     {
       "sentiment": "negative",
@@ -141,28 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mammootty-brother-ibrahim-kutty-overwhelmed-overjoyed-fans-prayers-2775029-2025-08-22",
       "headline": "Mammootty's brother overjoyed with fans' prayers: Anxieties have subsidedMammootty's brother, Ibrahim Kutty, shared a heartfelt note on the actor's recovery. He was moved to see the whole world pray for Mammootty's recovery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jaswinder-bhalla-punjabi-actor-comedian-dies-65-carry-on-jatta-2775018-2025-08-22",
-      "headline": "Veteran Punjabi actor-comedian, Jaswinder Bhalla, dies at 65Veteran Punjabi actor-comedian Jaswinder Bhalla died on August 22 in Mohali. The cremation will take place on August 23. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tollywood-workers-strike-ends-18-days-revanth-reddy-intervention-chiranjeevi-thanks-2775016-2025-08-22",
-      "headline": "Tollywood workers' strike ends after 18 days, Chiranjeevi thanks Revanth ReddyThe 18-day-long strike of Film Federation employees has finally come to an end. Telangana Chief Minister Revanth Reddy intervened to pave the way for an amicable solution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/millie-bobby-brown-jake-bongiovi-adopt-a-baby-girl-congratulations-pour-in-2775010-2025-08-22",
-      "headline": "Millie Bobby Brown, Jake Bongiovi adopt a baby girl, congratulations pour inActor Millie Bobby Brown and husband Jake Bongiovi adopted a baby girl. The couple announced the news via a joint statement on social media. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/what-are-you-doing-supreme-court-raps-political-parties-inaction-on-missing-bihar-voters-2775209-2025-08-22",
-      "headline": "What are you doing? Top court raps parties' 'inaction' over missing Bihar votersThe Supreme Court's remarks came after the Election Commission said none of the major political parties in Bihar filed any objections over the draft electoral rolls."
+      "headline": "Top court says Aadhaar can be used for Bihar claims, raps parties on 'inaction'The Supreme Court's remarks came after the Election Commission said none of the major political parties in Bihar filed any objections over the draft electoral rolls."
     },
     {
       "sentiment": "positive",
@@ -187,7 +187,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-directs-ngos-dog-lovers-to-deposit-funds-for-stray-dog-welfare-2775198-2025-08-22",
-      "headline": "Deposit Rs 2 lakh for stray dog welfare to appear in case: Top court to NGOsThe Supreme Court on Friday, in its modified order on stray dogs, said: Every individual dog lover and NGO intervening in the suo moto proceedings must deposit Rs 25,000 and Rs 2 lakh respectively, with the court's registry. Failure to comply will disqualify them from further participation in the case."
+      "headline": "Deposit Rs 2 lakh for stray dog welfare to appear in case: Top court to NGOsThe Supreme Court on Friday, in its modified order on stray dogs, said: \"Every individual dog lover and NGO intervening in the suo moto proceedings must deposit Rs 25,000 and Rs 2 lakh respectively, with the court's registry. Failure to comply will disqualify them from further participation in the case.\""
     },
     {
       "sentiment": "positive",
@@ -196,8 +196,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indians-used-gold-coins-nishka-harappan-rig-vedic-period-earliest-discovery-archaeologist-br-mani-delhi-national-museum-2774946-2025-08-22",
-      "headline": "Indians used gold coins in Harappan, Rig Vedic period, 3,000 years before believedNew research by India's top archaeologist BR Mani reveals that the Harappans and Vedic people were using gold coins, known as Nishka. The coins were used as currency, trade assets, ritual offerings and status symbols, says Mani. This discovery pushes back the timeline of Indian gold coinage by nearly three millennia, which would reshape our understanding of the subcontinent's ancient economy and culture."
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-world-cup-bengaluru-m-cinnaswamy-stadium-venue-change-2775219-2025-08-22",
+      "headline": "Women's World Cup matches moved out of Bengaluru after stadium stampede fiascoICC Women's World Cup 2025: Five matches originally scheduled at M. Chinnaswamy Stadium in Bengaluru have been moved to DY Patil Stadium in Navi Mumbai. The ICC announced the venue change on Friday, August 22, after the Karnataka state cricket body failed to secure the necessary approvals following the stampede incident during RCB's victory celebrations in June."
     },
     {
       "sentiment": "positive",
@@ -211,18 +211,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/cibil-credit-score-rating-how-to-improve-loans-emis-transparent-trans-union-personal-finance-2775191-2025-08-22",
-      "headline": "Credit score confusion: Is CIBIL transparent enough in deciding your financial fate?The credit score by CIBIL can decide whether someone gets a car loan, a home loan, or even a credit card. Yet, very few actually know how CIBIL works or who controls it."
+      "url": "https://www.indiatoday.in/india/story/us-tariffs-over-russian-oil-purchase-will-india-take-china-advice-on-bully-donald-trump-reciprocal-duty-america-2775213-2025-08-22",
+      "headline": "Will India take China's advice on bully Trump?The Chinese envoy to India goaded New Delhi to take on US President Trump, saying \"silence only emboldens the bully\". While China threatened the US with reciprocal tariffs, India has taken a more nuanced diplomatic approach. Trade figures reveal why India isn't China. However, India is acting, but silently, with the belief that patience pays."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/congress-rjd-plotting-to-hand-rights-to-illegals-pm-modi-demography-mission-push-2775210-2025-08-22",
-      "headline": "Congress, RJD plotting to hand rights to illegals: PM's demography mission pushIn poll-bound Bihar, PM Modi accused the Congress and RJD of plotting to \"snatch away people's rights and give them to illegal immigrants\" to expand their vote banks."
+      "url": "https://www.indiatoday.in/information/story/pm-modi-inaugurates-asias-widest-six-lane-bridge-in-bihar-key-features-2775267-2025-08-22",
+      "headline": "PM Modi inaugurates Asia's widest six-lane bridge in Bihar: Key featuresIndia's widest six-lane cable-stayed bridge over the Ganga is now open in Bihar, connecting North and South Bihar directly.\r\nThe Aunta-Simaria Bridge will save hours of travel time, boost trade, and mark a new era in regional development.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/wellness/story/will-cheaper-obesity-drugs-actually-make-india-healthier-2774833-2025-08-22",
       "headline": "Will cheaper obesity drugs actually make India healthier?This is but a fact that obesity drugs are only going to get more accessible for Indians post-March 2026. But whether they make us healthier depends on how we use them. If they become another over-the-counter fad, the country risks trading one public health crisis for another."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indians-used-gold-coins-nishka-harappan-rig-vedic-period-earliest-discovery-archaeologist-br-mani-delhi-national-museum-2774946-2025-08-22",
+      "headline": "Indians used gold coins in Harappan, Rig Vedic period, 3,000 years before believedNew research by India's top archaeologist BR Mani reveals that the Harappans and Vedic people were using gold coins, known as Nishka. The coins were used as currency, trade assets, ritual offerings and status symbols, says Mani. This discovery pushes back the timeline of Indian gold coinage by nearly three millennia, which would reshape our understanding of the subcontinent's ancient economy and culture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/cibil-credit-score-rating-how-to-improve-loans-emis-transparent-trans-union-personal-finance-2775191-2025-08-22",
+      "headline": "Credit score confusion: Is CIBIL transparent enough in deciding your financial fate?The credit score by CIBIL can decide whether someone gets a car loan, a home loan, or even a credit card. Yet, very few actually know how CIBIL works or who controls it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/as-modi-govt-tables-bills-to-prevent-rule-from-jail-why-opposition-smells-a-ploy-2774483-2025-08-21",
+      "headline": "As Modi govt tables bills to prevent 'rule from jail', why Opposition smells a ployThe Modi government calls the three bills introduced by home minister Amit Shah as anti-corruption reform while critics allege executive overreach and political misuse"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/why-sponsors-bcci-fail-bankrupt-dream11-byju-2775237-2025-08-22",
+      "headline": "The sponsorship jinx: Why brands on Team India's jersey turn to dust?Indian cricket team jersey sponsor Dream11 faced a major setback due to the Online Gaming Bill being passed in parliament. Interestingly, this makes 5th straight BCCI sponsor who has got into one or the other problem."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/congress-rjd-plotting-to-hand-rights-to-illegals-pm-modi-demography-mission-push-2775210-2025-08-22",
+      "headline": "Congress, RJD plotting to hand rights to illegals: PM's demography mission pushIn poll-bound Bihar, PM Modi accused the Congress and RJD of plotting to \"snatch away people's rights and give them to illegal immigrants\" to expand their vote banks."
     },
     {
       "sentiment": "positive",
@@ -233,11 +258,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-reveals-reason-behind-sudden-retirement-2775197-2025-08-22",
       "headline": "R Ashwin reveals reason behind retirement: Sitting out of the team got to meRavichandran Ashwin has finally broken the silence on his sudden international retirement from all forms of cricket in December 2024. The legendary spinner has cited non-selection on away tours and family commitments as reasons behind his decision not to play further cricket for India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/as-modi-govt-tables-bills-to-prevent-rule-from-jail-why-opposition-smells-a-ploy-2774483-2025-08-21",
-      "headline": "As Modi govt tables bills to prevent 'rule from jail', why Opposition smells a ployThe Modi government calls the three bills introduced by home minister Amit Shah as anti-corruption reform while critics allege executive overreach and political misuse"
     },
     {
       "sentiment": "positive",
@@ -256,28 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-asia-cup-pahalgam-attack-sindoor-2775017-2025-08-22",
-      "headline": "India vs Pakistan sporting ties: 5 big questions after new government policyThe India-Pakistan match at the Asia Cup is likely to go ahead following the government's new policy on hosting and competing in sports involving Pakistan. But it raises serious questions: should international sporting credibility come before national interest and security?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-sledging-virat-kohli-2014-backfired-joe-burns-2775176-2025-08-22",
-      "headline": "Virat, you got to play some shots: Former Australia batter recalls sledging KohliFormer Australia batter Joe Burns revealed how sledging Virat Kohli in 2014 backfired for his team during the Melbourne Test of the Border-Gavaskar Trophy 2014-15."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/andhra-pradesh/story/ttd-chairman-br-naidu-legal-notice-sakshi-tv-newspaper-defamation-rs-10-crore-jagan-reddy-ysrcp-2775174-2025-08-22",
       "headline": "Tirumala temple board head sues Jagan Reddy's Sakshi TV for defamationTTD Board chairman and TV5 head, BR Naidu, alleges YSRCP chief Jagan Mohan Reddy-owned Sakshi TV and newspaper defamed him, demands Rs 10 crore in damages, warns of legal action and Ministry of Information intervention."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/shubhanshu-shuklas-space-video-shows-india-like-youve-never-seen-before-2775088-2025-08-22",
-      "headline": "Watch: India shines in video captured by Shubhanshu Shukla from spaceShukla shared a timelapse video capturing the subcontinent in a spellbinding sequence that blends natural wonders with the unique vantage point of life aboard the International Space Station (ISS)."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/r-madhavan-sarita-sirji-celebrate-son-vedaant-birthday-dia-mirza-ronit-roy-raj-kundra-share-wishes-2775261-2025-08-22",
+      "headline": "R Madhavan, wife celebrate son's 20th birthday, Rehna Hai co-star Dia sends wishesOn the occasion of their son Vedaant's birthday, actor R Madhavan's wife shared a series of throwback photos on social media. Several actors, including Dia Mirza and Ronit Roy, extended their wishes in the comment section of the post."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/no-feeding-stray-dogs-in-public-area-big-points-from-supreme-court-order-takeaway-2775092-2025-08-22",
-      "headline": "No feeding stray dogs in public: 5 big points from Supreme Court orderThe Supreme Court today directed that stray dogs cannot be fed in public areas and must be fed only in designated zones. The top court also asked civic bodies to create feeding areas for dogs in municipal wards."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/nausheen-ali-sardar-sima-taparia-reject-matchmaking-religion-controversy-2775235-2025-08-22",
+      "headline": "Sima Taparia rejects Nausheen Ali Sardar's matchmaking request over religionNausheen Ali Sardar revealed that matchmaker Sima Taparia refused to help her find a life partner due to her religion. The actor criticised Taparia's conservative views and questioned who defines the right match for her."
     },
     {
       "sentiment": "positive",
@@ -288,16 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/shwetha-menon-leads-1st-film-body-meeting-as-president-prioritises-member-safety-2775215-2025-08-22",
       "headline": "Shwetha Menon leads 1st film body meeting as president, prioritises member safetyThe Association of Malayalam Movie Artistes (AMMA) held its first committee meeting post-elections in Kochi. President Shwetha Menon emphasised member safety and announced new committees. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-fans-ar-murugadoss-blames-everyone-sikandar-box-office-failure-2775199-2025-08-22",
-      "headline": "Salman Khan fans say AR Murugadoss blames everyone but himself for Sikandar failureDirector AR Murugadoss recently opened up on facing difficulties during 'Sikandar' shoot with actor Salman Khan due to late call times. Fans criticised the director for blaming the actor for the film's failure, sparking a heated debate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/swara-bhasker-bio-update-dimple-yadav-confession-bisexuality-views-spark-buzz-2775129-2025-08-22",
-      "headline": "Swara Bhaskar updates X bio after her Dimple Yadav confession sparks buzzActor Swara Bhasker modified her X bio to include 'girl crush advocate' on Friday. She also flaunted the update on her social media platform. This came after the actor shared her views on bisexuality and admitted to having a crush on Samajwadi Party MP Dimple Yadav. "
     }
   ],
   "sports": [
