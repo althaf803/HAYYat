@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/5-times-salman-khan-proved-no-one-can-host-bigg-boss-better-than-him-2775309-2025-08-23",
+      "headline": "5 times Salman Khan proved no one can host Bigg Boss better than himActor Salman Khan has been hosting 'Bigg Boss' since Season 4, which aired in 2010. Over the span of 15 years, the actor has navigated through some of the biggest controversies the show has ever seen and shown how no one can host the show better than him. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-salman-khan-hints-first-contestant-fans-guess-awez-darbar-2775549-2025-08-23",
+      "headline": "Bigg Boss 19: Salman Khan hints at first contestant, fans say Awez DarbarIn a new promo video, Salman Khan teased the first contestant to enter the house. The face was not revealed, but fans guessed him as dancer Awez Darbar."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/exclusive-swara-bhasker-clarifies-dimple-yadav-crush-remark-trolls-should-focus-on-vote-theft-2775503-2025-08-22",
       "headline": "Swara Bhasker clarifies Dimple Yadav crush remark: Focus on vote theftIn an exclsuive chat with India Today, actor Swara Bhasker has clarified her comment about having a girl crush on Samajwadi Party MP Dimple Yadav amid social media backlash. She urged people to concentrate on the vote theft row instead of trolling her."
     },
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-contestants-amaal-malik-kunickaa-sadanand-gaurav-khanna-ashnoor-kaur-2775185-2025-08-22",
       "headline": "Bigg Boss 19 official confirmed contestants list revealed. Find out moreBigg Boss 19 has officially commenced shooting with 17 diverse contestants including actors, singers, influencers and comedians, hosted by Salman Khan. The season promises exciting twists with special entries like Mike Tyson and a mix of familiar and fresh faces from India and abroad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/krushna-abhishek-kiju-sharma-fight-great-indian-kapil-show-viral-video-suggests-so-2775232-2025-08-22",
-      "headline": "Did Krushna Abhishek and Kiku Sharda fight on Kapil Show? Viral video suggests soA viral video of comedians Krushna Abhishek and Kiku Sharda getting into a heated argument has shocked fans. Neither of the duo has issued any statemnet on the spat. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/apoorva-mukhija-responds-ex-boyfriend-viral-cute-little-red-flag-song-cheating-allegations-2775200-2025-08-22",
-      "headline": "Apoorva Mukhija responds to her ex's viral song: Truth always comes outInfluencer Apoorva Mukhija has reacted to cheating allegations by her ex-boyfriend, Utsav Dahiya. She commented on a reel of an influencer, stating that the truth always comes out. Meanwhile, Dahiya alleged that attempts are being made to hack into his social media account."
     }
   ],
   "general news": [
@@ -171,18 +171,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/several-dead-after-bus-returning-from-niagara-falls-trip-crashes-in-new-york-2775519-2025-08-23",
-      "headline": "5 killed as tour bus crashes in New York, Indians among those on boardA tour bus from Niagara Falls to New York City crashed near Buffalo, killing five and injuring several others. Passengers were ejected; most were Indian, Chinese, and Filipino. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-immigrant-numbers-fall-2025-tough-policies-labour-impact-2775535-2025-08-23",
       "headline": "Trump's hardline push shrinks US immigrant count by 1.5 million, 1st since 1960sWith an ageing population, the impact of this decline is also being felt in US's labour market. According to the Pew Research Centre, the workforce has lost over 750,000 workers due to the reduction in immigrant numbers."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/several-dead-after-bus-returning-from-niagara-falls-trip-crashes-in-new-york-2775519-2025-08-23",
+      "headline": "5 killed as tour bus crashes in New York, Indians among those on boardA tour bus from Niagara Falls to New York City crashed near Buffalo, killing five and injuring several others. Passengers were ejected; most were Indian, Chinese, and Filipino. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-appoints-sergio-gor-us-ambassador-to-india-amid-tariff-hike-and-political-challenges-2775539-2025-08-23",
       "headline": "Meet Sergio Gor, Trump's new India envoy Elon Musk once called 'a snake'Sergio Gor is considered one of the most powerful behind-the-scenes figures in Trump's team and had reportedly played a key role in the fallout between Donald Trump and Elon Musk."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/stray-dog-attack-leaves-kanpur-college-student-with-17-stitches-on-her-face-uttar-pradesh-2775556-2025-08-23",
+      "headline": "Stray dog attack leaves Kanpur college student with 17 stitches on her faceA 21-year-old BBA student in Kanpur was brutally attacked by stray dogs, leaving her with severe facial injuries and 17 stitches. "
     },
     {
       "sentiment": "negative",
@@ -196,13 +201,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-retirement-rumours-bcci-rajeev-shukla-2775511-2025-08-23",
-      "headline": "Rohit, Kohli not retiring soon, farewell talks premature: Rajeev ShuklaBCCI vice-president Rajeev Shukla dismissed speculation over Virat Kohli and Rohit Sharma's futures, saying that retirement and farewell talks are premature at the moment. Kohli and Rohit have already retired from T20Is and Tests. "
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/handwriting-anxiety-fear-of-writing-trauma-psychology-explained-2775409-2025-08-23",
+      "headline": "The lost art of handwriting: Why pen and paper terrify so manyHandwriting may seem like a harmless task, but for many, it triggers panic, pain, and deep-rooted memories of humiliation. In India, where exams and careers still demand pen-and-paper skills, this fear creates real barriers. As digital life takes over, handwriting anxiety reveals both a generational struggle and an urgent call for recognition and change."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/handwriting-anxiety-fear-of-writing-trauma-psychology-explained-2775409-2025-08-23",
-      "headline": "The lost art of handwriting: Why pen and paper terrify so manyHandwriting may seem like a harmless task, but for many, it triggers panic, pain, and deep-rooted memories of humiliation. In India, where exams and careers still demand pen-and-paper skills, this fear creates real barriers. As digital life takes over, handwriting anxiety reveals both a generational struggle and an urgent call for recognition and change."
+      "url": "https://www.indiatoday.in/sports/football/story/donald-trump-fifa-world-cup-trophy-infantino-2775541-2025-08-23",
+      "headline": "I am not giving it back: Trump's joke stumps FIFA president at White HouseUS President Donald Trump joked about keeping the FIFA World Cup trophy during a meeting with FIFA President Gianni Infantino. He refused to give the solid gold trophy back, cracking up the entire Oval Office."
     },
     {
       "sentiment": "positive",
@@ -211,13 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/national-space-day-relieve-the-moment-when-isro-chandrayaan-3-landed-on-the-moon-2775299-2025-08-23",
-      "headline": "Relive the moment when Chandrayaan-3 landed India on the MoonOn August 23, 2023, the Indian Space Research Organisation's (Isro) Chandrayaan-3 mission successfully touched down near the lunar South Pole. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/i-never-saw-trump-behave-inappropriately-with-anyone-epstein-associate-maxwell-glbs-2775522-2025-08-23",
-      "headline": "I never saw Trump behave inappropriately with anyone: Epstein associate MaxwellGhislane Maxwell told the Justice Department she never saw Donald Trump in any inappropriate setting. Her comments come amid scrutiny over the release of Epstein investigation files and her prison transfer.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-retirement-rumours-bcci-rajeev-shukla-2775511-2025-08-23",
+      "headline": "Rohit, Kohli not retiring soon, farewell talks premature: Rajeev ShuklaBCCI vice-president Rajeev Shukla dismissed speculation over Virat Kohli and Rohit Sharma's futures, saying that retirement and farewell talks are premature at the moment. Kohli and Rohit have already retired from T20Is and Tests. "
     },
     {
       "sentiment": "positive",
@@ -230,9 +230,9 @@
       "headline": "Had Kejriwal resigned...: Amit Shah on why bill to oust arrested leaders happenedFormer Delhi Chief Minister Arvind Kejriwal was arrested in 2024 in the alleged liquor scam case and refused to step down, drawing sharp criticism from the BJP for \"running the government from jail\"."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/criminals-and-corrupt-should-be-in-jail-not-in-power-says-pm-modi-at-kolkata-rally-calls-for-poribartan-2775395-2025-08-22",
-      "headline": "Criminals and corrupt should be in jail, not in power: PM Modi at Bengal rallyPM Modi referred to Bengal Correctional Services Minister, Chandranath Sinha, who is in jail in connection with the teacher recruitment scam case."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-salman-khan-hints-first-contestant-fans-guess-awez-darbar-2775549-2025-08-23",
+      "headline": "Bigg Boss 19: Salman Khan hints at first contestant, fans say Awez DarbarIn a new promo video, Salman Khan teased the first contestant to enter the house. The face was not revealed, but fans guessed him as dancer Awez Darbar."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/canada-news/story/canada-drops-many-retaliatory-tariffs-seeks-reset-in-trade-talks-with-us-glbs-2775528-2025-08-23",
-      "headline": "Canada drops many retaliatory tariffs, seeks reset in trade talks with USCanada will drop many retaliatory tariffs to match US exemptions under the USMCA, retaining steel, aluminium, and auto tariffs. Carney calls it pragmatic; critics call it capitulation amid ongoing trade tensions.\r\n"
+      "url": "https://www.indiatoday.in/science/story/national-space-day-relieve-the-moment-when-isro-chandrayaan-3-landed-on-the-moon-2775299-2025-08-23",
+      "headline": "Relive the moment when Chandrayaan-3 landed India on the MoonOn August 23, 2023, the Indian Space Research Organisation's (Isro) Chandrayaan-3 mission successfully touched down near the lunar South Pole. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khan-begins-shooting-bigg-boss-19-in-galwan-look-first-pics-2775387-2025-08-22",
-      "headline": "Salman Khan begins shooting Bigg Boss 19 in Galwan look. First picsActor Salman Khan looked handsome as he joined 'Bigg Boss 19' during the premiere shoot. The first photos of the show are now out. "
+      "url": "https://www.indiatoday.in/world/us-news/story/i-never-saw-trump-behave-inappropriately-with-anyone-epstein-associate-maxwell-glbs-2775522-2025-08-23",
+      "headline": "I never saw Trump behave inappropriately with anyone: Epstein associate MaxwellGhislane Maxwell told the Justice Department she never saw Donald Trump in any inappropriate setting. Her comments come amid scrutiny over the release of Epstein investigation files and her prison transfer.\r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rajnath-singh-roasts-asim-munir-over-india-ferrari-pakistan-dumpster-remark-2775329-2025-08-22",
-      "headline": "Confession: Defence Minister roasts Asim Munir over India Ferrari, Pak dumpster remarkRajnath Singh said Pakistan Army Chief General Asim Munir's recent comments comparing India and Pakistan's economic conditions amount to an admission of failure."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/criminals-and-corrupt-should-be-in-jail-not-in-power-says-pm-modi-at-kolkata-rally-calls-for-poribartan-2775395-2025-08-22",
+      "headline": "Criminals and corrupt should be in jail, not in power: PM Modi at Bengal rallyPM Modi referred to Bengal Correctional Services Minister, Chandranath Sinha, who is in jail in connection with the teacher recruitment scam case."
     },
     {
       "sentiment": "positive",
@@ -265,9 +265,14 @@
       "headline": "Serena Williams turns to GLP-1 drugs: Is it a new era in weight loss?For decades, fitness influencers and athletes swore by \"clean eating\" and intense workouts as the ultimate path to weight loss and peak performance. But Serena Williams's revelation signals a potential cultural shift - are we moving into an era where science, and not sweat alone, drives results?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/fbi-agents-search-former-trump-adviser-john-boltons-home-day-after-he-slammed-tariffs-on-india-report-2775349-2025-08-22",
-      "headline": "FBI raids ex-Trump adviser John Bolton's home day after he slammed India tariffsThe raids come a day after John Bolton, in an interview, called Trump an 'aberrational president' while castigating him over his imposition of steep tariffs on India."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/supreme-court-rabid-stray-dogs-directives-dog-shelter-delhi-ncr-india-rabies-2775377-2025-08-22",
+      "headline": "'Aggressive' stray dogs to remain in shelters. How authorities identify themThe process of identifying rabid dogs in India is governed by a combination of statutory rules, municipal protocols and guidelines laid down by the local authorities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/canada-news/story/canada-drops-many-retaliatory-tariffs-seeks-reset-in-trade-talks-with-us-glbs-2775528-2025-08-23",
+      "headline": "Canada drops many retaliatory tariffs, seeks reset in trade talks with USCanada will drop many retaliatory tariffs to match US exemptions under the USMCA, retaining steel, aluminium, and auto tariffs. Carney calls it pragmatic; critics call it capitulation amid ongoing trade tensions.\r\n"
     },
     {
       "sentiment": "positive",
@@ -275,9 +280,9 @@
       "headline": "Tata EV 'in Summon Mode' knocks man down, CCTV captures fatal accidentTata Motors expressed condolences after a tragic accident in Tamil Nadu's Tiruppur district, where a man named Senthil reportedly died in a Tata Harrier EV mishap. The SUV, reportedly in Summon Mode, rolled back outside his shop, fatally striking him."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/40-of-chief-ministers-face-criminal-cases-report-2775491-2025-08-22",
-      "headline": "40% of chief ministers face criminal cases, 10 accused of serious offences: ReportThe Association for Democratic report analysed the self-sworn affidavits of all 30 sitting chief ministers from state Assemblies and Union Territories."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-thankful-mammootty-recovery-prayed-for-him-in-sabarimala-2775557-2025-08-23",
+      "headline": "Mohanlal thankful for Mammootty's recovery: Prayed for him in SabarimalaVeteran actor Mohanlal expressed his happiness over Mammootty's recovery amid a health scare. During the promotion of his upcoming film 'Hridayapoorvam', the actor said that he prayed for the 73-year-old in Sabarimala. "
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/photo/bigg-boss-19-house-unveiled-a-vibrant-cabin-in-woods-with-assembly-room-and-no-jail-2775471-2025-08-22",
       "headline": "Bigg Boss 19 house unveiled: A vibrant cabin in woods with assembly room and no jailThe newly designed house with wooden textures, vibrant colours and many new surprises was unveiled by Bigg Boss 19 makers. A glimpse at the new house ahead of the grand premiere."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-quits-drinking-says-leaving-mumbai-cured-depression-2775405-2025-08-22",
-      "headline": "Anurag Kashyap quits drinking, says leaving Mumbai cured his depressionDirector Anurag Kashyap has moved out of Mumbai, citing negativity in Bollywood. He recently opened up on how his shift to Malayalam cinema has revived his creativity and improved his mental health."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-lemonade-girl-video-2775555-2025-08-23",
+      "headline": "Watch: Djokovic's cute moment with lemonade girl wins hearts at US OpenUS Open: Novak Djokovic is set to play in the US Open. Before the tournament, Djokovic interacted with a young fan - Emerie - who posed as a lemonade seller."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/donald-trump-fifa-world-cup-trophy-infantino-2775541-2025-08-23",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/elavenil-valarivan-wins-womens-shooting-gold-asian-championships-2775460-2025-08-22",
-      "headline": "Elavenil Valarivan shoots India's second gold medal at Asian ChampionshipsIndian shooter Elavenil Valarivan secured gold in the women's 10m air rifle at Asian Championships. It was the second gold for India in the senior level in this edition of the tournament after Anantjeet Singh Naruka had claimed in men's skeet."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/bgms-season-4-league-stage-weel-1-day-4-results-and-points-table-2775518-2025-08-23",
+      "headline": "BGMS Season 4 League Stage Week 1 Day 4 Results and Points TableBGMS 2025 Week 1 Day 4 saw Orangutan top the points table with 125 points, while Team Soul rose to 2nd with back-to-back wins. BGCS 2025 topped by Team Resilience on Day 3."
     },
     {
       "sentiment": "positive",
@@ -418,8 +423,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-sehwag-backs-suryakumar-yadav-india-2775397-2025-08-22",
-      "headline": "Under Suryakumar Yadav's captaincy, India can dominate Asia once again: SehwagVirender Sehwag believes India can dominate the Asia Cup 2025 under captain Suryakumar Yadav. The Mumbai batter is unbeaten in T20I series while leading India and the Asia Cup will be his first major test. "
+      "url": "https://www.indiatoday.in/sports/hockey/story/sohail-abbas-skips-asia-cup-2025-malaysia-coach-2775432-2025-08-22",
+      "headline": "Pakistan legend and Malaysia coach Sohail Abbas won't travel to India for Asia CupPakistan legend Sohail Abbas will not travel with the Malaysia team for the Asia Cup 2025 in Rajgir, citing personal reasons. Abbas works as the assistant coach with the Malaysian team. "
     },
     {
       "sentiment": "positive",
@@ -495,11 +500,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/e-sports/story/esports-world-cup-team-falcons-claim-consecutive-club-titles-2775229-2025-08-22",
       "headline": "Esports World Cup: Team Falcons claim successive club titles in RiyadhTeam Falcons have clinched their second straight Esports World Cup Club Championship in Riyadh, solidifying their dominance across 18 titles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-world-cup-bengaluru-m-cinnaswamy-stadium-venue-change-2775219-2025-08-22",
-      "headline": "Women's World Cup matches moved out of Bengaluru after stadium stampede fiascoICC Women's World Cup 2025: Five matches originally scheduled at M. Chinnaswamy Stadium in Bengaluru have been moved to DY Patil Stadium in Navi Mumbai. The ICC announced the venue change on Friday, August 22, after the Karnataka state cricket body failed to secure the necessary approvals following the stampede incident during RCB's victory celebrations in June."
     }
   ],
   "education": [
