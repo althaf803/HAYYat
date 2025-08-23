@@ -64,6 +64,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/bollywood-swipes-right-on-love-again-saiyaara-metro-in-dino-param-sundari-sidharth-malhotra-trade-expert-metro-in-dino-2774604-2025-08-23",
+      "headline": "Bollywood swipes right on love again: Films rediscover romance but for how long?With the latest romantic releases like 'Saiyaara', 'Metro In Dino', Bollywood is witnessing a fresh wave of romance on the big screen. Directors and actors agree that romance never truly disappeared-it just evolved with changing times."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/mouni-roy-shuts-down-troll-mocking-looks-with-choose-better-surgeon-remark-2775571-2025-08-23",
+      "headline": "Mouni Roy shuts down troll mocking her looks with choose better surgeon remarkActor Mouni Roy recently responded to a negative comment about her appearance on social media. The actor reacted to a troll who suggested she consult a better surgeon for her surgeries. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/hostage-review-an-ambitious-thriller-derailed-by-emotional-histrionics-cliches-2775542-2025-08-23",
       "headline": "Hostage review: An ambitious thriller derailed by emotional histrionics and clichesRelease Date:Thu Aug 21, 2025Hostage review: The show reflects on the humane aspect of world leaders involved in geopolitical negotiations and strategic decision-making. Is the series worth your time? Here is our review."
     },
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-12-saba-khan-wedding-waseem-nawab-jodhpur-somi-khan-adil-durrani-2775262-2025-08-22",
       "headline": "Bigg Boss 12 fame Saba Khan marries businessmen Waseem Nawab in Jodhpur. See PicsActor Saba Khan, who featured in 'Bigg Boss 12', got married to businessman Waseem Nawab in an intimate ceremony in Jodhpur. She shared a heartfelt note on social media along with her wedding pictures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/r-madhavan-sarita-sirji-celebrate-son-vedaant-birthday-dia-mirza-ronit-roy-raj-kundra-share-wishes-2775261-2025-08-22",
-      "headline": "R Madhavan, wife celebrate son's 20th birthday, Rehna Hai co-star Dia sends wishesOn the occasion of their son Vedaant's birthday, actor R Madhavan's wife shared a series of throwback photos on social media. Several actors, including Dia Mirza and Ronit Roy, extended their wishes in the comment section of the post."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/nausheen-ali-sardar-sima-taparia-reject-matchmaking-religion-controversy-2775235-2025-08-22",
-      "headline": "Sima Taparia rejects Nausheen Ali Sardar's matchmaking request over religionNausheen Ali Sardar revealed that matchmaker Sima Taparia refused to help her find a life partner due to her religion. The actor criticised Taparia's conservative views and questioned who defines the right match for her."
     }
   ],
   "general news": [
@@ -182,7 +182,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-appoints-sergio-gor-us-ambassador-to-india-amid-tariff-hike-and-political-challenges-2775539-2025-08-23",
-      "headline": "Meet Sergio Gor, Trump's new India envoy Elon Musk once called 'a snake'Sergio Gor is considered one of the most powerful behind-the-scenes figures in Trump's team and had reportedly played a key role in the fallout between Donald Trump and Elon Musk."
+      "headline": "Meet Sergio Gor, Trump's India envoy pick Elon Musk once called 'a snake'Sergio Gor is considered one of the most powerful behind-the-scenes figures in Trump's team and had reportedly played a key role in the fallout between Donald Trump and Elon Musk."
     },
     {
       "sentiment": "negative",
@@ -281,6 +281,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/bollywood-swipes-right-on-love-again-saiyaara-metro-in-dino-param-sundari-sidharth-malhotra-trade-expert-metro-in-dino-2774604-2025-08-23",
+      "headline": "Bollywood swipes right on love again: Films rediscover romance but for how long?With the latest romantic releases like 'Saiyaara', 'Metro In Dino', Bollywood is witnessing a fresh wave of romance on the big screen. Directors and actors agree that romance never truly disappeared-it just evolved with changing times."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/hostage-review-an-ambitious-thriller-derailed-by-emotional-histrionics-cliches-2775542-2025-08-23",
       "headline": "Hostage review: An ambitious thriller derailed by emotional histrionics and clichesRelease Date:Thu Aug 21, 2025Hostage review: The show reflects on the humane aspect of world leaders involved in geopolitical negotiations and strategic decision-making. Is the series worth your time? Here is our review."
     },
@@ -293,18 +298,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/exclusive-swara-bhasker-clarifies-dimple-yadav-crush-remark-trolls-should-focus-on-vote-theft-2775503-2025-08-22",
       "headline": "Swara Bhasker clarifies Dimple Yadav crush remark: Focus on vote theftIn an exclsuive chat with India Today, actor Swara Bhasker has clarified her comment about having a girl crush on Samajwadi Party MP Dimple Yadav amid social media backlash. She urged people to concentrate on the vote theft row instead of trolling her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/margot-robbie-colin-farrell-a-big-bold-beautiful-journey-trailer-romantic-fantasy-2775435-2025-08-22",
-      "headline": "A Big Bold Beautiful Journey Trailer: Margot Robbie, Colin Farrell in an epic voyageMargot Robbie and Colin Farrell star in the romantic fantasy A Big Bold Beautiful Journey. The film explores deep emotional themes and promises a magical cinematic experience."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-match-kerala-2775562-2025-08-23",
-      "headline": "Lionel Messi to play in Kerala; Argentina football body confirms datesLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
+      "headline": "Lionel Messi's trip to India finally confirmed, team to play friendly in KeralaLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
     },
     {
       "sentiment": "positive",
