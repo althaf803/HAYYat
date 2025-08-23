@@ -59,149 +59,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/why-middle-class-feels-stuck-between-taxes-and-emis-explains-ca-2775094-2025-08-22",
       "headline": "Why middle class feels stuck between taxes and EMIs, explains CAThe burden is not just about taxes. Price hikes on fuel, food, education, and healthcare hit the middle class the hardest. Unlike the rich, they cannot hedge against inflation with high-value assets. Unlike the poor, they don't receive government relief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-falling-sensex-nifty-down-why-reason-fed-speech-jackson-hole-it-banking-shares-down-2775089-2025-08-22",
-      "headline": "Sensex down 600 points: Why is stock market falling today?At closing bell, indices opened marginally lower but kept sliding as the day went on.\u00a0Sensex and Nifty declined over half a percent. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/will-life-health-insurance-premiums-become-cheaper-with-zero-gst-proposal-2775076-2025-08-22",
-      "headline": "Will life, health insurance premiums become cheaper with zero GST proposal?Will zero GST on life and health insurance truly make premiums cheaper or will input credit losses and policy design dilute the benefits for most customers? Read to know what experts have to say."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-down-90-points-nifty-above-25050-wipro-maruti-lead-gains-2775034-2025-08-22",
-      "headline": "Sensex down 350 points, Nifty below 25,000; Wipro, HCLTech down 2%The S&P BSE Sensex was down by 380.59 points to\u00a081,620.12, while the NSE Nifty50 declined 127.95 points to 24,956.25 as of 9:30 am.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/mpl-zupee-suspend-paid-games-after-online-gaming-bill-clears-parliament-2775021-2025-08-22",
-      "headline": "Dream11, MPL suspend money-based games after Online Gaming Bill clears ParliamentReal-money gaming faces a knockout blow as Dream11, MPL, and Zupee halt money-based online games. Dream11 is also likely to follow suit after sweeping ban."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/less-than-40-percent-itrs-processed-as-government-pushes-deadline-to-september-15-2774766-2025-08-21",
-      "headline": "Less than 40% ITRs processed as government pushes deadline to September 15The Finance Ministry has pushed the ITR deadline to 15 September citing extensive changes in forms and utilities. But three months in, processing is still crawling at under 40%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-143-points-higher-nifty-above-25000-pharma-stocks-gain-2774715-2025-08-21",
-      "headline": "Sensex, Nifty gain for 6th straight session on GST reforms optimismThe S&P BSE Sensex was up 142.87 points to 82,000.71 at the closing bell, while the NSE Nifty50 rose 33.20 points to settle at\u00a025,083.75. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/group-of-ministers-on-gst-approves-scrapping-of-12-28-slabs-2774697-2025-08-21",
-      "headline": "Key panel okays scrapping of 12%, 28% GST slabs; 90% goods may get cheaperIn a key meeting held on Thursday, the panel of state ministers accepted the Centre's plan to reduce the four-rate system to two main slabs of 5% and 18%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/how-can-retirees-stay-safe-from-risky-too-good-to-be-true-schemes-safe-investments-for-retirees-2774609-2025-08-21",
-      "headline": "How can retirees stay safe from risky 'too good to be true' schemes?Many retirees fall prey to schemes that seem too good to be true, chasing high returns without understanding the risks. Protecting your savings requires caution, awareness, and smart investment choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-cut-zero-percent-insurance-premium-costly-cheap-input-tax-credit-policyholders-personal-finance-2774569-2025-08-21",
-      "headline": "Why zero GST on insurance premiums doesn't mean cheaper policies for youOn the surface, removing GST on insurance premiums seems like a big relief, but experts caution that the outcome may not be what many are expecting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/pf-claims-how-to-select-right-epfo-form-for-withdrawal-pension-or-transfer-2774560-2025-08-21",
-      "headline": "EPFO withdrawal, pension or transfer: How to choose the right PF formEPFO members often get confused about which form to fill for withdrawals, transfers, or pension claims. Using the right form not only saves time but also avoids delays or rejection of your application."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/80-percent-of-emergency-funds-dont-work-when-needed-ca-explains-why-2774526-2025-08-21",
-      "headline": "CA explains why 80% of emergency funds don't work when neededMost people believe they are financially prepared for tough times, but when a real crisis hits, their so-called emergency funds often fall short. A chartered accountant explains why this happens and how to fix it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/online-gaming-bill-2025-fine-penalty-explained-lok-sabha-betting-apps-money-based-2774515-2025-08-21",
-      "headline": "Online Gaming Bill 2025: What are the different penalties in it?The Bill, which was passed in the Lok Sabha soon after it was introduced, focusses on reducing risks linked to addiction, money laundering, and misleading advertising."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-on-life-and-health-insurance-may-soon-be-exempt-what-it-means-for-you-2774508-2025-08-21",
-      "headline": "No GST on life, health insurance premiums soon? Here's what it means for youA proposal has been made to exempt premiums for life and health insurance from Goods and Services Tax (GST), a move that could bring down costs and boost insurance penetration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-opens-150-points-higher-nifty-above-25000-ril-shares-gains-1-percent-2774468-2025-08-21",
-      "headline": "Sensex opens 150 points higher, Nifty above 25,000; RIL gains 1%The S&P BSE Sensex added 122.01 points to\u00a081,979.85, while the NSE Nifty50 gained 20.45 points to\u00a025,071.00 as of 9:23 am.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/ipo/story/ipo-patel-retail-vikram-solar-gem-aromatics-shreeji-shipping-global-close-bidding-today-listing-gains-more-best-profit-2774451-2025-08-21",
-      "headline": "4 IPOs to close for bidding today: Which one will give you best listing gains?All four IPOs opened for subscription on August 19 and will complete allotment on August 22. The listing of these companies is scheduled for August 26 on the BSE and NSE."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/zepto-allows-you-to-buy-land-as-fast-as-groceries-check-details-house-of-abhinandan-lodha-hoabl-2774247-2025-08-20",
-      "headline": "Now you can buy land via a mobile app in minutes. Here's howThe initiative is intended to make land purchases easier, quicker and more transparent by using a platform that millions already rely on for daily shopping."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/will-next-gen-gst-make-homes-more-affordable-gst-on-affordable-housing-2025-2774178-2025-08-20",
-      "headline": "Will next-gen GST make homes more affordable?With the government considering a simpler two-slab GST structure, many are asking a key question: Will the new system finally make home buying more affordable?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rapido-fine-rs-10-lakh-false-misleading-ads-ccpa-refund-customers-2774174-2025-08-20",
-      "headline": "Rapido fined Rs 10 lakh over false ads, regulator orders refunds to consumersThe penalty follows complaints that Rapido's ads such as \"Guaranteed Auto\" and \"Auto in 5 min or get Rs 50\" misled customers by creating the impression of guaranteed services."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-213-points-higher-nifty-above-25000-infosys-up-4-percent-2774119-2025-08-20",
-      "headline": "Sensex ends 213 points higher, Nifty above 25,000; Infosys up 4%The S&P BSE Sensex gained 213.45 points to close at 81,857.84, while the NSE Nifty50 added 69.90 points to end at 25,050.55.\u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/ca-explains-the-risks-behind-no-emi-till-possession-schemes-2774105-2025-08-20",
-      "headline": "CA explains the risks behind 'No EMI till possession' schemesMany homebuyers are lured by \"No EMI Till Possession\" schemes, but a chartered accountant warns that these offers can carry hidden financial risks that may leave buyers paying for a property they never receive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indian-refiners-resume-russian-oil-purchases-amid-trump-tariff-threats-news-agency-reuters-2774044-2025-08-20",
-      "headline": "Indian-state run refiners resume Russian oil purchase amid tariff threats: ReportThe resumption of Russian oil imports by Indian state refiners could reduce supplies for top buyer China, which had stepped up purchases during their absence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/labubu-mania-is-back-as-pop-mart-shares-rise-by-11-percent-ceo-predicts-record-sales-2774005-2025-08-20",
-      "headline": "Labubu mania is back as Pop Mart shares rise by 11%, CEO predicts record salesPop Mart reported a 204% rise in revenue to 13.88 billion yuan\u00a0for the first half of 2025, beating the average analyst estimate of 13.76 billion yuan. Net income jumped\u00a0397% to 4.57 billion yuan,\u00a0highlighting the company's rapid growth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/online-betting-gaming-real-money-shares-down-nazara-technologies-delta-corp-2773965-2025-08-20",
-      "headline": "Online gaming bill: Nazara Technologies and Delta Corp shares take a hitThe bill, which proposes strict rules for money-based online games and makes online betting a punishable offence, is expected to be tabled in the Lok Sabha later today."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/shifted-to-new-tax-regime-here-are-5-investments-you-shouldnt-drop-nps-elss-2773943-2025-08-20",
-      "headline": "Shifted to new tax regime? Here are 5 investments you shouldn't dropAlthough the new regime comes with lower tax rates and no exemptions, several traditional investment products continue to play a vital role in securing your finances and growing long-term wealth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-targets-private-refiners-ril-nayara-ioc-india-import-russia-oil-tariff-2773938-2025-08-20",
-      "headline": "US targets Indian refiners, says richest families made excess profitsThe criticism from US is focused on India's private refiners, particularly Reliance Industries and Nayara Energy, which together account for a large share of refined fuel exports to Europe."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/ola-electric-shares-jump-13-as-winning-streak-continues-what-next-2773919-2025-08-20",
-      "headline": "Ola Electric shares jump 13%, up over 20% in two sessions. Should you buy?On Tuesday, the stock climbed almost sharply after founder and chairman Bhavish Aggarwal outlined an aggressive strategy to reclaim market share and improve profitability in India's competitive EV segment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-down-it-stocks-gain-banking-financials-decline-bajaj-finance-airtel-2773891-2025-08-20",
-      "headline": "Sensex, Nifty open lower as financial stocks offset IT gains in early tradeThe S&P BSE Sensex was down by 125.67 points to 81,518.72, while the NSE Nifty50 lost 34.50 points to 24,946.15 as of 9:33 am.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
-      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-reacts-to-unfair-tag-on-coolie-role-preethi-its-someone-elses-vision-lokesh-kanagaraj-rajinikanth-2775669-2025-08-23",
+      "headline": "Shruti Haasan reacts to unfair tag on Coolie role: It's someone else's visionActor Shruti Haasan responded to a fan who asked if her role in Rajinikanth's 'Coolie' was unfair. The actor wrote how it was all about someone else's vision. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saira-banu-joins-x-on-81st-birthday-to-talk-about-life-memories-of-dilip-kumar-2775670-2025-08-23",
+      "headline": "Saira Banu joins X on 81st birthday to talk about life, memories of Dilip saabVeteran actor Saira Banu celebrated her 81st birthday on August 23. Marking the occasion, she made her debut on X, and shared a heartfelt photograph with her late husband, Dilip Kumar."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-saif-ali-khan-reunite-after-17-years-haiwaan-shoot-2775636-2025-08-23",
@@ -286,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dilip-kumar-stormy-story-behind-the-camera-beyond-the-myth-madhubala-2775390-2025-08-22",
       "headline": "Behind the camera, beyond the myth: Dilip Kumar's stormy storyAshok Chopra's The Man Who Became Cinema showcases Dilip Kumar the artist, not the whole man. In 480 pages dissecting 57 films, it reveals how India's first method actor transformed Hindi cinema, while leaving the off\u2011screen story largely untold."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khan-begins-shooting-bigg-boss-19-in-galwan-look-first-pics-2775387-2025-08-22",
-      "headline": "Salman Khan begins shooting Bigg Boss 19 in Galwan look. First picsActor Salman Khan looked handsome as he joined 'Bigg Boss 19' during the premiere shoot. The first photos of the show are now out. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/anemone-trailer-daniel-day-lewis-returns-after-7-years-son-family-reunion-film-2775306-2025-08-22",
-      "headline": "Anemone trailer: Daniel Day-Lewis returns after 7 years in son's family reunion filmActor Daniel Day-Lewis has ended his retirement with a new role in 'Anemone', directed by his son. The film is based on a reunion between two brothers who share a complex bond with each other."
     }
   ],
   "general news": [
@@ -311,8 +171,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/chamoli-cloudburst-uttarakhand-tharali-rescue-operations-dead-shops-vehicle-damaged-2775536-2025-08-23",
-      "headline": "1 dead after cloudburst in Uttarakhand's Chamoli; Army joins rescue opsA cloudburst in Chamoli's Tharali caused massive destruction, leaving one girl dead and one person missing amid debris. Rescue teams and SDRF are carrying out relief operations as roads remain blocked."
+      "url": "https://www.indiatoday.in/india/story/days-after-online-gambling-ban-ed-arrests-congress-mla-kc-veerendra-seizes-rs-12-crore-2775691-2025-08-23",
+      "headline": "Days after online gambling ban, ED arrests Congress MLA, seizes Rs 12 croreDuring the searches, the ED seized approximately Rs 12 crore in cash, including Rs 1 crore in foreign currency, gold jewellery worth around Rs 6 crore, 10 kg of silver articles, and four high-end vehicles. "
     },
     {
       "sentiment": "positive",
@@ -325,24 +185,9 @@
       "headline": "Meet Sergio Gor, Trump's India envoy pick Elon Musk once called 'a snake'Sergio Gor is considered one of the most powerful behind-the-scenes figures in Trump's team and had reportedly played a key role in the fallout between Donald Trump and Elon Musk."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/clash-erupts-two-groups-maharashtra-kolhapur-injured-vehicles-burnt-football-club-event-stone-pelting-arson-2775583-2025-08-23",
-      "headline": "10 injured, vehicles torched as 2 groups clash in Maharashtra's KolhapurA violent clash broke out in Kolhapur's Siddharthnagar area during a football club event, leading to stone-pelting, arson, and vandalism. "
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/stray-dog-attack-leaves-kanpur-college-student-with-17-stitches-on-her-face-uttar-pradesh-2775556-2025-08-23",
-      "headline": "Stray dog attack leaves Kanpur college student with 17 stitches on her faceA 21-year-old BBA student in Kanpur was brutally attacked by stray dogs, leaving her with severe facial injuries and 17 stitches. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/indian-astronauts-gear-up-for-gaganyaan-launch-isro-2775642-2025-08-23",
-      "headline": "Fly higher, faster: Indian astronauts gear up for Gaganyaan launchIsro will conduct the maiden launch of the uncrewed Gaganyaan mission in December 2025.\u00a0The Gaganyaan program aims not only to send Indians into low-Earth orbit but also to signal the beginning of a comprehensive human spaceflight capability for the nation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/bollywood-swipes-right-on-love-again-saiyaara-metro-in-dino-param-sundari-sidharth-malhotra-trade-expert-metro-in-dino-2774604-2025-08-23",
-      "headline": "Bollywood swipes right on love again: Films rediscover romance but for how long?With the latest romantic releases like 'Saiyaara', 'Metro In Dino', Bollywood is witnessing a fresh wave of romance on the big screen. Directors and actors agree that romance never truly disappeared-it just evolved with changing times."
+      "url": "https://www.indiatoday.in/india/story/chamoli-cloudburst-uttarakhand-tharali-rescue-operations-dead-shops-vehicle-damaged-2775536-2025-08-23",
+      "headline": "1 dead after cloudburst in Uttarakhand's Chamoli; Army joins rescue opsA cloudburst in Chamoli's Tharali caused massive destruction, leaving one girl dead and one person missing amid debris. Rescue teams and SDRF are carrying out relief operations as roads remain blocked."
     },
     {
       "sentiment": "positive",
@@ -351,8 +196,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-match-kerala-2775562-2025-08-23",
-      "headline": "Lionel Messi's trip to India finally confirmed, team to play friendly in KeralaLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-announces-macrohard-an-ai-run-microsoft-clone-that-could-replace-human-workers-2775579-2025-08-23",
+      "headline": "Elon Musk announces Macrohard, AI-run Microsoft clone that could replace humanElon Musk has recently dropped another AI plan, which may see the light of day soon. Musk defines Macrohard, a firm that will function as a purely AI software company. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/bollywood-swipes-right-on-love-again-saiyaara-metro-in-dino-param-sundari-sidharth-malhotra-trade-expert-metro-in-dino-2774604-2025-08-23",
+      "headline": "Bollywood swipes right on love again: Films rediscover romance but for how long?With the latest romantic releases like 'Saiyaara', 'Metro In Dino', Bollywood is witnessing a fresh wave of romance on the big screen. Directors and actors agree that romance never truly disappeared-it just evolved with changing times."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/stray-dog-attack-leaves-kanpur-college-student-with-17-stitches-on-her-face-uttar-pradesh-2775556-2025-08-23",
+      "headline": "Stray dog attack leaves Kanpur college student with 17 stitches on her faceA 21-year-old BBA student in Kanpur was brutally attacked by stray dogs, leaving her with severe facial injuries and 17 stitches. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/clash-erupts-two-groups-maharashtra-kolhapur-injured-vehicles-burnt-football-club-event-stone-pelting-arson-2775583-2025-08-23",
+      "headline": "10 injured, vehicles torched as 2 groups clash in Maharashtra's KolhapurA violent clash broke out in Kolhapur's Siddharthnagar area during a football club event, leading to stone-pelting, arson, and vandalism. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cbi-raid-anil-ambani-mumbai-home-rs-17000-crore-bank-loan-fraud-enforcement-directorate-premises-2775613-2025-08-23",
+      "headline": "CBI raids Anil Ambani's Mumbai home in Rs 3,073-crore loan fraud caseThe CBI on Saturday raided Anil Ambani's Mumbai residence in connection with a Rs 3,073 crore bank fraud case, days after ED also expanded its probe and summoned his top executives. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/gen-z-treat-culture-overburden-wallet-2774760-2025-08-23",
+      "headline": "Why treat culture is draining Gen Z's wallets (and also their minds)Gen Z loves treating themselves on good days and bad, but these seemingly harmless, mood-boosting indulgences come with hidden costs - mental and financial."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/indian-astronauts-gear-up-for-gaganyaan-launch-isro-2775642-2025-08-23",
+      "headline": "Fly higher, faster: Indian astronauts gear up for Gaganyaan launchIsro will conduct the maiden launch of the uncrewed Gaganyaan mission in December 2025.\u00a0The Gaganyaan program aims not only to send Indians into low-Earth orbit but also to signal the beginning of a comprehensive human spaceflight capability for the nation."
     },
     {
       "sentiment": "negative",
@@ -361,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/gen-z-treat-culture-overburden-wallet-2774760-2025-08-23",
-      "headline": "Why treat culture is draining Gen Z's wallets (and also their minds)Gen Z loves treating themselves on good days and bad, but these seemingly harmless, mood-boosting indulgences come with hidden costs - mental and financial."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cbi-raid-anil-ambani-mumbai-home-rs-17000-crore-bank-loan-fraud-enforcement-directorate-premises-2775613-2025-08-23",
-      "headline": "CBI raids Anil Ambani's Mumbai home in Rs 3073-crore SBI-loan fraud caseThe CBI on Saturday raided Anil Ambani's Mumbai residence in connection with a Rs 3073 crore bank fraud case, days after ED also expanded its probe and summoned his top executives. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/us-man-sings-indian-classical-thumri-aaj-khelo-shyam-sang-hori-viral-video-2775635-2025-08-23",
-      "headline": "US man sings Indian classical thumri Aaj Khelo Shyam Sang Hori in viral videoAn American man's soulful rendition of the Indian classical thumri 'Aaj Khelo Shyam Sang Hori' has charmed the internet. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/outrage-after-class-2-girl-locked-inside-odisha-school-found-injured-next-morning-2775346-2025-08-23",
-      "headline": "Locked in school overnight, head stuck in window grille: Class 2 girl's ordealThe incident, according to sources, occurred on Thursday in a village located in the Odisha's Keonjhar district."
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-match-kerala-2775562-2025-08-23",
+      "headline": "Lionel Messi's trip to India finally confirmed, team to play friendly in KeralaLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
     },
     {
       "sentiment": "positive",
@@ -391,6 +251,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/us-man-sings-indian-classical-thumri-aaj-khelo-shyam-sang-hori-viral-video-2775635-2025-08-23",
+      "headline": "US man sings Indian classical thumri Aaj Khelo Shyam Sang Hori in viral videoAn American man's soulful rendition of the Indian classical thumri 'Aaj Khelo Shyam Sang Hori' has charmed the internet. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/outrage-after-class-2-girl-locked-inside-odisha-school-found-injured-next-morning-2775346-2025-08-23",
+      "headline": "Locked in school overnight, head stuck in window grille: Class 2 girl's ordealThe incident, according to sources, occurred on Thursday in a village located in the Odisha's Keonjhar district."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/medical-tourism-india-advanced-cancer-joint-surgeries-affordable-costs-2775421-2025-08-23",
+      "headline": "Why the world is coming to India for surgeries and second chancesFrom complex cancer surgeries to joint replacements and rare orthopedic procedures, Indian hospitals are proving to be trusted destinations for global patients who have either lost hope or faced limited options at home."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/quakes-crater-never-before-seen-chemicals-what-chandrayaan-3-found-on-the-moon-national-space-day-2775311-2025-08-23",
       "headline": "National Space Day: All that Chandrayaan-3 discovered on the MoonThe Vikram lander's seismic sensors picked up unexplained tremors, confirming the moon's tectonic activity and offering valuable data about its interior structure."
     },
@@ -401,23 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/medical-tourism-india-advanced-cancer-joint-surgeries-affordable-costs-2775421-2025-08-23",
-      "headline": "Why the world is coming to India for surgeries and second chancesFrom complex cancer surgeries to joint replacements and rare orthopedic procedures, Indian hospitals are proving to be trusted destinations for global patients who have either lost hope or faced limited options at home."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/india-wins-4-gold-1-silver-global-astronomy-olympiad-ioaa-rank-1-2775600-2025-08-23",
       "headline": "India wins 4 gold, 1 silver at International Astronomy Olympiad, ranks 1India claimed four gold medals and one silver at the 18th International Olympiad on Astronomy & Astrophysics and bagged an overall Rank 1. Nearly 300 students from 64 countries competed in the Olympiad hosted in India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-announces-macrohard-an-ai-run-microsoft-clone-that-could-replace-human-workers-2775579-2025-08-23",
-      "headline": "Elon Musk announces Macrohard, AI-run Microsoft clone that could replace humanElon Musk has recently dropped another AI plan, which may see the light of day soon. Musk defines Macrohard, a firm that will function as a purely AI software company. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-reacts-to-unfair-tag-on-coolie-role-preethi-its-someone-elses-vision-lokesh-kanagaraj-rajinikanth-2775669-2025-08-23",
+      "headline": "Shruti Haasan reacts to unfair tag on Coolie role: It's someone else's visionActor Shruti Haasan responded to a fan who asked if her role in Rajinikanth's 'Coolie' was unfair. The actor wrote how it was all about someone else's vision. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-rotten-meat-chicken-mutton-scandal-raids-vegetarian-menu-restaurants-2775341-2025-08-22",
-      "headline": "A rotten meat scandal in Kashmir is seeing restaurants dish out\u00a0rajma\u00a0chawalOver 12,000 kg of rotten chicken and mutton have been seized and destroyed in Jammu and Kashmir since the first week of August. Hoteliers have started offering vegetarian dishes as customer footfall sees a dip. It has severely affected them as businesses were just about turning a leaf following a lull after the Pahalgam terror attack."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saira-banu-joins-x-on-81st-birthday-to-talk-about-life-memories-of-dilip-kumar-2775670-2025-08-23",
+      "headline": "Saira Banu joins X on 81st birthday to talk about life, memories of Dilip saabVeteran actor Saira Banu celebrated her 81st birthday on August 23. Marking the occasion, she made her debut on X, and shared a heartfelt photograph with her late husband, Dilip Kumar."
     },
     {
       "sentiment": "positive",
@@ -428,19 +298,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-saif-ali-khan-reunite-after-17-years-haiwaan-shoot-2775636-2025-08-23",
       "headline": "Khiladi Akshay, Anaari Saif reunite after 17 years as they start Haiwaan shootAfter 17 years, Akshay Kumar and Saif Ali Khan have come together once again for the upcoming film 'Haiwaan'. Helmed by Priyadarshan, the movie commenced shooting today in Kochi, Kerala.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-praises-siddhant-chaturvedi-triptii-dimri-complex-roles-in-dhadak-2-thanks-censor-board-2775634-2025-08-23",
-      "headline": "KJo praises Siddhant, Triptii's complex roles in Dhadak 2, thanks censor boardKaran Johar, in a lengthy note, gave a shout-out to the entire team of 'Dhadak 2', including leads Siddhant Chaturvedi and Triptii Dimri.  He even thanked the censor board for their guidance. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/paradha-review-an-honest-non-preachy-film-that-lays-bare-everyday-patriarchy-2775612-2025-08-23",
-      "headline": "Paradha review: An honest, non-preachy film that lays bare everyday patriarchyRelease Date:Fri Aug 22, 2025Paradha movie review: Director Praveen Kandregula's 'Paradha', starring Anupama Parameswaran, Darshana Rajendran and Sangeetha Krish, is a thoughtful film on patriarchy, women coming out of their shells and sisterhood. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-andrew-castle-grand-slams-2775682-2025-08-23",
+      "headline": "Djokovic is done in terms of winning Grand Slams: Former British No.1Andrew Castle feels Novak Djokovic's Grand Slam-winning days may be over, with Carlos Alcaraz and Jannik Sinner emerging as dominant forces. The Serb, stuck on 24 majors since the 2023 US Open, faces doubts about adding a 25th title amid younger rivals' rise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-shubman-gill-illness-reports-2775665-2025-08-23",
+      "headline": "Shubman Gill set to miss Duleep Trophy due to illness: ReportsShubman Gill is all set to miss the Duleep Trophy 2025 due to illness, with Ankit Kumar set to lead North Zone in his absence. Arshdeep Singh and Harshit Rana will play only the opening match before leaving for Asia Cup duties. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-asia-cup-squad-selection-2775663-2025-08-23",
@@ -483,13 +353,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bhuvneshwar-kumar-up-t20-league-swing-2775559-2025-08-23",
-      "headline": "Swing king Bhuvneshwar Kumar bamboozles batters in UP T20 LeagueBhuvneshwar Kumar returned to his best in the UP T20 League on Friday. Playing against Gaur Gorakhpur Lions, the RCB star delivered a riveting opening spell.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/jannik-sinner-us-open-quitting-tennis-age-24-2775599-2025-08-23",
+      "headline": "Tennis a costly dream? Jannik Sinner would have quit if not ranked top 200 by 24Jannik Sinner has revealed he would have quit tennis if he had not reached the top 200 by age 24.  Sinner's comments put light on the financial struggles faced by tennis players from modest backgrounds."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/aljamain-sterling-vs-brian-ortega-ufc-fight-night-jon-jones-2775507-2025-08-23",
-      "headline": "Aljamain Sterling's 2nd act: Ortega test, title hopes and early history with Jon JonesFormer bantamweight champion Aljamain Sterling targets Brian Ortega in a key UFC featherweight clash as he chases a second title and two-division glory. Funk Master speaks about the upcoming fight, his connection with Jon Jones and more. "
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-piper-niven-beats-charlotte-flair-in-shocking-smackdown-upset-2775594-2025-08-23",
+      "headline": "WWE: Piper Niven stuns Charlotte Flair in shocking SmackDown upset of 2025SmackDown delivered a major shock as Piper Niven pinned 18-time champion Charlotte Flair in one of WWE's biggest upsets of 2025 to secure her career-defining singles win."
     },
     {
       "sentiment": "positive",
@@ -505,16 +375,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/priyansh-arya-on-red-ball-cricket-shubman-gill-dpl-2025-2775558-2025-08-23",
       "headline": "Inspired by Shubman Gill, T20 maverick Priyansh Arya eyes red-ball stintPriyansh Arya has continued his rapid rise with another brilliant season in the Delhi Premier League 2025. However, his aspirations are far beyond just hitting humongous sixes in T20 cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bhuvneshwar-kumar-up-t20-league-swing-2775559-2025-08-23",
-      "headline": "Swing king Bhuvneshwar Kumar bamboozles batters in UP T20 LeagueBhuvneshwar Kumar returned to his best in the UP T20 League on Friday. Playing against Gaur Gorakhpur Lions, the RCB star delivered a riveting opening spell.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/aljamain-sterling-vs-brian-ortega-ufc-fight-night-jon-jones-2775507-2025-08-23",
-      "headline": "Aljamain Sterling's 2nd act: Ortega test, title hopes and early history with Jon JonesFormer bantamweight champion Aljamain Sterling targets Brian Ortega in a key UFC featherweight clash as he chases a second title and two-division glory. Funk Master speaks about the upcoming fight, his connection with Jon Jones and more. "
     }
   ],
   "education": [
