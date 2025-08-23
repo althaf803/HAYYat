@@ -303,6 +303,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-mens-singles-preview-sinner-vs-alcaraz-djokovic-2775851-2025-08-24",
+      "headline": "US Open 2025: Sincaraz to continue dominance or will the Djoker have a say?The US Open men's singles event is all set to be dominated by the rivalry between Jannik Sinner and Carlos Alcaraz. While the duo may be the favourites, the third spot remains open and a certain Novak Djokovic could still have a say in proceedings. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jk-cricketer-fareed-hussain-dies-in-road-accident-cctv-captures-tragedy-2775842-2025-08-23",
       "headline": "J&K cricketer Fareed Hussain dies in road accident, CCTV captures tragedyFareed Hussain, a local cricketer in Jammu and Kashmir, lost his life in a road accident. The tragedy occurred on August 20 and a CCTV camera was able to capture the accident which led to the death of Hussain. "
     },
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-masters-press-conference-2775739-2025-08-23",
-      "headline": "Family first, Slams second: Djokovic explains skipping Masters before US OpenNovak Djokovic skipped the Toronto and Cincinnati Masters to prioritise family time, saying he now focusses mainly on Grand Slams rather than ranking points. Ahead of his US Open opener, the 38-year-old admitted he may even miss his daughter's birthday during the tournament. "
+      "url": "https://www.indiatoday.in/sports/football/story/tottenham-vs-manchester-city-2-0-etihad-premier-league-2025-26-2775804-2025-08-23",
+      "headline": "Tottenham Hotspur continue magical Etihad run to beat lacklustre Manchester CityTottenham continued their fine start to the Premier League 2025-26 season with a 2-0 win over Manchester City at the Etihad stadium. Guardiola side were lacklustre on the day as they were brought down to earth after their fine start to the campaign. "
     },
     {
       "sentiment": "positive",
@@ -380,6 +385,121 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-masters-press-conference-2775739-2025-08-23",
       "headline": "Family first, Slams second: Djokovic explains skipping Masters before US OpenNovak Djokovic skipped the Toronto and Cincinnati Masters to prioritise family time, saying he now focusses mainly on Grand Slams rather than ranking points. Ahead of his US Open opener, the 38-year-old admitted he may even miss his daughter's birthday during the tournament. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-on-shah-rukh-khan-arrange-chartered-flight-2775714-2025-08-23",
+      "headline": "Shah Rukh Khan took me on a chartered flight after team India snub: Rinku SinghIndia and Kolkata Knight Riders (KKR) batter Rinku Singh revealed how his IPL team owner Shah Rukh Khan asked him to travel on a special chartered flight with him after Rinku's team India snub."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-trains-hard-at-lords-poses-with-fans-after-practice-2775701-2025-08-23",
+      "headline": "Virat Kohli trains hard at Lord's, poses with fans after practiceStar India batter Virat Kohli was recently spotted posing for photos with fans after his training session at Lord's. Kohli is enjoying time with his family ahead of his return to international cricket in October."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/raghvi-bist-india-a-vs-australia-a-womens-test-2775697-2025-08-23",
+      "headline": "Raghvi Bist brilliance lifts India A hopes in gripping Test vs Australia ARaghvi Bist's classy 86 guided India A Women to 260 for eight in their second innings, extending their lead to 254 runs on Day 3 in Brisbane. The contest remains evenly poised, with Australia A needing early breakthroughs on the final morning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/e-sports/story/xlg-dragon-ranger-gaming-qualify-vct-china-valorant-champions-2025-paris-2775695-2025-08-23",
+      "headline": "XLG, DRG secure final 2 spots for VALORANT Champions 2025 from ChinaXLG Esports and Dragon Ranger Gaming (DRG) have officially secured the final two spots from the VCT China region for VALORANT Champions 2025 in Paris."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-damien-priest-clashes-with-aleister-black-after-r-truths-smackdown-2775684-2025-08-23",
+      "headline": "WWE: Damien Priest clashes with Aleister Black after R-Truth's SmackDown mix-upSmackDown Dublin took an unexpected turn when R-Truth, set to face Aleister Black, hilariously revealed he had flown to Dublin, Georgia instead of Dublin, Ireland."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-andrew-castle-grand-slams-2775682-2025-08-23",
+      "headline": "Djokovic is done in terms of winning Grand Slams: Former British No.1Andrew Castle feels Novak Djokovic's Grand Slam-winning days may be over, with Carlos Alcaraz and Jannik Sinner emerging as dominant forces. The Serb, stuck on 24 majors since the 2023 US Open, faces doubts about adding a 25th title amid younger rivals' rise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-shubman-gill-illness-reports-2775665-2025-08-23",
+      "headline": "Shubman Gill set to miss Duleep Trophy due to illness: ReportsShubman Gill is all set to miss the Duleep Trophy 2025 due to illness, with Ankit Kumar set to lead North Zone in his absence. Arshdeep Singh and Harshit Rana will play only the opening match before leaving for Asia Cup duties. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/e-sports/story/xlg-dragon-ranger-gaming-qualify-vct-china-valorant-champions-2025-paris-2775695-2025-08-23",
+      "headline": "XLG, DRG secure final 2 spots for VALORANT Champions 2025 from ChinaXLG Esports and Dragon Ranger Gaming (DRG) have officially secured the final two spots from the VCT China region for VALORANT Champions 2025 in Paris."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-damien-priest-clashes-with-aleister-black-after-r-truths-smackdown-2775684-2025-08-23",
+      "headline": "WWE: Damien Priest clashes with Aleister Black after R-Truth's SmackDown mix-upSmackDown Dublin took an unexpected turn when R-Truth, set to face Aleister Black, hilariously revealed he had flown to Dublin, Georgia instead of Dublin, Ireland."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-andrew-castle-grand-slams-2775682-2025-08-23",
+      "headline": "Djokovic is done in terms of winning Grand Slams: Former British No.1Andrew Castle feels Novak Djokovic's Grand Slam-winning days may be over, with Carlos Alcaraz and Jannik Sinner emerging as dominant forces. The Serb, stuck on 24 majors since the 2023 US Open, faces doubts about adding a 25th title amid younger rivals' rise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-shubman-gill-illness-reports-2775665-2025-08-23",
+      "headline": "Shubman Gill set to miss Duleep Trophy due to illness: ReportsShubman Gill is all set to miss the Duleep Trophy 2025 due to illness, with Ankit Kumar set to lead North Zone in his absence. Arshdeep Singh and Harshit Rana will play only the opening match before leaving for Asia Cup duties. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-asia-cup-squad-selection-2775663-2025-08-23",
+      "headline": "Rinku Singh opens up on Asia Cup selection: Did not think I would make itRinku Singh was named in India's 15-member squad for the Asia Cup 2025. Ahead of the tournament, Rinku admitted that he was not sure if he would get selected in the squad.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/muthiah-muralidaran-and-sanath-jayausuriyas-sons-face-off-in-club-game-in-sri-lanka-2775654-2025-08-23",
+      "headline": "Muthiah Muralidaran and Sanath Jayasuriya's sons face off in club gameLegendary Sri Lanka cricketers Muthiah Muralidaran and Sanath Jayasuriya's sons Ranuk Jayasuriya and Naren Muralitharan are going up against each other in a club fixture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-india-trip-2775631-2025-08-23",
+      "headline": "Which team will play Messi's Argentina in India? Kerala minister answersLionel Messi's Argentina are coming to India. But who will they play in the international friendly? Kerala sports minister reveals details."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/manoj-tiwary-on-india-vs-pakistan-match-asia-cup-2025-2775629-2025-08-23",
+      "headline": "Won't watch IND vs PAK match, value of human life more than sports: Manoj TiwaryFormer India cricketer Manoj Tiwary has said that he won't be watching the upcoming India vs Pakistan match in the Asia Cup 2025, saying that human life is more important than sports."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jannik-sinner-us-open-quitting-tennis-age-24-2775599-2025-08-23",
+      "headline": "Tennis a costly dream? Jannik Sinner would have quit if not ranked top 200 by 24Jannik Sinner has revealed he would have quit tennis if he had not reached the top 200 by age 24.  Sinner's comments put light on the financial struggles faced by tennis players from modest backgrounds."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-piper-niven-beats-charlotte-flair-in-shocking-smackdown-upset-2775594-2025-08-23",
+      "headline": "WWE: Piper Niven stuns Charlotte Flair in shocking SmackDown upset of 2025SmackDown delivered a major shock as Piper Niven pinned 18-time champion Charlotte Flair in one of WWE's biggest upsets of 2025 to secure her career-defining singles win."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-waves-to-fan-while-being-stuck-in-mumbai-traffic-2775584-2025-08-23",
+      "headline": "Watch: Rohit Sharma waves to fan while being stuck in Mumbai trafficIndia's ODI captain Rohit Sharma was seen stuck in Mumbai traffic driving his new Lamborghini. The star batter even made a thumbs up gesture to his fan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-match-kerala-2775562-2025-08-23",
+      "headline": "Lionel Messi's trip to India finally confirmed, team to play friendly in KeralaLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/priyansh-arya-on-red-ball-cricket-shubman-gill-dpl-2025-2775558-2025-08-23",
+      "headline": "Inspired by Shubman Gill, T20 maverick Priyansh Arya eyes red-ball stintPriyansh Arya has continued his rapid rise with another brilliant season in the Delhi Premier League 2025. However, his aspirations are far beyond just hitting humongous sixes in T20 cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bhuvneshwar-kumar-up-t20-league-swing-2775559-2025-08-23",
+      "headline": "Swing king Bhuvneshwar Kumar bamboozles batters in UP T20 LeagueBhuvneshwar Kumar returned to his best in the UP T20 League on Friday. Playing against Gaur Gorakhpur Lions, the RCB star delivered a riveting opening spell.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/aljamain-sterling-vs-brian-ortega-ufc-fight-night-jon-jones-2775507-2025-08-23",
+      "headline": "Aljamain Sterling's 2nd act: Ortega test, title hopes and early history with Jon JonesFormer bantamweight champion Aljamain Sterling targets Brian Ortega in a key UFC featherweight clash as he chases a second title and two-division glory. Funk Master speaks about the upcoming fight, his connection with Jon Jones and more. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-lemonade-girl-video-2775555-2025-08-23",
+      "headline": "Watch: Djokovic's cute moment with lemonade girl wins hearts at US OpenUS Open: Novak Djokovic is set to play in the US Open. Before the tournament, Djokovic interacted with a young fan - Emerie - who posed as a lemonade seller."
     }
   ],
   "education": [
