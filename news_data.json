@@ -65,7 +65,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-urges-linkedin-to-fix-account-flagged-fake-2776067-2025-08-24",
-      "headline": "Shraddha Kapoor urges LinkedIn to fix account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
+      "headline": "Shraddha Kapoor urges LinkedIn to fix her account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
     },
     {
       "sentiment": "positive",
@@ -160,24 +160,24 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/noida-cops-open-fire-at-dowry-death-case-accused-as-he-tries-to-flee-after-arrest-shot-in-the-leg-2775982-2025-08-24",
-      "headline": "Noida dowry death accused snatches cop's gun, shot in leg as he tries to fleeGreater Noida police shot and injured Vipin, accused of burning his wife Nikki alive over dowry demands, after he tried to escape custody. Nikki's father welcomed the action, demanding strict punishment for all accused."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/victims-mother-in-law-arrested-in-greater-noida-dowry-death-case-hours-after-accused-shot-in-police-encounter-2776110-2025-08-24",
+      "headline": "Victim's mother-in-law arrested hours after UP dowry murder accused shot by copsVictim's mother-in-law arrested in Greater Noida dowry death case hours after accused shot in police encounter"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bihar-voter-addhikar-yatra-rahul-gandhi-tejashwi-yadav-bullet-bike-ride-tej-pratap-yadav-2775933-2025-08-24",
-      "headline": "Video: Rahul Gandhi, Tejashwi Yadav ride Bullet in Bihar; Tej Pratap takes a digCongress leader Rahul Gandhi and RJD's Tejashwi Yadav riding a bullet bike during their Bihar Yatra drew sharp criticism from sacked RJD MLA Tej Pratap Yadav and BJP leaders."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/normal-for-couples-to-fight-says-up-dowry-death-case-accused-on-hitting-wife-claims-didnt-kill-her-2775992-2025-08-24",
-      "headline": "Fights are normal: Shocker from Noida dowry death accused on hitting wifeVipin's remarks came after he was admitted to a hospital on Sunday, following an attempt to escape police custody by allegedly snatching a gun. Police opened fire during the chase, and a bullet hit his leg."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-tejashwi-yadav-bihar-india-bloc-chirag-paswan-marriage-remark-voter-adhikar-yatra-2776020-2025-08-24",
+      "headline": "Tejashwi Yadav advises Chirag Paswan to marry, Rahul quips 'applies to me too'Rahul Gandhi and Tejashwi Yadav shared a light-hearted banter on marriage during a joint presser in Araria, while affirming INDIA bloc unity ahead of Bihar polls and slamming the Election Commission for allegedly aiding BJP. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-all-forms-india-test-cricket-2775927-2025-08-24",
-      "headline": "Cheteshwar Pujara, last of India's Test purists, retires from all forms of cricketCheteshwar Pujara, one of India's most resilient and respected Test cricketers, has announced his retirement from all forms of Indian cricket. The 36-year-old bows out as the country's eighth-highest run-scorer in Test matches."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-reveals-retirement-decision-india-test-2776083-2025-08-24",
+      "headline": "Was thinking about retirement for just a week: Cheteshwar Pujara breaks silenceCheteshwar Pujara broke his silence on his decision to retire from all formats of the game. Pujara decided to call time on his career on Sunday, August 24 after playing 103 Tests. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/ukraine-on-its-independence-day-launched-a-drone-attack-on-russia-strikes-nuclear-plant-amid-peace-talks-2776109-2025-08-24",
+      "headline": "On Ukraine's Independence Day, Kyiv strikes Russian nuke plant amid peace talksDespite talk of peace by Russia and Ukraine, the deadliest European war since World War Two is continuing along the 2,000 km (1,250 mile) front line accompanied by missile and drone attacks deep into both Russia and Ukraine."
     },
     {
       "sentiment": "positive",
@@ -186,13 +186,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/this-is-how-new-income-tax-bill-2025-brings-relief-for-salaried-and-small-taxpayers-2775991-2025-08-24",
-      "headline": "How new Income Tax Bill 2025 brings relief for salaried and small taxpayersEndless forms and confusing jargon may soon be history. The New Income Tax Bill 2025 could be the game-changer salaried and small taxpayers have been waiting for."
+      "url": "https://www.indiatoday.in/india/story/no-ayushman-bharat-services-till-all-dues-cleared-haryana-doctors-continue-strike-2776105-2025-08-24",
+      "headline": "No Ayushman Bharat services till all dues cleared: Haryana doctors\u00a0continue\u00a0strikePrivate hospitals across the state, including those in Panipat, have been on strike since August 7, halting treatment under Ayushmat Bharat scheme over unpaid dues."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-tejashwi-yadav-bihar-india-bloc-chirag-paswan-marriage-remark-voter-adhikar-yatra-2776020-2025-08-24",
-      "headline": "Tejashwi Yadav advises Chirag Paswan to marry, Rahul quips 'applies to me too'Rahul Gandhi and Tejashwi Yadav shared a light-hearted banter on marriage during a joint presser in Araria, while affirming INDIA bloc unity ahead of Bihar polls and slamming the Election Commission for allegedly aiding BJP. "
+      "url": "https://www.indiatoday.in/india/story/noida-cops-open-fire-at-dowry-death-case-accused-as-he-tries-to-flee-after-arrest-shot-in-the-leg-2775982-2025-08-24",
+      "headline": "Noida dowry death accused snatches cop's gun, shot in leg as he tries to fleeGreater Noida police shot and injured Vipin, accused of burning his wife Nikki alive over dowry demands, after he tried to escape custody. Nikki's father welcomed the action, demanding strict punishment for all accused."
     },
     {
       "sentiment": "positive",
@@ -205,14 +205,14 @@
       "headline": "Video: Man kisses Rahul Gandhi on bike during Bihar rally;\u00a0gets\u00a0slapped by guardThe incident took place as the Lok Sabha Opposition leader, along with RJD leader Tejashwi Yadav, was leading a motorcycle rally as part of the yatra."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/election-commission-of-india-using-sir-to-steal-votes-in-bihar-rahul-gandhi-tejashwi-double-down-2775979-2025-08-24",
-      "headline": "Poll body using SIR to steal votes in Bihar: Rahul Gandhi, Tejashwi double downAt a rally in Araria during the 'Voter Adhikar Yatra', with RJD's Tejashwi Yadav by his side, Rahul Gandhi alleged that after privatising public sector units, the Narendra Modi government now wants to \"steal the votes of the poor\" through the SIR with the help of the Election Commission."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rajnath-singh-meets-kishtwar-cloudburst-victims-pm-modi-concerned-2776066-2025-08-24",
+      "headline": "PM very concerned: Rajnath Singh meets people injured in Kishtwar cloudburstDefence Minister Rajnath Singh visited Jammu's Government Medical College Hospital to meet victims of the Kishtwar cloudburst. He said PM Modi is closely monitoring the situation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-season-19-grand-premiere-live-updates-salman-khan-contestants-list-jiohotstar-2775950-2025-08-24",
-      "headline": "Bigg Boss 19 Grand Premiere LIVE Updates: Salman Khan show is back with a new twistBigg Boss 19 Live: The wait is finally over as the much-anticipated season of Bigg Boss kicks off in just a few hours! With Salman Khan returning as host, fans can look forward to his signature wit, charm, and high-energy presence. "
+      "url": "https://www.indiatoday.in/business/personal-finance/story/this-is-how-new-income-tax-bill-2025-brings-relief-for-salaried-and-small-taxpayers-2775991-2025-08-24",
+      "headline": "How new Income Tax Bill 2025 brings relief for salaried and small taxpayersEndless forms and confusing jargon may soon be history. The New Income Tax Bill 2025 could be the game-changer salaried and small taxpayers have been waiting for."
     },
     {
       "sentiment": "positive",
@@ -221,18 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-special-india-record-puja-interaction-2775971-2025-08-24",
-      "headline": "Cheteshwar Pujara retires: The man who never relaxed, but was always at peaceCheteshwar Pujara retires as one of India's most successful Test batters with 7,195 runs in 103 Tests. But numbers alone don't define his greatness. It was his patience, resilience, and quiet defiance that turned time itself into his greatest innings."
+      "url": "https://www.indiatoday.in/auto/cars/story/renault-kiger-facelift-launched-at-rs-629-lakh-with-fresh-design-upgrades-2776099-2025-08-24",
+      "headline": "Renault Kiger facelift launched at Rs 6.29 lakh with fresh design, upgradesThe Renault Kiger facelift debuts in India at Rs 6.29 lakh, featuring refreshed styling and added features strengthening its appeal in the competitive compact SUV segment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-season-19-grand-premiere-live-updates-salman-khan-contestants-list-jiohotstar-2775950-2025-08-24",
+      "headline": "Bigg Boss 19 Grand Premiere LIVE Updates: Salman Khan show is back with a new twistBigg Boss 19 Live: The wait is finally over as the much-anticipated season of Bigg Boss kicks off in just a few hours! With Salman Khan returning as host, fans can look forward to his signature wit, charm, and high-energy presence. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/isro-conducts-air-drop-test-ahead-of-december-gaganyaan-launch-2775990-2025-08-24",
       "headline": "Isro conducts air drop test ahead of December Gaganyaan launchThe demonstration was carried out in close coordination with the Air Force, Defence Research and Development Organisation (DRDO), Navy and Coast Guard, reflecting the collaborative spirit underpinning the Gaganyaan programme."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistani-woman-bihar-voter-list-removal-home-ministry-probe-sir-exercise-2775943-2025-08-24",
-      "headline": "Pak woman, who came to India in 1956, found on Bihar voter list amid SIRA Pakistani woman's name has appeared on Bihar's voter list, prompting its removal process. The discovery came during a Home Ministry probe into foreign nationals overstaying visas."
     },
     {
       "sentiment": "positive",
@@ -251,8 +251,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-man-ties-dog-to-bike-drags-it-through-streets-arrested-after-video-goes-viral-2775951-2025-08-24",
-      "headline": "Ahmedabad man ties dog to bike, drags it through streets, video sparks outrageA man in Ahmedabad brutally tortured a dog by beating it and dragging it behind his motorcycle, sparking outrage and prompting police to register an FIR."
+      "url": "https://www.indiatoday.in/india/story/normal-for-couples-to-fight-says-up-dowry-death-case-accused-on-hitting-wife-claims-didnt-kill-her-2775992-2025-08-24",
+      "headline": "Fights are normal: Shocker from Noida dowry death accused on hitting wifeVipin's remarks came after he was admitted to a hospital on Sunday, following an attempt to escape police custody by allegedly snatching a gun. Police opened fire during the chase, and a bullet hit his leg."
     },
     {
       "sentiment": "positive",
@@ -265,24 +265,24 @@
       "headline": "Cheteshwar Pujara retirement: Sachin Tendulkar, Yuvraj Singh pay tribute to starSachin Tendulkar, Yuvraj Singh and VVS Laxman led the way with tributes for Cheteshwar Pujara as the Indian batter announced his retirement from all formats on Sunday, August 24. Pujara played 103 Tests for India. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/12-satellites-at-zero-rupees-space-indian-space-isro-2775208-2025-08-24",
-      "headline": "12 satellites at Rs 0: A constellation of questions for India's space futureOn the surface, this model appears to display the strength of India's space economy: private capital, reduced public expenditure, and accelerated innovation."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/himachal-mandi-nurse-braves-raging-stream-to-reach-duty-viral-video-2775954-2025-08-24",
+      "headline": "Himachal nurse braves raging stream to reach duty. Viral video from MandiIn the clip, she can be seen hopping across slippery stones while the stream roars beneath her, determined to reach the community health centre where she is posted."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/delhi-metro-passenger-recalls-moment-he-almost-did-a-pole-dance-in-crowded-coach-2775941-2025-08-24",
-      "headline": "Delhi Metro passenger recalls moment he almost did a 'pole dance' in crowded coachA Reddit post by a Delhi Metro commuter has drawn attention for its humorous yet relatable account of travelling in a packed coach. "
+      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-man-ties-dog-to-bike-drags-it-through-streets-arrested-after-video-goes-viral-2775951-2025-08-24",
+      "headline": "Ahmedabad man ties dog to bike, drags it through streets, video sparks outrageA man in Ahmedabad brutally tortured a dog by beating it and dragging it behind his motorcycle, sparking outrage and prompting police to register an FIR."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bridge-collapse-floods-jammu-and-kashmir-kathua-record-rain-landslides-blocked-roads-2775966-2025-08-24",
-      "headline": "Heavy rains pound J&K, key bridge collapses in Kathua, landslides block roadsHeavy overnight rains lashed Jammu and Kashmir, flooding low-lying areas, damaging bridges including on the Jammu-Pathankot highway, and disrupting normal life."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-special-india-record-puja-interaction-2775971-2025-08-24",
+      "headline": "Cheteshwar Pujara retires: The man who never relaxed, but was always at peaceCheteshwar Pujara retires as one of India's most successful Test batters with 7,195 runs in 103 Tests. But numbers alone don't define his greatness. It was his patience, resilience, and quiet defiance that turned time itself into his greatest innings."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-urges-linkedin-to-fix-account-flagged-fake-2776067-2025-08-24",
-      "headline": "Shraddha Kapoor urges LinkedIn to fix account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
+      "headline": "Shraddha Kapoor urges LinkedIn to fix her account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
     },
     {
       "sentiment": "positive",
@@ -303,8 +303,13 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sourav-ganguly-pretoria-capitals-head-coach-sa20-2026-2776114-2025-08-24",
+      "headline": "Sourav Ganguly takes on 1st coaching role, named as Pretoria Capitals head coachSourav Gangluy is all set to embark on a new chapter as he has been appointed as the head coach of the Pretoria Capitals ahead of the SA20 2026 season. This will be the first time Ganguly will take on a coaching role. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-reveals-retirement-decision-india-test-2776083-2025-08-24",
-      "headline": "Been thinking about retirement for just a week: Cheteshwar Pujara breaks silenceCheteshwar Pujara broke his silence on his decision to retire from all formats of the game. Pujara decided to call time on his career on Sunday, August 24 after playing 103 Tests. "
+      "headline": "Was thinking about retirement for just a week: Cheteshwar Pujara breaks silenceCheteshwar Pujara broke his silence on his decision to retire from all formats of the game. Pujara decided to call time on his career on Sunday, August 24 after playing 103 Tests. "
     },
     {
       "sentiment": "positive",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-special-india-record-puja-interaction-2775971-2025-08-24",
-      "headline": "Cheteshwar Pujara retires: The man who never relaxed, but was always at peaceCheteshwar Pujara retires as one of India's most successful Test batters with 7,195 runs in 103 Tests. But numbers alone don't define his greatness. It was his patience, resilience, and quiet defiance that turned time itself into his greatest innings."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-sachin-tendulkar-yuvraj-singh-vvs-laxman-tributes-2776048-2025-08-24",
+      "headline": "Cheteshwar Pujara retirement: Sachin Tendulkar, Yuvraj Singh pay tribute to starSachin Tendulkar, Yuvraj Singh and VVS Laxman led the way with tributes for Cheteshwar Pujara as the Indian batter announced his retirement from all formats on Sunday, August 24. Pujara played 103 Tests for India. "
     },
     {
       "sentiment": "positive",
@@ -375,11 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-stats-test-cricket-retirement-2775986-2025-08-24",
       "headline": "Pujara retires as India's second-best No.3 Test batter: Career in numbersCheteshwar Pujara has retired from all formats of cricket at 37, ending a career that spanned 103 Tests with 7,195 runs, 19 centuries and 35 fifties. Debuting in 2010 and playing his last Test in the 2023 WTC final, he leaves behind a legacy of resilience, patience and technical mastery at No. 3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-special-india-record-puja-interaction-2775971-2025-08-24",
-      "headline": "Cheteshwar Pujara retires: The man who never relaxed, but was always at peaceCheteshwar Pujara retires as one of India's most successful Test batters with 7,195 runs in 103 Tests. But numbers alone don't define his greatness. It was his patience, resilience, and quiet defiance that turned time itself into his greatest innings."
     }
   ],
   "education": [
