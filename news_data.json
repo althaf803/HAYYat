@@ -160,24 +160,24 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/son-claims-in-up-dowry-murder-case-greater-noida-papa-killed-mummy-by-burning-her-with-lighter-2775870-2025-08-24",
-      "headline": "Papa killed mummy by burning her with lighter, claims son in UP dowry death caseRecalling the horror, the boy claimed that his father and grandmother poured a substance on his mother, slapped her, and then set her ablaze."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/greater-noida-woman-dowry-murder-nikki-husband-arrest-case-2775916-2025-08-24",
+      "headline": "We gave all they asked, yet they killed her: Father of Noida dowry victimThe father of Nikki, the Greater Noida woman set ablaze by her in-laws over dowry, has threatened a hunger strike if police does not arrest the accused and take bulldozer action against his son-in-law's house."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rajasthan-flood-news-death-rain-alert-weather-kota-bundi-tonk-army-ndrf-2775892-2025-08-24",
-      "headline": "2 dead, hundreds evacuated as rain, flood ravage Rajasthan; Army on groundSeveral areas in Rajasthan are facing flood-like conditions, leaving two dead, displacing hundreds, submerging villages, crippling connectivity, and prompting large-scale rescue operations."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-all-forms-india-test-cricket-2775927-2025-08-24",
+      "headline": "Cheteshwar Pujara, last of India's Test purists, retires from all forms of cricketCheteshwar Pujara, one of India's most resilient and respected Test cricketers, has announced his retirement from all forms of Indian cricket. The 36-year-old bows out as the country's eighth-highest run-scorer in Test matches."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/even-rahul-gandhis-colleagues-fear-his-rubbish-talk-may-haunt-congress-kiren-rijiju-2775900-2025-08-24",
-      "headline": "Even Rahul Gandhi's colleagues fear his rubbish talk may haunt Congress: RijijuKiren Rijiju claimed that even Rahul Gandhi's colleagues fear he might end up speaking \"rubbish,\" which could later come back to haunt the party."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bihar-voter-addhikar-yatra-rahul-gandhi-tejashwi-yadav-bullet-bike-ride-tej-pratap-yadav-2775933-2025-08-24",
+      "headline": "Video: Rahul Gandhi, Tejashwi Yadav ride bullet in Bihar; Tej Pratap takes a digCongress leader Rahul Gandhi and RJD leader Tejashwi Yadav rode a bullet bike during their Bihar Yatra\u00a0on Sunday as they continued their 16-day\u00a0'Voter Adhikar Yatra'. "
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/dont-want-to-speak-bad-of-her-maxwell-hints-at-epstein-princess-diana-date-setup-glbs-2775868-2025-08-24",
-      "headline": "Don't want to speak bad of her: Maxwell hints at Epstein\u2013Princess Diana date setupGhislaine Maxwell claims Princess Diana may have been introduced to Jeffrey Epstein at a London event, though unsure if they met. The remark emerged amid renewed scrutiny over Epstein-related investigations and Trump ties.\r\n"
+      "headline": "Epstein-Princess Diana may have been on a date: Ghislain Maxwell's bombshell claimGhislaine Maxwell claims Princess Diana may have been introduced to Jeffrey Epstein at a London event, though unsure if they met. The remark emerged amid renewed scrutiny over Epstein-related investigations and Trump ties.\r\n"
     },
     {
       "sentiment": "positive",
@@ -191,13 +191,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/is-bccis-shubman-gill-all-format-captaincy-plan-feasible-in-modern-era-2775728-2025-08-24",
-      "headline": "3 formats, 1 captain: Is BCCI's Shubman Gill plan feasible in modern era?After including Shubman Gill in India's Asia Cup squad and reinstating him as the vice captain, the BCCI is planning to make him the all-format leader in future. However, is that idea feasible in modern day cricket?"
+      "url": "https://www.indiatoday.in/india/story/7-dead-15-injured-as-lpg-tanker-blasts-after-hitting-pickup-vehicle-in-punjabs-mandiala-2775919-2025-08-24",
+      "headline": "7 killed, 15 hurt as LPG tanker explodes after collision in Punjab's MandialaSeven people were killed and 15 injured after an LPG tanker exploded following a collision near Mandiala in Hoshiarpur, Punjab. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/greater-noida-woman-nikki-set-ablaze-by-husband-vipin-and-in-laws-over-dowry-dies-2775798-2025-08-23",
-      "headline": "UP woman killed over dowry; video shows her being dragged, beaten up, set ablazeThe victim's sister, married into the same family, alleged that on Thursday night, Nikki was beaten unconscious by her husband Vipin and then set on fire using an inflammable substance."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/son-claims-in-up-dowry-murder-case-greater-noida-papa-killed-mummy-by-burning-her-with-lighter-2775870-2025-08-24",
+      "headline": "Papa killed mummy by burning her with lighter, claims son in UP dowry death caseRecalling the horror, the boy claimed that his father and grandmother poured a substance on his mother, slapped her, and then set her ablaze."
     },
     {
       "sentiment": "positive",
@@ -206,18 +206,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/term-insurance-policy-duration-30-40-years-waste-money-how-to-choose-financial-planning-personal-savings-2775908-2025-08-24",
-      "headline": "The hidden catch in 40-year term insurance policies and how to choose betterBuying a 40-year term insurance policy is like paying rent for a house you'll never live in that long. It feels safe, but often it's money that could be better used elsewhere. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-1-order-of-play-novak-djokovic-aryna-sabalenka-shelton-medvedev-2775891-2025-08-24",
-      "headline": "US Open 2025: Novak Djokovic and Aryna Sabalenka headline opening dayNovak Djokovic, Aryna Sabalenka, and Emma Raducanu are among the star attractions on the opening day of the US Open. Djokovic begins his pursuit of a record-extending 25th Grand Slam singles title at the venue where he last lifted a major trophy \u2014 defeating Daniil Medvedev in the final two years ago to claim his 24th."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/drdo-conducts-maiden-flight-test-of-iadws-strengthening-indias-air-defence-shield-2775910-2025-08-24",
       "headline": "India strengthens air shield with first test of multi-layered defence systemThe Integrated Air Defence Weapon System is a multi-layered air defence system comprising entirely indigenous Quick Reaction Surface-to-Air Missiles, Advanced Very Short Range Air Defence System missiles, and a high-power laser-based Directed Energy Weapon. These systems are designed to form the integrated air defence shield Sudarshan Chakra, announced by PM Modi on Independence Day."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rajasthan-flood-news-death-rain-alert-weather-kota-bundi-tonk-army-ndrf-2775892-2025-08-24",
+      "headline": "2 dead, hundreds evacuated as rain, flood ravage Rajasthan; Army on groundSeveral areas in Rajasthan are facing flood-like conditions, leaving two dead, displacing hundreds, submerging villages, crippling connectivity, and prompting large-scale rescue operations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/indian-among-5-dead-in-niagara-falls-tour-bus-crash-in-new-york-police-2775928-2025-08-24",
+      "headline": "Indian among 5 dead in Niagara Falls tour bus crash in New York: PoliceMost of the passengers were Indian, Chinese or Filipino, New York police said during a press briefing. He said the bus was travelling eastbound when the \"vehicle lost control, went into the median, over-corrected, and ended up in the ditch\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/12-satellites-at-zero-rupees-space-indian-space-isro-2775208-2025-08-24",
+      "headline": "12 satellites at Rs 0: A constellation of questions for India's space futureOn the surface, this model appears to display the strength of India's space economy: private capital, reduced public expenditure, and accelerated innovation."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/even-rahul-gandhis-colleagues-fear-his-rubbish-talk-may-haunt-congress-kiren-rijiju-2775900-2025-08-24",
+      "headline": "Even Rahul Gandhi's colleagues fear his rubbish talk may haunt Congress: RijijuKiren Rijiju claimed that even Rahul Gandhi's colleagues fear he might end up speaking \"rubbish,\" which could later come back to haunt the party."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/is-bccis-shubman-gill-all-format-captaincy-plan-feasible-in-modern-era-2775728-2025-08-24",
+      "headline": "3 formats, 1 captain: Is BCCI's Shubman Gill plan feasible in modern era?After including Shubman Gill in India's Asia Cup squad and reinstating him as the vice captain, the BCCI is planning to make him the all-format leader in future. However, is that idea feasible in modern day cricket?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/term-insurance-policy-duration-30-40-years-waste-money-how-to-choose-financial-planning-personal-savings-2775908-2025-08-24",
+      "headline": "The hidden catch in 40-year term insurance policies and how to choose betterBuying a 40-year term insurance policy is like paying rent for a house you'll never live in that long. It feels safe, but often it's money that could be better used elsewhere. "
     },
     {
       "sentiment": "positive",
@@ -225,9 +245,24 @@
       "headline": "Shut down for 5 years, Premier Badminton League set for a comeback in new avatarThe Badminton Association of India is set to cut ties with the promoters of the Premier Badminton League. The BAI wants to start the competition on its own, within the next year."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-516-22-08-2025",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-1-order-of-play-novak-djokovic-aryna-sabalenka-shelton-medvedev-2775891-2025-08-24",
+      "headline": "US Open 2025: Novak Djokovic and Aryna Sabalenka headline opening dayNovak Djokovic, Aryna Sabalenka, and Emma Raducanu are among the star attractions on the opening day of the US Open. Djokovic begins his pursuit of a record-extending 25th Grand Slam singles title at the venue where he last lifted a major trophy \u2014 defeating Daniil Medvedev in the final two years ago to claim his 24th."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/s-jaishankar-slams-us-for-getting-closer-to-pakistan-reminds-it-of-ladens-hideout-in-abbottabad-2775835-2025-08-23",
       "headline": "Osama bin Laden reminder: Jaishankar's dig at US, Pak for overlooking historyExternal Affairs Minister S Jaishankar was referring to the 2011 killing of Osama bin Laden, who orchestrated the 9/11 terror attacks, and said the military that Trump is trusting now was the one who sheltered the dreaded terrorist deep inside their house."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/from-floor-to-fork-is-the-5-second-rule-real-2775250-2025-08-24",
+      "headline": "From floor to fork: Is the 5-second rule real?When your favourite food hits the floor, it feels like instant heartbreak. That's when the five-second rule swoops in like a saviour. But should you really trust it?"
     },
     {
       "sentiment": "positive",
@@ -241,43 +276,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-corrupt-neta-removal-bills-opposition-ministers-arrest-2775699-2025-08-23",
-      "headline": "12 Opposition ministers arrested since 2014, most would've lost post under new billNo sitting ministers from the BJP or NDA were arrested in this period; 10 of the arrests were made by the CBI and the ED."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-516-22-08-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chandrababu-naidu-gave-many-twists-and-turns-in-politics-india-blocs-veep-pick-2775821-2025-08-23",
-      "headline": "Chandrababu Naidu gave many twists and turns in politics: INDIA bloc's Veep pickChandrababu Naidu's party has pledged support to the ruling bloc's vice presidential candidate. Sudershan Reddy, however, suggested that the Andhra Pradesh Chief Minister's history has \"given many twists and turns in politics\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-captures-two-more-villages-in-ukraines-donetsk-amid-ongoing-conflict-glbs-2775862-2025-08-24",
-      "headline": "Russia captures two more villages in Ukraine's Donetsk amid ongoing conflictRussian forces claim control of two more villages in Donetsk, as Ukraine reports retaking Zelenyi Hai near Dnipropetrovsk and ongoing operations to repel further advances along the eastern front."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-team-backtracks-amid-confusion-over-actor-malaysia-meet-and-greet-event-coolie-2775905-2025-08-24",
       "headline": "Rajinikanth's team backtracks amid confusion over actor's meet and greet eventAfter Rajinikanth's team claimed that actor's Malaysia's meet and greet event as fake, they backtracked. This came after the organisers issued a statement. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/you-dont-like-it-you-dont-buy-jaishankars-jibe-at-us-over-russian-oil-purchase-glbs-2775860-2025-08-24",
-      "headline": "You don't like it, you don't buy: Jaishankar hits out at US over Russian oil purchaseExternal Affairs Minister S Jaishankar defended India's oil trade and strategic autonomy amid US tariffs, rejecting mediation with Pakistan and criticising accusations of profiteering from Russian oil purchases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/former-sri-lankan-president-wickremesinghe-shifted-to-icu-after-court-remand-glbs-2775867-2025-08-24",
-      "headline": "Former Sri Lankan President Wickremesinghe shifted to ICU after court remandWickremesinghe, 76, was transferred to the main Magazine Remand Prison just before midnight on Friday, following an order from the Colombo Fort Magistrate's Court remanding him until August 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-mens-singles-preview-sinner-vs-alcaraz-djokovic-2775851-2025-08-24",
-      "headline": "US Open 2025: Sincaraz to continue dominance or will the Djoker have a say?The US Open men's singles event is all set to be dominated by the rivalry between Jannik Sinner and Carlos Alcaraz. While the duo may be the favourites, the third spot remains open and a certain Novak Djokovic could still have a say in proceedings. "
     },
     {
       "sentiment": "positive",
@@ -301,6 +301,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/newcastle-striker-eddie-howe-isak-transfer-anthony-gordon-premier-league-2775936-2025-08-24",
+      "headline": "Howe keeps faith in Newcastle to sign striker in event of Isak's departureNewcastle United's owners will not leave the club without a recognised striker if the long-running transfer saga involving Alexander Isak ends with the Swede's departure, manager Eddie Howe said ahead of their Premier League clash with Liverpool."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-all-forms-india-test-cricket-2775927-2025-08-24",
+      "headline": "Cheteshwar Pujara, last of India's Test purists, retires from all forms of cricketCheteshwar Pujara, one of India's most resilient and respected Test cricketers, has announced his retirement from all forms of Indian cricket. The 36-year-old bows out as the country's eighth-highest run-scorer in Test matches."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cpl-2025-tim-david-controversial-dismissal-mars-knight-riders-st-lucia-2775907-2025-08-24",
@@ -343,13 +353,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-womens-singles-preview-aryna-sabalenka-iga-swiatek-2775795-2025-08-24",
-      "headline": "Aryna Sabalenka favourite, but Swiatek, Gauff could rewrite predictionsThe 2025 US Open promises a thrilling showdown, with Aaryna Sabalenka aiming to defend her title against top contenders like Iga Swiatek, Coco Gauff, Jessica Pegula, and rising star Mirra Andreeva. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-questions-shreyas-iyer-asia-cup-2025-omission-2775896-2025-08-24",
+      "headline": "Shreyas Iyer's Asia Cup omission is weird: De Villiers hints at off-field factorsSouth African batting legend AB de Villiers has labelled Shreyas Iyer's omission from India's Asia Cup squad as \"weird\", hinting that the decision may have been shaped by considerations beyond just on-field form and performance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pbl-restart-bai-sanjay-mishra-interview-2775704-2025-08-24",
-      "headline": "Shut down for 5 years, Premier Badminton League set for a comeback in new avatarThe Badminton Association of India is set to cut ties with the promoters of the Premier Badminton League. The BAI wants to start the competition on its own, within the next year."
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-1-order-of-play-novak-djokovic-aryna-sabalenka-shelton-medvedev-2775891-2025-08-24",
+      "headline": "US Open 2025: Novak Djokovic and Aryna Sabalenka headline opening dayNovak Djokovic, Aryna Sabalenka, and Emma Raducanu are among the star attractions on the opening day of the US Open. Djokovic begins his pursuit of a record-extending 25th Grand Slam singles title at the venue where he last lifted a major trophy \u2014 defeating Daniil Medvedev in the final two years ago to claim his 24th."
     },
     {
       "sentiment": "positive",
@@ -375,6 +385,116 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pbl-restart-bai-sanjay-mishra-interview-2775704-2025-08-24",
       "headline": "Shut down for 5 years, Premier Badminton League set for a comeback in new avatarThe Badminton Association of India is set to cut ties with the promoters of the Premier Badminton League. The BAI wants to start the competition on its own, within the next year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/is-bccis-shubman-gill-all-format-captaincy-plan-feasible-in-modern-era-2775728-2025-08-24",
+      "headline": "3 formats, 1 captain: Is BCCI's Shubman Gill plan feasible in modern era?After including Shubman Gill in India's Asia Cup squad and reinstating him as the vice captain, the BCCI is planning to make him the all-format leader in future. However, is that idea feasible in modern day cricket?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-mens-singles-preview-sinner-vs-alcaraz-djokovic-2775851-2025-08-24",
+      "headline": "US Open 2025: Sincaraz to continue dominance or will the Djoker have a say?The US Open men's singles event is all set to be dominated by the rivalry between Jannik Sinner and Carlos Alcaraz. While the duo may be the favourites, the third spot remains open and a certain Novak Djokovic could still have a say in proceedings. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jk-cricketer-fareed-hussain-dies-in-road-accident-cctv-captures-tragedy-2775842-2025-08-23",
+      "headline": "J&K cricketer Fareed Hussain dies in road accident, CCTV captures tragedyFareed Hussain, a local cricketer in Jammu and Kashmir, lost his life in a road accident. The tragedy occurred on August 20 and a CCTV camera was able to capture the accident which led to the death of Hussain. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-sign-eberechi-eze-67-5m-crystal-palace-transfer-2025-2775827-2025-08-23",
+      "headline": "Arsenal complete signing of Eze from Palace, midfielder to wear No.10Arsenal have completed the signing of Eberechi Eze from Crystal Palace for a reported deal of 67.5 million pounds on Saturday, August 23. Eze will wear the No.10 jersey at the club. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-slams-selectors-shreyas-iyer-asia-cup-2025-snub-2775822-2025-08-23",
+      "headline": "Shreyas Iyer's Asia Cup snub: Sanjay Manjrekar slams selectors for shocking callSanjay Manjrekar said that the decision to exclude Shreyas Iyer from the Asia Cup squad was a call that was devoid of any cricketing logic. Shreyas impressed during the IPL 2025 season as he led PBKS from the front. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-live-streaming-top-seeds-prize-money-2775819-2025-08-23",
+      "headline": "US Open 2025: Top seeds, prize money and all you need to knowThe 2025 US Open begins on August 24, with defending champions Jannik Sinner and Aryna Sabalenka aiming to retain their titles. Top contenders like Carlos Alcaraz, Iga Swiatek, Coco Gauff, and rising stars Fran Jones and Coleman Wong compete for a share of the record prize pool.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jk-cricketer-fareed-hussain-dies-in-road-accident-cctv-captures-tragedy-2775842-2025-08-23",
+      "headline": "J&K cricketer Fareed Hussain dies in road accident, CCTV captures tragedyFareed Hussain, a local cricketer in Jammu and Kashmir, lost his life in a road accident. The tragedy occurred on August 20 and a CCTV camera was able to capture the accident which led to the death of Hussain. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-sign-eberechi-eze-67-5m-crystal-palace-transfer-2025-2775827-2025-08-23",
+      "headline": "Arsenal complete signing of Eze from Palace, midfielder to wear No.10Arsenal have completed the signing of Eberechi Eze from Crystal Palace for a reported deal of 67.5 million pounds on Saturday, August 23. Eze will wear the No.10 jersey at the club. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-slams-selectors-shreyas-iyer-asia-cup-2025-snub-2775822-2025-08-23",
+      "headline": "Shreyas Iyer's Asia Cup snub: Sanjay Manjrekar slams selectors for shocking callSanjay Manjrekar said that the decision to exclude Shreyas Iyer from the Asia Cup squad was a call that was devoid of any cricketing logic. Shreyas impressed during the IPL 2025 season as he led PBKS from the front. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-live-streaming-top-seeds-prize-money-2775819-2025-08-23",
+      "headline": "US Open 2025: Top seeds, prize money and all you need to knowThe 2025 US Open begins on August 24, with defending champions Jannik Sinner and Aryna Sabalenka aiming to retain their titles. Top contenders like Carlos Alcaraz, Iga Swiatek, Coco Gauff, and rising stars Fran Jones and Coleman Wong compete for a share of the record prize pool.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-nigar-sultana-joty-captain-bangladesh-squad-2775806-2025-08-23",
+      "headline": "Bangladesh name 15-member squad for Women's World Cup, Joty to leadBangladesh have named a strong 15-member squad for the Women's World Cup 2025, led by Nigar Sultana Joty, with Rubya Haider Jhelik earning her maiden ODI call-up. The team qualified for the tournament during the Qualifiers in Lahore. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/tottenham-vs-manchester-city-2-0-etihad-premier-league-2025-26-2775804-2025-08-23",
+      "headline": "Tottenham Hotspur continue magical Etihad run to beat lacklustre Manchester CityTottenham continued their fine start to the Premier League 2025-26 season with a 2-0 win over Manchester City at the Etihad stadium. Guardiola side were lacklustre on the day as they were brought down to earth after their fine start to the campaign. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/susan-polgar-defends-gukesh-kasparov-world-chess-championship-2775785-2025-08-23",
+      "headline": "Susan Polgar defends D Gukesh after Gary Kasparov world championship jibeSusan Polgar has jumped to the defence of D Gukesh after Garry Kasparov took a jibe at the Indian grandmaster over his World Championship win. Gukesh won the title in 2024 when he defeated Ding Liren in Decemeber. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-south-africa-keshav-maharaj-t20i-odi-squads-2775775-2025-08-23",
+      "headline": "After No.1 ODI ranking, Keshav Maharaj earns T20I recall for England tourKeshav Maharaj returns to South Africa's ODI and T20I squads after claiming the No.1 ICC ODI bowler ranking, while Lizaad Williams, Marco Jansen, David Miller, and Donovan Ferreira also rejoin the white-ball side. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/suraj-narredu-shergar-cup-ascot-2400-wins-no-recognition-2775772-2025-08-23",
+      "headline": "Narredu on why winning Shergar title in Ascot is historic for Indian horse racingIndian jockey Suraj Narredu reflects on his historic Shergar Cup win at Ascot and why the feat is monumental for horse racing in India during an exclusive interaction with India Today. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/malaysia-hockey-team-arrival-hero-asia-cup-2025-rajgir-2775746-2025-08-23",
+      "headline": "Hero Asia Cup 2025: Malaysia become 1st team to reach Rajgir ahead of tournamentMalaysia became the first team to reach Rajgir ahead of the start of the Hero Asia Cup 2025. Malaysia finished as runners-up in the last edition and is aiming for another podium finish this time around. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-masters-press-conference-2775739-2025-08-23",
+      "headline": "Family first, Slams second: Djokovic explains skipping Masters before US OpenNovak Djokovic skipped the Toronto and Cincinnati Masters to prioritise family time, saying he now focusses mainly on Grand Slams rather than ranking points. Ahead of his US Open opener, the 38-year-old admitted he may even miss his daughter's birthday during the tournament. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-on-shah-rukh-khan-arrange-chartered-flight-2775714-2025-08-23",
+      "headline": "Shah Rukh Khan took me on a chartered flight after team India snub: Rinku SinghIndia and Kolkata Knight Riders (KKR) batter Rinku Singh revealed how his IPL team owner Shah Rukh Khan asked him to travel on a special chartered flight with him after Rinku's team India snub."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-trains-hard-at-lords-poses-with-fans-after-practice-2775701-2025-08-23",
+      "headline": "Virat Kohli trains hard at Lord's, poses with fans after practiceStar India batter Virat Kohli was recently spotted posing for photos with fans after his training session at Lord's. Kohli is enjoying time with his family ahead of his return to international cricket in October."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/raghvi-bist-india-a-vs-australia-a-womens-test-2775697-2025-08-23",
+      "headline": "Raghvi Bist brilliance lifts India A hopes in gripping Test vs Australia ARaghvi Bist's classy 86 guided India A Women to 260 for eight in their second innings, extending their lead to 254 runs on Day 3 in Brisbane. The contest remains evenly poised, with Australia A needing early breakthroughs on the final morning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/e-sports/story/xlg-dragon-ranger-gaming-qualify-vct-china-valorant-champions-2025-paris-2775695-2025-08-23",
+      "headline": "XLG, DRG secure final 2 spots for VALORANT Champions 2025 from ChinaXLG Esports and Dragon Ranger Gaming (DRG) have officially secured the final two spots from the VCT China region for VALORANT Champions 2025 in Paris."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-damien-priest-clashes-with-aleister-black-after-r-truths-smackdown-2775684-2025-08-23",
+      "headline": "WWE: Damien Priest clashes with Aleister Black after R-Truth's SmackDown mix-upSmackDown Dublin took an unexpected turn when R-Truth, set to face Aleister Black, hilariously revealed he had flown to Dublin, Georgia instead of Dublin, Ireland."
     }
   ],
   "education": [
