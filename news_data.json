@@ -175,9 +175,9 @@
       "headline": "No exception for PM: Kiren Rijiju recalls PM Modi's stand on arrested leaders billUnion Minister Kiren Rijiju said PM Narendra Modi had rejected granting any special protection to the prime minister in the newly introduced bill that sought the removal of ministers if they are arrested for 30 days."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/s-jaishankar-slams-us-for-getting-closer-to-pakistan-reminds-it-of-ladens-hideout-in-abbottabad-2775835-2025-08-23",
-      "headline": "Overlooking history: Jaishankar's dig at US, Pak; gives reminder on Osama bin LadenJaishankar was referring to the 2011 killing of Osama bin Laden, who orchestrated the 9/11 terror attacks, and said the military that Trump is trusting now was the one who sheltered the terrorist deep inside their house."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/you-dont-like-it-you-dont-buy-jaishankars-jibe-at-us-over-russian-oil-purchase-glbs-2775860-2025-08-24",
+      "headline": "You don't like it, you don't buy: Jaishankar hits out at US over Russian oil purchaseExternal Affairs Minister S Jaishankar defended India's oil trade and strategic autonomy amid US tariffs, rejecting mediation with Pakistan and criticising accusations of profiteering from Russian oil purchases."
     },
     {
       "sentiment": "negative",
@@ -185,19 +185,19 @@
       "headline": "12 Opposition ministers arrested since 2014, most would've lost post under new billNo sitting ministers from the BJP or NDA were arrested in this period; 10 of the arrests were made by the CBI and the ED."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/is-bccis-shubman-gill-all-format-captaincy-plan-feasible-in-modern-era-2775728-2025-08-24",
+      "headline": "3 formats, 1 captain: Is BCCI's Shubman Gill plan feasible in modern era?After including Shubman Gill in India's Asia Cup squad and reinstating him as the vice captain, the BCCI is planning to make him the all-format leader in future. However, is that idea feasible in modern day cricket?"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/votes-being-stolen-raj-thackeray-backs-rahul-gandhis-vote-chori-claims-2775849-2025-08-24",
       "headline": "Votes being stolen: Raj Thackeray backs Rahul Gandhi's 'vote chori' claimsEarlier this month, Leader of Opposition in Lok Sabha, Rahul Gandhi, alleged that the Election Commission was colluding with the BJP to \"steal elections\" in the country.\u00a0"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-developed-5g-domestically-working-on-made-in-india-6g-says-pm-modi-2775861-2025-08-24",
-      "headline": "India developed 5G domestically, working on made-in-India 6G: PM ModiIndia developed its entire 5G stack domestically and the country is now rapidly working on a made-in-India 6G technology, Prime Minister Narendra Modi said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-post-to-suspend-us-bound-parcels-from-august-29-after-new-american-duty-rules-2775703-2025-08-23",
-      "headline": "India Post suspends US-bound parcels from August 25 after new American duty rulesIndia Post will suspend the booking of all types of articles for the US from August 25, except for letters, documents, and gift items valued up to USD 100."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/s-jaishankar-slams-us-for-getting-closer-to-pakistan-reminds-it-of-ladens-hideout-in-abbottabad-2775835-2025-08-23",
+      "headline": "Overlooking history: Jaishankar's dig at US, Pak; gives reminder on Osama bin LadenJaishankar was referring to the 2011 killing of Osama bin Laden, who orchestrated the 9/11 terror attacks, and said the military that Trump is trusting now was the one who sheltered the terrorist deep inside their house."
     },
     {
       "sentiment": "negative",
@@ -206,18 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sudershan-reddy-on-amit-shah-naxalism-verdict-salwa-judum-criticism-2775816-2025-08-23",
-      "headline": "Wish he read judgment: Sudershan Reddy on Amit Shah's naxalism verdict criticismReacting to Amit Shah's remarks on Salwa Judum verdict, Sudershan Reddy pointed out that thes that the judgment was that of the Supreme Court, not his personal opinion."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/syrian-gang-raises-money-from-gujarat-mosques-in-name-of-gaza-victims-1-arrested-2775715-2025-08-23",
-      "headline": "Syrian gang raises money from Gujarat mosques in name of Gaza victims, 1 arrestedThe arrested accused told the police that the money collected from mosques was actually being used to \"fund their lavish lifestyle\"."
+      "url": "https://www.indiatoday.in/india/story/india-post-to-suspend-us-bound-parcels-from-august-29-after-new-american-duty-rules-2775703-2025-08-23",
+      "headline": "India Post suspends US-bound parcels from August 25 after new American duty rulesIndia Post will suspend the booking of all types of articles for the US from August 25, except for letters, documents, and gift items valued up to USD 100."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/people-tired-of-repeated-voting-piyush-goyal-pushes-for-one-nation-one-election-2775743-2025-08-23",
-      "headline": "People tired of repeated voting: Piyush Goyal pushes for One Nation One ElectionThe \"One Nation, One Election\" proposal envisages integrating and synchronising Lok Sabha and all state assembly elections to reduce election frequency, administrative costs, and disruptions caused by staggered polls.\u00a0"
+      "url": "https://www.indiatoday.in/india/story/india-developed-5g-domestically-working-on-made-in-india-6g-says-pm-modi-2775861-2025-08-24",
+      "headline": "India developed 5G domestically, working on made-in-India 6G: PM ModiIndia developed its entire 5G stack domestically and the country is now rapidly working on a made-in-India 6G technology, Prime Minister Narendra Modi said."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sudershan-reddy-on-amit-shah-naxalism-verdict-salwa-judum-criticism-2775816-2025-08-23",
+      "headline": "Wish he read judgment: Sudershan Reddy on Amit Shah's naxalism verdict criticismReacting to Amit Shah's remarks on Salwa Judum verdict, Sudershan Reddy pointed out that thes that the judgment was that of the Supreme Court, not his personal opinion."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/government-clears-decks-for-p75i-submarine-deal-with-germany-2775825-2025-08-23",
-      "headline": "Government clears decks for P-75I submarine deal with\u00a0GermanyUnder P-75I, the Indian Navy aims to procure six next-generation conventional submarines equipped with Air Independent Propulsion (AIP) systems, which would significantly enhance underwater endurance, allowing the submarines to remain submerged for nearly three weeks."
+      "url": "https://www.indiatoday.in/world/story/russia-captures-two-more-villages-in-ukraines-donetsk-amid-ongoing-conflict-glbs-2775862-2025-08-24",
+      "headline": "Russia captures two more villages in Ukraine's Donetsk amid ongoing conflictRussian forces claim control of two more villages in Donetsk, as Ukraine reports retaking Zelenyi Hai near Dnipropetrovsk and ongoing operations to repel further advances along the eastern front."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/jaipur/story/200-foot-long-wall-of-jaipurs-famous-amer-fort-collapses-amid-heavy-rain-2775844-2025-08-23",
-      "headline": "200-foot-long wall of Jaipur's famous Amer Fort collapses amid\u00a0heavy\u00a0rainA 200-foot-long section of a historic wall in the Dil-e-Aaram Bagh complex collapsed suddenly, causing panic among domestic and foreign tourists present at the site."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-to-deport-abrego-garcia-to-uganda-after-he-rejects-plea-offer-in-smuggling-case-glbs-2775865-2025-08-24",
+      "headline": "US to deport Abrego Garcia to Uganda after he rejects plea offer in smuggling caseUS plans to deport Kilmar Abrego Garcia to Uganda after he refused a Costa Rica plea deal. The Salvadoran faces human smuggling charges and says the case is meant to punish him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jaishankar-opens-up-on-trumps-foreign-policy-on-tariffs-india-pakistan-russian-oil-purchase-2775641-2025-08-23",
-      "headline": "Never had a US President who...: S Jaishankar lays into Trump's foreign policyMinister of External Affairs S Jaishankar said he found it \"funny\" that those working for a \"pro-business American administration\" were not minding their own business and were instead \"accusing others of doing business.\""
+      "url": "https://www.indiatoday.in/india/story/people-tired-of-repeated-voting-piyush-goyal-pushes-for-one-nation-one-election-2775743-2025-08-23",
+      "headline": "People tired of repeated voting: Piyush Goyal pushes for One Nation One ElectionThe \"One Nation, One Election\" proposal envisages integrating and synchronising Lok Sabha and all state assembly elections to reduce election frequency, administrative costs, and disruptions caused by staggered polls.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -251,23 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-when-and-where-to-watch-salman-khan-show-confirmed-contestants-and-more-2775708-2025-08-23",
-      "headline": "BB 19: When and where to watch Salman Khan show, confirmed contestants and moreWith just a day left for the grand premiere of Salman Khan-hosted 'Bigg Boss 19', fans are excited to know more about the show and the stars entering the show as contestants. Read to know more here.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/emily-in-paris-assistant-director-diego-borella-dies-47-filming-italy-2775803-2025-08-23",
-      "headline": "Emily in Paris assistant director dies at 47 while filming in ItalyDiego Borella, the Assistant Director of 'Emily in Paris', died on August 22, while working on the fifth season of the series in Venice, Italy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/indian-astronauts-share-what-gaganyaan-mission-can-do-for-earth-2775745-2025-08-23",
-      "headline": "Indian astronauts share what Gaganyaan mission can do for EarthSpeaking at a panel discussion on the occasion of National Space Day, astronaut Shubhanshu Shukla, along with other Gaganyaan astronauts, stressed the transformative nature of seeing Earth from orbit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/5-killed-as-car-rams-overcrowded-tempo-throws-it-into-ditch-in-up-2775823-2025-08-23",
-      "headline": "5 killed as car rams overcrowded tempo, throws it into\u00a0ditch\u00a0in\u00a0UPThe incident took place when a car, allegedly moving at high speed and on the wrong side of the road, crashed into a tempo carrying more than eight passengers en route to Amariya.\u00a0"
+      "url": "https://www.indiatoday.in/world/story/21-injured-as-bus-carrying-aliquippa-middle-school-football-team-overturns-glbs-2775856-2025-08-24",
+      "headline": "21 injured as bus carrying middle school football team crashes in PennsylvaniaA bus transporting Aliquippa Middle School's football team crashed in Beaver County, injuring several. 21 students were hospitalised, and others were picked up by parents. The crash remains under investigation."
     },
     {
       "sentiment": "negative",
@@ -276,8 +261,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-students-turn-chandrayaan-2-data-into-fresh-lunar-discoveries-2775694-2025-08-23",
-      "headline": "IIT Bombay students decode Moon's secrets with Chandrayaan-2 dataIIT Bombay students have taken data from India's Chandrayaan-2 mission to study the Moon's surface in greater detail. Their work focuses on understanding lunar chemistry, offering fresh insights into the minerals present on the Moon. "
+      "url": "https://www.indiatoday.in/science/story/indian-astronauts-share-what-gaganyaan-mission-can-do-for-earth-2775745-2025-08-23",
+      "headline": "Indian astronauts share what Gaganyaan mission can do for EarthSpeaking at a panel discussion on the occasion of National Space Day, astronaut Shubhanshu Shukla, along with other Gaganyaan astronauts, stressed the transformative nature of seeing Earth from orbit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/government-clears-decks-for-p75i-submarine-deal-with-germany-2775825-2025-08-23",
+      "headline": "Government clears decks for P-75I submarine deal with\u00a0GermanyUnder P-75I, the Indian Navy aims to procure six next-generation conventional submarines equipped with Air Independent Propulsion (AIP) systems, which would significantly enhance underwater endurance, allowing the submarines to remain submerged for nearly three weeks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/jaipur/story/200-foot-long-wall-of-jaipurs-famous-amer-fort-collapses-amid-heavy-rain-2775844-2025-08-23",
+      "headline": "200-foot-long wall of Jaipur's famous Amer Fort collapses amid\u00a0heavy\u00a0rainA 200-foot-long section of a historic wall in the Dil-e-Aaram Bagh complex collapsed suddenly, causing panic among domestic and foreign tourists present at the site."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/new-trump-design-chief-to-redesign-us-government-websites-glbs-2775864-2025-08-24",
+      "headline": "New Trump design chief to redesign US government websitesUS President Donald Trump's newly appointed Airbnb co-founder Joe Gebbia will lead the new National Design Studio, aiming to modernise 26,000 federal websites with better design, usability, and user experience over three years.\r\n"
     },
     {
       "sentiment": "positive",
@@ -301,6 +301,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/is-bccis-shubman-gill-all-format-captaincy-plan-feasible-in-modern-era-2775728-2025-08-24",
+      "headline": "3 formats, 1 captain: Is BCCI's Shubman Gill plan feasible in modern era?After including Shubman Gill in India's Asia Cup squad and reinstating him as the vice captain, the BCCI is planning to make him the all-format leader in future. However, is that idea feasible in modern day cricket?"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-mens-singles-preview-sinner-vs-alcaraz-djokovic-2775851-2025-08-24",
@@ -353,8 +358,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/malaysia-hockey-team-arrival-hero-asia-cup-2025-rajgir-2775746-2025-08-23",
-      "headline": "Hero Asia Cup 2025: Malaysia become 1st team to reach Rajgir ahead of tournamentMalaysia became the first team to reach Rajgir ahead of the start of the Hero Asia Cup 2025. Malaysia finished as runners-up in the last edition and is aiming for another podium finish this time around. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-nigar-sultana-joty-captain-bangladesh-squad-2775806-2025-08-23",
+      "headline": "Bangladesh name 15-member squad for Women's World Cup, Joty to leadBangladesh have named a strong 15-member squad for the Women's World Cup 2025, led by Nigar Sultana Joty, with Rubya Haider Jhelik earning her maiden ODI call-up. The team qualified for the tournament during the Qualifiers in Lahore. \r\n"
     },
     {
       "sentiment": "positive",
@@ -375,131 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/suraj-narredu-shergar-cup-ascot-2400-wins-no-recognition-2775772-2025-08-23",
       "headline": "Narredu on why winning Shergar title in Ascot is historic for Indian horse racingIndian jockey Suraj Narredu reflects on his historic Shergar Cup win at Ascot and why the feat is monumental for horse racing in India during an exclusive interaction with India Today. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/malaysia-hockey-team-arrival-hero-asia-cup-2025-rajgir-2775746-2025-08-23",
-      "headline": "Hero Asia Cup 2025: Malaysia become 1st team to reach Rajgir ahead of tournamentMalaysia became the first team to reach Rajgir ahead of the start of the Hero Asia Cup 2025. Malaysia finished as runners-up in the last edition and is aiming for another podium finish this time around. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-masters-press-conference-2775739-2025-08-23",
-      "headline": "Family first, Slams second: Djokovic explains skipping Masters before US OpenNovak Djokovic skipped the Toronto and Cincinnati Masters to prioritise family time, saying he now focusses mainly on Grand Slams rather than ranking points. Ahead of his US Open opener, the 38-year-old admitted he may even miss his daughter's birthday during the tournament. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-on-shah-rukh-khan-arrange-chartered-flight-2775714-2025-08-23",
-      "headline": "Shah Rukh Khan took me on a chartered flight after team India snub: Rinku SinghIndia and Kolkata Knight Riders (KKR) batter Rinku Singh revealed how his IPL team owner Shah Rukh Khan asked him to travel on a special chartered flight with him after Rinku's team India snub."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-trains-hard-at-lords-poses-with-fans-after-practice-2775701-2025-08-23",
-      "headline": "Virat Kohli trains hard at Lord's, poses with fans after practiceStar India batter Virat Kohli was recently spotted posing for photos with fans after his training session at Lord's. Kohli is enjoying time with his family ahead of his return to international cricket in October."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/raghvi-bist-india-a-vs-australia-a-womens-test-2775697-2025-08-23",
-      "headline": "Raghvi Bist brilliance lifts India A hopes in gripping Test vs Australia ARaghvi Bist's classy 86 guided India A Women to 260 for eight in their second innings, extending their lead to 254 runs on Day 3 in Brisbane. The contest remains evenly poised, with Australia A needing early breakthroughs on the final morning."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/e-sports/story/xlg-dragon-ranger-gaming-qualify-vct-china-valorant-champions-2025-paris-2775695-2025-08-23",
-      "headline": "XLG, DRG secure final 2 spots for VALORANT Champions 2025 from ChinaXLG Esports and Dragon Ranger Gaming (DRG) have officially secured the final two spots from the VCT China region for VALORANT Champions 2025 in Paris."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-damien-priest-clashes-with-aleister-black-after-r-truths-smackdown-2775684-2025-08-23",
-      "headline": "WWE: Damien Priest clashes with Aleister Black after R-Truth's SmackDown mix-upSmackDown Dublin took an unexpected turn when R-Truth, set to face Aleister Black, hilariously revealed he had flown to Dublin, Georgia instead of Dublin, Ireland."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-andrew-castle-grand-slams-2775682-2025-08-23",
-      "headline": "Djokovic is done in terms of winning Grand Slams: Former British No.1Andrew Castle feels Novak Djokovic's Grand Slam-winning days may be over, with Carlos Alcaraz and Jannik Sinner emerging as dominant forces. The Serb, stuck on 24 majors since the 2023 US Open, faces doubts about adding a 25th title amid younger rivals' rise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-shubman-gill-illness-reports-2775665-2025-08-23",
-      "headline": "Shubman Gill set to miss Duleep Trophy due to illness: ReportsShubman Gill is all set to miss the Duleep Trophy 2025 due to illness, with Ankit Kumar set to lead North Zone in his absence. Arshdeep Singh and Harshit Rana will play only the opening match before leaving for Asia Cup duties. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/e-sports/story/xlg-dragon-ranger-gaming-qualify-vct-china-valorant-champions-2025-paris-2775695-2025-08-23",
-      "headline": "XLG, DRG secure final 2 spots for VALORANT Champions 2025 from ChinaXLG Esports and Dragon Ranger Gaming (DRG) have officially secured the final two spots from the VCT China region for VALORANT Champions 2025 in Paris."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-damien-priest-clashes-with-aleister-black-after-r-truths-smackdown-2775684-2025-08-23",
-      "headline": "WWE: Damien Priest clashes with Aleister Black after R-Truth's SmackDown mix-upSmackDown Dublin took an unexpected turn when R-Truth, set to face Aleister Black, hilariously revealed he had flown to Dublin, Georgia instead of Dublin, Ireland."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-andrew-castle-grand-slams-2775682-2025-08-23",
-      "headline": "Djokovic is done in terms of winning Grand Slams: Former British No.1Andrew Castle feels Novak Djokovic's Grand Slam-winning days may be over, with Carlos Alcaraz and Jannik Sinner emerging as dominant forces. The Serb, stuck on 24 majors since the 2023 US Open, faces doubts about adding a 25th title amid younger rivals' rise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-shubman-gill-illness-reports-2775665-2025-08-23",
-      "headline": "Shubman Gill set to miss Duleep Trophy due to illness: ReportsShubman Gill is all set to miss the Duleep Trophy 2025 due to illness, with Ankit Kumar set to lead North Zone in his absence. Arshdeep Singh and Harshit Rana will play only the opening match before leaving for Asia Cup duties. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-asia-cup-squad-selection-2775663-2025-08-23",
-      "headline": "Rinku Singh opens up on Asia Cup selection: Did not think I would make itRinku Singh was named in India's 15-member squad for the Asia Cup 2025. Ahead of the tournament, Rinku admitted that he was not sure if he would get selected in the squad.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/muthiah-muralidaran-and-sanath-jayausuriyas-sons-face-off-in-club-game-in-sri-lanka-2775654-2025-08-23",
-      "headline": "Muthiah Muralidaran and Sanath Jayasuriya's sons face off in club gameLegendary Sri Lanka cricketers Muthiah Muralidaran and Sanath Jayasuriya's sons Ranuk Jayasuriya and Naren Muralitharan are going up against each other in a club fixture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-india-trip-2775631-2025-08-23",
-      "headline": "Which team will play Messi's Argentina in India? Kerala minister answersLionel Messi's Argentina are coming to India. But who will they play in the international friendly? Kerala sports minister reveals details."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/manoj-tiwary-on-india-vs-pakistan-match-asia-cup-2025-2775629-2025-08-23",
-      "headline": "Won't watch IND vs PAK match, value of human life more than sports: Manoj TiwaryFormer India cricketer Manoj Tiwary has said that he won't be watching the upcoming India vs Pakistan match in the Asia Cup 2025, saying that human life is more important than sports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jannik-sinner-us-open-quitting-tennis-age-24-2775599-2025-08-23",
-      "headline": "Tennis a costly dream? Jannik Sinner would have quit if not ranked top 200 by 24Jannik Sinner has revealed he would have quit tennis if he had not reached the top 200 by age 24.  Sinner's comments put light on the financial struggles faced by tennis players from modest backgrounds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-piper-niven-beats-charlotte-flair-in-shocking-smackdown-upset-2775594-2025-08-23",
-      "headline": "WWE: Piper Niven stuns Charlotte Flair in shocking SmackDown upset of 2025SmackDown delivered a major shock as Piper Niven pinned 18-time champion Charlotte Flair in one of WWE's biggest upsets of 2025 to secure her career-defining singles win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-waves-to-fan-while-being-stuck-in-mumbai-traffic-2775584-2025-08-23",
-      "headline": "Watch: Rohit Sharma waves to fan while being stuck in Mumbai trafficIndia's ODI captain Rohit Sharma was seen stuck in Mumbai traffic driving his new Lamborghini. The star batter even made a thumbs up gesture to his fan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-football-match-kerala-2775562-2025-08-23",
-      "headline": "Lionel Messi's trip to India finally confirmed, team to play friendly in KeralaLionel Messi's Argentina is set to arrive in India in November. They will play a friendly game in Kerala, the Argentine Football Association announced on Saturday, August 23."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/priyansh-arya-on-red-ball-cricket-shubman-gill-dpl-2025-2775558-2025-08-23",
-      "headline": "Inspired by Shubman Gill, T20 maverick Priyansh Arya eyes red-ball stintPriyansh Arya has continued his rapid rise with another brilliant season in the Delhi Premier League 2025. However, his aspirations are far beyond just hitting humongous sixes in T20 cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bhuvneshwar-kumar-up-t20-league-swing-2775559-2025-08-23",
-      "headline": "Swing king Bhuvneshwar Kumar bamboozles batters in UP T20 LeagueBhuvneshwar Kumar returned to his best in the UP T20 League on Friday. Playing against Gaur Gorakhpur Lions, the RCB star delivered a riveting opening spell.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/aljamain-sterling-vs-brian-ortega-ufc-fight-night-jon-jones-2775507-2025-08-23",
-      "headline": "Aljamain Sterling's 2nd act: Ortega test, title hopes and early history with Jon JonesFormer bantamweight champion Aljamain Sterling targets Brian Ortega in a key UFC featherweight clash as he chases a second title and two-division glory. Funk Master speaks about the upcoming fight, his connection with Jon Jones and more. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-lemonade-girl-video-2775555-2025-08-23",
-      "headline": "Watch: Djokovic's cute moment with lemonade girl wins hearts at US OpenUS Open: Novak Djokovic is set to play in the US Open. Before the tournament, Djokovic interacted with a young fan - Emerie - who posed as a lemonade seller."
     }
   ],
   "education": [
