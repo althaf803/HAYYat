@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-urges-linkedin-to-fix-account-flagged-fake-2776067-2025-08-24",
+      "headline": "Shraddha Kapoor urges LinkedIn to fix account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-season-19-grand-premiere-live-updates-salman-khan-contestants-list-jiohotstar-2775950-2025-08-24",
       "headline": "Bigg Boss 19 Grand Premiere LIVE Updates: Salman Khan show is back with a new twistBigg Boss 19 Live: The wait is finally over as the much-anticipated season of Bigg Boss kicks off in just a few hours! With Salman Khan returning as host, fans can look forward to his signature wit, charm, and high-energy presence. "
     },
@@ -151,18 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/k-town-3-0-mumbai-taemin-super-junior-de-yedam-debut-indian-kpop-festival-2775689-2025-08-23",
       "headline": "Taemin and D&E to perform in India for first time at K-Town 3.0Mumbai will host K-Town 3.0, a major Korean cultural festival, on November 1, 2025. The event marks significant K-pop debuts in India and highlights the rising Hallyu wave."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-reacts-to-unfair-tag-on-coolie-role-preethi-its-someone-elses-vision-lokesh-kanagaraj-rajinikanth-2775669-2025-08-23",
-      "headline": "Shruti Haasan reacts to unfair tag on Coolie role: It's someone else's visionActor Shruti Haasan responded to a fan who asked if her role in Rajinikanth's 'Coolie' was unfair. The actor wrote how it was all about someone else's vision. "
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/noida-cops-open-fire-at-dowry-death-case-accused-as-he-tries-to-flee-after-arrest-shot-in-the-leg-2775982-2025-08-24",
-      "headline": "Noida dowry death accused shot in leg as he tries to flee, snatches cop's gunGreater Noida police shot and injured Vipin, accused of burning his wife Nikki alive over dowry demands, after he tried to escape custody. Nikki's father welcomed the action, demanding strict punishment for all accused."
+      "headline": "Noida dowry death accused snatches cop's gun, shot in leg as he tries to fleeGreater Noida police shot and injured Vipin, accused of burning his wife Nikki alive over dowry demands, after he tried to escape custody. Nikki's father welcomed the action, demanding strict punishment for all accused."
     },
     {
       "sentiment": "negative",
@@ -191,8 +191,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/election-commission-of-india-using-sir-to-steal-votes-in-bihar-rahul-gandhi-tejashwi-double-down-2775979-2025-08-24",
-      "headline": "Poll body using SIR to steal votes in Bihar: Rahul Gandhi, Tejashwi double downAt a rally in Araria during the 'Voter Adhikar Yatra', with RJD's Tejashwi Yadav by his side, Rahul Gandhi alleged that after privatising public sector units, the Narendra Modi government now wants to \"steal the votes of the poor\" through the SIR with the help of the Election Commission."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-tejashwi-yadav-bihar-india-bloc-chirag-paswan-marriage-remark-voter-adhikar-yatra-2776020-2025-08-24",
+      "headline": "Tejashwi Yadav advises Chirag Paswan to marry, Rahul quips 'applies to me too'Rahul Gandhi and Tejashwi Yadav shared a light-hearted banter on marriage during a joint presser in Araria, while affirming INDIA bloc unity ahead of Bihar polls and slamming the Election Commission for allegedly aiding BJP. "
     },
     {
       "sentiment": "positive",
@@ -205,6 +205,11 @@
       "headline": "Video: Man kisses Rahul Gandhi on bike during Bihar rally;\u00a0gets\u00a0slapped by guardThe incident took place as the Lok Sabha Opposition leader, along with RJD leader Tejashwi Yadav, was leading a motorcycle rally as part of the yatra."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/election-commission-of-india-using-sir-to-steal-votes-in-bihar-rahul-gandhi-tejashwi-double-down-2775979-2025-08-24",
+      "headline": "Poll body using SIR to steal votes in Bihar: Rahul Gandhi, Tejashwi double downAt a rally in Araria during the 'Voter Adhikar Yatra', with RJD's Tejashwi Yadav by his side, Rahul Gandhi alleged that after privatising public sector units, the Narendra Modi government now wants to \"steal the votes of the poor\" through the SIR with the help of the Election Commission."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-season-19-grand-premiere-live-updates-salman-khan-contestants-list-jiohotstar-2775950-2025-08-24",
       "headline": "Bigg Boss 19 Grand Premiere LIVE Updates: Salman Khan show is back with a new twistBigg Boss 19 Live: The wait is finally over as the much-anticipated season of Bigg Boss kicks off in just a few hours! With Salman Khan returning as host, fans can look forward to his signature wit, charm, and high-energy presence. "
@@ -213,11 +218,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/what-happens-when-chinas-xi-jinping-moderates-an-imaginary-pm-modi-donald-trump-debate-on-russian-oil-trade-and-tariff-2775241-2025-08-24",
       "headline": "What happens when Xi moderates an imaginary Modi-Trump debate?PM Modi battles Trump's tariffs over Russian oil imports in a heated hypothetical debate that reflects real-world tensions."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-tejashwi-yadav-bihar-india-bloc-chirag-paswan-marriage-remark-voter-adhikar-yatra-2776020-2025-08-24",
-      "headline": "Tejashwi Yadav advises Chirag Paswan to marry, Rahul quips 'applies to me too'Rahul Gandhi and Tejashwi Yadav shared a light-hearted banter on marriage during a joint presser in Araria, while affirming INDIA bloc unity ahead of Bihar polls and slamming the Election Commission for allegedly aiding BJP. "
     },
     {
       "sentiment": "positive",
@@ -281,6 +281,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-urges-linkedin-to-fix-account-flagged-fake-2776067-2025-08-24",
+      "headline": "Shraddha Kapoor urges LinkedIn to fix account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/mini-mathur-slams-paparazzi-kajol-body-shaming-video-how-dare-you-2776013-2025-08-24",
       "headline": "Mini Mathur slams paparazzi for zooming in on Kajol's body: How dare youActor Mini Mathur defended fellow actor Kajol after a video body-shaming the actor surfaced online. She slammed the paparazzo for zooming in on Kajol's body. In the comments, Mathur wrote that Kajol doesn't owe them eternal youth. "
     },
@@ -293,14 +298,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/manish-malhotra-gustaakh-ishq-vijay-varma-fatima-sana-shaikh-november-release-debut-film-producer-first-glimpse-2775972-2025-08-24",
       "headline": "Manish Malhotra's Gustaakh Ishq with Vijay Varma and Fatima to release in NovemberFashion designer Manish Malhotra announced his first film as a producer on Sunday. Titled 'Gustaakh Ishq', the film stars Vijay Varma and Fatima Sana Shaikh in the lead roles. Slated for a November release this year, the first glimpse of the film will be out on Monday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-manager-addresses-divorce-rumours-sunita-ahuja-everything-is-getting-settled-2775955-2025-08-24",
-      "headline": "Govinda's manager addresses divorce rumours: Everything is getting settledGovinda's manager and lawyer have addressed new rumours about the actor and Sunita Ahuja's divorce. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-reveals-retirement-decision-india-test-2776083-2025-08-24",
+      "headline": "Been thinking about retirement for just a week: Cheteshwar Pujara breaks silenceCheteshwar Pujara broke his silence on his decision to retire from all formats of the game. Pujara decided to call time on his career on Sunday, August 24 after playing 103 Tests. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/cheteshwar-pujara-india-retirement-new-test-era-safe-hands-exclusive-2776079-2025-08-24",
+      "headline": "Pujara backs India Test team's new era post-retirement: Future in safe handsCheteshwar Pujara, after bidding farewell to international cricket, voiced his confidence in India's next generation of Test cricketers. Speaking exclusively to AajTak, he backed the new leadership to guide the team toward sustained success in the coming years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-cooper-connolly-3rd-odi-record-2776071-2025-08-24",
+      "headline": "Cooper Connolly breaks 20-year-old record with historic spell in 3rd ODICooper Connolly produced record-breaking figures of 6-0-22-5, the best ever by an Australian spinner in men's ODIs, to set up a crushing 276-run win in Mackay. Australia's 431/2, powered by Travis Head, Mitchell Marsh and Cameron Green, handed South Africa their heaviest ODI defeat.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/raja-jackson-attacks-pro-wrestler-california-event-rampage-jackson-response-2776062-2025-08-24",
+      "headline": "Watch: UFC legend Rampage Jackson's son brutally assaults pro-wrestler at eventRaja Jackson, son of Quinton \"Rampage\" Jackson, attacked wrestler Syko Stu, aka Stuart Smith, at a Knokx Pro Wrestling event in California. Rampage later apologised, calling it a work gone wrong."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-3rd-odi-travis-head-cooper-connolly-2776055-2025-08-24",
+      "headline": "Australia hand South Africa their biggest ODI defeat with consolation winAUS vs SA: Australia crushed South Africa by 276 runs in Mackay to finish the series 1-2. Powered by centuries from Travis Head, Mitchell Marsh, Cameron Green and a five-wicket haul from Cooper Connolly, the hosts dominated in a record-breaking win.\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-sachin-tendulkar-yuvraj-singh-vvs-laxman-tributes-2776048-2025-08-24",
@@ -333,53 +358,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-full-statement-retirement-family-friends-indian-cricket-father-2775946-2025-08-24",
-      "headline": "Cheteshwar Pujara shares heartfelt farewell note after retirement: Full textCheteshwar Pujara has retired from all forms of Indian cricket. His emotions were evident as he shared a heartfelt message with his fans and well-wishers after making the difficult decision to step away from the game. Read his full retirement post here."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-australia-women-test-match-raghvi-bist-2776016-2025-08-24",
+      "headline": "Raghvi Bist's twin fifties in vain as Australia A beat India A in Women's TestAustralia A Women chased down 281, defeating India A Women by six wickets in the unofficial Test in Brisbane. Anchored by strong partnerships from Rachel Trenaman, Tahlia Wilson, Maddy Darke, and Anika Learoyd, the hosts sealed the one-off contest. \r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-fans-pay-tribute-2775945-2025-08-24",
-      "headline": "Cheteshwar Pujara retirement: Fans pay tribute to 'silent warrior' of IndiaIndia batter Cheteshwar Pujara announced his retirement from all forms of Indian cricket after last playing for the team in 2023. Pujara played 103 Tests and five ODIs for India and scored over 7,000 runs."
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-cheteshwar-pujara-retirement-congratulations-2776003-2025-08-24",
+      "headline": "Gambhir congratulates retiring Cheteshwar Pujara: Stood tall when the storm ragedGautam Gambhir congratulated Cheteshwar Pujara on his retirement, praising the veteran batter's grit and match-saving ability. Pujara departs as one of India's most reliable No.3s, scoring 7,195 runs with his finest moment coming in the 2018\u201319 Border-Gavaskar Trophy win in Australia.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/newcastle-striker-eddie-howe-isak-transfer-anthony-gordon-premier-league-2775936-2025-08-24",
-      "headline": "Howe keeps faith in Newcastle to sign striker in event of Isak's departureNewcastle United's owners will not leave the club without a recognised striker if the long-running transfer saga involving Alexander Isak ends with the Swede's departure, manager Eddie Howe said ahead of their Premier League clash with Liverpool."
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-sa-cameron-green-47-ball-hundred-second-fastest-australia-in-odis-2775989-2025-08-24",
+      "headline": "Cameron Green hits 47-ball hundred, second-fastest for Australia in ODIsCameron Green scored a stunning 118 not out, registering the second-fastest ODI century by an Australian, to help Australia post 431 for 2 against South Africa."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-all-forms-india-test-cricket-2775927-2025-08-24",
-      "headline": "Cheteshwar Pujara, last of India's Test purists, retires from all forms of cricketCheteshwar Pujara, one of India's most resilient and respected Test cricketers, has announced his retirement from all forms of Indian cricket. The 36-year-old bows out as the country's eighth-highest run-scorer in Test matches."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-stats-test-cricket-retirement-2775986-2025-08-24",
+      "headline": "Pujara retires as India's second-best No.3 Test batter: Career in numbersCheteshwar Pujara has retired from all formats of cricket at 37, ending a career that spanned 103 Tests with 7,195 runs, 19 centuries and 35 fifties. Debuting in 2010 and playing his last Test in the 2023 WTC final, he leaves behind a legacy of resilience, patience and technical mastery at No. 3."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cpl-2025-tim-david-controversial-dismissal-mars-knight-riders-st-lucia-2775907-2025-08-24",
-      "headline": "CPL: Tim David's controversial dismissal mars Knight Riders' win over St LuciaStar Australia batter Tim David was controversially dismissed during Match 10 of the Caribbean Premier League 2025 (CPL 2025) between Trinbago Knight Riders and Saint Lucia Kings. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-full-statement-retirement-family-friends-indian-cricket-father-2775946-2025-08-24",
-      "headline": "Cheteshwar Pujara shares heartfelt farewell note after retirement: Full textCheteshwar Pujara has retired from all forms of Indian cricket. His emotions were evident as he shared a heartfelt message with his fans and well-wishers after making the difficult decision to step away from the game. Read his full retirement post here."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-fans-pay-tribute-2775945-2025-08-24",
-      "headline": "Cheteshwar Pujara retirement: Fans pay tribute to 'silent warrior' of IndiaIndia batter Cheteshwar Pujara announced his retirement from all forms of Indian cricket after last playing for the team in 2023. Pujara played 103 Tests and five ODIs for India and scored over 7,000 runs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/newcastle-striker-eddie-howe-isak-transfer-anthony-gordon-premier-league-2775936-2025-08-24",
-      "headline": "Howe keeps faith in Newcastle to sign striker in event of Isak's departureNewcastle United's owners will not leave the club without a recognised striker if the long-running transfer saga involving Alexander Isak ends with the Swede's departure, manager Eddie Howe said ahead of their Premier League clash with Liverpool."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-all-forms-india-test-cricket-2775927-2025-08-24",
-      "headline": "Cheteshwar Pujara, last of India's Test purists, retires from all forms of cricketCheteshwar Pujara, one of India's most resilient and respected Test cricketers, has announced his retirement from all forms of Indian cricket. The 36-year-old bows out as the country's eighth-highest run-scorer in Test matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cpl-2025-tim-david-controversial-dismissal-mars-knight-riders-st-lucia-2775907-2025-08-24",
-      "headline": "CPL: Tim David's controversial dismissal mars Knight Riders' win over St LuciaStar Australia batter Tim David was controversially dismissed during Match 10 of the Caribbean Premier League 2025 (CPL 2025) between Trinbago Knight Riders and Saint Lucia Kings. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retires-special-india-record-puja-interaction-2775971-2025-08-24",
+      "headline": "Cheteshwar Pujara retires: The man who never relaxed, but was always at peaceCheteshwar Pujara retires as one of India's most successful Test batters with 7,195 runs in 103 Tests. But numbers alone don't define his greatness. It was his patience, resilience, and quiet defiance that turned time itself into his greatest innings."
     }
   ],
   "education": [
