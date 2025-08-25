@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/trishala-dutt-cryptic-note-mental-health-family-image-manipulative-people-sanjay-dutt-daughter-2776635-2025-08-25",
+      "headline": "Sanjay Dutt's daughter Trishala's cryptic post: Family not free pass to mistreatActor Sanjay Dutt's daughter Trishala Dutt opened up about manipulative family dynamics by sharing a cryptic note. She urged prioritising mental health over preserving family image."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/story/us-comedian-reginald-carroll-shot-dead-mississippi-shooting-2776619-2025-08-25",
       "headline": "American comedian Reginald Carroll shot dead in Mississippi shootingStand-up comedian Reggie Carroll died after a shooting incident in Mississippi, United States. His death has shocked the comedy community and led to a police investigation."
     },
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-attends-ganga-aarti-in-rishikesh-shares-video-from-her-spiritual-visit-2776313-2025-08-25",
       "headline": "Farah Khan attends Ganga Aarti in Rishikesh, shares video from her spiritual visitFarah Khan attended the Ganga Aarti in Rishikesh for the first time, calling it a beautiful and divine experience blessed with rain. She also announced YouTube FanFest 2025, which will feature over 20 creators and artists across comedy, music, dance, gaming, and more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sunny-deol-praises-aryan-khans-debut-bads-of-bollywood-says-shah-rukh-khan-will-be-proud-2776350-2025-08-25",
-      "headline": "Sunny Deol praises Aryan Khan's debut Ba***ds of Bollywood, says SRK will be proudAryan Khan's directorial debut 'Ba***ds of Bollywood' received praise from Sunny Deol, who shared the show's preview and a heartfelt note calling it absolutely fantastic. The Netflix satire, featuring Bobby Deol and cameos by Salman Khan, Ranveer Singh, and Karan Johar, will stream from September 18."
     }
   ],
   "general news": [
@@ -175,9 +175,9 @@
       "headline": "BJP shares Congress poll data to take on Rahul Gandhi's 'vote chori' chargeThe BJP countered Congress's 'vote chori' charge, with Amit Malviya stating that the Congress and its allies secured its highest vote share in 35 years in the 2024 elections."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/pmo-to-chair-key-meeting-on-50-us-tariffs-tomorrow-details-here-2776375-2025-08-25",
-      "headline": "Big PMO meet tomorrow as Trump's 50% tariffs set to come into\u00a0force:\u00a0SourcesStarting Wednesday, Indian goods entering the US market will be subject to a 50% tariff after Washington doubled existing duties, heightening cost pressures on exporters."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-forms-sit-headed-by-ex-judge-justice-j-chelameswar-to-probe-affairs-of-vantara-animal-shelter-2776657-2025-08-25",
+      "headline": "Top court sets up special team to probe affairs of VantaraSupreme Court forms SIT headed by ex-judge Justice J Chelameswar to probe affairs of Vantara animal shelter"
     },
     {
       "sentiment": "positive",
@@ -186,13 +186,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-amit-shahs-remarks-aap-running-delhi-government-from-jail-2776560-2025-08-25",
-      "headline": "Framed in false case, ran government from jail: Arvind Kejriwal jabs Amit ShahArvind Kejriwal hit back at Amit Shah's remarks on AAP running the Delhi government from jail, calling the case against him a political conspiracy and accusing the BJP of shielding criminals while targeting opponents with false charges."
+      "url": "https://www.indiatoday.in/business/story/pmo-to-chair-key-meeting-on-50-us-tariffs-tomorrow-details-here-2776375-2025-08-25",
+      "headline": "Big PMO meet tomorrow as Trump's 50% tariffs set to come into\u00a0force:\u00a0SourcesStarting Wednesday, Indian goods entering the US market will be subject to a 50% tariff after Washington doubled existing duties, heightening cost pressures on exporters."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-warns-pakistan-of-flood-situation-in-jammu-and-kashmir-in-the-tawi-river-on-humanitarian-grounds-2776476-2025-08-25",
-      "headline": "India warns Pak over J&K floods in rare goodwill gesture amid Indus treaty freezeThe communication was made by the Indian High Commission in Islamabad on Sunday to the Pakistani Foreign Ministry on the matter. This is the first time that an information regarding such a matter has been sent via the High Commission.\u00a0"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/elon-musk-files-lawsuit-against-apple-openai-for-conspiring-to-stop-competition-for-artificial-intelligence-2776661-2025-08-25",
+      "headline": "Elon Musk files lawsuit against Apple, OpenAI for 'conspiring' to stop competition for artificial intelligenceElon Musk files lawsuit against Apple, OpenAI for 'conspiring' to stop competition for artificial intelligence"
     },
     {
       "sentiment": "positive",
@@ -206,8 +206,23 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-amit-shahs-remarks-aap-running-delhi-government-from-jail-2776560-2025-08-25",
+      "headline": "Framed in false case, ran government from jail: Arvind Kejriwal jabs Amit ShahArvind Kejriwal hit back at Amit Shah's remarks on AAP running the Delhi government from jail, calling the case against him a political conspiracy and accusing the BJP of shielding criminals while targeting opponents with false charges."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-warns-pakistan-of-flood-situation-in-jammu-and-kashmir-in-the-tawi-river-on-humanitarian-grounds-2776476-2025-08-25",
+      "headline": "India warns Pak over J&K floods in rare goodwill gesture amid Indus treaty freezeThe communication was made by the Indian High Commission in Islamabad on Sunday to the Pakistani Foreign Ministry on the matter. This is the first time that an information regarding such a matter has been sent via the High Commission.\u00a0"
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-new-dui-bill-deport-green-card-h1b-visa-holders-drink-and-drive-cases-trump-dui-indian-immigrants-2776387-2025-08-25",
       "headline": "Will US deport Green Card, visa holders using old drunk-driving cases?A new US bill could make a single drink and drive case, even from years ago, the grounds for deportation or entry denial for Green Card and visa holders. Immigrant communities and experts fear it could bypass due process and disproportionately affect legal residents. The bill could affect lakhs of Indians working or studying in the US."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/icse-schools-selective-board-strong-english-science-education-india-2776426-2025-08-25",
+      "headline": "CBSE vs ICSE: Why are there fewer ICSE schools despite its strong reputation?ICSE schools remain fewer but are highly valued for their rigorous syllabus and strong English foundations. This exclusivity highlights quality education focused on holistic learning rather than mass expansion."
     },
     {
       "sentiment": "negative",
@@ -221,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/icse-schools-selective-board-strong-english-science-education-india-2776426-2025-08-25",
-      "headline": "CBSE vs ICSE: Why are there fewer ICSE schools despite its strong reputation?ICSE schools remain fewer but are highly valued for their rigorous syllabus and strong English foundations. This exclusivity highlights quality education focused on holistic learning rather than mass expansion."
+      "url": "https://www.indiatoday.in/business/story/ahpi-bajaj-allianz-cashless-treatment-hospital-body-meeting-insurance-rejection-claims-girdhar-gyani-2776408-2025-08-25",
+      "headline": "Why hospitals have barred cashless services from Bajaj Allianz policyholdersThe meeting between AHPI's (Association of Healthcare Providers India) will include core committee members and senior representatives from Bajaj Allianz, and is scheduled for August 28. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/ahpi-bajaj-allianz-cashless-treatment-hospital-body-meeting-insurance-rejection-claims-girdhar-gyani-2776408-2025-08-25",
-      "headline": "Why hospitals have barred cashless services from Bajaj Allianz policyholdersThe meeting between AHPI's (Association of Healthcare Providers India) will include core committee members and senior representatives from Bajaj Allianz, and is scheduled for August 28. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-announce-pregnancy-blessed-beyond-measure-2776331-2025-08-25",
+      "headline": "Parineeti Chopra, Raghav Chadha announce pregnancy: Blessed beyond measureParineeti Chopra and Raghav Chadha are going to welcome their first child soon. The couple announced the news on social media. "
     },
     {
       "sentiment": "positive",
@@ -241,8 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-announce-pregnancy-blessed-beyond-measure-2776331-2025-08-25",
-      "headline": "Parineeti Chopra, Raghav Chadha announce pregnancy: Blessed beyond measureParineeti Chopra and Raghav Chadha are going to welcome their first child soon. The couple announced the news on social media. "
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-indias-forex-reserve-rebound-is-a-march-towards-stability-in-money-markets-2776535-2025-08-25",
+      "headline": "How India's forex reserve rebound is a march towards stability in money marketsFrom record highs to sharp declines and a resilient rebound, India's foreign exchange reserves tell a story of strategic economic shifts and robust domestic drivers"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/avneet-kaur-reacts-to-virat-kohli-liking-her-insta-post-let-the-love-keep-coming-2776613-2025-08-25",
+      "headline": "Avneet Kaur reacts to Virat Kohli liking her Insta post: Let the love keep comingAvneet Kaur addressed the social media controversy involving Virat Kohli. At the trailer launch of her film 'Love in Vietnam', she reacted to the incident, saying \"let the love come\"."
     },
     {
       "sentiment": "negative",
@@ -256,28 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-indias-forex-reserve-rebound-is-a-march-towards-stability-in-money-markets-2776535-2025-08-25",
-      "headline": "How India's forex reserve rebound is a march towards stability in money marketsFrom record highs to sharp declines and a resilient rebound, India's foreign exchange reserves tell a story of strategic economic shifts and robust domestic drivers"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/avneet-kaur-reacts-to-virat-kohli-liking-her-insta-post-let-the-love-keep-coming-2776613-2025-08-25",
-      "headline": "Avneet Kaur reacts to Virat Kohli liking her Insta post: Let the love keep comingAvneet Kaur addressed the social media controversy involving Virat Kohli. At the trailer launch of her film 'Love in Vietnam', she reacted to the incident, saying \"let the love come\"."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/gustaakh-ishq-teaser-manish-malhotra-brings-old-school-romance-with-vijay-varma-fatima-sana-shaikh-2776484-2025-08-25",
       "headline": "Gustaakh Ishq teaser: Manish Malhotra brings old-school romance with Vijay-FatimaIn 'Gustaakh Ishq', producer Manish Malhotra lets old-school romance take over our screens. Headlined by Fatima Sana Shaikh and Vijay Varma, the film also boasts strong performances by Naseeruddin Shah and Sharib Hashmi. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/why-startups-still-want-freshers-while-big-companies-pull-back-2776549-2025-08-25",
-      "headline": "Why startups still want freshers while big companies pull backIndia's fresher job market is cooling overall, but startups and retail players are defying the slowdown. Even as big corporates cut entry-level hiring, agile firms are betting big on fresh talent to fuel growth.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-lakshya-sen-first-round-exit-shi-yuqi-2776604-2025-08-25",
-      "headline": "Valiant Lakshya Sen bows out in first round in heartbreaking return to ParisBWF World Championships 2025: Former bronze medallist Lakshya Sen fought hard in the opening round, but China's top seed Shi Yuqi proved too strong. It marked Lakshya's ninth first-round exit of the year."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/trishala-dutt-cryptic-note-mental-health-family-image-manipulative-people-sanjay-dutt-daughter-2776635-2025-08-25",
+      "headline": "Sanjay Dutt's daughter Trishala's cryptic post: Family not free pass to mistreatActor Sanjay Dutt's daughter Trishala Dutt opened up about manipulative family dynamics by sharing a cryptic note. She urged prioritising mental health over preserving family image."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/vidya-balan-calls-parineeta-her-dream-debut-as-it-returns-to-cinemas-after-20-years-2776586-2025-08-25",
       "headline": "Vidya Balan calls Parineeta her dream debut as it returns to cinemas after 20 yearsVidya Balan's debut film 'Parineeta' will be re-released on its 20th anniversary. Ahead of that, the actor called it her \"dream debut\". "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/soha-ali-khan-wellness-podcast-womens-ageing-self-kindness-2776578-2025-08-25",
-      "headline": "Soha Ali Khan launches podcast on women's wellness and ageingSoha Ali Khan has launched a wellness podcast called 'All About Her' focusing on women's insecurities and ageing. The show aims to create a safe, unfiltered space for conversations on wellness and self-kindness."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-sara-pilates-daughter-venture-reddit-2776652-2025-08-25",
+      "headline": "Sachin Tendulkar confirms son Arjun's engagement, reveals advice to daughter SaraSachin Tendulkar has confirmed that his son, Arjun Tendulkar, is engaged to Saaniya Chandok in a private ceremony. Saaniya hails from a prominent Mumbai business family, known for their ventures in hospitality and food."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-reddit-ama-full-steve-bucknor-ms-dhoni-joe-root-2776647-2025-08-25",
+      "headline": "Sachin Tendulkar cracks Steve Bucknor, Aadhaar card jokes in hilarious Reddit AMASachin Tendulkar delighted fans in a witty Reddit AMA, mixing personal anecdotes with cricketing tales. From a playful dig at umpire Steve Bucknor to confirming son Arjun's engagement, the batting legend was candid and insightful."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-sunil-chhetri-india-team-comeback-cafa-nations-cup-squad-2776649-2025-08-25",
+      "headline": "Khalid Jamil leaves door open for Chhetri's India return: He is a legendSunil Chhetri's absence from India's CAFA Cup squad sparked debates, but coach Khalid Jamil confirmed the striker remains vital for the national team. Fans eagerly await his potential return for the October Asian Cup qualifiers."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ica-welfare-scheme-rs-1-lakh-benefit-spouses-deceased-members-2776597-2025-08-25",
@@ -319,7 +334,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-2-live-updates-carlos-alcaraz-mirra-andreeva-2776620-2025-08-25",
-      "headline": "Day 2 LIVE: Krejcikova wins 1st set vs Mboko underway, Kvitova crashes outUS Open 2025 Day 2 Live Updates: Barbora Krejcikova is currently locking horns with Victoria Mboko in the first round of the hard court major. Later in the day, Madison Keys, Elena Rybakina, and Carlos Alcaraz will be in action. "
+      "headline": "Day 2 LIVE: Barbora Krejcikova beats Mboko, Kvitova crashes outUS Open 2025 Day 2 Live Updates: Barbora Krejcikova advanced to the second round after beating Victoria Mboko in the first round of the hard court major. Later in the day, Madison Keys, Elena Rybakina, and Carlos Alcaraz will be in action. "
     },
     {
       "sentiment": "positive",
@@ -343,18 +358,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/mirabai-chanu-wins-commonwealth-gold-breaks-48kg-weightlifting-records-2776551-2025-08-25",
-      "headline": "Mirabai Chanu returns to action in style with gold in Commonwealth ChampionshipsMirabai Chanu made a strong comeback by winning gold at the Commonwealth Championships in Ahmedabad. Her record-breaking performance sets high expectations for upcoming World Championships and Asian Games."
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-2-live-updates-carlos-alcaraz-mirra-andreeva-2776620-2025-08-25",
+      "headline": "Day 2 LIVE: Barbora Krejcikova beats Mboko, Kvitova crashes outUS Open 2025 Day 2 Live Updates: Barbora Krejcikova advanced to the second round after beating Victoria Mboko in the first round of the hard court major. Later in the day, Madison Keys, Elena Rybakina, and Carlos Alcaraz will be in action. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-harshit-rana-sharpens-skills-in-delhi-premier-league-2776544-2025-08-25",
-      "headline": "Asia Cup 2025: Harshit Rana sharpens skills in Delhi Premier leagueIndia fast bowler Harshit Rana is sharpening his skills in the Delhi Premier League 2025 (DPL 2025) ahead of the Asia Cup set to begin on September 9. "
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-us-open-rafael-nadal-sister-2776608-2025-08-25",
+      "headline": "Rafael Nadal's sister elated after Alexandra Eala's historic triumphRafael Nadal's sister Maribel congratulated Alexandra Eala, who scripted history at the US Open by becoming the first Filipino in the Open Era to win a Grand Slam main-draw match, defeating 14th seed Clara Tauson. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-us-open-2025-rafael-nadal-academy-historic-win-2776518-2025-08-25",
-      "headline": "Nadal Academy star rejoices historic win with unreal comeback vs Clara TausonAlexandra Eala made history at the 2025 US Open, becoming the first Filipino in the Open Era to win a Grand Slam main-draw match. The 19-year-old stunned 14th seed Clara Tauson with a thrilling 6-3, 2-6, 7-6 comeback victory.\r\n"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-lakshya-sen-first-round-exit-shi-yuqi-2776604-2025-08-25",
+      "headline": "Valiant Lakshya Sen bows out in first round in heartbreaking return to ParisBWF World Championships 2025: Former bronze medallist Lakshya Sen fought hard in the opening round, but China's top seed Shi Yuqi proved too strong. It marked Lakshya's ninth first-round exit of the year."
     },
     {
       "sentiment": "positive",
@@ -365,141 +380,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/video/yashavsi-jaiswal-will-get-his-chance-in-indian-t20i-team-soon-farveez-maharoof-2776561-2025-08-25",
       "headline": "Yashavsi Jaiswal will get his chance in Indian T20I team soon: Farveez MaharoofFormer Sri Lanka all-rounder Farveez Maharoof revealed his admiration for Yashasvi Jaiswal and said that it's just a matter of time before he makes it to the Indian T20I squad. He also explained the reasons behind Jasprit Bumrah's constant struggles with injuries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/mirabai-chanu-wins-commonwealth-gold-breaks-48kg-weightlifting-records-2776551-2025-08-25",
-      "headline": "Mirabai Chanu returns to action in style with gold in Commonwealth ChampionshipsMirabai Chanu made a strong comeback by winning gold at the Commonwealth Championships in Ahmedabad. Her record-breaking performance sets high expectations for upcoming World Championships and Asian Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-harshit-rana-sharpens-skills-in-delhi-premier-league-2776544-2025-08-25",
-      "headline": "Asia Cup 2025: Harshit Rana sharpens skills in Delhi Premier leagueIndia fast bowler Harshit Rana is sharpening his skills in the Delhi Premier League 2025 (DPL 2025) ahead of the Asia Cup set to begin on September 9. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-us-open-2025-rafael-nadal-academy-historic-win-2776518-2025-08-25",
-      "headline": "Nadal Academy star rejoices historic win with unreal comeback vs Clara TausonAlexandra Eala made history at the 2025 US Open, becoming the first Filipino in the Open Era to win a Grand Slam main-draw match. The 19-year-old stunned 14th seed Clara Tauson with a thrilling 6-3, 2-6, 7-6 comeback victory.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/india-cafa-cup-squad-khalid-jamal-first-no-mohun-bagan-players-2776488-2025-08-25",
-      "headline": "Khalid Jamil unveils first India squad for CAFA Cup: No Mohun Bagan playersKhalid Jamil's first India squad for the CAFA Nations Cup omits Mohun Bagan Super Giant players after the club refused to release them. Gurpreet Singh Sandhu returns as East Bengal players headline the 23-man list."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-francesca-jones-special-condition-toes-fingers-2776478-2025-08-25",
-      "headline": "Who is Francesca Jones? British player with 8 fingers, 7 toes set for debutFrancesca Jones, a 24-year-old Briton born with Ectrodactyly Ectodermal Dysplasia, is set for her 2025 US Open main draw debut after a strong run through qualifying. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-lakshya-sen-vs-shi-yuqi-2776446-2025-08-25",
-      "headline": "1st round is the final: Lakshya Sen on facing Shi Yuqi in World ChampionshipsIndia's Lakshya Sen will be competing against top-seeded Shi Yuqi in the first round of the BWF World Championships. A confident Lakshya is going into the match hoping to cause a big upset."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dane-van-niekerk-womens-world-cup-retirement-u-turn-2776442-2025-08-25",
-      "headline": "Ex-South Africa captain makes retirement U-turn, in line for Women's World CupDane van Niekerk has revoked her retirement and returned to international contention, with her name featuring in South Africa's training squad for the upcoming Women's ODI World Cup. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-daniil-medvedev-us-open-fine-outburst-press-conference-2776435-2025-08-25",
-      "headline": "Daniil Medvedev plays victim after US Open outburst: They fine guys like me moreUS Open 2025: Daniil Medvedev said he expected a hefty fine after his extraordinary outburst during Sunday's first-round defeat. The Russian lost his cool before crashing out in the opening round of a Grand Slam for the third successive time this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/bukayo-saka-hamstring-injury-arsenal-sidelined-four-weeks-liverpool-match-2776429-2025-08-25",
-      "headline": "Arsenal learn Bukayo Saka injury timeline ahead of trip to LiverpoolBukayo Saka is set to miss Arsenal's trip to Liverpool on Sunday, as well as England's World Cup qualifiers against Andorra and Serbia next month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-coach-monica-seles-coach-2776419-2025-08-25",
-      "headline": "Novak Djokovic to hire Monica Seles as coach? Serb legend opens upNovak Djokovic revealed he is exploring a short-term coaching collaboration with childhood idol Monica Seles, describing it as more emotional than long-term. On court, Djokovic overcame Learner Tien in straight sets to reach the US Open second round. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dream11-indian-cricket-online-gaming-ban-bcci-seek-new-sponsor-2776399-2025-08-25",
-      "headline": "Fantasy Nightmare: BCCI begins hunt for new sponsor after Dream11 walks outDream11 has ended its title sponsorship of the Indian cricket team following the government's ban on real money gaming. The BCCI is now actively searching for a new sponsor but may not finalise one before the upcoming Asia Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-daniil-medvedev-us-open-fine-outburst-press-conference-2776435-2025-08-25",
-      "headline": "Daniil Medvedev plays victim after US Open outburst: They fine guys like me moreUS Open 2025: Daniil Medvedev said he expected a hefty fine after his extraordinary outburst during Sunday's first-round defeat. The Russian lost his cool before crashing out in the opening round of a Grand Slam for the third successive time this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/bukayo-saka-hamstring-injury-arsenal-sidelined-four-weeks-liverpool-match-2776429-2025-08-25",
-      "headline": "Arsenal learn Bukayo Saka injury timeline ahead of trip to LiverpoolBukayo Saka is set to miss Arsenal's trip to Liverpool on Sunday, as well as England's World Cup qualifiers against Andorra and Serbia next month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-coach-monica-seles-coach-2776419-2025-08-25",
-      "headline": "Novak Djokovic to hire Monica Seles as coach? Serb legend opens upNovak Djokovic revealed he is exploring a short-term coaching collaboration with childhood idol Monica Seles, describing it as more emotional than long-term. On court, Djokovic overcame Learner Tien in straight sets to reach the US Open second round. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dream11-indian-cricket-online-gaming-ban-bcci-seek-new-sponsor-2776399-2025-08-25",
-      "headline": "Fantasy Nightmare: BCCI begins hunt for new sponsor after Dream11 walks outDream11 has ended its title sponsorship of the Indian cricket team following the government's ban on real money gaming. The BCCI is now actively searching for a new sponsor but may not finalise one before the upcoming Asia Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-got-impatient-after-not-getting-chance-in-england-punjab-coach-2776374-2025-08-25",
-      "headline": "Arshdeep Singh got impatient after not getting chance in England: Punjab coachIndia left-arm seamer Arshdeep Singh was left impatient after not getting a chance in the five-match Test series against England, revealed Punjab bowling coach Gagandeep Singh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-2-schedule-carlos-alcaraz-venus-williams-2776360-2025-08-25",
-      "headline": "Day 2 Order of Play: Carlos Alcaraz, Venus Williams begin campaignsThe U.S. Open's first round continues on Monday, featuring world number two Carlos Alcaraz taking on a challenging opponent in Reilly Opelka. Former champion Venus Williams makes a highly anticipated return to Grand Slam action in the women's draw, while teenage sensation Victoria Mboko is set to make her Flushing Meadows debut."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-india-matches-livestream-lakshya-sen-2776359-2025-08-25",
-      "headline": "Badminton World Championships: Livestream details for India matchesThe Badminton World Championships is set to begin on August 25, Monday. Several top Indian stars are set to participate in the tournament. Here's where you can watch the games live."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-daniil-medvedev-bonzi-photographer-controversy-2776318-2025-08-25",
-      "headline": "Medvedev controversy explained: Photographer sparks insane 10 minutes in US OpenUS Open: Daniil Medvedev riled up the crowd at the Louis Armstrong Stadium on Monday, August 25. Defending the match point in the third set against Benjamin Bonzi, Medvedev sparked an insane 10 minute at the US Open, simply with his on-court antics. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistans-squad-for-womens-world-cup-2025-eyman-fatima-fatima-sana-2776306-2025-08-25",
-      "headline": "Women's World Cup 2025: Uncapped batter Eyman Fatima named in Pakistan's squadPakistan announced their 15-member squad for the Women's World Cup 2025, featuring uncapped ODI batter Eyman Fatima. The Men in Green will begin their campaign against Bangladesh. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-dream11-partnership-end-online-gaming-bill-2776300-2025-08-25",
-      "headline": "BCCI to end association with sponsor Dream11 after ban on online money gamesThe Board of Control for Cricket in India (BCCI) and fantasy sports platform Dream11 to end their sponsorship deals following the passage of the Promotion and Regulation of Online Gaming Bill, 2025, which imposes a blanket ban on fantasy and real-money gaming platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shakib-al-hasan-first-bangladeshi-500-t20-wickets-cpl-2776281-2025-08-25",
-      "headline": "Shakib Al Hasan becomes first Bangladesh player to reach 500 T20 wicketsVeteran Bangladesh all-rounder Shakib Al Hasan became only the fifth cricketer in history\u2014and the first from his country\u2014to claim 500 wickets in T20 cricket."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-daniil-medvedev-breaks-racket-benjamin-bonzi-2776275-2025-08-25",
-      "headline": "Medvedev beats racket to a pulp after emotional rollercoaster vs BonziRussian star Daniil Medvedev shattered his racket after first round exit in the US Open against Benjamin Bonzi. Medvedev went through an emotional rollercoaster against his French opponent on Monday, August 25."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-42-ball-century-kerala-cricket-league-kochi-blue-tigers-2776273-2025-08-25",
-      "headline": "Sanju Samson warms up for Asia Cup with blazing 42-ball century as openerIndia batter Sanju Samson slammed a breathtaking 42-ball century in Match 8 of the Kerala Cricket League. Samson played a breathtaking innings of 121 (51) to help Kochi Blue Tigers chase down 237."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/nuno-espirito-santo-denies-exit-rumours-nottingham-forest-premier-league-focus-2776261-2025-08-25",
-      "headline": "Nottingham Forest boss Nuno Espirito Santo dismisses exit speculation as absurdNottingham Forest manager Nuno Espirito Santo has dismissed speculation over his future, calling rumours that he could walk away from the club \"absurd\" after Sunday's 1-1 draw at Crystal Palace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/laliga-kylian-mbappe-real-madrid-vs-oviedo-2776254-2025-08-25",
-      "headline": "Kylian Mbappe scores twice as Real Madrid down newly promoted OviedoKylian Mbappe scored a brace as Real Madrid maintained their winning run in LaLiga on Sunday. The runner-ups last season beat newly promoted Real Oviedo by 3 goals.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-welcome-maria-sharapova-hall-of-fame-induction-2776240-2025-08-25",
-      "headline": "Serena welcomes former rival, forever friend Sharapova into tennis Hall of FameA touching moment unfolded between former rivals Serena Williams and Maria Sharapova at Saturday's International Tennis Hall of Fame induction ceremony in Newport, as Williams took the stage to introduce Sharapova and paid tribute to her with a heartfelt speech."
     }
   ],
   "education": [
@@ -562,21 +442,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
