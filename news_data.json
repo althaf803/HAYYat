@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/common-empanelment-explained-why-big-private-hospitals-and-insurers-are-at-odds-2776335-2025-08-25",
+      "headline": "Common empanelment explained: Why big private hospitals and insurers are at oddsCommon empanelment aims to simplify cashless insurance in India, but hospitals resist over tariffs and operational issues, leaving policyholders' access dependent on achieving fair rates, efficient settlements, and system flexibility."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/will-itr-filing-deadline-be-extended-again-after-delayed-rollout-of-utilities-2776296-2025-08-25",
       "headline": "Will ITR filing deadline be extended again after delayed rollout of utilities?With the revised ITR utilities coming out much later than expected, taxpayers and professionals are now questioning whether the government will grant another extension to ease the compliance burden."
     },
@@ -54,14 +59,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/avadhut-sathe-sebi-raid-pune-finfluencer-karjat-trading-academy-2775356-2025-08-22",
       "headline": "Sebi strikes at finfluencer Avadhut Sathe's Karjat Trading AcademyThe action followed complaints that penny stocks were being promoted during his training sessions, allegedly presented as classroom examples while encouraging students to invest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/which-bank-offers-higher-1-year-fd-see-rates-from-hdfc-icici-sbi-and-3-others-2775342-2025-08-22",
-      "headline": "Which bank offers higher 1-year FD? See rates from HDFC, ICICI, SBI and 3 othersMost lenders usually announce similar interest rates on one-year deposits, making it seem as if there isn't much of a difference in where you invest. However, a closer look at the latest rates reveals small but meaningful variations. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sohail-khan-shares-parents-salim-salmas-dinner-moment-salman-khan-says-ek-number-2776326-2025-08-25",
+      "headline": "Sohail Khan shares parents Salim-Salma's dinner moment, Salman Khan says ek numberA heartwarming video of veteran screenwriter Salim Khan tenderly feeding his wife Salma has touched many hearts online. The clip, shared by their son Sohail Khan, has garnered widespread admiration from fans and Bollywood celebrities alike."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-announce-pregnancy-blessed-beyond-measure-2776331-2025-08-25",
+      "headline": "Parineeti Chopra, Raghav Chadha announce pregnancy: Blessed beyond measureParineeti Chopra and Raghav Chadha are going to welcome their first child soon. The couple announced the news on social media. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/diana-penty-tamannaah-bhatias-do-you-wanna-partner-to-stream-from-september-12-2776274-2025-08-25",
+      "headline": "Diana Penty, Tamannaah Bhatia's Do You Wanna Partner to stream from September 12Actors Denty Penty and Tamannaah Bhatia have teamed up for a new series titled 'Do You Wanna Partner'. The series will premiere on September 12 and explore female entrepreneurship."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/inspector-zende-trailer-manoj-bajpayee-leads-manhunt-for-charles-sobhraj-2776307-2025-08-25",
@@ -141,33 +156,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/who-is-tanya-mittal-bigg-boss-19-contestant-2776165-2025-08-24",
       "headline": "Who is Tanya Mittal, the Bigg Boss 19 contestant with 2.5 million Insta followers?'Bigg Boss 19' welcomes a fresh line-up of contestants, including Tanya Mittal, a social media influencer who first went viral during the Maha Kumbh and later gained attention for speaking out on the Pahalgam attack."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/tina-ahuja-breaks-silence-on-govinda-sunita-divorce-rumours-calls-them-baseless-2776134-2025-08-24",
-      "headline": "Tina Ahuja breaks silence on Govinda-Sunita divorce rumours, calls them baselessAmid speculation surrounding Govinda and Sunita Ahuja's marriage, their daughter Tina Ahuja has spoken out, dismissing the separation rumours as unfounded. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-urges-linkedin-to-fix-account-flagged-fake-2776067-2025-08-24",
-      "headline": "Shraddha Kapoor urges LinkedIn to fix her account flagged as fakeActor Shraddha Kapoor shared that she set up a LinkedIn account to document her journey as an entrepreneur, but hasn't been able to make use of it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-season-19-grand-premiere-live-updates-salman-khan-contestants-list-jiohotstar-2775950-2025-08-24",
-      "headline": "Bigg Boss 19 premiere: Ashnoor to Gaurav, Salman Khan welcomes 16 contestantsBigg Boss 19 Live: The wait is finally over as the much-anticipated season of Bigg Boss kicks off in just a few hours! With Salman Khan returning as host, fans can look forward to his signature wit, charm, and high-energy presence. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-questions-rahul-gandhis-moral-stand-ordinance-controversy-criminal-neta-bill-2776263-2025-08-25",
-      "headline": "3 defeats changed Rahul Gandhi's moral stance: Amit Shah amid criminal netas billAmit Shah drew a sharp contrast between Rahul Gandhi's past and present positions, recalling the 2013 incident when Rahul Gandhi had publicly rejected and torn an ordinance introduced by then PM Manmohan Singh's cabinet. "
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-penalties-on-influencers-for-mocking-people-with-disablities-amid-ranveer-allahbadia-row-2776324-2025-08-25",
+      "headline": "Apologise to persons with disabilities: Supreme Court warns comedians of finesThe top court also asked influencers to file an affidavit detailing the steps they can take to use their platforms to raise awareness about the rights of persons with disabilities."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kiren-rijiju-criticises-sayeda-hameed-bangladeshis-right-assam-illegal-immigration-2776260-2025-08-25",
-      "headline": "Sonia Gandhi's aide says Bangladeshis can live in India, BJP breathes fireSayeda Hameed, a former Planning Commission member under the Manmohan Singh government, who is visiting Assam with other activists, had said that Bangladeshis \"are also humans\" and should not be deprived of the right to live in India, as \"Earth is so large.\""
+      "url": "https://www.indiatoday.in/india/south/story/bjp-slams-kerala-government-says-inviting-tamil-nadu-chief-minister-mk-stalin-to-ayyappa-sangamam-event-like-hitler-celebrating-jews-2776312-2025-08-25",
+      "headline": "Like Hitler celebrating Jews: BJP slams Kerala's invite to Stalin for Ayyappa eventThe BJP launched a blistering attack on the Kerala government for inviting Tamil Nadu Chief Minister MK Stalin to the Global Ayyappa Sangamam, calling it hypocrisy and likening it to \"Hitler celebrating Jews.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-questions-rahul-gandhis-moral-stand-ordinance-controversy-criminal-neta-bill-2776263-2025-08-25",
+      "headline": "3 defeats changed Rahul Gandhi's moral stance: Amit Shah amid criminal netas billAmit Shah drew a sharp contrast between Rahul Gandhi's past and present positions, recalling the 2013 incident when Rahul Gandhi had publicly rejected and torn an ordinance introduced by then PM Manmohan Singh's cabinet. "
     },
     {
       "sentiment": "positive",
@@ -176,23 +181,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-mysuru-dasara-2025-banu-mushtaq-bjp-islam-yatnal-vijayadashami-congress-siddaramaiah-2776283-2025-08-25",
-      "headline": "Writer Banu Mushtaq to inaugurate Mysuru Dasara, expelled BJP MLA questions faithBooker Prize-winning Kannada writer Banu Mushtaq will inaugurate the Mysuru Dasara Mahotsava on September 22, 2025. Expelled BJP MLA Basanagouda Patil Yatnal objected, questioning her participation in the religious ceremony."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/how-much-rain-does-it-take-to-drown-indian-cities-monsoon-flooding-metro-mumbai-delhi-bengaluru-gurugram-rainfall-2774901-2025-08-25",
       "headline": "India's Doobo-meter: How much rain does it take to drown our cities?Overnight rain drowned Mumbai with schools cancelled and residents asked to stay indoors. Days earlier, it was Millennium City Gurugram where residents were left stranded. Same for Delhi, Bengaluru and Chennai. Here's a Doobo-meter to reveal how much rain it takes to submerge our cities, and which one drowns the fastest."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-man-kills-pregnant-wife-after-quarrel-chops-body-parts-throws-them-in-river-2776184-2025-08-25",
-      "headline": "Man kills pregnant wife, CCTV shows him leave home with her body parts in bagsThe incident occurred due to frequent quarrels over family disputes between the 21-year-old victim, who was five-month-old pregnant, and the 27-year-old husband, who has been taken into police custody."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-announce-pregnancy-blessed-beyond-measure-2776331-2025-08-25",
+      "headline": "Parineeti Chopra, Raghav Chadha announce pregnancy: Blessed beyond measureParineeti Chopra and Raghav Chadha are going to welcome their first child soon. The couple announced the news on social media. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/new-gst-rates-likely-by-dussehra-government-braces-for-big-revenue-shortfall-2776239-2025-08-25",
-      "headline": "New GST rates likely by Dussehra, government braces for big revenue shortfallThe proposed GST revamp aims to simplify the tax system by introducing a two-tier rate structure of 5% and 18%, along with a 40% levy on sin goods. While the move promises greater simplicity, it is expected to significantly impact revenues for both central and state governments."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kiren-rijiju-criticises-sayeda-hameed-bangladeshis-right-assam-illegal-immigration-2776260-2025-08-25",
+      "headline": "Sonia Gandhi's aide says Bangladeshis can live in India, BJP breathes fireSayeda Hameed, a former Planning Commission member under the Manmohan Singh government, who is visiting Assam with other activists, had said that Bangladeshis \"are also humans\" and should not be deprived of the right to live in India, as \"Earth is so large.\""
     },
     {
       "sentiment": "positive",
@@ -206,8 +206,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-penalties-on-influencers-for-mocking-people-with-disablities-amid-ranveer-allahbadia-row-2776324-2025-08-25",
-      "headline": "Top court seeks penalties on influencers for mocking people with disablitiesSupreme Court seeks penalties on influencers for mocking people with disablities amid Ranveer Allahbadia row"
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-mysuru-dasara-2025-banu-mushtaq-bjp-islam-yatnal-vijayadashami-congress-siddaramaiah-2776283-2025-08-25",
+      "headline": "Writer Banu Mushtaq to inaugurate Mysuru Dasara, expelled BJP MLA questions faithBooker Prize-winning Kannada writer Banu Mushtaq will inaugurate the Mysuru Dasara Mahotsava on September 22, 2025. Expelled BJP MLA Basanagouda Patil Yatnal objected, questioning her participation in the religious ceremony."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-defends-amendment-bill-says-dignity-of-democracy-bars-governance-from-jail-2776323-2025-08-25",
+      "headline": "Can PM run office from jail?: Amit Shah blasts Opposition over criminal netas billResponding to concerns that the provision could be misused through politically motivated arrests, Shah said that courts would act responsibly and that bail would be granted before the 30-day period in such cases, leaving no scope for misuse."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-man-kills-pregnant-wife-after-quarrel-chops-body-parts-throws-them-in-river-2776184-2025-08-25",
+      "headline": "Man kills pregnant wife, CCTV shows him leave home with her body parts in bagsThe incident occurred due to frequent quarrels over family disputes between the 21-year-old victim, who was five-month-old pregnant, and the 27-year-old husband, who has been taken into police custody."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khans-bigg-boss-19-premiere-tv-faces-lose-dominance-in-race-to-democracy-2776202-2025-08-25",
+      "headline": "Salman Khan's Bigg Boss 19 premiere: TV faces lose dominance in race for democracySalman Khan hosted the grand premiere of Bigg Boss 19 featuring sixteen diverse contestants and a unique democracy theme\r\n The episode was concise, engaging, and marked by Salman's energetic presence and fresh format"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/new-gst-rates-likely-by-dussehra-government-braces-for-big-revenue-shortfall-2776239-2025-08-25",
+      "headline": "New GST rates likely by Dussehra, government braces for big revenue shortfallThe proposed GST revamp aims to simplify the tax system by introducing a two-tier rate structure of 5% and 18%, along with a 40% levy on sin goods. While the move promises greater simplicity, it is expected to significantly impact revenues for both central and state governments."
     },
     {
       "sentiment": "negative",
@@ -221,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khans-bigg-boss-19-premiere-tv-faces-lose-dominance-in-race-to-democracy-2776202-2025-08-25",
-      "headline": "Salman Khan's Bigg Boss 19 premiere: TV faces lose dominance in race for democracySalman Khan hosted the grand premiere of Bigg Boss 19 featuring sixteen diverse contestants and a unique democracy theme\r\n The episode was concise, engaging, and marked by Salman's energetic presence and fresh format"
+      "url": "https://www.indiatoday.in/india/video/astronaut-shubhanshu-shukla-receives-grand-welcome-in-his-hometown-lucknow-2776266-2025-08-25",
+      "headline": "Astronaut Shubhanshu Shukla receives grand welcome in his hometown LucknowGroup Captain Shubhanshu Shukla has arrived in his hometown of Lucknow to a grand welcome. He was received at the airport by Deputy Chief Minister Brijesh Pathak and his family. A 'Victory Parade' is currently underway in the city to celebrate his homecoming. Live visuals show Shukla, accompanied by his proud family, waving to large crowds of students and residents who have gathered with national flags. One attendee stated, \"We are very happy and we are very proud of him.\" The astronaut is also scheduled to meet with CM Yogi, having previously met with PM Modi. The city has turned out in large numbers to celebrate the star astronaut's return."
     },
     {
       "sentiment": "positive",
@@ -231,28 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-welcome-maria-sharapova-hall-of-fame-induction-2776240-2025-08-25",
-      "headline": "Serena welcomes former rival, forever friend Sharapova into tennis Hall of FameA touching moment unfolded between former rivals Serena Williams and Maria Sharapova at Saturday's International Tennis Hall of Fame induction ceremony in Newport, as Williams took the stage to introduce Sharapova and paid tribute to her with a heartfelt speech."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/vance-trumps-india-tariffs-aggressive-economic-leverage-russia-end-ukraine-war-glbs-2776180-2025-08-25",
-      "headline": "Trump's India tariffs 'aggressive leverage' to force Russia on Ukraine war: VanceJD Vance said President Donald Trump used \"aggressive economic leverage,\" including secondary tariffs on India, to pressure Russia to end the Ukraine war. India defends its Russian oil imports as national interest as tensions rise in US-India trade ties."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/astronaut-shubhanshu-shukla-receives-grand-welcome-in-his-hometown-lucknow-2776266-2025-08-25",
-      "headline": "Astronaut Shubhanshu Shukla receives grand welcome in his hometown LucknowGroup Captain Shubhanshu Shukla has arrived in his hometown of Lucknow to a grand welcome. He was received at the airport by Deputy Chief Minister Brijesh Pathak and his family. A 'Victory Parade' is currently underway in the city to celebrate his homecoming. Live visuals show Shukla, accompanied by his proud family, waving to large crowds of students and residents who have gathered with national flags. One attendee stated, \"We are very happy and we are very proud of him.\" The astronaut is also scheduled to meet with CM Yogi, having previously met with PM Modi. The city has turned out in large numbers to celebrate the star astronaut's return."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-has-received-no-salary-for-6-8-years-claims-brother-kimbal-2776282-2025-08-25",
-      "headline": "Elon Musk has received no salary for 6-8 years, claims brother KimbalTesla's ongoing battle over CEO compensation has drawn a new voice of support for Elon Musk. His younger brother, Kimbal Musk, has said that the billionaire has not taken any pay from the company for years and deserves to be compensated for his work. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hanuman-or-neil-armstrong-first-space-traveller-hamirpur-mp-anurg-thakur-bjp-himachal-answer-exposes-double-rot-2776124-2025-08-24",
-      "headline": "Hanuman or Neil Armstrong? First space traveller answer exposes double rotBJP MP Anurag Thakur's interaction with students, where he suggested \"Hanumanji was the first man in space\", is problematic on multiple counts. The children said it was Neil Armstrong, and not Yuri Gagrin, who travelled to space first. The double rot is that the students were unaware of a basic fact while a parliamentarian was presenting mythology as history on National Space Day."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/doomscrolling-career-job-viral-get-paid-to-watch-reels-2776304-2025-08-25",
+      "headline": "Hiring: Doomscrollers. The job nobody saw comingWhat if we told you that being a doomscroller could actually land you a job? Yes, companies are now hiring them - and a viral LinkedIn post by a Mumbai-based entrepreneur scouting for doomscrollers is proof."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-daniil-medvedev-breaks-racket-benjamin-bonzi-2776275-2025-08-25",
-      "headline": "Medvedev beats racket to a pulp after emotional rollercoaster vs BonziRussian star Daniil Medvedev shattered his racket after first round exit in the US Open against Benjamin Bonzi. Medvedev went through an emotional rollercoaster against his French opponent on Monday, August 25."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/congress-suspends-kerala-mla-rahul-mamkootathil-sexual-harassment-rini-george-2776257-2025-08-25",
-      "headline": "Kerala Congress MLA Rahul Mamkootathil suspended from party amid harassment rowThe Congress suspended Palakkad MLA Rahul Mamkootathil from primary membership after harassment allegations by multiple women. He had resigned as Kerala Youth Congress president earlier. The suspension comes amid mounting protests and calls for him to quit as MLA."
+      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-welcome-maria-sharapova-hall-of-fame-induction-2776240-2025-08-25",
+      "headline": "Serena welcomes former rival, forever friend Sharapova into tennis Hall of FameA touching moment unfolded between former rivals Serena Williams and Maria Sharapova at Saturday's International Tennis Hall of Fame induction ceremony in Newport, as Williams took the stage to introduce Sharapova and paid tribute to her with a heartfelt speech."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ukraine-president-zelenskyy-to-visit-india-after-pm-modis-invite-dates-being-finalised-says-ukrainian-envoy-oleksandr-polishchuk-2776200-2025-08-25",
-      "headline": "Zelenskyy to visit India after PM invite, dates being finalised: Ukrainian envoyUkraine's Ambassador to India Oleksandr Polishch said Kyiv views India as a significant partner in peace negotiations because of its ties with Moscow and urged greater Indian involvement in ending the Russia-Ukraine war"
+      "url": "https://www.indiatoday.in/world/us-news/story/vance-trumps-india-tariffs-aggressive-economic-leverage-russia-end-ukraine-war-glbs-2776180-2025-08-25",
+      "headline": "Trump's India tariffs 'aggressive leverage' to force Russia on Ukraine war: VanceJD Vance said President Donald Trump used \"aggressive economic leverage,\" including secondary tariffs on India, to pressure Russia to end the Ukraine war. India defends its Russian oil imports as national interest as tensions rise in US-India trade ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-has-received-no-salary-for-6-8-years-claims-brother-kimbal-2776282-2025-08-25",
+      "headline": "Elon Musk has received no salary for 6-8 years, claims brother KimbalTesla's ongoing battle over CEO compensation has drawn a new voice of support for Elon Musk. His younger brother, Kimbal Musk, has said that the billionaire has not taken any pay from the company for years and deserves to be compensated for his work. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sohail-khan-shares-parents-salim-salmas-dinner-moment-salman-khan-says-ek-number-2776326-2025-08-25",
+      "headline": "Sohail Khan shares parents Salim-Salma's dinner moment, Salman Khan says ek numberA heartwarming video of veteran screenwriter Salim Khan tenderly feeding his wife Salma has touched many hearts online. The clip, shared by their son Sohail Khan, has garnered widespread admiration from fans and Bollywood celebrities alike."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-announce-pregnancy-blessed-beyond-measure-2776331-2025-08-25",
+      "headline": "Parineeti Chopra, Raghav Chadha announce pregnancy: Blessed beyond measureParineeti Chopra and Raghav Chadha are going to welcome their first child soon. The couple announced the news on social media. "
     },
     {
       "sentiment": "positive",
@@ -288,16 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/daisy-shah-criticises-kannada-film-industry-female-actors-navels-2776291-2025-08-25",
       "headline": "Actor Daisy Shah calls out Kannada cinema's obsession with close-up navel shotsActor Daisy Shah, in a recent interview, revealed that Kannada film industry is obsessed with close-up navel shots of female actors.  She recalled seeing a particular actor having such scenes in all his films. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anil-kapoor-recalls-how-aishwarya-rai-almost-backed-out-of-hamara-dil-aapke-paas-hai-2776262-2025-08-25",
-      "headline": "Aishwarya Rai nearly exited Hamara Dil Aapke Paas Hai. Anil Kapoor reveals whyAnil Kapoor celebrated 25 years of 'Hamara Dil Aapke Paas Hai' by recalling how Aishwarya Rai joined the film after initial doubts and last-minute hesitation. The 2000 Satish Kaushik-directorial became a box office hit, loved for its emotional story and the lead pair's chemistry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/malvika-raaj-welcomes-baby-girl-husband-pranav-bagga-announcement-instagram-2776246-2025-08-25",
-      "headline": "K3G's young Kareena Kapoor Malvika Raaj and husband become parents to baby girlActor Malvika Raaj, known for her role as young Poo in 'Kabhi Khushi Kabhie Gham', has a new addition to her family. She and her husband, Pranav Bagga, announced the birth of their daughter via Instagram on Sunday. "
     }
   ],
   "sports": [
